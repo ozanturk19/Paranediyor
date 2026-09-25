@@ -2,7 +2,6 @@ import os, sys, cv2, numpy as np
 from PIL import Image
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
-from clean import clean
 np.random.seed(7)
 
 KEVIN_CUES = """
@@ -57,7 +56,7 @@ BUFFETT_CUES = """
 WHITE, RED = (255, 255, 255), (237, 28, 36)
 
 def kevin_frame(fr):
-    fr = clean(fr, "telea")     # remove burned-in English captions inside the picture
+    fr = fr.copy()
     fr[236:352, :] = 0          # remove English title
     return fr
 
