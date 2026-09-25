@@ -9,7 +9,7 @@ Markup per cue text:
   _       -> non-breaking space inside one token
   tok@12.3 -> explicit appear time for that token
 """
-import math, os, re, subprocess, sys
+import json, math, os, re, subprocess, sys
 import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -21,6 +21,11 @@ FPS = 30
 YELLOW = (255, 210, 26)
 LEAD = 0.06                   # words appear slightly before they are spoken
 MAXW = 600                    # max caption line width (design px)
+ON_VIDEO = False              # captions drawn over the picture: add outline + shadow
+
+# iPhone HDR (HLG / Dolby Vision) -> SDR BT.709, ending in 8-bit RGB
+HDR_TO_SDR = ("zscale=t=linear:npl=35,format=gbrpf32le,zscale=p=bt709,"
+              "tonemap=tonemap=mobius:desat=0,zscale=t=bt709:d=error_diffusion,format=gbrp")
 
 STYLES = {
     "n": dict(file="Montserrat.ttf", size=34, wght=650, color=(255, 255, 255), upper=False),
@@ -100,7 +105,17 @@ class Word:
             img = Image.alpha_composite(img, sh.filter(ImageFilter.GaussianBlur(6 * S)))
             d = ImageDraw.Draw(img)
             d.rounded_rectangle([G, G, G + self.w, G + self.asc + self.desc], r, fill=st["pill"] + (255,))
-        d.text((ox, oy), self.text, font=f, fill=st["color"] + (255,), anchor="ls")
+        if ON_VIDEO and self.style != "h":
+            sw = max(2, int(round((1.5 if self.style == "s" else 2.2) * S * self.fit)))
+            sh = Image.new("RGBA", img.size, (0, 0, 0, 0))
+            ImageDraw.Draw(sh).text((ox, oy + int(3 * S)), self.text, font=f, fill=(0, 0, 0, 190),
+                                    anchor="ls", stroke_width=sw, stroke_fill=(0, 0, 0, 190))
+            img = Image.alpha_composite(img, sh.filter(ImageFilter.GaussianBlur(5 * S)))
+            d = ImageDraw.Draw(img)
+            d.text((ox, oy), self.text, font=f, fill=st["color"] + (255,), anchor="ls",
+                   stroke_width=sw, stroke_fill=(0, 0, 0, 255))
+        else:
+            d.text((ox, oy), self.text, font=f, fill=st["color"] + (255,), anchor="ls")
         if self.style == "h":
             img = img.rotate(2.5, resample=Image.BICUBIC, expand=False)
         self.img = img
@@ -123,6 +138,8 @@ class Word:
         base = self.img
         if self.glow is not None:
             ga = 0.85 * math.exp(-dt / 0.45) + 0.18
+            if ON_VIDEO:
+                ga *= 0.55
             glow = self.glow.copy()
             glow.putalpha(glow.getchannel("A").point(lambda v: int(v * ga)))
             base = Image.alpha_composite(glow, base)
@@ -255,36 +272,60 @@ def draw_title(lines, x, y, size, maxw):
     return layer
 
 # --------------------------------------------------------------------------- video
-def run(src, out, cues, frame_fn, cap_top, overlay=None, dur=None):
-    cap = cv2.VideoCapture(src)
-    n = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+def probe_size(src):
+    out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
+                          "stream=width,height:stream_side_data=rotation", "-of", "json", src],
+                         capture_output=True, text=True, check=True).stdout
+    st = json.loads(out)["streams"][0]
+    w, h = st["width"], st["height"]
+    rot = next((int(sd["rotation"]) for sd in st.get("side_data_list", []) if "rotation" in sd), 0)
+    return (h, w) if rot % 180 else (w, h)
+
+def read_frames(src, vf_in=None):
+    """Yield RGB frames at constant FPS, decoded (and optionally tone-mapped) by ffmpeg."""
+    w, h = probe_size(src)
+    vf = (vf_in + "," if vf_in else "") + "format=rgb24"
+    p = subprocess.Popen(["ffmpeg", "-v", "error", "-i", src, "-map", "0:v:0", "-vf", vf,
+                          "-fps_mode", "cfr", "-r", str(FPS), "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
+                         stdout=subprocess.PIPE)
+    size = w * h * 3
+    try:
+        while True:
+            buf = p.stdout.read(size)
+            if len(buf) < size:
+                break
+            yield np.frombuffer(buf, np.uint8).reshape(h, w, 3).copy()
+    finally:
+        if p.poll() is None:
+            p.kill()
+        p.wait()
+
+def run(src, out, cues, frame_fn, cap_top, overlay=None, vf_in=None, center_x=360, crf=18):
     for c in cues:
-        c.layout(cap_top)
+        c.layout(cap_top, center_x)
     ff = subprocess.Popen([
         "ffmpeg", "-v", "error", "-y",
         "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-        "-i", src, "-map", "0:v", "-map", "1:a",
-        "-c:v", "libx264", "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p",
-        "-profile:v", "high", "-c:a", "copy", "-movflags", "+faststart", "-shortest", out,
+        "-i", src, "-map", "0:v", "-map", "1:a?",
+        "-vf", "scale=out_color_matrix=bt709:out_range=tv,format=yuv420p",
+        "-c:v", "libx264", "-preset", "slow", "-crf", str(crf), "-profile:v", "high",
+        "-colorspace", "bt709", "-color_primaries", "bt709", "-color_trc", "bt709", "-color_range", "tv",
+        "-c:a", "copy", "-movflags", "+faststart", "-shortest", out,
     ], stdin=subprocess.PIPE)
-    i = 0
-    while True:
-        ok, fr = cap.read()
-        if not ok:
-            break
+    for i, fr in enumerate(read_frames(src, vf_in)):
         t = i / FPS
-        base = frame_fn(fr)                                     # BGR, 720x1280
-        big = cv2.resize(base, (W, H), interpolation=cv2.INTER_LANCZOS4)
-        img = Image.fromarray(cv2.cvtColor(big, cv2.COLOR_BGR2RGB)).convert("RGBA")
+        base = frame_fn(fr)                                     # RGB, source resolution
+        if base.shape[1] != W or base.shape[0] != H:
+            base = cv2.resize(base, (W, H), interpolation=cv2.INTER_LANCZOS4)
+        img = Image.fromarray(base).convert("RGBA")
         if overlay is not None:
             img.alpha_composite(overlay)
         for c in cues:
             if c.start - 0.5 <= t <= c.end:
                 c.draw(img, t)
         ff.stdin.write(img.convert("RGB").tobytes())
-        i += 1
-        if i % 150 == 0:
-            print(f"  {out}: {i}/{n}", flush=True)
+        if (i + 1) % 150 == 0:
+            print(f"  {out}: {i + 1} frames", flush=True)
     ff.stdin.close()
     ff.wait()
     print("done", out, ff.returncode)

@@ -1,6 +1,8 @@
 *.mp4
 *.MP4
 *.mov
+girdi/
 altyazi/fonts/
+altyazi/models/
 onizleme/
 __pycache__/

@@ -53,6 +53,18 @@ BUFFETT_CUES = """
 57.40 58.75 **GERİDE / ~kalırsınız.
 """
 
+# Türkçe konuşma (iPhone, HDR). Kelime zamanları whisper-small ile çıkarıldı.
+YALNIZ_CUES = """
+0.00 1.95   Şu@0.00 ~adamdan@0.34 / **KORKACAKSIN.@0.80
+2.00 3.84   ~Yalnız@2.02 ~başına@2.28 / *YEMEK@2.90 yiyen,@3.20
+3.86 6.40   ~yalnız@3.88 ~başına@4.36 / *EĞLENCEYE@4.96 giden,@5.94
+6.44 8.60   *SİNEMAYA@6.50 giden@7.04 / veya@7.66 *TİYATROYA@7.86 giden@8.44
+8.62 10.58  veya@8.64 *KENDİ@8.84 *BAŞINA@9.24 / zaman@9.86 geçiren@10.20
+10.60 12.00 adamdan@10.64 / **KORKACAKSIN.@11.12
+12.02 13.58 Çünkü@12.08 bu@12.28 adam@12.52 / *HİÇBİR@12.72 *ZAMAN@13.20
+13.60 18.00 hiç@13.62 kimseye@13.92 / **MUHTAÇ@14.44 ~olmaz.@15.12
+"""
+
 WHITE, RED = (255, 255, 255), (237, 28, 36)
 
 def kevin_frame(fr):
@@ -70,10 +82,15 @@ JOBS = {
                   title=[[("Kevin O'Leary'ye göre ", WHITE), ("servet", RED), (" yaratmak", WHITE)],
                          [("tek bir şeye bağlı", WHITE)]]),
     "buffett": dict(src="girdi/buffett.mp4", cues=BUFFETT_CUES, frame=buffett_frame, cap_top=864, title=None),
+    # tam ekran video: altyazı yüzün altında, göğüs hizasında, görüntünün üstünde
+    "yalniz": dict(src="girdi/yalniz.mp4", cues=YALNIZ_CUES, frame=lambda fr: fr, cap_top=767, title=None,
+                   vf_in=R.HDR_TO_SDR, on_video=True, maxw=560),
 }
 
 def build(name):
     j = JOBS[name]
+    R.ON_VIDEO = j.get("on_video", False)
+    R.MAXW = j.get("maxw", 600)
     cues = R.parse_cues(j["cues"])
     ov = R.draw_title(j["title"], 36, 240, 36, 650) if j["title"] else None
     return j, cues, ov
@@ -82,26 +99,31 @@ if __name__ == "__main__":
     name, mode = sys.argv[1], sys.argv[2]
     j, cues, ov = build(name)
     if mode == "preview":
-        cap = cv2.VideoCapture(j["src"])
         for c in cues:
             c.layout(j["cap_top"])
+        want = {int(round(float(ts) * R.FPS)): ts for ts in sys.argv[3:]}
         outs = []
-        for ts in sys.argv[3:]:
-            t = float(ts)
-            cap.set(cv2.CAP_PROP_POS_FRAMES, int(t * R.FPS))
-            ok, fr = cap.read()
-            big = cv2.resize(j["frame"](fr), (R.W, R.H), interpolation=cv2.INTER_LANCZOS4)
-            img = Image.fromarray(cv2.cvtColor(big, cv2.COLOR_BGR2RGB)).convert("RGBA")
-            if ov is not None:
-                img.alpha_composite(ov)
-            for c in cues:
-                if c.start - 0.5 <= t <= c.end:
-                    c.draw(img, t)
-            os.makedirs("onizleme", exist_ok=True)
-            p = f"onizleme/{name}_{ts}.png"
-            img.convert("RGB").resize((360, 640), Image.LANCZOS).save(p)
-            outs.append(p)
+        frames = R.read_frames(j["src"], j.get("vf_in"))
+        for i, fr in enumerate(frames):
+            if i in want:
+                t = i / R.FPS
+                base = j["frame"](fr)
+                if base.shape[:2] != (R.H, R.W):
+                    base = cv2.resize(base, (R.W, R.H), interpolation=cv2.INTER_LANCZOS4)
+                img = Image.fromarray(base).convert("RGBA")
+                if ov is not None:
+                    img.alpha_composite(ov)
+                for c in cues:
+                    if c.start - 0.5 <= t <= c.end:
+                        c.draw(img, t)
+                os.makedirs("onizleme", exist_ok=True)
+                p = f"onizleme/{name}_{want[i]}.png"
+                img.convert("RGB").resize((360, 640), Image.LANCZOS).save(p)
+                outs.append(p)
+            if i >= max(want):
+                break
+        frames.close()
         print(" ".join(outs))
     else:
         os.makedirs("videolar", exist_ok=True)
-        R.run(j["src"], f"videolar/{name}_tr.mp4", cues, j["frame"], j["cap_top"], ov)
+        R.run(j["src"], f"videolar/{name}_tr.mp4", cues, j["frame"], j["cap_top"], ov, vf_in=j.get("vf_in"))
