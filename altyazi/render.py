@@ -254,6 +254,34 @@ def parse_cues(text):
         cues.append(Cue(float(a), float(b), markup.strip().strip("|").strip()))
     return cues
 
+def place_cues(cues, track, bottom_limit=0.833, upper_limits=((0, 1e9, 0.15),), margin=0.012, center_x=360):
+    """Put each cue right under the face; if the face is too low, move it above the face.
+
+    track: [(t, (score, x0, y0, x1, y1) or None)] with fractions of the frame (see yuz_takip.py).
+    upper_limits: [(t0, t1, frac)] - highest allowed caption top (e.g. below burned-in titles).
+    Sets cue.top (design px) and cue.where ("alt", "üst" or "alt*" when nothing fits).
+    """
+    boxes = [b for _, b in track if b]
+    chin_of = lambda b: b[4] + 0.10 * (b[4] - b[2])        # beard below the detector box
+    head_of = lambda b: b[2] - 0.45 * (b[4] - b[2])        # hair above the detector box
+    base = float(np.percentile([chin_of(b) for b in boxes], 90)) + margin if boxes else 0.72
+    for c in cues:
+        near = [b for t, b in track if b and c.start - 0.1 <= t <= c.end + 0.1]
+        chin = max((chin_of(b) for b in near), default=base - margin)
+        head = min((head_of(b) for b in near), default=0.0)
+        upper = max((u for t0, t1, u in upper_limits if t0 <= c.start < t1), default=0.15)
+        h = c.layout(base * 1280, center_x) / H
+        top = min(max(base, chin + margin), bottom_limit - h)
+        if top >= chin + margin:
+            c.where = "alt"
+        elif head - margin - h >= upper:
+            top, c.where = head - margin - h, "üst"
+        else:
+            top, c.where = bottom_limit - h, "alt*"
+        c.top = top * 1280
+        c.layout(c.top, center_x)
+    return base
+
 # --------------------------------------------------------------------------- title
 def draw_title(lines, x, y, size, maxw):
     """lines: list of list of (text, color). Returns RGBA layer at output res."""
@@ -329,7 +357,7 @@ def read_frames(src, vf_in=None):
 
 def run(src, out, cues, frame_fn, cap_top, overlay=None, vf_in=None, center_x=360, crf=18):
     for c in cues:
-        c.layout(cap_top, center_x)
+        c.layout(getattr(c, "top", cap_top), center_x)
     ff = subprocess.Popen([
         "ffmpeg", "-v", "error", "-y",
         "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",

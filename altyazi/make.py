@@ -1,4 +1,4 @@
-import os, sys, cv2, numpy as np
+import json, os, sys, cv2, numpy as np
 from PIL import Image
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
@@ -65,6 +65,36 @@ YALNIZ_CUES = """
 13.60 18.00 hiç@13.62 kimseye@13.92 / **MUHTAÇ@14.44 ~olmaz.@15.12
 """
 
+# Türkçe konuşma, araç içi (iPhone, HDR), 3 parçanın birleşimi: girdi/v4_liste.txt -> girdi/ulke.mov
+# Düzeltmeler: "aktrol" -> AK trol, "Tüketin topluma" -> Tüketim toplumu, "batmayın" -> bakmayın
+ULKE_CUES = """
+0.00 1.72   Ya@0.00 bu@0.28 / *EKONOMİYLE@0.50 ilgili@1.48
+1.74 3.60   *YORUMLAR@1.74 / yapıldığında@2.36 veya@2.98
+3.62 5.50   ben@3.62 herhangi@4.06 bir@4.42 / *YORUM@4.52 yazdığımda,@4.72
+5.52 6.38   bu@5.52 konuda@5.70 ~işte@6.16
+6.40 8.86   “Ülke@6.40 **BATMAZ,@6.90 / *YÜZMEYE@7.40 devam@8.30 eder”@8.58
+8.88 10.14  ~dediğimde:@8.88 / “Vay@9.50 efendim,@9.80
+10.16 12.66 sen@10.16 *AK_TROL@10.90 / ~müsün?@11.66
+12.68 14.20 Yok,@12.68 sen@12.94 / *EMEKLİ@13.18 *MAAŞIYLA@13.78
+14.22 15.58 hiç@14.22 *GEÇİNDİN@14.40 ~mi?@14.84
+15.60 17.94 Sen@15.60 işte@15.88 / *EKONOMİST@16.14 ~misin?@17.10
+17.96 20.58 Sen@17.96 ülkenin@18.16 halinden@18.60 / **HABERDAR@19.06 ~mısın?”@19.90
+20.60 22.02 *BİR@20.60 *SÜRÜ@20.72 / yorum@20.94 geliyor.@21.14
+22.04 24.00 Ya@22.04 ben@22.20 / *HEPSİNDEN@22.46 ~haberdarım.@23.10
+24.02 26.12 Gelir@24.02 *ADALETSİZLİĞİNDEN@24.38 / ~haberdarım.@25.16
+26.14 28.22 *SERVET@26.14 / transferlerinden@26.48 ~haberdarım.@27.20
+28.24 30.46 *TÜKETİM@28.24 *TOPLUMU@28.74 / olduğumuzdan@29.12 ~haberdarım.@29.68
+30.48 32.08 **AMA@30.48 ~şunu@30.56 / *KAÇIRMAYIN:@31.04
+32.10 33.62 Bu@32.10 ülke@32.20 / hiç@32.44 **BATMAMIŞ.@32.64
+33.64 35.38 Çok@33.64 büyük@33.70 / *KRİZLER@33.90 ~görmüş.@34.58
+35.40 37.32 *DOLAYISIYLA@35.40 / bunu@35.94 da@36.56 ~kaçırmayın.@36.72
+37.34 39.38 Böyle@37.34 *EKONOMİYİ@37.46 / sadece@38.04 işte@38.60
+39.40 41.68 “Halk@39.40 *FAKİRLEŞTİ,@39.96 / şöyle@40.74 oldu,@40.84 böyle@41.22 oldu,@41.38
+41.70 43.92 o@41.70 zaman@41.76 *BATAR”@41.88 diye@42.32 / de@42.72 **BAKMAYIN.@42.90
+43.94 45.46 Böyle@43.94 bir@44.18 ekonomiyi@44.36 / *BATIRMAK@44.74
+45.48 47.00 **KİMSENİN@45.48 / işine@45.72 ~gelmez.@45.96
+"""
+
 WHITE, RED = (255, 255, 255), (237, 28, 36)
 
 def kevin_frame(fr):
@@ -85,6 +115,11 @@ JOBS = {
     # tam ekran video: altyazı yüzün altında, göğüs hizasında, görüntünün üstünde
     "yalniz": dict(src="girdi/yalniz.mp4", cues=YALNIZ_CUES, frame=lambda fr: fr, cap_top=767, title=None,
                    vf_in=R.HDR_TO_SDR, on_video=True, maxw=560),
+    # güneşli dış çekim: R.auto_npl() 200 seçti. Altyazı yüzün altına, yer yoksa üstüne (yuz_takip.py).
+    # İlk 20 sn'de videonun kendi başlık yazısı var: altyazı %33'ün üstüne çıkmaz.
+    "ulke": dict(src="girdi/ulke.mov", cues=ULKE_CUES, frame=lambda fr: fr, cap_top=940, title=None,
+                 vf_in=R.hdr_to_sdr(200), on_video=True, maxw=560, crf=20,
+                 yuz="girdi/ulke_yuz.json", ust_sinir=((0, 20.4, 0.33), (20.4, 1e9, 0.15))),
 }
 
 def build(name):
@@ -92,6 +127,11 @@ def build(name):
     R.ON_VIDEO = j.get("on_video", False)
     R.MAXW = j.get("maxw", 600)
     cues = R.parse_cues(j["cues"])
+    if j.get("yuz"):
+        track = json.load(open(j["yuz"]))["track"]
+        base = R.place_cues(cues, track, upper_limits=j.get("ust_sinir", ((0, 1e9, 0.15),)))
+        print(f"altyazı tabanı: %{base * 100:.1f}  " +
+              " ".join(f"{c.start:.1f}s:{c.where}" for c in cues if c.where != "alt"))
     ov = R.draw_title(j["title"], 36, 240, 36, 650) if j["title"] else None
     return j, cues, ov
 
@@ -100,7 +140,7 @@ if __name__ == "__main__":
     j, cues, ov = build(name)
     if mode == "preview":
         for c in cues:
-            c.layout(j["cap_top"])
+            c.layout(getattr(c, "top", j["cap_top"]))
         want = {int(round(float(ts) * R.FPS)): ts for ts in sys.argv[3:]}
         outs = []
         frames = R.read_frames(j["src"], j.get("vf_in"))
@@ -126,4 +166,5 @@ if __name__ == "__main__":
         print(" ".join(outs))
     else:
         os.makedirs("videolar", exist_ok=True)
-        R.run(j["src"], f"videolar/{name}_tr.mp4", cues, j["frame"], j["cap_top"], ov, vf_in=j.get("vf_in"))
+        R.run(j["src"], f"videolar/{name}_tr.mp4", cues, j["frame"], j["cap_top"], ov, vf_in=j.get("vf_in"),
+              crf=j.get("crf", 18))

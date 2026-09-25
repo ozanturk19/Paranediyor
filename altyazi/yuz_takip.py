@@ -62,15 +62,21 @@ def track(frames, step=3, fps=30):
 
 
 if __name__ == "__main__":
+    # Kullanım: python3 altyazi/yuz_takip.py girdi/video.mov [npl]   (npl: HDR videolarda parlaklık)
+    # Sonuç girdi/video_yuz.json dosyasına yazılır; make.py'de yuz="girdi/video_yuz.json" ile kullanılır.
+    import json
     sys.path.insert(0, HERE)
     import render as R
     src = sys.argv[1]
     npl = float(sys.argv[2]) if len(sys.argv) > 2 else None
     vf = R.hdr_to_sdr(npl) if npl else None
-    res = track(R.read_frames(src, vf), step=5)
+    res = track(R.read_frames(src, vf), step=3)
+    out = os.path.splitext(src)[0] + "_yuz.json"
+    json.dump({"npl": npl, "track": res}, open(out, "w"))
     bottoms = [b[4] * 100 for _, b in res if b]
     print(f"yüz bulunan kare: {len(bottoms)}/{len(res)}")
     if bottoms:
         print("çene (%): p10={:.1f} p50={:.1f} p90={:.1f} max={:.1f}".format(*np.percentile(bottoms, [10, 50, 90]), max(bottoms)))
-    for t, b in res[::2]:
-        print(f"  t={t:5.1f}  " + (f"skor={b[0]:.2f} üst={b[2]*100:5.1f}% alt={b[4]*100:5.1f}% x={b[1]*100:4.0f}-{b[3]*100:3.0f}%" if b else "yüz yok"))
+    for t, b in res[::10]:
+        print(f"  t={t:5.1f}  " + (f"skor={b[0]:.2f} üst={b[2]*100:5.1f}% alt={b[4]*100:5.1f}%" if b else "yüz yok"))
+    print("kaydedildi:", out)

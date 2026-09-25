@@ -37,7 +37,8 @@ Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik strateji
    - `kelime@12.3` kelimenin 12,3. saniyede görünmesini sağlar.
 6. `make.py`'deki video ayarları:
    - `vf_in=R.HDR_TO_SDR`: iPhone'un HDR videolarını normal renklere çevirir. Parlaklık videoya göre değişir: iç mekân için 35, güneşli dış çekim için 150–200 uygundur. `R.auto_npl("girdi/video.mov")` uygun değeri ölçer, `R.hdr_to_sdr(değer)` ile kullanılır.
-   - `python3 altyazi/yuz_takip.py girdi/video.mov 200`: yüzün ekrandaki yerini kare kare ölçer. Tam ekran videolarda altyazının yüzü kapatmaması için kullanılır.
+   - `python3 altyazi/yuz_takip.py girdi/video.mov 200`: yüzün ekrandaki yerini kare kare ölçer ve `girdi/video_yuz.json` dosyasına yazar. `make.py`'de `yuz="girdi/video_yuz.json"` verilirse her altyazı sayfası yüzün hemen altına yerleşir. Yüz çok aşağı indiğinde (örneğin kameraya eğilince) o sayfa yüzün üstüne geçer. `ust_sinir` ile videonun kendi başlık yazısının altında kalması sağlanır.
+   - Video parça parça geldiyse: parçaları sırayla bir listeye yaz (her satır `file 'parca1.mov'`), sonra `ffmpeg -f concat -safe 0 -i girdi/liste.txt -c copy girdi/video.mov` ile kayıpsız birleştir. Parçaların sınırında kelime tekrarı ya da boşluk olup olmadığını kontrol et.
    - `on_video=True`: altyazı görüntünün üstündeyse okunaklı kalması için kontur ve gölge ekler.
    - `cap_top`: altyazının başladığı yükseklik (720×1280 ölçeğinde).
 7. Önce birkaç kareye bak: `python3 altyazi/make.py kevin preview 5 10 15`
