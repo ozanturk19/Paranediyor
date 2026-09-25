@@ -23,9 +23,13 @@ LEAD = 0.06                   # words appear slightly before they are spoken
 MAXW = 600                    # max caption line width (design px)
 ON_VIDEO = False              # captions drawn over the picture: add outline + shadow
 
-# iPhone HDR (HLG / Dolby Vision) -> SDR BT.709, ending in 8-bit RGB
-HDR_TO_SDR = ("zscale=t=linear:npl=35,format=gbrpf32le,zscale=p=bt709,"
-              "tonemap=tonemap=mobius:desat=0,zscale=t=bt709:d=error_diffusion,format=gbrp")
+# iPhone HDR (HLG / Dolby Vision) -> SDR BT.709, ending in 8-bit RGB.
+# npl sets the exposure: dim indoor footage needs ~35, bright daylight ~150 (see auto_npl).
+def hdr_to_sdr(npl=35):
+    return (f"zscale=t=linear:npl={npl:g},format=gbrpf32le,zscale=p=bt709,"
+            "tonemap=tonemap=mobius:desat=0,zscale=t=bt709:d=error_diffusion,format=gbrp")
+
+HDR_TO_SDR = hdr_to_sdr(35)
 
 STYLES = {
     "n": dict(file="Montserrat.ttf", size=34, wght=650, color=(255, 255, 255), upper=False),
@@ -280,6 +284,29 @@ def probe_size(src):
     w, h = st["width"], st["height"]
     rot = next((int(sd["rotation"]) for sd in st.get("side_data_list", []) if "rotation" in sd), 0)
     return (h, w) if rot % 180 else (w, h)
+
+def probe_duration(src):
+    out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", src],
+                         capture_output=True, text=True, check=True).stdout
+    return float(out.strip())
+
+def auto_npl(src, target=155, samples=5, candidates=(25, 35, 50, 70, 100, 120, 150, 200, 300)):
+    """Pick the HDR exposure whose median luma is closest to `target` with <=5% clipped pixels."""
+    w, h = probe_size(src)
+    dur = probe_duration(src)
+    stats = {}
+    for npl in candidates:
+        p50, clip = [], []
+        for k in range(samples):
+            raw = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{dur * (k + 0.5) / samples:.2f}", "-i", src,
+                                  "-frames:v", "1", "-vf", hdr_to_sdr(npl) + ",format=rgb24",
+                                  "-f", "rawvideo", "-"], capture_output=True).stdout
+            x = np.frombuffer(raw[:w * h * 3], np.uint8).reshape(h, w, 3)
+            p50.append(np.percentile(x @ np.array([0.2126, 0.7152, 0.0722]), 50))
+            clip.append((x.max(axis=2) >= 250).mean())
+        stats[npl] = (float(np.mean(p50)), float(np.mean(clip)))
+    pool = [n for n in candidates if stats[n][1] <= 0.05] or list(candidates)
+    return min(pool, key=lambda n: abs(stats[n][0] - target)), stats
 
 def read_frames(src, vf_in=None):
     """Yield RGB frames at constant FPS, decoded (and optionally tone-mapped) by ffmpeg."""
