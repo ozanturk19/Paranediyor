@@ -103,7 +103,7 @@ def kanca(p, t, d, wt):
 
 
 # ================================================================== 2) MATBAA
-QUAD_SHEET = np.float32([[300, 480], [780, 480], [1080, 1330], [0, 1330]])
+QUAD_SHEET = np.float32([[300, 480], [780, 480], [1060, 1270], [20, 1270]])   # altta altyazıya yer kalır
 SHEET_MASK = np.zeros((H, W), np.uint8)
 cv2.fillPoly(SHEET_MASK, [QUAD_SHEET.astype(np.int32)], 255, cv2.LINE_AA)
 SHEET_MASK = SHEET_MASK.astype(np.float32) / 255
@@ -141,7 +141,7 @@ def matbaa(p, t, d, wt):
     if k > 1:
         win = cv2.blur(win, (1, k))
     O.place(img, win, QUAD_SHEET, shadow=0.4, sdx=0, sdy=30)
-    band_y = 470 + ((t * 0.55) % 1) * 870
+    band_y = 470 + ((t * 0.55) % 1) * 810
     yy = np.arange(H, dtype=np.float32)[:, None]
     sheen = np.exp(-((yy - band_y) / 60) ** 2) * SHEET_MASK * 0.22
     img += sheen[..., None] * G.hexc("#FFF1D0")

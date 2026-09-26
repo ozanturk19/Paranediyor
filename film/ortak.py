@@ -150,7 +150,10 @@ def glass(img, x, y, w, h, r=56, frost=20, tint=0.05, refr=22, shadow=0.45, alph
     out = fro + (rim + spec)[..., None]
     if shadow:
         sm = np.zeros((y1 - y0, x1 - x0), np.float32)
-        sm[y - y0:y - y0 + h, x - x0:x - x0 + w] = m
+        oy, ox = y - y0, x - x0                                   # panel kısmen ekran dışında olabilir
+        a0, b0, a1, b1 = max(0, oy), max(0, ox), min(y1 - y0, oy + h), min(x1 - x0, ox + w)
+        if a1 > a0 and b1 > b0:
+            sm[a0:a1, b0:b1] = m[a0 - oy:a1 - oy, b0 - ox:b1 - ox]
         sh = cv2.GaussianBlur(np.roll(sm, 28, 0), (0, 0), 26) * shadow * alpha
         img[y0:y1, x0:x1] = img[y0:y1, x0:x1] * (1 - sh[..., None])
     G.over(img, out, m * alpha, x, y)

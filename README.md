@@ -8,6 +8,7 @@ Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik strateji
 |---|---|
 | `rapor/instagram-analiz.md` | Hesap ve rakip analizi, altyazı trendleri, büyüme önerileri, hazır açıklama metinleri |
 | `altyazi/` | Videolara modern, kinetik Türkçe altyazı basan araç |
+| `film/` | "Para nasıl basılır?" animasyon filmi: sahneler, geçişler, ses efektleri |
 
 ## Altyazı stili
 
@@ -45,3 +46,30 @@ Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik strateji
 8. Tam videoyu oluştur: `python3 altyazi/make.py kevin full`. Sonuç `videolar/` klasörüne yazılır.
 
 Videolar (.mp4) telif ve dosya boyutu nedeniyle depoya eklenmez.
+
+## "Para nasıl basılır?" filmi (`film/`)
+
+Tamamen kodla çizilen, 66 saniyelik dikey animasyon film. Hiç kredi harcanmadı, dışarıdan görüntü ya da ses kullanılmadı.
+
+- 19 sahne: bakiye ekranı, matbaa, pamuk kâğıt, filigran ve güvenlik şeridi, kabartma baskı, seri no ve kesim, darphane, dönen harf tabelası, parmak izi, para dolaşımı, banknotun rakama dönüşmesi, kredi onayı, 100 liranın 3-4'ü, para-üretim grafiği, terazi, enflasyon, simit ve kira, final.
+- Banknot hayalidir ("PARA NE DİYOR? 100"); gerçek bir banknotun kopyası değildir.
+- Geçişler: sert kesme ve parlama, içine dalma (zoom), hızlı kamera savurma, ışık sızıntısı, dijital bozulma (glitch), karartma.
+- Ses efektleri (`film/ses.py`) sayısal olarak üretilir ve her biri görüntüdeki olayla aynı anda çalar. Müzik yoktur, Instagram'da eklenir.
+
+Dosyalar:
+
+| Dosya | Görevi |
+|---|---|
+| `zaman.py` | Metin, altyazı sayfaları ve zamanlama. Seslendirme yokken süreler hece sayısından tahmin edilir. |
+| `banknot.py`, `gfx.py`, `ortak.py` | Banknot çizimi, ışık/renk işlemleri, ortak araçlar |
+| `sahne1.py`, `sahne2.py` | Sahneler |
+| `gecis.py` | Sahne geçişleri |
+| `ses.py` | Ses efektleri |
+| `film.py` | Hepsini birleştirip MP4 üretir |
+
+Komutlar:
+
+1. Ses efektleri: `python3 film/ses.py sfx.wav` (seslendirme varsa sona kelime dosyasını ekle)
+2. Hızlı kontrol (her yarım saniyeden bir kare): `python3 film/film.py kontrol kontrol_klasoru`
+3. Tam film: `python3 film/film.py tam film.mp4 --ses sfx.wav`
+4. Seslendirme gelince: önce `python3 altyazi/yaziya_dok.py seslendirme.m4a tr` ile kelime zamanlarını çıkar. Sonra `python3 film/ses.py sfx.wav seslendirme_kelimeler.json` ve `python3 film/film.py tam film.mp4 --ses sfx.wav --vo seslendirme_kelimeler.json` çalıştır. Bu şekilde bütün sahneler ve altyazılar gerçek sese oturur.

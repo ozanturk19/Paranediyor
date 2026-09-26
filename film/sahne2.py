@@ -104,7 +104,7 @@ def sen(p, t, d, wt):
     img = O.flash(img, t, 0.0, 0.14, 0.8)
 
     def post(im):
-        O.text(im, "Aslında", 540, 600, 74, "InstrumentSerif-Italic.ttf", None, ONE, alpha=seg(t, wt[0] - 0.05, wt[0] + 0.2))
+        O.text(im, "Aslında", 540, 380, 74, "InstrumentSerif-Italic.ttf", None, ONE, alpha=seg(t, wt[0] - 0.05, wt[0] + 0.2))
         if t >= t_sen - 0.02:
             k = ease_out(seg(t, t_sen, t_sen + 0.2))
             for ghost, al in ((0.35, 0.25), (0.18, 0.4), (0.0, 1.0)):
@@ -215,7 +215,7 @@ def dolasim(p, t, d, wt):
 
 
 # ================================================================== 11) DÖNÜŞÜM: banknot -> rakam -> telefon
-PHONE = (620, 330, 360, 700)
+PHONE = (620, 280, 360, 680)
 
 
 def _phone_screen(img, x, y, w, h, alpha=0.92):
@@ -232,10 +232,9 @@ def _dn_setup():
     _phone_screen(bg, *PHONE)
     x, y, w, h = PHONE
     O.text(bg, "BAKİYE", x + 50, y + 120, 22, "Inter.ttf", 600, ONE * 0.7, "lm", tracking=4)
-    O.text(bg, "₺0,00", x + 48, y + 175, 54, "Montserrat.ttf", 900, ONE * 0.5, "lm")
     for i in range(4):
         O.rect_fill(bg, x + 48, y + 300 + i * 66, w - 96, 44, ONE * 0.08, 0.9, r=12)
-    quad = O.project_quad(360, 1420, 700, rx=28, ry=8, rz=-8)
+    quad = O.project_quad(360, 1150, 600, rx=28, ry=8, rz=-8)
     note_layer = np.zeros_like(bg)
     O.place(note_layer, S1.NOTE_LIT, quad, shadow=0)
     alpha = np.zeros((H, W, 3), np.float32)
@@ -260,13 +259,18 @@ DN_BG, DN_NOTE, DN_A, DN_CELLS, DN_X0, DN_X1 = _dn_setup()
 DN_TARGET = np.array([PHONE[0] + 170, PHONE[1] + 180], float)
 
 
+def _inv_ease_io(q):
+    q = min(1.0, max(0.0, q))
+    return (q / 4) ** (1 / 3) if q < 0.5 else 1 - (2 * (1 - q)) ** (1 / 3) / 2
+
+
 def donusum(p, t, d, wt):
     img = DN_BG.copy()
     xx = np.arange(W, dtype=np.float32)[None, :]
     yy = np.arange(H, dtype=np.float32)[:, None]
-    fq = ease_io(seg(p, 0.04, 0.72))
+    fq = ease_io(seg(p, 0.03, 0.55))
     front = DN_X1 + 40 - fq * (DN_X1 - DN_X0 + 80)             # sağdan sola çözülür
-    keep = np.clip((xx - (front + 22 * np.sin(yy / 37))) / 18, 0, 1) * DN_A
+    keep = np.clip(((front + 22 * np.sin(yy / 37)) - xx) / 18, 0, 1) * DN_A     # cephenin solu henüz kâğıt
     img *= (1 - 0.6 * G.blur(np.roll(np.roll(keep, 40, 0), 20, 1), 22))[..., None]
     img = img * (1 - keep[..., None]) + DN_NOTE * keep[..., None]
     glow = np.zeros_like(img)
@@ -274,9 +278,9 @@ def donusum(p, t, d, wt):
     for cx, cy, c, chh, jit, r in DN_CELLS:
         if cx < front:
             continue
-        born = (DN_X1 + 40 - cx) / (DN_X1 - DN_X0 + 80)
-        age = (fq - born) * d / 0.72
-        u = np.clip(age / 1.1, 0, 1)
+        born = (DN_X1 + 40 - cx) / (DN_X1 - DN_X0 + 80)       # cephenin bu hücreye geldiği an (0-1)
+        tb = d * (0.03 + 0.52 * _inv_ease_io(born))
+        u = np.clip((t - tb) / (0.9 - 0.4 * born), 0, 1)        # sonra doğanlar daha hızlı uçar
         if u >= 1:
             arrived += 1
             continue
@@ -287,7 +291,7 @@ def donusum(p, t, d, wt):
         col = (1 - uu) * c * 1.2 + uu * (G.CYAN * (1 - uu) + G.YELLOW * uu)
         O.digit_sprite(img, glow, chh, pos[0], pos[1], col, 1 - 0.6 * uu, 20)
     img = O.add_glow(img, glow)
-    halo = min(1.0, arrived / 500)
+    halo = min(1.0, arrived / (0.8 * len(DN_CELLS)))
     x, y, w, h = PHONE
     ph = np.zeros((H, W), np.float32)
     ph[y:y + h, x:x + w] = O.rounded(w, h, 56)
@@ -295,6 +299,9 @@ def donusum(p, t, d, wt):
     img = O.camera(img, 1.0 + 0.07 * ease_io(p), 760, 700)
 
     def post(im):
+        v = 100 * arrived / len(DN_CELLS)                              # gelen rakamlar bakiyeyi doldurur
+        O.text(im, f"₺{int(v)},00", x + 48, y + 175, 54, "Montserrat.ttf", 900, lerp(ONE * 0.5, ONE, v / 100), "lm",
+               glow=0.25 * v / 100)
         O.label(im, "08  ·  YENİ PARA", color=G.CYAN, alpha=seg(t, 0.1, 0.5))
         return im
     return img, post
@@ -372,12 +379,20 @@ def kredi(p, t, d, wt):
 
 # ================================================================== 13) HİÇBİR MATBAAYA UĞRAMAZ
 def _press_icon(img, cx, cy, c, a):
+    """Baskı makinesi: üstte merdane, altından çıkan banknot tabakası."""
     O.rect_fill(img, cx - 150, cy - 150, 300, 300, ONE * 0.04, a, r=24)
     O.poly(img, [[cx - 150, cy - 150], [cx + 150, cy - 150], [cx + 150, cy + 150], [cx - 150, cy + 150]], c, 5, a, True)
-    O.circle(img, cx - 55, cy - 20, 62, c, 6, a)
-    O.circle(img, cx + 55, cy - 20, 62, c, 6, a)
-    O.poly(img, [[cx - 130, cy + 44], [cx + 130, cy + 44]], c, 6, a)
-    O.poly(img, [[cx - 100, cy + 44], [cx - 100, cy + 110], [cx + 100, cy + 110], [cx + 100, cy + 44]], c, 4, a)
+    O.arc(img, cx - 70, cy - 72, 34, math.pi / 2, 1.5 * math.pi, c, 6, a)
+    O.arc(img, cx + 70, cy - 72, 34, -math.pi / 2, math.pi / 2, c, 6, a)
+    O.poly(img, [[cx - 70, cy - 106], [cx + 70, cy - 106]], c, 6, a)
+    O.poly(img, [[cx - 70, cy - 38], [cx + 70, cy - 38]], c, 6, a)
+    for k in (-40, 0, 40):
+        O.poly(img, [[cx + k, cy - 98], [cx + k, cy - 46]], c, 3, a * 0.6)
+    O.poly(img, [[cx - 100, cy - 20], [cx + 100, cy - 20], [cx + 100, cy + 108], [cx - 100, cy + 108]], c, 4, a, True)
+    O.circle(img, cx - 52, cy + 44, 26, c, 4, a)
+    O.poly(img, [[cx - 6, cy + 26], [cx + 72, cy + 26]], c, 4, a)
+    O.poly(img, [[cx - 6, cy + 56], [cx + 48, cy + 56]], c, 4, a)
+    O.poly(img, [[cx - 6, cy + 84], [cx + 72, cy + 84]], c, 4, a)
 
 
 def ugramaz(p, t, d, wt):
@@ -522,7 +537,7 @@ def grafik(p, t, d, wt):
         O.text(im, "zaman →", CX1 - 60, CY1 + 40, 26, "Inter.ttf", 500, ONE * 0.55)
         if heads is not None and xm > 0.3:
             (px_, py_), (ux, uy) = heads
-            a = seg(xm, 0.3, 0.45)
+            a = seg(xm, 0.5, 0.62)
             O.text(im, "PARA", px_ - 24, py_ - 42, 36, "Montserrat.ttf", 900, G.YELLOW, "rm", alpha=a)
             O.text(im, "ÜRETİM", ux - 10, uy + 44, 32, "Montserrat.ttf", 900, G.CYAN, "rm", alpha=a)
             gp = seg(p, 0.62, 0.85)
@@ -660,11 +675,16 @@ def _house(img, cx, cy, c, a):
     O.poly(img, [[cx - 22, cy + 100], [cx - 22, cy + 30], [cx + 22, cy + 30], [cx + 22, cy + 100]], c, 7, a)
 
 
-def _roll(im, x, y, t, seed, alpha):
-    v = 10 + (t * 37 + seed) % 90
-    for off, al in ((-22, 0.25), (22, 0.25), (0, 1.0)):
-        O.text(im, f"₺{int((v + off) % 100):02d}", x, y + off, 64, "Montserrat.ttf", 900, ONE, alpha=al * alpha)
-    O.text(im, "↑", x + 120, y - 10 * abs(math.sin(t * 6)), 60, "Montserrat.ttf", 900, G.YELLOW, alpha=alpha, glow=0.3)
+def _roll(im, cx, y, t, v0, v1, dur, step, alpha):
+    """Fiyat sayacı: değer üstel artar (hiç düşmez); her yeni rakam aşağıdan kayarak gelir."""
+    v = v0 * (v1 / v0) ** min(1.0, max(0.0, t / dur))
+    n = int(v // step)
+    k = 1.0 if v >= v1 * 0.9999 else ease_out(min(1.0, (v / step - n) * 3))
+    fmt = lambda m: "₺" + f"{m * step:,}".replace(",", ".")
+    if n * step > v0:
+        O.text(im, fmt(n - 1), cx + 70, y - 22 * k, 60, "Montserrat.ttf", 900, ONE, "rm", alpha=alpha * (1 - k) * 0.5)
+    O.text(im, fmt(n), cx + 70, y + 22 * (1 - k), 60, "Montserrat.ttf", 900, ONE, "rm", alpha=alpha * (0.4 + 0.6 * k))
+    O.text(im, "↑", cx + 118, y - 10 * abs(math.sin(t * 6)), 56, "Montserrat.ttf", 900, G.YELLOW, alpha=alpha, glow=0.3)
 
 
 def simit(p, t, d, wt):
@@ -683,11 +703,11 @@ def simit(p, t, d, wt):
 
     def post(im):
         O.text(im, "SİMİT", SL_CARD[0] + SL_CARD[2] / 2, SL_CARD[1] + 420, 34, "Inter.ttf", 800, ONE, alpha=la, tracking=6)
-        _roll(im, SL_CARD[0] + SL_CARD[2] / 2 - 40, SL_CARD[1] + 510, t, 3, la)
+        _roll(im, SL_CARD[0] + SL_CARD[2] / 2, SL_CARD[1] + 510, t, 15, 30, d - 0.3, 1, la)
         if ra > 0:
             cx = SR_CARD[0] + SR_CARD[2] / 2 + 120 * (1 - ra)
             O.text(im, "KİRA", cx, SR_CARD[1] + 420, 34, "Inter.ttf", 800, ONE, alpha=ra, tracking=6)
-            _roll(im, cx - 40, SR_CARD[1] + 510, t * 1.3, 7, ra)
+            _roll(im, cx, SR_CARD[1] + 510, t - t_k, 18000, 36000, d - t_k - 0.3, 1000, ra)
         O.label(im, "14  ·  HAYAT", alpha=seg(t, 0.1, 0.5))
         return im
     return img, post

@@ -85,20 +85,52 @@ def build(start=0.35, vo_words=None):
 
 
 def _align(timeline, vo_words):
-    """Tahmini kelime zamanlarını gerçek seslendirmenin kelime zamanlarıyla değiştir."""
+    """Tahmini kelime zamanlarını gerçek seslendirmenin kelime zamanlarıyla değiştir.
+
+    Eşleşen kelimeler gerçek zamanını alır. Eşleşmeyenler (tanıyıcının kaçırdığı ya da yanlış
+    duyduğu kelimeler) iki yanındaki eşleşen kelimenin arasına, tahmini oranlarıyla yerleştirilir.
+    """
     script = [(li, wi, norm(w)) for li, ln in enumerate(timeline) for wi, w in enumerate(ln["words"])]
+    est = [timeline[li]["t"][wi] for li, wi, _ in script]
     heard = [norm(w["w"]) for w in vo_words]
     sm = difflib.SequenceMatcher(None, [s[2] for s in script], heard, autojunk=False)
+    real, real_end = {}, {}
     for a, b, n in sm.get_matching_blocks():
         for k in range(n):
-            li, wi, _ = script[a + k]
-            timeline[li]["t"][wi] = vo_words[b + k]["s"]
-    for ln in timeline:                                      # eşleşmeyenleri komşulardan doldur
-        ts = ln["t"]
-        for i in range(1, len(ts)):
-            if ts[i] < ts[i - 1]:
-                ts[i] = ts[i - 1] + 0.12
-        ln["end_speech"] = ts[-1] + 0.35
+            real[a + k] = float(vo_words[b + k]["s"])
+            real_end[a + k] = float(vo_words[b + k].get("e", vo_words[b + k]["s"] + 0.3))
+    known = sorted(real)
+    if not known:
+        return
+    out = []
+    for i in range(len(script)):
+        if i in real:
+            out.append(real[i])
+            continue
+        prev = max((k for k in known if k < i), default=None)
+        nxt = min((k for k in known if k > i), default=None)
+        if prev is not None and nxt is not None:
+            span = est[nxt] - est[prev]
+            r = (est[i] - est[prev]) / span if span > 0 else 0.5
+            out.append(real[prev] + r * (real[nxt] - real[prev]))
+        else:
+            ref = prev if prev is not None else nxt
+            out.append(real[ref] + est[i] - est[ref])
+    for i in range(1, len(out)):                             # sıra hiç bozulmasın
+        out[i] = max(out[i], out[i - 1] + 0.05)
+    for (li, wi, _), tt in zip(script, out):
+        timeline[li]["t"][wi] = tt
+    i = 0
+    for ln in timeline:
+        i += len(ln["words"])
+        last = i - 1
+        ln["end_speech"] = real_end[last] if last in real_end else ln["t"][-1] + 0.35
+
+
+def vo_yukle(path):
+    """yaziya_dok.py çıktısındaki kelime zamanlarını oku ({"kelimeler": [{"w", "s", "e"}, ...]})."""
+    data = json.load(open(path))
+    return data["kelimeler"] if isinstance(data, dict) else data
 
 
 def caption_cues(timeline):
