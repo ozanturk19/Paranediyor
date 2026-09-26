@@ -6,3 +6,6 @@ altyazi/fonts/
 altyazi/models/
 onizleme/
 __pycache__/
+
+# Tekstil filmi harita verisi (Natural Earth, README'deki komutla indirilir)
+tekstil/veri/
