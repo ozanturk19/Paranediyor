@@ -101,15 +101,22 @@ def blur(x, sigma):
 
 
 def bloom(img, thresh=0.72, sigma=22, strength=0.55):
-    lum = img.max(axis=2)
-    m = smoothstep(thresh, 1.0, lum)[..., None]
-    return img + (blur(img * m, sigma) + 0.5 * blur(img * m, sigma * 3)) * strength
+    """Parlak alanlardan ışık taşması (dörtte bir çözünürlükte hesaplanır, hızlı)."""
+    h, w = img.shape[:2]
+    m = smoothstep(thresh, 1.0, img.max(axis=2))[..., None]
+    small = cv2.resize(img * m, (w // 4, h // 4), interpolation=cv2.INTER_AREA)
+    b = cv2.GaussianBlur(small, (0, 0), sigma / 4) + 0.5 * cv2.GaussianBlur(small, (0, 0), sigma * 3 / 4)
+    return img + cv2.resize(b, (w, h), interpolation=cv2.INTER_LINEAR) * strength
 
 
+_vig = {}
 def vignette(img, strength=0.45):
-    xx, yy = grid(img.shape[1], img.shape[0])
-    r = np.hypot((xx - img.shape[1] / 2) / (img.shape[1] / 2), (yy - img.shape[0] / 2) / (img.shape[0] / 2))
-    return img * (1 - strength * np.clip(r / 1.3, 0, 1) ** 2)[..., None]
+    key = img.shape[:2]
+    if key not in _vig:
+        xx, yy = grid(img.shape[1], img.shape[0])
+        r = np.hypot((xx - img.shape[1] / 2) / (img.shape[1] / 2), (yy - img.shape[0] / 2) / (img.shape[0] / 2))
+        _vig[key] = (np.clip(r / 1.3, 0, 1) ** 2)[..., None]
+    return img * (1 - strength * _vig[key])
 
 
 def chroma(img, px=2.5):
