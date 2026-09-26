@@ -45,7 +45,7 @@ def scene_img(k, t_abs, seed):
     wt = [w - s for w in sc["t"]]
     lt = [w - s for w in sc["line_t"]]
     img, post = SH.SAHNELER[sc["scene"]](t / d, t, d, wt, lt)
-    img = SH.finish(img, seed, exposure=SH.EXPOSURE[sc["scene"]])
+    img = SH.finish(img, seed, exposure=SH.EXPOSURE[sc["scene"]], bloom_k=SH.BLOOM.get(sc["scene"], 0.35))
     img = SH.shade_top(img, 0.35)                       # üstteki etiketler her zeminde okunsun
     return post(img) if post else img
 

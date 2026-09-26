@@ -134,7 +134,7 @@ def bariyer(pct=50):
     T.box("isik_kutu", (0.25, 0.25, 0.6), (-33.0, -4.2, 3.3), T.mat("siyah", (0.02, 0.02, 0.02), rough=0.4))
     T.sphere("kirmizi_isik", 0.08, (-33.14, -4.2, 3.45), T.emission("kirmizi", (1.0, 0.05, 0.02), 30), seg=12)
     T.render_setup(samples=48, pct=pct, clamp=10)
-    T.camera((-35.2, -1.6, 1.12), (-28.0, 1.2, 1.3), lens=28, fstop=2.8, focus=2.4)
+    T.camera((-34.4, -3.0, 0.9), (-31.0, 0.0, 1.4), lens=22, fstop=2.8, focus=1.9)
     T.render("liman_bariyer")
 
 

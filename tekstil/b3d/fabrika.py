@@ -28,6 +28,7 @@ def materials():
         mach=T.mat("makine", (0.78, 0.78, 0.74), rough=0.28, coat=0.4, var=0.08, var_scale=10),
         mach2=T.mat("makine2", (0.42, 0.5, 0.47), rough=0.3, coat=0.3, var=0.08, var_scale=10),
         chrome=T.mat("krom", (0.8, 0.8, 0.82), rough=0.15, metal=1.0),
+        badge=T.mat("marka", (0.55, 0.06, 0.05), rough=0.3, coat=0.5),
         black=T.mat("siyah", (0.03, 0.03, 0.03), rough=0.4),
         motor=T.mat("motor", (0.08, 0.08, 0.09), rough=0.5, metal=0.3),
         seat=T.mat("oturak", (0.18, 0.1, 0.06), rough=0.6, var=0.2),
@@ -63,6 +64,15 @@ def machine(M, body, loc=(0, 0, 0)):
         T.box("baski_ayagi", (0.028, 0.03, 0.008), (x, y - 0.2, z + 0.05), M["chrome"], bevel=0.003),
         T.cyl("ayak_mili", 0.005, 0.07, (x - 0.02, y - 0.2, z + 0.09), M["chrome"]),
         T.box("plaka", (0.1, 0.12, 0.004), (x, y - 0.19, z + 0.047), M["chrome"], bevel=0.002),
+        # ön yüz ayrıntıları: yüz kapağı, vidalar, gerginlik diskleri, iplik kolu, marka şeridi
+        T.box("yuz_kapak", (0.004, 0.078, 0.15), (x + 0.057, y - 0.2, z + 0.225), M["chrome"], bevel=0.002),
+        T.cyl("vida1", 0.0042, 0.006, (x + 0.06, y - 0.2, z + 0.165), M["chrome"], rot=(0, 90, 0), verts=12),
+        T.cyl("vida2", 0.0042, 0.006, (x + 0.06, y - 0.2, z + 0.285), M["chrome"], rot=(0, 90, 0), verts=12),
+        T.cyl("disk1", 0.012, 0.004, (x + 0.064, y - 0.168, z + 0.245), M["chrome"], rot=(0, 90, 0), verts=24),
+        T.cyl("disk2", 0.012, 0.004, (x + 0.069, y - 0.168, z + 0.245), M["chrome"], rot=(0, 90, 0), verts=24),
+        T.box("iplik_kolu", (0.045, 0.007, 0.012), (x + 0.075, y - 0.182, z + 0.3), M["chrome"], bevel=0.002),
+        T.box("marka_seridi", (0.004, 0.14, 0.022), (x + 0.042, y - 0.02, z + 0.3), M["badge"], bevel=0.002),
+        T.cyl("kaldirma_kolu", 0.004, 0.05, (x - 0.06, y - 0.2, z + 0.27), M["black"], rot=(0, 90, 0), verts=10),
     ]
     return parts
 
@@ -273,6 +283,11 @@ def yakin(pct=50, frames=(0,), loop=8):
     for k in range(60):                                     # dikilmiş iz: iğnenin arkasında düzgün teyel
         x = -0.004 - k * 0.0042
         T.box("dikis", (0.0032, 0.0016, 0.0012), (x, -0.2, mz + 0.0538), thread, bevel=0.0005)
+    # ipliğin yolu: yukarıdaki bobinden kol üstüne, gerginlik disklerine, iplik koluna, oradan iğneye
+    T.curve("iplik_yolu", [(0.0, 0.25, mz + 0.9), (0.01, 0.05, mz + 0.4), (0.03, -0.1, mz + 0.352),
+                           (0.066, -0.168, mz + 0.258), (0.07, -0.168, mz + 0.235), (0.095, -0.182, mz + 0.3),
+                           (0.07, -0.195, mz + 0.2), (0.03, -0.2, mz + 0.14), (0.014, -0.2, mz + 0.118)],
+            0.00055, thread, res=24)
     T.box("led", (0.03, 0.008, 0.002), (0.03, -0.2, mz + 0.1195), T.emission("led_isik", T.kelvin(5600), 2.5))
     T.spot_light("led_spot", (0.03, -0.2, mz + 0.117), 0.35, (0.0, -0.2, mz), T.kelvin(5600), size_deg=80, blend=0.8,
                  radius=0.012)

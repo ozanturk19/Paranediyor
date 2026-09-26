@@ -9,6 +9,7 @@ Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik strateji
 | `rapor/instagram-analiz.md` | Hesap ve rakip analizi, altyazı trendleri, büyüme önerileri, hazır açıklama metinleri |
 | `altyazi/` | Videolara modern, kinetik Türkçe altyazı basan araç |
 | `film/` | "Para nasıl basılır?" animasyon filmi: sahneler, geçişler, ses efektleri |
+| `tekstil/` | "Tekstil Suriye'ye mi kayıyor?" gerçekçi 3D + harita filmi |
 
 ## Altyazı stili
 
@@ -73,3 +74,21 @@ Komutlar:
 2. Hızlı kontrol (her yarım saniyeden bir kare): `python3 film/film.py kontrol kontrol_klasoru`
 3. Tam film: `python3 film/film.py tam film.mp4 --ses sfx.wav`
 4. Seslendirme gelince: önce `python3 altyazi/yaziya_dok.py seslendirme.m4a tr` ile kelime zamanlarını çıkar. Sonra `python3 film/ses.py sfx.wav seslendirme_kelimeler.json` ve `python3 film/film.py tam film.mp4 --ses sfx.wav --vo seslendirme_kelimeler.json` çalıştır. Bu şekilde bütün sahneler ve altyazılar gerçek sese oturur.
+
+## "Tekstil Suriye'ye mi kayıyor?" filmi (`tekstil/`)
+
+Kullanıcının kendi okuduğu metne göre hazırlanan, gerçekçi görünümlü 60 saniyelik film.
+
+- Gerçekçi sahneler Blender (Cycles) ile kodla modellenip çizilir (`tekstil/b3d/`): tekstil atölyesi, dikiş makinesi yakın çekim, konteyner limanı ve gümrük bariyeri, temsili Suriye şehri (akşam, gece, sokak), kilit-zincir, bankamatik. Hepsi "TEMSİLİ GÖRSEL" etiketiyle gösterilir.
+- Haritalar gerçek sınır verisiyle çizilir (Natural Earth 1:10m). Veri bir kez indirilir:
+  `mkdir -p tekstil/veri && cd tekstil/veri && for f in ne_10m_admin_0_countries ne_10m_lakes ne_10m_rivers_lake_centerlines; do curl -sSfLO https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/$f.geojson; done`
+- Grafiklerdeki rakamlar kaynaklarıyla gösterilir (SGK, Eurostat/İHKİB, resmi asgari ücretler).
+
+Adımlar:
+
+1. Blender modülü: `pip install bpy OpenEXR` (bpy numpy<2 ister).
+2. 3D plakalar: `cd tekstil/b3d && TEKSTIL_3D_OUT=../plakalar python3 fabrika.py genis 100 0` (diğerleri: `fabrika.py yakin 100 0 1 2 3 4 5 6 7`, `liman.py koridor|bariyer 100`, `sehir.py aksam|sokak|gece_acik|gece_kapali 100`, `detay.py kilit 100 0 1 2 3 4 5 6 7`, `detay.py atm 100`).
+3. Zamanlama: `python3 tekstil/zamanlama.py` (Instagram Edits'in altyazı ekranındaki cümle saniyelerinden hesaplanır).
+4. Ses efektleri: `python3 tekstil/ses.py sfx.wav`
+5. Film: `TEKSTIL_3D_OUT=tekstil/plakalar python3 tekstil/film.py tam film.mp4`, ardından `python3 film/teslim.py film.mp4 sfx.wav cikti.mp4`.
+6. Seslendirme kaydı gelince `yaziya_dok.py` ile kelime zamanlarını çıkarıp `--vo` ile ver; her şey kelimesi kelimesine sese oturur.

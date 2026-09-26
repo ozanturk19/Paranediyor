@@ -9,3 +9,6 @@ __pycache__/
 
 # Tekstil filmi harita verisi (Natural Earth, README'deki komutla indirilir)
 tekstil/veri/
+
+# Tekstil filmi 3D plakaları (büyük EXR dosyaları, yeniden üretilebilir)
+tekstil/plakalar/

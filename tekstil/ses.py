@@ -130,7 +130,7 @@ def build(tl):
     M.add(s, S.whoosh(1.2, 300, 3000, 500, 0.6, 1.0, 80), -20, 0, 0.3)
     t_ilk = wt[3] if len(wt) > 3 else d * 0.3
     M.add(s + t_ilk - 0.1, S.bell(1760, 1.2, 0.6), -19, 0.3, 0.5)
-    t_150 = wt[9] if len(wt) > 9 else d * 0.7
+    t_150 = wt[8] if len(wt) > 8 else d * 0.7
     M.add(s + t_150, S.pop(81), -16, 0, 0.2)
     M.add(s + t_150 + 1.1, S.riser(max(0.4, d - t_150 - 1.1), 200, 3000, True, 82), -20, 0, 0.4)
     M.add(s + d - 0.05, S.boom(1.5, 90, 30, 0.5, 0.3, 83), -12, 0, 0.5)
@@ -164,7 +164,7 @@ def build(tl):
     M.add(s + 0.3, ship_horn(2.4), -24, 0.4, 0.9)
     t_ab = wt[1] if len(wt) > 1 else d * 0.15
     M.add(s + t_ab, S.whoosh(0.4, 500, 3000, None, 0.5, 0.8, 111), -22, 0, 0.2)
-    t_16 = wt[11] if len(wt) > 11 else d * 0.75
+    t_16 = wt[10] if len(wt) > 10 else d * 0.75
     M.add(s + t_16 - 0.9, S.shaped(0.8, lambda u: 900 - 500 * u, lambda u: np.full_like(u, 0.5), lambda u: u, 112),
           -26, 0.2, 0.2)
     M.add(s + t_16 - 0.05, S.boom(1.2, 160, 40, 0.35, 0.5, 113), -9, 0, 0.4)
@@ -175,8 +175,9 @@ def build(tl):
                       lambda u: np.sin(np.pi * np.clip(u, 0, 1)), 120), -25, 0, 0.4)
     M.add(s + 0.35, S.boom(1.0, 120, 45, 0.3, 0.2, 121), -13, 0, 0.4)
 
-    # 9) ücret: iki çubuk
+    # 9) ücret: iki çubuk (altında hafif, gergin bir zemin sesi)
     s, d, wt, lt = W("ucret")
+    M.add(s, S.pad([55, 82.4, 110, 164.8], d + 0.3, 1.2, 1.0), -30, 0, 0.4)
     M.add(s + 0.1, S.whoosh(0.5, 300, 2500, None, 0.5, 0.8, 130), -22, 0, 0.3)
     for tt, val, pan in ((wt[10] if len(wt) > 10 else d * 0.5, 575, -0.5), (wt[14] if len(wt) > 14 else d * 0.85, 100, 0.5)):
         n = 18 if val > 300 else 6
@@ -186,7 +187,7 @@ def build(tl):
 
     # 10) yaptırım: kilit açılır
     s, d, wt, lt = W("yaptirim")
-    t_k = wt[3] if len(wt) > 3 else d * 0.6
+    t_k = wt[2] if len(wt) > 2 else d * 0.5
     M.add(s + t_k - 0.12, unlock(), -10, 0, 0.35)
     M.add(s + t_k, S.boom(0.9, 130, 50, 0.2, 0.3, 150), -13, 0, 0.3)
     M.add(s + t_k + 0.1, S.pop(151), -18, 0, 0.2)
@@ -210,7 +211,7 @@ def build(tl):
 
     # 13) elektrik: bölge bölge sönen ışıklar
     s, d, wt, lt = W("elektrik")
-    t_y = wt[4] if len(wt) > 4 else d * 0.5
+    t_y = wt[3] if len(wt) > 3 else d * 0.5
     M.add(s, fades(filt(buzz(d, 190), "bandpass", [60, 1500]), 0.3, 0.4), -30, 0, 0.3)
     r = np.random.default_rng(191)
     for k in range(9):

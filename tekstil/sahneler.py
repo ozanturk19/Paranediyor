@@ -56,7 +56,7 @@ def loop_frame(prefix, k):
 
 def push(rgb, depth, u, z0=1.0, z1=1.07, k=0.0, c=(540, 960), dx=0.0, dy=0.0, dref=6.0):
     """2.5D kamera: yavaş yaklaşma; k>0 ise yakın nesneler daha çok büyür (derinlik paralaksı)."""
-    s = z0 + (z1 - z0) * u
+    s = (z0 + (z1 - z0) * u) * 1.012                        # sallantı için kenarlarda küçük pay
     sx = (c[0] + (_XX - c[0]) / s - dx).astype(np.float32)
     sy = (c[1] + (_YY - c[1]) / s - dy).astype(np.float32)
     if k and depth is not None:
@@ -67,6 +67,13 @@ def push(rgb, depth, u, z0=1.0, z1=1.07, k=0.0, c=(540, 960), dx=0.0, dy=0.0, dr
     out = cv2.remap(rgb, sx, sy, cv2.INTER_LINEAR, borderMode=cv2.BORDER_REFLECT)
     dep = cv2.remap(depth, sx, sy, cv2.INTER_NEAREST, borderMode=cv2.BORDER_REPLICATE) if depth is not None else None
     return out, dep
+
+
+def hand(t, amp=3.0, seed=0.0):
+    """Elde tutulan kamera gibi çok hafif, yavaş sallantı (piksel)."""
+    dx = amp * (math.sin(t * 0.83 + seed) + 0.6 * math.sin(t * 1.71 + 2 * seed) + 0.3 * math.sin(t * 3.1 + seed))
+    dy = amp * (math.sin(t * 0.67 + 1.3 + seed) + 0.5 * math.sin(t * 1.43 + seed) + 0.25 * math.sin(t * 2.9 + 3 * seed))
+    return dx, dy
 
 
 def haze(rgb, depth, color, dens, dmax=3000.0):
@@ -122,15 +129,25 @@ def shade_top(im, k=0.45):
     return im
 
 
-def chip(im, txt, x, y, color=YELLOW, a=1.0, px=30, dark=True, anchor="lm"):
-    """Yuvarlak köşeli etiket (sarı zemin, koyu yazı)."""
+def chip(im, txt, x, y, color=YELLOW, a=1.0, px=30, dark=True, anchor="lm", icon=None):
+    """Yuvarlak köşeli etiket (sarı zemin, koyu yazı); icon: "check" ya da "cross" (solda çizilir)."""
     if a <= 0.01:
         return im
     m = G.text_mask(txt, "Montserrat.ttf", px, 800)
-    w, h = m.shape[1] + 34, m.shape[0] + 18
+    ic = int(px * 1.1) if icon else 0
+    w, h = m.shape[1] + 34 + ic, m.shape[0] + 18
     x0 = int(x if anchor[0] == "l" else x - w / 2 if anchor[0] == "m" else x - w)
     O.rect_fill(im, x0, int(y - h / 2), w, h, color, a, r=h // 2)
-    G.over(im, G.hexc("#111111") if dark else ONE, m * a, x0 + 17, int(y - m.shape[0] / 2))
+    fg = G.hexc("#111111") if dark else ONE
+    G.over(im, fg, m * a, x0 + 17 + ic, int(y - m.shape[0] / 2))
+    if icon == "check":
+        s = px * 0.5
+        O.poly(im, [[x0 + 20, y], [x0 + 20 + s * 0.45, y + s * 0.45], [x0 + 20 + s * 1.2, y - s * 0.55]], fg, max(4, px // 7), a)
+    elif icon == "cross":
+        s = px * 0.42
+        cx = x0 + 20 + s
+        O.poly(im, [[cx - s, y - s], [cx + s, y + s]], fg, max(4, px // 7), a)
+        O.poly(im, [[cx + s, y - s], [cx - s, y + s]], fg, max(4, px // 7), a)
     return im
 
 
@@ -140,7 +157,7 @@ def arrow(im, x, y, size, up=True, color=RED, a=1.0, thick=None):
         return im
     s = size
     th = thick or max(4, int(s * 0.16))
-    d = -1 if up else 1
+    d = 1 if up else -1                                     # ekranda y aşağı doğru artar
     O.poly(im, [[x, y - d * s * 0.5], [x, y + d * s * 0.45]], color, th, a)
     O.poly(im, [[x - s * 0.34, y + d * (-s * 0.12)], [x, y - d * s * 0.5], [x + s * 0.34, y + d * (-s * 0.12)]],
            color, th, a)
@@ -154,7 +171,7 @@ def counter_text(v, fmt="{:,.0f}"):
 # ================================================================== 1) FABRİKA: 350.000 iş kaybı
 def fabrika(p, t, d, wt, lt):
     pl = plate("fabrika_genis_0000")
-    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.08, k=0.25, c=(430, 980))
+    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.08, k=0.25, c=(430, 980), dx=hand(t)[0], dy=hand(t)[1])
     img = haze(img, dep, (0.05, 0.055, 0.06), 0.012)
     t_yil = wt[5] if len(wt) > 5 else d * 0.4
     t_num = wt[9] if len(wt) > 9 else d * 0.7
@@ -330,8 +347,8 @@ def dot_field():
 
 def ilk(p, t, d, wt, lt):
     t_ilk = wt[3] if len(wt) > 3 else d * 0.3              # "ilk"
-    t_150 = wt[9] if len(wt) > 9 else d * 0.7              # "150"
-    t_cmp = t_150 + 0.9
+    t_150 = wt[8] if len(wt) > 8 else d * 0.7              # "150" (0:Suriye'de ... 8:150, 9:kişi)
+    t_cmp = t_150 + 0.25
     zc = ease_io(seg(t, 0.0, t_ilk + 0.4))
     cam = HM.lerp_cam((35.2, 37.6, 120.0), CAM_BORDER, zc)
 
@@ -347,7 +364,7 @@ def ilk(p, t, d, wt, lt):
     cmp_k = seg(t, t_cmp, t_cmp + 0.35)
     if cmp_k > 0:                                          # 150 sarı nokta -> uzaklaşınca 350.000 gri nokta
         dots, hl = dot_field()
-        z = seg(t, t_cmp + 0.35, d - 0.1)
+        z = seg(t, t_cmp + 0.3, d - 0.05)
         ez = ease_io(z)
         scale = math.exp(math.log(9.0) * (1 - ez) + math.log(1080 / dots.shape[1] * 0.92) * ez)
         ax, ay = lerp(22, dots.shape[1] / 2, ez), lerp(15, dots.shape[0] / 2, ez)      # odak: 150'lik blok -> tüm alan
@@ -356,8 +373,14 @@ def ilk(p, t, d, wt, lt):
         dm = cv2.warpAffine(dots, M, (W, H), flags=cv2.INTER_AREA if scale < 1 else cv2.INTER_LINEAR)
         hm = cv2.warpAffine(hl, M, (W, H), flags=cv2.INTER_AREA if scale < 1 else cv2.INTER_LINEAR)
         bg = np.zeros_like(img) + np.array([0.012, 0.014, 0.018], np.float32)
-        layer = bg + dm[..., None] * 0.22 + hm[..., None] * YELLOW * 1.4
+        layer = bg + dm[..., None] * 0.16 + hm[..., None] * YELLOW * 1.6
         img = img * (1 - cmp_k) + layer * cmp_k
+        hx, hy = M @ np.array([22.0, 15.0, 1.0])                  # 150'lik blok: uzaklaştıkça halka ile göster
+        ring = seg(ez, 0.35, 0.7)
+        if ring > 0:
+            pulse = (t * 1.6) % 1
+            O.circle(img, hx, hy, 26 + 10 * pulse, YELLOW * 2.0, 5, ring * cmp_k)
+            O.circle(img, hx, hy, 60 + 40 * pulse, YELLOW, 3, ring * cmp_k * (1 - pulse))
 
     def post(im):
         O.label(im, "SURİYE  ·  EL-RAİ SANAYİ BÖLGESİ", color=WARM, alpha=seg(t, 0.1, 0.4) * (1 - cmp_k))
@@ -379,7 +402,7 @@ def ilk(p, t, d, wt, lt):
             O.text(im, "TÜRKİYE", 540, 520, 36, "Montserrat.ttf", 800, ONE * 0.7, alpha=a * zc, tracking=12)
             O.text(im, "SURİYE", 540, 1180, 36, "Montserrat.ttf", 800, ONE * 0.7, alpha=a * zc, tracking=12)
         if cmp_k > 0:
-            z = seg(t, t_cmp + 0.35, d - 0.1)
+            z = seg(t, t_cmp + 0.3, d - 0.05)
             O.text(im, "150 KİŞİ", 540, 330, 54, "Montserrat.ttf", 900, YELLOW, alpha=cmp_k * (1 - seg(z, 0.5, 0.8)), glow=0.3)
             k3 = seg(z, 0.55, 0.85)
             O.text(im, "150", 300, 300, 60, "Montserrat.ttf", 900, YELLOW, alpha=k3, glow=0.3)
@@ -417,7 +440,7 @@ def reason_cards(im, t, t0, focus=None, fk=0.0):
 
 def neden(p, t, d, wt, lt):
     rgb, dep = needle_plate(t)
-    img, dep2 = push(rgb, dep, ease_io(p), 1.0, 1.05, c=(600, 700))
+    img, dep2 = push(rgb, dep, ease_io(p), 1.0, 1.05, c=(600, 700), dx=hand(t, 2.0, 1)[0], dy=hand(t, 2.0, 1)[1])
     t_n = wt[2] if len(wt) > 2 else d * 0.4
 
     def post(im):
@@ -430,7 +453,7 @@ def neden(p, t, d, wt, lt):
 
 def iscilik(p, t, d, wt, lt):
     rgb, dep = needle_plate(t + 2.7)
-    img, _ = push(rgb, dep, 1.0, 1.05, 1.12, c=(600, 700))
+    img, _ = push(rgb, dep, 1.0, 1.05, 1.12, c=(600, 700), dx=hand(t + 2.7, 2.0, 1)[0], dy=hand(t + 2.7, 2.0, 1)[1])
 
     def post(im):
         tag(im, "TEMSİLİ GÖRSEL")
@@ -447,9 +470,9 @@ def iscilik(p, t, d, wt, lt):
 
 # ================================================================== 6) FAİZ
 def faiz(p, t, d, wt, lt):
-    rgb, dep = needle_plate(t + 4.4)
-    img, _ = push(rgb, dep, ease_io(p), 1.12, 1.16, c=(600, 700))
-    img = G.blur(img, 9) * 0.55
+    pl = plate("fabrika_genis_0000")
+    img, _ = push(pl["rgb"], pl["depth"], ease_io(p), 1.25, 1.32, c=(700, 1000))
+    img = G.blur(img, 10) * 0.5
     t_f = wt[4] if len(wt) > 4 else d * 0.55              # "faizler"
 
     def post(im):
@@ -474,10 +497,10 @@ def faiz(p, t, d, wt, lt):
 # ================================================================== 7) İHRACAT: liman, AB alımı -%16
 def ihracat(p, t, d, wt, lt):
     pl = plate("liman_koridor")
-    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.08, k=0.3, c=(540, 1000))
+    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.08, k=0.3, c=(540, 1000), dx=hand(t, 3, 2)[0], dy=hand(t, 3, 2)[1])
     img = haze(img, dep, (0.22, 0.14, 0.08), 0.004)
     t_ab = wt[1] if len(wt) > 1 else d * 0.15              # "Avrupa'nın"
-    t_16 = wt[11] if len(wt) > 11 else d * 0.75            # "%16"
+    t_16 = wt[10] if len(wt) > 10 else d * 0.75            # "%16" (0:Üstüne ... 10:%16, 11:düştü)
 
     def post(im):
         tag(im, "TEMSİLİ GÖRSEL")
@@ -486,24 +509,25 @@ def ihracat(p, t, d, wt, lt):
         if k <= 0:
             return im
         O.glass(im, 90, 300, 900, 700, r=44, frost=18, tint=0.04, alpha=k)
-        O.text(im, "AB'nin Türkiye'den hazır giyim alımı", 540, 370, 30, "Inter.ttf", 700, ONE * 0.9, alpha=k)
-        O.text(im, "Ocak – Mayıs", 540, 415, 26, "Inter.ttf", 500, ONE * 0.65, alpha=k)
+        O.rect_fill(im, 90, 300, 900, 700, np.zeros(3, np.float32), 0.45 * k, r=44)     # güneşe karşı okunaklı
+        O.text(im, "AB'nin Türkiye'den hazır giyim alımı", 540, 370, 30, "Inter.ttf", 700, ONE * 0.95, alpha=k)
+        O.text(im, "Ocak – Mayıs", 540, 415, 26, "Inter.ttf", 500, ONE * 0.75, alpha=k)
         u = ease_out(seg(t, t_ab + 0.3, t_ab + 1.2))
         u2 = ease_out(seg(t, t_16 - 0.9, t_16 - 0.1))
-        base_y, hmax = 900, 380
+        base_y, hmax = 880, 360
         for i, (yr, val, frac, uu, col) in enumerate((("2025", "4,05 mlr €", 1.0, u, ONE * 0.75),
                                                       ("2026", "3,41 mlr €", 0.842, u2, RED))):
-            x = 300 + i * 300
+            x = 280 + i * 280
             h = int(hmax * frac * uu)
             if h > 2:
                 O.rect_fill(im, x - 80, base_y - h, 160, h, col, 0.92 * k, r=10)
-            O.text(im, yr, x, base_y + 40, 30, "Montserrat.ttf", 800, ONE, alpha=k)
+            O.text(im, yr, x, base_y + 42, 32, "Montserrat.ttf", 800, ONE, alpha=k)
             O.text(im, val, x, base_y - h - 34, 30, "Montserrat.ttf", 800, ONE, alpha=k * seg(uu, 0.6, 1.0))
         k3 = seg(t, t_16 - 0.1, t_16 + 0.25)
         if k3 > 0:
             sc = lerp(1.4, 1.0, ease_out(k3))
-            O.text(im, "−%16", 760, 560, 110, "Montserrat.ttf", 900, RED, alpha=k3, scale=sc, glow=0.35)
-        source(im, "Kaynak: Eurostat verisi (İHKİB raporu), değer bazında, 2026", seg(t, t_16, t_16 + 0.5), y=965)
+            O.text(im, "−%16", 815, 660, 96, "Montserrat.ttf", 900, RED, alpha=k3, scale=sc, glow=0.35)
+        source(im, "Kaynak: Eurostat verisi (İHKİB raporu), değer bazında, 2026", seg(t, t_16, t_16 + 0.5), y=1045)
         return im
     return img, post
 
@@ -511,8 +535,8 @@ def ihracat(p, t, d, wt, lt):
 # ================================================================== 8) SURİYE: temsili şehir, akşam
 def suriye(p, t, d, wt, lt):
     pl = plate("sehir_aksam")
-    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.06, k=0.0, c=(540, 900))
-    img = haze(img, dep, (0.5, 0.33, 0.2), 0.0016)
+    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.06, k=0.0, c=(540, 900), dx=hand(t, 2, 3)[0], dy=hand(t, 2, 3)[1])
+    img = haze(img, dep, (0.5, 0.33, 0.2), 0.0009)
 
     def post(im):
         tag(im, "TEMSİLİ GÖRSEL")
@@ -534,6 +558,7 @@ def ucret(p, t, d, wt, lt):
     split = np.clip((_XX - 540) / 6 + 0.5, 0, 1)[..., None]
     img = left * (1 - split) + right * split
     t575 = wt[10] if len(wt) > 10 else d * 0.5             # 1. cümle 5 kelime; "575" 2. cümlenin 6. kelimesi
+    t_asg = wt[7] if len(wt) > 7 else d * 0.35             # "asgari"
     t100 = wt[14] if len(wt) > 14 else d * 0.85            # "100" 3. cümlenin 3. kelimesi
 
     def post(im):
@@ -542,12 +567,17 @@ def ucret(p, t, d, wt, lt):
         O.text(im, "NET ASGARİ ÜCRET", 540, 330, 40, "Montserrat.ttf", 900, ONE, alpha=k0, tracking=6)
         O.text(im, "(aylık, dolar)", 540, 385, 26, "Inter.ttf", 500, ONE * 0.7, alpha=k0)
         im[420:1180, 538:542] = im[420:1180, 538:542] * 0.3 + 0.7 * 0.5
-        base_y, hmax = 1150, 600
-        for side, name, val, tt, col, loc in ((0, "TÜRKİYE", 575, t575, YELLOW, "28.075 TL"),
-                                              (1, "SURİYE", 100, t100, WARM, "12.560 yeni SYP")):
+        base_y, hmax = 1150, 470
+        big = spring(seg(t, 0.15, 0.7), 1.2, 5) * (1 - seg(t, t_asg - 0.4, t_asg))
+        if big > 0.01:
+            O.text(im, "MALİYET", 540, 720, 110, "Montserrat.ttf", 900, ONE, alpha=min(1, big * 2), scale=max(0.5, big))
+            O.text(im, "FARKI", 540, 850, 110, "Montserrat.ttf", 900, YELLOW, alpha=min(1, big * 2), scale=max(0.5, big),
+                   glow=0.3)
+        for side, name, val, t0_, tt, col, loc in ((0, "TÜRKİYE", 575, t_asg, t575, YELLOW, "28.075 TL"),
+                                                   (1, "SURİYE", 100, t100 - 0.5, t100, WARM, "12.560 yeni SYP")):
             x = 270 + side * 540
             O.text(im, name, x, 470, 40, "Montserrat.ttf", 900, ONE, alpha=k0, tracking=8)
-            u = ease_out(seg(t, tt - 0.5, tt + 0.5))
+            u = ease_out(seg(t, t0_, tt + 0.3))
             h = int(hmax * val / 575 * u)
             if h > 2:
                 O.rect_fill(im, x - 110, base_y - h, 220, h, col, 0.95, r=14)
@@ -563,12 +593,12 @@ def ucret(p, t, d, wt, lt):
 
 # ================================================================== 10) YAPTIRIM: kilit açılır
 def yaptirim(p, t, d, wt, lt):
-    t_k = wt[3] if len(wt) > 3 else d * 0.6               # "kalktı"
+    t_k = wt[2] if len(wt) > 2 else d * 0.5               # "kısmı": kilit "kalktı" demeden hemen önce açılır
     k = int(np.clip((t - (t_k - 0.1)) * 30 / 1.0, 0, 7))
     rgb = loop_frame("kilit", k)
-    img, _ = push(rgb, plate("kilit_0000")["depth"], ease_io(p), 1.0, 1.06, c=(540, 820))
+    img, _ = push(rgb, plate("kilit_0000")["depth"], ease_io(p), 1.0, 1.06, c=(540, 820), dx=hand(t, 2.5, 4)[0], dy=hand(t, 2.5, 4)[1])
     if t_k - 0.1 < t < t_k + 0.15:
-        img = img + 0.25 * (1 - abs(t - t_k) / 0.2)
+        img = img + 0.06 * (1 - abs(t - t_k) / 0.2)
     dx, dy = O.shake(t, t_k, 10)
     img = O.camera(img, 1.0, dx=dx, dy=dy)
 
@@ -579,7 +609,7 @@ def yaptirim(p, t, d, wt, lt):
         if kk > 0:
             chip(im, "BÜYÜK KISMI KALKTI", 540, 1080, GREEN, min(1, kk * 2), 40, anchor="mm")
             O.text(im, "ABD · AB · İNGİLTERE — 2025", 540, 1160, 26, "Inter.ttf", 700, ONE * 0.8,
-                   alpha=seg(t, t_k + 0.3, t_k + 0.6), tracking=3)
+                   alpha=seg(t, t_k + 0.2, t_k + 0.45), tracking=3)
         return im
     return img, post
 
@@ -606,7 +636,7 @@ def tasinma(p, t, d, wt, lt):
 # ================================================================== 12) ALTYAPI: dolaşık kablolar
 def altyapi(p, t, d, wt, lt):
     pl = plate("sehir_sokak")
-    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.07, k=0.25, c=(540, 700))
+    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.07, k=0.25, c=(540, 700), dx=hand(t, 3, 5)[0], dy=hand(t, 3, 5)[1])
     fl = 1.0 if (int(t * 12) % 7) else 0.55                 # titreyen sokak lambası
     img = img * (0.85 + 0.15 * fl)
 
@@ -640,30 +670,28 @@ def cells():
 def elektrik(p, t, d, wt, lt):
     on = plate("sehir_gece_acik")
     off = plate("sehir_gece_kapali")
-    t_y = wt[4] if len(wt) > 4 else d * 0.5                # "yarısından"
+    t_y = wt[3] if len(wt) > 3 else d * 0.5                # "yarısından" (0:Talep 1:edilen 2:elektriğin 3:yarısından)
     lab, when = cells()
     prog = seg(t, t_y - 1.2, t_y + 0.4)
     gone = (when[lab] < prog * 0.62).astype(np.float32)     # sonunda bölgelerin ~%60'ı karanlık
     flick = ((when[lab] * 97 + t * 25) % 1 < 0.5) & (np.abs(when[lab] - prog * 0.62) < 0.03)
     gone = np.maximum(gone, flick.astype(np.float32) * 0.6)
     gone = G.blur(gone, 3)[..., None]
-    rgb = on["rgb"] * (1 - gone) + off["rgb"] * gone
-    img, _ = push(rgb, on["depth"], ease_io(p), 1.0, 1.05, c=(540, 900))
+    rgb = on["rgb"] * (1 - gone) + off["rgb"] * 0.35 * gone              # sönen bölgeler iyice kararır
+    img, _ = push(rgb, on["depth"], ease_io(p), 1.0, 1.05, c=(540, 900), dx=hand(t, 2, 6)[0], dy=hand(t, 2, 6)[1])
 
     def post(im):
         tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "SURİYE  ·  ELEKTRİK", color=WARM, alpha=seg(t, 0.1, 0.4))
         k = ease_out(seg(t, 0.2, 0.6))
         O.glass(im, 120, 300, 840, 250, r=40, frost=16, tint=0.05, alpha=k)
-        O.text(im, "TALEP", 170, 370, 30, "Inter.ttf", 700, ONE * 0.85, "lm", alpha=k, tracking=5)
-        O.rect_fill(im, 330, 352, 560, 36, ONE * 0.25, k, r=18)
-        O.rect_fill(im, 330, 352, 560, 36, ONE * 0.7, k * 0.5, r=18)
-        O.text(im, "KARŞILANAN", 170, 470, 30, "Inter.ttf", 700, ONE * 0.85, "lm", alpha=k, tracking=5)
-        O.rect_fill(im, 330, 452, 560, 36, ONE * 0.12, k, r=18)
+        O.text(im, "TALEP", 160, 370, 28, "Inter.ttf", 700, ONE * 0.85, "lm", alpha=k, tracking=4)
+        O.rect_fill(im, 400, 352, 510, 36, ONE * 0.6, k, r=18)
+        O.text(im, "KARŞILANAN", 160, 470, 28, "Inter.ttf", 700, ONE * 0.85, "lm", alpha=k, tracking=4)
+        O.rect_fill(im, 400, 452, 510, 36, ONE * 0.12, k, r=18)
         fill = 0.48 * ease_out(seg(t, t_y - 0.8, t_y + 0.3))
         if fill > 0.02:
-            O.rect_fill(im, 330, 452, int(560 * fill), 36, WARM, k, r=18)
-        O.text(im, "YARISINDAN AZI", 540, 600, 44, "Montserrat.ttf", 900, WARM, alpha=seg(t, t_y, t_y + 0.3), tracking=4)
+            O.rect_fill(im, 400, 452, int(510 * fill), 36, WARM, k, r=18)
         return im
     return img, post
 
@@ -671,7 +699,7 @@ def elektrik(p, t, d, wt, lt):
 # ================================================================== 14) BANKA: bankamatik uyarı ekranı
 def banka(p, t, d, wt, lt):
     pl = plate("atm_0000")
-    img, _ = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.06, c=(560, 760))
+    img, _ = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.06, c=(560, 760), dx=hand(t, 2.5, 7)[0], dy=hand(t, 2.5, 7)[1])
     if int(t * 10) % 9 == 0:                                # ekran arada bir titrer
         img = img * 0.97
 
@@ -688,7 +716,7 @@ def banka(p, t, d, wt, lt):
 # ================================================================== 15) VERGİ: gümrük kapısı, %0 mı %12 mi?
 def vergi(p, t, d, wt, lt):
     pl = plate("liman_bariyer")
-    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.07, k=0.35, c=(540, 980))
+    img, dep = push(pl["rgb"], pl["depth"], ease_io(p), 1.0, 1.07, k=0.35, c=(540, 980), dx=hand(t, 3, 8)[0], dy=hand(t, 3, 8)[1])
     img = haze(img, dep, (0.22, 0.14, 0.08), 0.004)
     t_v = wt[3] if len(wt) > 3 else d * 0.3               # "vergiyle"
 
@@ -732,14 +760,9 @@ def baslangic(p, t, d, wt, lt):
         O.label(im, "ŞİMDİLİK", color=WARM, alpha=seg(t, 0.1, 0.4))
         x, y = screen_of("El-Rai", cam)
         k1 = ease_out(seg(t, wt[3] - 0.2 if len(wt) > 3 else 0.5, (wt[3] if len(wt) > 3 else 0.5) + 0.2))
-        chip(im, "BAŞLANGIÇ VAR", 575, 520, GREEN, k1, 44, anchor="mm")
-        if k1 > 0.01:
-            O.poly(im, [[378, 522], [393, 537], [420, 505]], G.hexc("#111111"), 7, k1)
+        chip(im, "BAŞLANGIÇ VAR", 540, 520, GREEN, k1, 44, anchor="mm", icon="check")
         k2 = ease_out(seg(t, t_g - 0.2, t_g + 0.2))
-        chip(im, "GÖÇ YOK", 575, 640, RED, k2, 44, anchor="mm", dark=False)
-        if k2 > 0.01:
-            O.poly(im, [[440, 622], [470, 652]], ONE, 7, k2)
-            O.poly(im, [[470, 622], [440, 652]], ONE, 7, k2)
+        chip(im, "GÖÇ YOK", 540, 640, RED, k2, 44, anchor="mm", dark=False, icon="cross")
         O.text(im, "1 FABRİKA", x + 26, y - 20, 30, "Montserrat.ttf", 900, YELLOW, "lm", alpha=seg(t, 0.2, 0.6))
         return im
     return img, post
@@ -753,6 +776,7 @@ def final(p, t, d, wt, lt):
     end_t = t_h + 0.9
 
     def extra(im, c, masks):
+        e_ = seg(t, end_t, end_t + 0.5)
         bl = HM.border_line(masks, "TUR", "SYR").astype(np.float32)
         im += G.blur(bl, 2)[..., None] * WARM * 0.5
         x, y = HM.city_xy("El-Rai", c)
@@ -763,7 +787,6 @@ def final(p, t, d, wt, lt):
             pulse = (t * 1.5) % 1
             O.circle(im, gx, gy, 12, ONE * 0.8, 3, k * (1 - e_))
             O.circle(im, gx, gy, 12 + 30 * pulse, ONE * 0.6, 2, k * (1 - pulse) * (1 - e_))
-        e_ = seg(t, end_t, end_t + 0.5)
         mv = seg(t, t_h - 0.2, t_h + 0.8)
         if mv > 0:
             draw_arrows(im, c, mv, color=WARM, alpha=0.8 * (1 - seg(t, end_t, end_t + 0.4)),
@@ -771,7 +794,7 @@ def final(p, t, d, wt, lt):
     img, _ = map_frame(cam, HI_BASE, extra)
     e = seg(t, end_t, end_t + 0.5)
     if e > 0:
-        img = img * (1 - 0.75 * e)
+        img = img * (1 - 0.85 * e)
 
     def post(im):
         for (lat, lon, n), tt in zip(GHOSTS, (t2, t3)):
@@ -781,12 +804,12 @@ def final(p, t, d, wt, lt):
         x, y = screen_of("El-Rai", cam)
         O.text(im, "1", x + 24, y - 18, 44, "Montserrat.ttf", 900, YELLOW, "lm", alpha=1 - e)
         if e > 0:
-            O.text(im, "Takipte kal.", 540, 800, 60, "InstrumentSerif-Italic.ttf", None, ONE, alpha=e)
-            O.text(im, "PARA NE DİYOR?", 540, 900, 52, "Montserrat.ttf", 900, YELLOW, alpha=seg(t, end_t + 0.2, end_t + 0.6),
-                   tracking=10, glow=0.2)
+            O.text(im, "Takipte kal.", 540, 760, 92, "InstrumentSerif-Italic.ttf", None, ONE, alpha=e)
+            O.text(im, "PARA NE DİYOR?", 540, 890, 64, "Montserrat.ttf", 900, YELLOW, alpha=seg(t, end_t + 0.2, end_t + 0.6),
+                   tracking=10, glow=0.25)
             ln = seg(t, end_t + 0.3, end_t + 0.8)
             if ln > 0:
-                im[948:951, int(540 - 170 * ln):int(540 + 170 * ln)] = YELLOW * 0.85
+                im[948:952, int(540 - 210 * ln):int(540 + 210 * ln)] = YELLOW * 0.85
         return im
     return img, post
 
@@ -794,6 +817,7 @@ def final(p, t, d, wt, lt):
 SAHNELER = dict(fabrika=fabrika, soylenti=soylenti, ilk=ilk, neden=neden, iscilik=iscilik, faiz=faiz,
                 ihracat=ihracat, suriye=suriye, ucret=ucret, yaptirim=yaptirim, tasinma=tasinma, altyapi=altyapi,
                 elektrik=elektrik, banka=banka, vergi=vergi, baslangic=baslangic, final=final)
+BLOOM = dict(yaptirim=0.12, banka=0.2, elektrik=0.3)
 EXPOSURE = dict(fabrika=1.0, soylenti=3.2, ilk=3.2, neden=1.0, iscilik=1.0, faiz=1.0, ihracat=0.9, suriye=1.0,
-                ucret=1.0, yaptirim=1.6, tasinma=3.2, altyapi=4.0, elektrik=3.0, banka=3.0, vergi=0.9, baslangic=3.2,
+                ucret=1.0, yaptirim=1.05, tasinma=3.2, altyapi=4.0, elektrik=1.3, banka=2.2, vergi=0.9, baslangic=3.2,
                 final=3.2)
