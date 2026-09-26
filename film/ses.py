@@ -397,20 +397,22 @@ def reverb_ir(rt60=1.7, d=2.6):
     return ir / np.sqrt((ir ** 2).sum(0, keepdims=True))
 
 
-def master(x, lufs=-18.0, ceiling_db=-1.5):
+def master(x, lufs=-18.0, ceiling_db=-2.5):
+    """Ses yüksekliğini -18 LUFS'a getir, gerçek tepe (4x örnekleme) sınırlayıcıyla taşmayı önle."""
     import pyloudnorm as pyln
     meter = pyln.Meter(SR)
     loud = meter.integrated_loudness(x.astype(np.float64))
     x = x * 10 ** ((lufs - loud) / 20)
     ceil = 10 ** (ceiling_db / 20)
     from scipy.ndimage import minimum_filter1d, uniform_filter1d
+    up = signal.resample_poly(x, 4, 1, axis=0)                       # örnekler arası tepeleri de yakala
+    pk = np.abs(up).max(1)[:4 * len(x)].reshape(-1, 4).max(1)
     look = N(0.004)                                                  # 4 ms ileriyi gören sınırlayıcı
-    req = np.minimum(1.0, ceil / np.maximum(np.abs(x).max(1), 1e-9))
+    req = np.minimum(1.0, ceil / np.maximum(pk, 1e-9))
     g = uniform_filter1d(minimum_filter1d(req, size=2 * look + 1), size=look + 1)
     a = math.exp(-1 / (0.08 * SR))                                   # 80 ms toparlanma
     g = np.minimum(g, signal.lfilter([1 - a], [1, -a], g))
-    y = x * g[:, None]
-    y = np.clip(y, -ceil, ceil)
+    y = np.clip(x * g[:, None], -0.999, 0.999)
     return y.astype(np.float32), loud
 
 
