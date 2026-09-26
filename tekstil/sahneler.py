@@ -353,6 +353,9 @@ def ilk(p, t, d, wt, lt):
     cam = HM.lerp_cam((35.2, 37.6, 120.0), CAM_BORDER, zc)
 
     def extra(im, c, masks):
+        fade = 1 - seg(t, 0.0, 0.5)                         # önceki sahnenin okları yumuşakça söner
+        if fade > 0:
+            draw_arrows(im, c, 1.0, alpha=fade)
         bl = HM.border_line(masks, "TUR", "SYR").astype(np.float32)
         im += G.blur(bl, 2)[..., None] * WARM * 0.5 * zc
         city_dots(im, c, ["Gaziantep", "Kilis", "Halep"], r=6)
@@ -479,7 +482,8 @@ def faiz(p, t, d, wt, lt):
         O.label(im, "NEDEN 2  ·  FAİZ", color=G.GOLD)
         k = ease_out(seg(t, 0.05, 0.45))
         O.glass(im, 140, 330, 800, 760, r=48, frost=18, tint=0.05, alpha=k)
-        O.text(im, "YATIRIM KREDİSİ", 540, 420, 34, "Inter.ttf", 700, ONE * 0.85, alpha=k, tracking=6)
+        O.rect_fill(im, 140, 330, 800, 760, np.zeros(3, np.float32), 0.42 * k, r=48)
+        O.text(im, "YATIRIM KREDİSİ", 540, 420, 34, "Inter.ttf", 700, ONE * 0.92, alpha=k, tracking=6)
         O.text(im, "%", 540, 640, 300, "Montserrat.ttf", 900, ONE, alpha=k, glow=0.15)
         u = ease_io(seg(t, t_f - 0.4, t_f + 0.8))
         if u > 0:                                           # yükselen eğri (rakam uydurmadan: yalnız yön)
