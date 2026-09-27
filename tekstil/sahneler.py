@@ -102,13 +102,6 @@ def finish(lin, seed, exposure=1.0, bloom_k=0.35, vig=0.5, sat=0.92, lift=(0.0, 
     return G.grain(x, grain_amt, seed)
 
 
-def tag(im, txt, x=1010, y=250, a=1.0):
-    """Sağ üstte küçük etiket (TEMSİLİ GÖRSEL, kaynak)."""
-    if a > 0.01:
-        O.text(im, txt, x, y, 20, "Inter.ttf", 600, ONE * 0.8, "rm", alpha=0.75 * a, tracking=3)
-    return im
-
-
 def source(im, txt, a=1.0, y=1255):
     """Küçük kaynak notu (koyu yarı saydam zeminle her arka planda okunur)."""
     if a > 0.01:
@@ -178,7 +171,6 @@ def fabrika(p, t, d, wt, lt):
 
     def post(im):
         shade_top(im, 0.25)
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "TÜRKİYE  ·  TEKSTİL", color=G.GOLD, alpha=seg(t, 0.1, 0.5))
         a = seg(t, t_yil - 0.1, t_yil + 0.25)
         O.text(im, "SON 3,5 YILDA", 540, 420, 34, "Inter.ttf", 700, ONE * 0.9, alpha=a, tracking=6)
@@ -447,7 +439,6 @@ def neden(p, t, d, wt, lt):
     t_n = wt[2] if len(wt) > 2 else d * 0.4
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "SEKTÖRÜN SÖZÜ", color=G.GOLD, alpha=seg(t, 0.1, 0.4))
         reason_cards(im, t, t_n)
         return im
@@ -459,7 +450,6 @@ def iscilik(p, t, d, wt, lt):
     img, _ = push(rgb, dep, 1.0, 1.05, 1.12, c=(600, 700), dx=hand(t + 2.7, 2.0, 1)[0], dy=hand(t + 2.7, 2.0, 1)[1])
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "NEDEN 1  ·  İŞÇİLİK", color=G.GOLD)
         reason_cards(im, 99, 0, focus=0, fk=ease_out(seg(t, 0.0, 0.3)))
         k = spring(seg(t, 0.15, 0.7), 1.3, 5)
@@ -507,7 +497,6 @@ def ihracat(p, t, d, wt, lt):
     t_16 = wt[10] if len(wt) > 10 else d * 0.75            # "%16" (0:Üstüne ... 10:%16, 11:düştü)
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "NEDEN 3  ·  AVRUPA SİPARİŞLERİ", color=WARM, alpha=seg(t, 0.1, 0.4))
         k = ease_out(seg(t, t_ab - 0.1, t_ab + 0.4))
         if k <= 0:
@@ -543,7 +532,6 @@ def suriye(p, t, d, wt, lt):
     img = haze(img, dep, (0.5, 0.33, 0.2), 0.0009)
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "SURİYE", color=WARM, alpha=seg(t, 0.1, 0.4))
         k = spring(seg(t, 0.35, 0.9), 1.2, 5)
         O.text(im, "NEDEN", 540, 470, 60, "Montserrat.ttf", 900, ONE, alpha=min(1, k * 1.5), tracking=14)
@@ -607,7 +595,6 @@ def yaptirim(p, t, d, wt, lt):
     img = O.camera(img, 1.0, dx=dx, dy=dy)
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "YAPTIRIMLAR", color=G.GOLD, alpha=seg(t, 0.1, 0.4))
         kk = spring(seg(t, t_k - 0.05, t_k + 0.5), 1.4, 5)
         if kk > 0:
@@ -645,7 +632,6 @@ def altyapi(p, t, d, wt, lt):
     img = img * (0.85 + 0.15 * fl)
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "SURİYE  ·  ALTYAPI", color=WARM, alpha=seg(t, 0.1, 0.4))
         return im
     return img, post
@@ -685,7 +671,6 @@ def elektrik(p, t, d, wt, lt):
     img, _ = push(rgb, on["depth"], ease_io(p), 1.0, 1.05, c=(540, 900), dx=hand(t, 2, 6)[0], dy=hand(t, 2, 6)[1])
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "SURİYE  ·  ELEKTRİK", color=WARM, alpha=seg(t, 0.1, 0.4))
         k = ease_out(seg(t, 0.2, 0.6))
         O.glass(im, 120, 300, 840, 250, r=40, frost=16, tint=0.05, alpha=k)
@@ -708,7 +693,6 @@ def banka(p, t, d, wt, lt):
         img = img * 0.97
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "SURİYE  ·  BANKACILIK", color=WARM, alpha=seg(t, 0.1, 0.4))
         for i, txt in enumerate(("FATF gri listesinde", "Nakit çekim sınırı var", "Muhabir banka az")):
             k = ease_out(seg(t, 0.3 + i * 0.25, 0.6 + i * 0.25))
@@ -725,7 +709,6 @@ def vergi(p, t, d, wt, lt):
     t_v = wt[3] if len(wt) > 3 else d * 0.3               # "vergiyle"
 
     def post(im):
-        tag(im, "TEMSİLİ GÖRSEL")
         O.label(im, "AVRUPA'YA GİRİŞ", color=WARM, alpha=seg(t, 0.1, 0.4))
         k = ease_out(seg(t, t_v - 0.3, t_v + 0.2))
         if k <= 0:
