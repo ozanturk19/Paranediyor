@@ -2,6 +2,9 @@
 
 Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik stratejisi.
 
+> **Yeni bir film/kurgu yapacak ajan ya da oturum:** önce [`.claude/skills/film-kurgu/SKILL.md`](.claude/skills/film-kurgu/SKILL.md)
+> rehberini baştan sona oku (**ULTRA CREATIVE MOD zorunlu**), sonra `bash kurulum.sh` ile ortamı kur.
+
 ## İçindekiler
 
 | Klasör | Ne var? |
@@ -9,7 +12,10 @@ Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik strateji
 | `rapor/instagram-analiz.md` | Hesap ve rakip analizi, altyazı trendleri, büyüme önerileri, hazır açıklama metinleri |
 | `altyazi/` | Videolara modern, kinetik Türkçe altyazı basan araç |
 | `film/` | "Para nasıl basılır?" animasyon filmi: sahneler, geçişler, ses efektleri |
-| `tekstil/` | "Tekstil Suriye'ye mi kayıyor?" gerçekçi 3D + harita filmi |
+| `tekstil/` | "Tekstil Suriye'ye mi kayıyor?" gerçekçi 3D + harita filmi (yeni filmler için şablon) |
+| `.claude/skills/film-kurgu/` | Film/kurgu rehberi: yaratıcı kurallar, iş akışı, araç haritası, kalite kontrolü, örnek kareler |
+| `kurulum.sh` | Yeni oturumda ortamı tek komutla kurar |
+| `film/miks.py` | Kullanıcının ses kaydını efektlerle karıştırır (efektler konuşurken kısılır, -14 LUFS) |
 
 ## Altyazı stili
 

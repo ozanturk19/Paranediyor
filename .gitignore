@@ -7,8 +7,8 @@ altyazi/models/
 onizleme/
 __pycache__/
 
-# Tekstil filmi harita verisi (Natural Earth, README'deki komutla indirilir)
-tekstil/veri/
+# Harita verisi (Natural Earth; kurulum.sh indirir) — her film klasöründe
+veri/
 
-# Tekstil filmi 3D plakaları (büyük EXR dosyaları, yeniden üretilebilir)
-tekstil/plakalar/
+# 3D plakalar (büyük EXR dosyaları, yeniden üretilebilir) — her film klasöründe
+plakalar/
