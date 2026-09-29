@@ -88,7 +88,7 @@ Kullanıcının kendi okuduğu metne göre hazırlanan, gerçekçi görünümlü
 - Gerçekçi sahneler Blender (Cycles) ile kodla modellenip çizilir (`tekstil/b3d/`): tekstil atölyesi, dikiş makinesi yakın çekim, konteyner limanı ve gümrük bariyeri, temsili Suriye şehri (akşam, gece, sokak), kilit-zincir, bankamatik.
 - Haritalar gerçek sınır verisiyle çizilir (Natural Earth 1:10m). Veri bir kez indirilir:
   `mkdir -p tekstil/veri && cd tekstil/veri && for f in ne_10m_admin_0_countries ne_10m_lakes ne_10m_rivers_lake_centerlines; do curl -sSfLO https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/$f.geojson; done`
-- Grafiklerdeki rakamlar kaynaklarıyla gösterilir (SGK, Eurostat/İHKİB, resmi asgari ücretler).
+- Grafiklerdeki rakamlar perde arkasında güncel kaynaklarla doğrulanır (SGK, Eurostat/İHKİB, resmi asgari ücretler). Kaynaklar filmin içine yazılmaz, yalnızca sohbette bildirilir.
 
 Adımlar:
 
