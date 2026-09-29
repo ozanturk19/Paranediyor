@@ -102,17 +102,6 @@ def finish(lin, seed, exposure=1.0, bloom_k=0.35, vig=0.5, sat=0.92, lift=(0.0, 
     return G.grain(x, grain_amt, seed)
 
 
-def source(im, txt, a=1.0, y=1255):
-    """Küçük kaynak notu (koyu yarı saydam zeminle her arka planda okunur)."""
-    if a > 0.01:
-        m = G.text_mask(txt, "Inter.ttf", 21, 500)
-        w, h = m.shape[1] + 28, m.shape[0] + 14
-        x0 = int(540 - w / 2)
-        O.rect_fill(im, x0, int(y - h / 2), w, h, np.zeros(3, np.float32), 0.55 * a, r=h // 2)
-        G.over(im, ONE * 0.85, m * a, x0 + 14, int(y - m.shape[0] / 2))
-    return im
-
-
 _TOPG = np.clip(1 - _YY / 820, 0, 1)[..., None] ** 1.6
 
 
@@ -182,8 +171,6 @@ def fabrika(p, t, d, wt, lt):
                    scale=sc, glow=0.35)
             O.text(im, "İŞ KAYBI", 540, 660, 40, "Montserrat.ttf", 800, ONE, alpha=seg(t, t_num + 0.3, t_num + 0.6),
                    tracking=10)
-            source(im, "Kaynak: SGK sigortalı çalışan verisi (2022 sonu – Haziran 2026)", seg(t, t_num + 0.5, t_num + 0.9),
-                   y=730)
         return im
     return img, post
 
@@ -520,7 +507,6 @@ def ihracat(p, t, d, wt, lt):
         if k3 > 0:
             sc = lerp(1.4, 1.0, ease_out(k3))
             O.text(im, "−%16", 815, 660, 96, "Montserrat.ttf", 900, RED, alpha=k3, scale=sc, glow=0.35)
-        source(im, "Kaynak: Eurostat verisi (İHKİB raporu), değer bazında, 2026", seg(t, t_16, t_16 + 0.5), y=1045)
         return im
     return img, post
 
@@ -577,8 +563,6 @@ def ucret(p, t, d, wt, lt):
                 O.text(im, f"${int(val * u)}", x, base_y - h - 60, 84, "Montserrat.ttf", 900, col, alpha=min(1, u * 3),
                        glow=0.3)
                 O.text(im, loc, x, base_y + 40, 26, "Inter.ttf", 600, ONE * 0.75, alpha=seg(u, 0.7, 1.0))
-        source(im, "TR: 2026 net asgari ücret, kur ~48,9 · Suriye: Mart 2026 kararnamesi", seg(t, t100 + 0.5, t100 + 1.0),
-               y=1240)
         return im
     return img, post
 
@@ -722,8 +706,6 @@ def vergi(p, t, d, wt, lt):
         O.text(im, shown, 460, 560, 150, "Montserrat.ttf", 900, YELLOW, alpha=k, scale=max(0.3, sy))
         O.text(im, "?", 760, 560, 170, "Montserrat.ttf", 900, ONE, alpha=k * (0.6 + 0.4 * abs(math.sin(t * 5))))
         O.text(im, "Suriye menşeli sayılırsa %0, sayılmazsa ~%12", 540, 690, 26, "Inter.ttf", 600, ONE * 0.8, alpha=k)
-        source(im, "AB–Suriye anlaşması Mayıs 2026'da yeniden yürürlüğe girdi; menşe kuralı belirleyici",
-               seg(t, t_v + 0.8, t_v + 1.2), y=790)
         return im
     return img, post
 

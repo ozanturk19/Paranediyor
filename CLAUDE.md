@@ -17,6 +17,6 @@
 - Kullanıcı film, kurgu, animasyon ya da "bu metne / seslendirmeme video" istediğinde, işe başlamadan önce `.claude/skills/film-kurgu/SKILL.md` rehberini (`film-kurgu` becerisi) baştan sona oku ve adım adım uygula. Okurken `bash kurulum.sh`'ı arka planda çalıştır.
 - **ULTRA CREATIVE MOD ZORUNLU.** Kurgu akıcı, sinematik ve çocuksu olmayan bir hareketli grafik filmi olmalı. İzleyiciyi ilk karede yakalamalı ve sonuna kadar akışta tutmalı (yüksek retention). Her cümlenin kendi görsel fikri, her önemli kelimenin kendi görsel vuruşu olmalı. Sıradan, şablon, slayt gibi iş kabul edilmez.
 - Filmlerde altyazı konumu sabittir ve rehberde yazar (`CAP_TOP = 890`). Yukarıdaki "görselin altı" ve "yüzün altı" kuralları yalnızca hazır videolar içindir.
-- Köşeye "TEMSİLİ GÖRSEL" gibi etiket koyma. Gerçek banknot, logo, marka ve kişileri kopyalama. Ekrandaki her rakamı güncel kaynakla doğrula.
+- Köşeye "TEMSİLİ GÖRSEL" gibi etiket koyma. Filmin içine kaynak ya da dipnot yazısı koyma; kaynakları yalnızca sohbette bildir. Gerçek banknot, logo, marka ve kişileri kopyalama. Ekrandaki her rakamı perde arkasında güncel kaynakla doğrula.
 - Higgsfield kredisi harcama; her şeyi kodla, ücretsiz üret. Gerekirse önce maliyetiyle birlikte kullanıcıya sor.
 - Teslim: kalite kontrolü bitmiş, en fazla 29 MiB MP4 (SendUserFile), ardından sade Türkçe kısa özet. Kodu commit + push et; videolar depoya girmez.

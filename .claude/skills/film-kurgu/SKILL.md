@@ -1,6 +1,6 @@
 ---
 name: film-kurgu
-description: "Para Ne Diyor?" Instagram Reels'i için ultra yaratıcı, sinematik animasyon ve gerçekçi 3D kurgu (film) üretir. Metinden, kullanıcının ses kaydından ya da Instagram Edits ekran görüntüsünden 1080x1920, 30 fps, altyazılı ve efekt sesli MP4 çıkarır. Kullanıcı "film yap", "kurgu yap", "animasyon", "bu metne video", "seslendirmeme görüntü" gibi bir şey istediğinde, işe başlamadan ÖNCE bu rehberi baştan sona oku ve adım adım uygula.
+description: Para Ne Diyor? Instagram Reels için ultra yaratıcı, sinematik animasyon ve gerçekçi 3D film (kurgu) üretir; metin, ses kaydı ya da Instagram Edits ekran görüntüsünden 1080x1920, 30 fps, altyazılı ve efekt sesli MP4 çıkarır. Kullanıcı film yap, kurgu yap, animasyon, bu metne video ya da seslendirmeme görüntü gibi bir şey istediğinde işe başlamadan ÖNCE bu rehberi baştan sona oku ve adım adım uygula.
 ---
 
 # Para Ne Diyor? — Film ve Kurgu Rehberi
@@ -46,6 +46,7 @@ Görsel çıtayı görmek için önce şu iki kontrol sayfasını **Read ile aç
 - **Kullanıcının onayladığı ve istediği şeyler (değiştirme):**
   - Kinetik altyazı stili (§3.4) ve konumu (Instagram arayüzünün kapatmadığı alan).
   - Köşeye "TEMSİLİ GÖRSEL" gibi etiket **koyma**. Kullanıcı "saçma duruyor" dedi.
+  - Filmin içine **kaynak ya da dipnot yazısı koyma** ("Kaynak: SGK…" gibi). Kullanıcı kesinlikle istemiyor. Kaynakları yalnızca teslim mesajında sohbette bildir.
   - Kaynak videolardaki gömülü yazılara (İngilizce altyazı vb.) dokunma, silme, bulanıklaştırma.
   - Higgsfield (Paranediyor bağlayıcısı) kredisi harcama. Her şeyi kodla, ücretsiz üret. Yapay zekâ videosu gerçekten gerekiyorsa önce maliyetiyle birlikte sor. Not: Higgsfield'ın ürettiği dosyalar bu bulut ortamından indirilemiyor.
   - Teslim: "full kontrol sonrası" bitmiş iş. Yarım iş gönderme.
@@ -103,6 +104,7 @@ Görsel çıtayı görmek için önce şu iki kontrol sayfasını **Read ile aç
 | Çizgi-ikon (ince, tek renk, hareketli) | PowerPoint geçişleri (yıldız, perde, dönen küp) |
 | Hayali banknot "PARA NE DİYOR? 100" | Gerçek banknot, logo, marka, gerçek kişi kopyası |
 | Genel/temsili mekân (atölye, liman, şehir) | Belirli bir olayın gerçek görüntüsüymüş gibi sunmak |
+| Rakamı büyük ve net göster | Ekrana kaynak ya da dipnot satırı eklemek |
 
 ### 3.2 Renkler
 
@@ -122,7 +124,7 @@ Zeminler çok koyudur. Hazır zeminler: `ortak.WARM`, `COOL`, `NIGHT` (radyal ı
 ### 3.3 Yazı tipleri
 
 - **Montserrat:** 800-900 ağırlık; başlık, rakam, sayaç.
-- **Inter:** 500-700 ağırlık; etiket, kaynak notu, arayüz.
+- **Inter:** 500-700 ağırlık; etiket, arayüz yazıları.
 - **Instrument Serif Italic:** duygu ve vurgu kelimeleri ("aslında", "henüz değil", "söyler.").
 
 Fontlar `altyazi/fonts/` altındadır (`kurulum.sh` indirir). Türkçe büyük harf için `tr_upper` kullan (i→İ, ı→I).
@@ -219,12 +221,12 @@ Ek kurallar:
 ## 6. Doğruluk ve etik
 
 - **Rakamları doğrulat.** Metindeki her rakamı ve iddiayı alt-ajana web'de doğrulat. Alt-ajan kaynak adı, tarih ve rakamla, "Doğru / Büyük ölçüde doğru / Şüpheli / Yanlış" diye rapor versin. Haber sitelerini WebFetch açamayabilir, arama sonuçları yeterli olur.
-- **Kaynağı göster.** Ekranda küçük kaynak notu koy: `source()` ("Kaynak: SGK …, 2026").
+- **Kaynak filme yazılmaz.** Doğrulama perde arkasında yapılır. Kaynakları (ad, tarih, rakam) teslim mesajında kullanıcıya kısaca yaz; isterse gönderi açıklamasına ekler.
 - **Ekran = doğrulanmış kaynak.** Ekrandaki her rakam doğrulanmış kaynakla aynıdır. Seslendirme farklı bir rakam söylüyorsa bunu kullanıcıya bildir.
 - **Yanlış rakam:**
   - Kayıt henüz yoksa: düzeltilmiş cümleyi öner, kullanıcı öyle okusun.
   - Kayıt varsa: kullanıcıya hemen bildir ve o cümleyi yeniden okumasını öner. Beklerken yanlış rakamı ekranda büyütme ya da vurgulama.
-- **Sınırdaki iddia:** Metindeki iddia sınırdaysa ekranda doğru nüansı göster. Örnek: "%0 mı %12 mi? Menşe kuralı belirleyici". Teslim mesajında kullanıcıya kısaca not düş. Kullanıcı kaydı zaten okuduysa metni değiştirme.
+- **Sınırdaki iddia:** Metindeki iddia sınırdaysa doğru nüansı sahnenin görselinin parçası olarak göster; ayrı dipnot satırı ekleme. Örnek: gümrük sahnesinde "%0" ile "%12" arasında dönen gösterge. Teslim mesajında kullanıcıya kısaca not düş. Kullanıcı kaydı zaten okuduysa metni değiştirme.
 - **Çekinceleri koru:** "bildirilen", "yaklaşık", "civarında" gibi ifadeleri kaldırma.
 - **Uydurma yok:** Uydurma rakam, grafik ekseni ya da tarih koyma. Veri yoksa grafik yalnızca yönü göstersin (ör. yükselen faiz eğrisi, eksen değeri yok).
 - **Görsel etik:** Gerçek kişi, logo, marka ve banknot kopyalanmaz. Şirket adı gerekmedikçe ekrana yazılmaz.
@@ -337,7 +339,7 @@ Kod yazmadan önce her cümle için bir satır yaz. Tekstil filminden örnek:
   - Çizim: `draw_arrows`, `city_dots`, `label_city`, `screen_of`, `HM.border_line`, `HM.lerp_cam` (yumuşak yakınlaşma).
   - Şehir koordinatları `HM.CITIES` içinde; yeni şehir eklenebilir.
 - **Veri ve arayüz:**
-  - `chip(yazı, ikon="check"/"cross")`, `arrow(yukarı/aşağı)` (fontta ok işareti yok, çizilir), `source()`, `counter_text()`.
+  - `chip(yazı, ikon="check"/"cross")`, `arrow(yukarı/aşağı)` (fontta ok işareti yok, çizilir), `counter_text()`.
   - Hazır desenler: `reason_cards`, `dot_field` (nokta alanı), çubuk karşılaştırma (ihracat/ücret), dönen gösterge (vergi), bölge bölge sönme (`cells`).
 - **Genel araçlar** (`film/ortak.py`):
   - Yazı ve etiket: `text(... glow=, scale=, tracking=)`, `label()`.
@@ -393,7 +395,7 @@ Kod yazmadan önce her cümle için bir satır yaz. Tekstil filminden örnek:
 - [ ] Hiçbir yazı üst üste binmiyor. Altyazı ile sahne yazısı çakışmıyor.
 - [ ] Güvenli alanlar (§3.5) korunuyor. Yazılar koyu ve açık zeminde okunuyor (`shade_top`, koyu panel).
 - [ ] Türkçe karakterler doğru (İ, ı, ş, ğ, ç, ö, ü). Yazım hatası yok.
-- [ ] Rakamlar metinle ve doğrulanmış kaynakla aynı. Kaynak notu var.
+- [ ] Rakamlar metinle ve doğrulanmış kaynakla aynı. Ekranda kaynak ya da dipnot yazısı yok.
 - [ ] Tam çözünürlükte en az iki kırpıntıya bakıldı (sıkıştırma kalitesi, ince yazılar).
 - [ ] Çocuksu, emoji, clip-art, "TEMSİLİ GÖRSEL" etiketi yok.
 
