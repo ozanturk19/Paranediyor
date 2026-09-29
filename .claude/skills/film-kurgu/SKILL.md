@@ -27,7 +27,7 @@ Görsel çıtayı görmek için önce şu iki kontrol sayfasını **Read ile aç
 ## 0. İlk adımlar (her yeni işte, sırayla)
 
 1. Bu dosyayı sonuna kadar oku. `CLAUDE.md` kurallarını da uygula.
-2. Ortamı kur: `bash kurulum.sh` (ilk seferde 3-5 dk; Blender modülü, fontlar, Whisper modeli, harita verisi).
+2. Rehberi okurken ortam kurulumunu arka planda başlat: `bash kurulum.sh` (Bash `run_in_background`; ilk seferde 3-5 dk: Blender modülü, fontlar, Whisper modeli, harita verisi).
 3. Örnek kontrol sayfalarını aç (yukarıda).
 4. Kullanıcıdan gelenleri topla:
    - **Metin** (zorunlu). Metin yoksa önce 45-60 sn'lik bir metin taslağı yaz ve onay al; seslendirmeyi kullanıcı kendisi yapar.
@@ -54,7 +54,9 @@ Görsel çıtayı görmek için önce şu iki kontrol sayfasını **Read ile aç
 
 ## 2. ULTRA CREATIVE MOD — ölçülebilir tanım
 
-1. **Her cümle = bir görsel fikir.** Senaryo tablosunda her cümle için en az 3 alternatif fikir yaz. İlk akla geleni değil, en şaşırtıcı ve en net olanı seç. Aynı görsel fikir filmde iki kez kullanılmaz.
+1. **Her cümle = bir görsel fikir.** Senaryo tablosunda her cümle için en az 3 alternatif fikir yaz. İlk akla geleni değil, en şaşırtıcı ve en net olanı seç. Elenen iki fikri de tabloya kısaca yaz.
+   - **Fikir tekrar etmez:** aynı metafor ve kompozisyon filmde iki kez kullanılmaz.
+   - **Teknik tekrar edebilir:** örneğin iki ayrı çubuk grafik olabilir. Ama arka arkaya gelmez ve kompozisyonları farklıdır.
 2. **Soyut kavram → somut metafor.** Örnekler (hepsi yapıldı, kodda var):
 
    | Kavram | Metafor |
@@ -81,7 +83,9 @@ Görsel çıtayı görmek için önce şu iki kontrol sayfasını **Read ile aç
 5. **Her sahnede bir "vay" anı.** Bunlardan biri: dönüşüm, ölçek şoku, beklenmedik kamera, gizli detayın ortaya çıkması ya da ters köşe.
 6. **Geçişler anlam taşır.** Hareket yönünde savurma, bir nesnenin içine dalma, eşleşen kesme (rakamlar → matbaa). Anahtar anlarda sert kesme + flaş.
 7. **Ses görüntünün yarısıdır.** Her görsel olayın bir sesi var (§5). Sessiz boşluk yok.
-8. **Son söz akılda kalır.** Güçlü kapanış cümlesi + "PARA NE DİYOR?" kartı. Mümkünse son kare başa bağlanır (döngü = tekrar izlenme).
+8. **Son söz akılda kalır.**
+   - **Kapanış zorunlu:** güçlü kapanış cümlesi + "PARA NE DİYOR?" kartı (~2.4 sn, `TAIL`).
+   - **Döngü isteğe bağlı:** kartın zemini ya da son hareketi ilk kareye görsel olarak bağlanırsa izleyici başa sardığını fark etmez ve tekrar izler.
 9. **Kalite çıtası:** Bloomberg Quicktake, Vox, The Economist Films, Johnny Harris harita anlatımı, Apple keynote hareket grafikleri. Kopyalama; çıta olarak kullan.
 
 ---
@@ -181,7 +185,9 @@ Fontlar `altyazi/fonts/` altındadır (`kurulum.sh` indirir). Türkçe büyük h
   | `karart` | Karartma |
   | `kes` | Düz kesme |
 
-  Geçiş yarım süresi 0.16-0.35 sn. Her geçişin sesi var (`ses.py` aynı tabloyu okur).
+  - Yarım süre: `kes` ve `flas` için **0.0 olmalı** (başka değer verilirse geçiş yumuşak erimeye döner). Diğerleri 0.16-0.35 sn.
+  - `GECIS` tablosunda olmayan sahne düz kesmeyle girer.
+  - Her geçişin sesi var: `ses.py` aynı tabloyu okur ve bütün türleri seslendirir.
 
 ---
 
@@ -201,7 +207,8 @@ Ek kurallar:
 
 - **Her 2-3 sn'de bir desen kırılımı:** yeni sahne, zoom, renk değişimi, sayaç ya da flaş.
 - **Hiçbir cümle görselsiz kalmaz.** Hiçbir önemli kelime vuruşsuz kalmaz.
-- **Toplam süre 45-70 sn.** Seslendirme ne kadarsa film o kadar; kapanış kartı için +2 sn.
+- **Toplam süre 45-70 sn, kapanış kartı dahil.** Seslendirme ne kadarsa film o kadar, üstüne kapanış kartı (~2.4 sn).
+- **Kelime bütçesi:** 60 sn'lik bir film için metin ~130-150 kelime (enerjik okuma, ~6.4 hece/sn). Metni sen yazıyorsan bu sınırı aşma.
 - **Ses tasarımı:**
   - Her olayın bir sesi var: darbe, whoosh, tık, çan, parçacık dokusu, ortam sesi.
   - Hafif oda sesi sayesinde hiç tam sessizlik olmaz.
@@ -213,6 +220,10 @@ Ek kurallar:
 
 - **Rakamları doğrulat.** Metindeki her rakamı ve iddiayı alt-ajana web'de doğrulat. Alt-ajan kaynak adı, tarih ve rakamla, "Doğru / Büyük ölçüde doğru / Şüpheli / Yanlış" diye rapor versin. Haber sitelerini WebFetch açamayabilir, arama sonuçları yeterli olur.
 - **Kaynağı göster.** Ekranda küçük kaynak notu koy: `source()` ("Kaynak: SGK …, 2026").
+- **Ekran = doğrulanmış kaynak.** Ekrandaki her rakam doğrulanmış kaynakla aynıdır. Seslendirme farklı bir rakam söylüyorsa bunu kullanıcıya bildir.
+- **Yanlış rakam:**
+  - Kayıt henüz yoksa: düzeltilmiş cümleyi öner, kullanıcı öyle okusun.
+  - Kayıt varsa: kullanıcıya hemen bildir ve o cümleyi yeniden okumasını öner. Beklerken yanlış rakamı ekranda büyütme ya da vurgulama.
 - **Sınırdaki iddia:** Metindeki iddia sınırdaysa ekranda doğru nüansı göster. Örnek: "%0 mı %12 mi? Menşe kuralı belirleyici". Teslim mesajında kullanıcıya kısaca not düş. Kullanıcı kaydı zaten okuduysa metni değiştirme.
 - **Çekinceleri koru:** "bildirilen", "yaklaşık", "civarında" gibi ifadeleri kaldırma.
 - **Uydurma yok:** Uydurma rakam, grafik ekseni ya da tarih koyma. Veri yoksa grafik yalnızca yönü göstersin (ör. yükselen faiz eğrisi, eksen değeri yok).
@@ -234,6 +245,28 @@ cp -r tekstil <kisa-konu-adi>      # örn: altin, kira, borsa
 - `.gitignore`, `veri/` ve `plakalar/` klasörlerini her yerde yok sayar.
 - 3D çıktı klasörünü `TEKSTIL_3D_OUT` ortam değişkeniyle ver (adı böyle kalabilir). Çıktıyı scratchpad'e yaz; büyük EXR dosyaları depoya girmez.
 
+**Kopyaladıktan sonra yeni filme göre değiştirilecek yerler** (hepsi zorunlu):
+
+| Dosya | Değişecek |
+|---|---|
+| `zamanlama.py` | `LINES` (cümleler, sahne adları, saniyeler, altyazı sayfaları), `GECIS` (ilk sahne hariç her sahnenin giriş geçişi), `SYL_OVERRIDE` (rakamların okunuş heceleri) |
+| `sahneler.py` | Sahne fonksiyonları; `SAHNELER` sözlüğü (her sahne burada olmalı); isteğe bağlı `EXPOSURE`, `BLOOM`; animasyon sahneleri için `ANIMASYON` |
+| `ses.py` | `build()` içindeki "SAHNEYE ÖZEL OLAYLAR" blokları eski filme aittir: sil ve yeni sahnelere göre yaz. "ORTAK KISIM" (geçiş sesleri, oda sesi) kalır. Eski bir blok kalırsa anlaşılır bir hata verir. |
+| `b3d/` | Yeni 3D sahneler; kullanılmayan eski sahne betikleri silinebilir. |
+| `harita.py` | Başka bir bölge gerekiyorsa `ISO` listesi, `_load()` içindeki boylam/enlem sınırları, `LAT0` ve `CITIES`. |
+
+**Dünyaları karıştırma** (gerçekçi 3D + `film/` animasyon sahneleri aynı filmde):
+
+- `film/sahne1.py` ve `sahne2.py` sahneleri 4 argüman alır, şablon 5 argümanla çağırır. Sarmalayıcıyla ekle ve adını `ANIMASYON`'a yaz; bu sahneler gerçekçi değil animasyon renk işlemi (`gfx.finish`) alır:
+
+  ```python
+  import sahne2 as S2          # sahneler.py içinde; ../film zaten sys.path'te
+  SAHNELER["enflasyon"] = lambda p, t, d, wt, lt: S2.enflasyon(p, t, d, wt)
+  ANIMASYON.add("enflasyon")
+  ```
+
+- Yeni animasyon sahnesi yazarken de aynı yol: doğrusal renkle çiz, `ANIMASYON`'a ekle.
+
 ### 7.2 Zaman çizelgesi (`zamanlama.py`)
 
 - `LINES` listesi `(sahne, ekrandaki_saniye, cümle, altyazı_sayfaları)` biçimindedir.
@@ -241,7 +274,8 @@ cp -r tekstil <kisa-konu-adi>      # örn: altin, kira, borsa
 - Zamanlama üç yoldan birinden gelir, en iyiden kötüye:
   1. **Ses kaydı:** `python3 altyazi/yaziya_dok.py kayit.m4a tr` → `kayit_kelimeler.json`. Sonra `--vo kayit_kelimeler.json`; kelime kelime hizalanır (`film/zaman.py::_align`, eşleşmeyen kelimeleri komşularından doldurur).
   2. **Edits ekran görüntüsü:** cümle başlarının tam saniyeleri `LINES`'a yazılır. `_fit_starts()` hece hızı modeliyle gerçek başlangıçları o saniyelerin içine oturtur.
-  3. **Hiçbiri yoksa:** hece sayısından tahmin (`film/zaman.py`, 6.4 hece/sn).
+  3. **Hiçbiri yoksa:** `LINES`'taki saniyeleri `None` yaz; cümle başları hece sayısından tahmin edilir (6.4 hece/sn, cümle arası 0.35 sn). Kayıt gelince 1. yola geç.
+- **Rakamlar:** hece sayısını okunuşundan `SYL_OVERRIDE`'a ekle ("350.000" = üç-yüz-el-li-bin = 5; "%16" = yüz-de-on-al-tı = 5).
 - `GECIS` tablosu (gelen sahne → geçiş türü, yarım süre, ayar) görüntü ve sesin ortak kaynağıdır.
 - `python3 zamanlama.py` çalıştır. "sayfa/kelime uyumsuzluğu: yok" görmelisin.
 
@@ -249,16 +283,16 @@ cp -r tekstil <kisa-konu-adi>      # örn: altin, kira, borsa
 
 Kod yazmadan önce her cümle için bir satır yaz. Tekstil filminden örnek:
 
-| Cümle | Görsel fikir | Teknik | Geçiş | Ses |
-|---|---|---|---|---|
-| "…3,5 yılda 350.000 iş kaybetti." | Boş atölyede kamera ilerler, kırmızı "−350.000" sayacı | 3D + sayaç | — | floresan vızıltısı, darbe, sayaç tıkları |
-| "Herkes Suriye'ye kayıyor diyor." | Eğik harita, merkezlerden sınıra ışık okları, cam söylenti balonları | harita | erit | whoosh, pop |
-| "…ilk Türk fabrikasında 150 kişi" | El-Rai'ye yakınlaşma, nabız atan pin; 150 sarı nokta → 350.000 nokta | harita + veri | kes | çan, yükselen gerilim, darbe |
-| "İşçilik maliyetleri çok yüksek." | Dikiş makinesi makro, iğne döngüsü, neden kartları | 3D makro + cam panel | savur | dikiş makinesi sesi |
-| "…ilk 5 ayda %16 düştü." | Gün batımı liman, iki çubuk, "−%16" | 3D + grafik | zoom | gemi düdüğü, darbe |
-| "Yaptırımların büyük kısmı kalktı." | Kilit açılır, yeşil çip | 3D makro | savur | kilit + zincir şıkırtısı |
-| "Peki taşınıyor mu? Hayır…" | Oklar yola çıkar, "HAYIR"da durur | harita | erit | bant durması + darbe |
-| "Elektriğin yarısından azı…" | Gece şehri bölge bölge söner, talep/karşılanan çubuğu | 3D + veri | erit | tık tık sönme, inen ton |
+| Cümle | Seçilen görsel fikir | Elenen fikirler | Teknik | Geçiş | Ses |
+|---|---|---|---|---|---|
+| "…3,5 yılda 350.000 iş kaybetti." | Boş atölyede kamera ilerler, kırmızı "−350.000" sayacı | Kapanan kepenkler; boşalan sandalye sayacı | 3D + sayaç | — | floresan vızıltısı, darbe, sayaç tıkları |
+| "Herkes Suriye'ye kayıyor diyor." | Eğik harita, merkezlerden sınıra ışık okları, cam söylenti balonları | Kulaktan kulağa fısıltı; haber manşeti kolajı | harita | erit | whoosh, pop |
+| "…ilk Türk fabrikasında 150 kişi" | El-Rai'ye yakınlaşma, nabız atan pin; 150 sarı nokta → 350.000 nokta | Fabrika kapısında 150 insan silueti; tek başına rakam | harita + veri | kes | çan, yükselen gerilim, darbe |
+| "İşçilik maliyetleri çok yüksek." | Dikiş makinesi makro, iğne döngüsü, neden kartları | Maaş bordrosu; yükselen merdiven | 3D makro + cam panel | savur | dikiş makinesi sesi |
+| "…ilk 5 ayda %16 düştü." | Gün batımı liman, iki çubuk, "−%16" | Azalan kargo gemisi; boşalan konteyner | 3D + grafik | zoom | gemi düdüğü, darbe |
+| "Yaptırımların büyük kısmı kalktı." | Kilit açılır, yeşil çip | Kalkan bariyer; kırılan zincir | 3D makro | savur | kilit + zincir şıkırtısı |
+| "Peki taşınıyor mu? Hayır…" | Oklar yola çıkar, "HAYIR"da durur | Yarıda kalan kamyon; dönen tabela | harita | erit | bant durması + darbe |
+| "Elektriğin yarısından azı…" | Gece şehri bölge bölge söner, talep/karşılanan çubuğu | Titreyen tek ampul; jeneratör kuyruğu | 3D + veri | erit | tık tık sönme, inen ton |
 
 ### 7.4 3D plakalar (`b3d/`, Blender 5.0.1 Python modülü, Cycles CPU)
 
@@ -364,7 +398,21 @@ Kod yazmadan önce her cümle için bir satır yaz. Tekstil filminden örnek:
 - [ ] Çocuksu, emoji, clip-art, "TEMSİLİ GÖRSEL" etiketi yok.
 
 **Ses**
-- [ ] Efektler olaylarla aynı anda: flaş/darbe karesi ile ses başlangıcı arasında 0.05 sn'den az fark.
+- [ ] Efektler olaylarla aynı anda: flaş/darbe karesi ile ses başlangıcı arasında 0.05 sn'den az fark. Ölçüm:
+
+  ```python
+  # t0-t1: olayın beklendiği ±0.4 sn'lik aralık. Ses başlangıcı ile görüntüdeki en büyük parlaklık sıçramasını karşılaştırır.
+  import subprocess, numpy as np
+  f = "cikti.mp4"; t0, t1 = 23.5, 24.2
+  a = np.frombuffer(subprocess.run(["ffmpeg", "-v", "error", "-i", f, "-ac", "1", "-ar", "48000", "-f", "f32le", "-"],
+                    capture_output=True).stdout, np.float32)
+  v = np.frombuffer(subprocess.run(["ffmpeg", "-v", "error", "-i", f, "-vf", "scale=54:96", "-f", "rawvideo", "-pix_fmt", "gray", "-"],
+                    capture_output=True).stdout, np.uint8).reshape(-1, 96, 54).mean((1, 2))
+  e = np.convolve(np.abs(a[int(t0 * 48000):int(t1 * 48000)]), np.ones(96) / 96, "same")
+  ses = t0 + np.argmax(e > e.max() * 0.5) / 48000
+  kare = (int(t0 * 30) + 1 + np.argmax(np.diff(v[int(t0 * 30):int(t1 * 30)]))) / 30
+  print(f"ses {ses:.3f} sn, görüntü {kare:.3f} sn, fark {abs(ses - kare):.3f} sn")
+  ```
 - [ ] `ffmpeg -i cikti.mp4 -af ebur128=peak=true -f null -` → kayıtlıysa ~-14 LUFS, değilse ~-19 LUFS; tepe ≤ -1 dBFS.
 - [ ] Cızırtı ya da ani tık yok.
 
@@ -403,6 +451,10 @@ Kod yazmadan önce her cümle için bir satır yaz. Tekstil filminden örnek:
 - **Kullanıcının büyük dosyaları:** 30 MB üstünü parça parça gönderir. Parçaları `ffmpeg -f concat` ile birleştir.
 - **iPhone HDR videolar:** `altyazi/render.py::hdr_to_sdr` ve `auto_npl` kullan.
 - **Bash `sleep` zinciri engelli.** Uzun işi `run_in_background` ile başlat ya da `until …; do sleep 5; done` döngüsüyle bekle.
+- **Bash çağrıları arasında değişkenler korunmaz.** `export`, `cd` ve kabuk değişkenleri bir sonraki çağrıda yoktur. Her komutta yolları tam yaz ya da aynı komutun içinde tanımla.
+- **Türkçe büyük harf:** `altyazi/render.py::tr_upper` (Python'un `upper()`'ı i→I yapar, yanlış).
+- **Harita bölgesi:** `harita.py` şu an Doğu Akdeniz'i yükler (ülke listesi + sınır kutusu). Başka bölge için §7.1 tablosuna bak.
+- **Teslim aracı:** SendUserFile yoksa dosyayı depo içindeki `videolar/` klasörüne koy ve kullanıcıya dosya adını söyle (uygulama depo klasöründeki dosyaları açabilir).
 - **Stop hook** commit edilmemiş değişiklik bırakmamanı ister: işi bitirince commit + push.
 
 ---
@@ -423,18 +475,19 @@ Kod yazmadan önce her cümle için bir satır yaz. Tekstil filminden örnek:
 
 ## 10. Hızlı başlangıç özeti
 
+Bash çağrıları arasında değişkenler korunmaz. Aşağıda `<S>` = bu oturumun scratchpad klasörü (sistem isteminde yazar), `<K>` = yeni film klasörü (ör. `/home/user/Paranediyor/altin`). Her satır ayrı bir komuttur ve yolları tam içerir.
+
 ```bash
-bash kurulum.sh
-SCRATCHPAD=<bu oturumun scratchpad klasörü>             # sistem isteminde yazar
-cp -r tekstil yeni_konu && cd yeni_konu
-# 1) zamanlama.py: LINES + GECIS   2) b3d/ yeni 3D sahneler (gerekirse)   3) sahneler.py: sahne fonksiyonları
-export TEKSTIL_3D_OUT=$SCRATCHPAD/plaka
-python3 zamanlama.py                                   # kelime/sayfa uyumu
-python3 film.py kare $SCRATCHPAD/t.png 1.0 5.0 12.0    # tek kare testleri
-python3 film.py kontrol $SCRATCHPAD/kontrol --adim 10  # kontrol sayfaları
-python3 ses.py $SCRATCHPAD/sfx.wav
-python3 film.py tam $SCRATCHPAD/master.mp4
-python3 ../film/teslim.py $SCRATCHPAD/master.mp4 $SCRATCHPAD/sfx.wav ../videolar/yeni-konu.mp4 29
+bash /home/user/Paranediyor/kurulum.sh                                  # arka planda, rehberi okurken
+cp -r /home/user/Paranediyor/tekstil <K>                                # sonra §7.1 tablosundaki dosyaları düzenle
+cd <K> && python3 zamanlama.py                                          # "uyumsuzluk: yok" görmelisin
+cd <K>/b3d && TEKSTIL_3D_OUT=<S>/plaka python3 fabrika.py genis 25 0    # 3D kadraj denemesi (kendi sahne betiğinle)
+cd <K> && TEKSTIL_3D_OUT=<S>/plaka python3 film.py kare <S>/t.png 1.0 5.0 12.0
+cd <K> && TEKSTIL_3D_OUT=<S>/plaka python3 film.py kontrol <S>/kontrol --adim 10
+cd <K> && python3 ses.py <S>/sfx.wav                                    # kayıt varsa sona kelimeler.json
+cd <K> && TEKSTIL_3D_OUT=<S>/plaka python3 film.py tam <S>/master.mp4  # arka planda, ~12-14 dk
+python3 /home/user/Paranediyor/film/miks.py <kayit.m4a> <S>/sfx.wav <S>/miks.wav        # yalnız kayıt varsa
+python3 /home/user/Paranediyor/film/teslim.py <S>/master.mp4 <S>/miks.wav /home/user/Paranediyor/videolar/<ad>.mp4 29
 ```
 
 Unutma: **ULTRA CREATIVE MOD.** Her sahne sorusu: "Bu, izleyiciyi bir sonraki saniyeye taşıyor mu?" Cevap "belki" ise sahneyi yeniden düşün.

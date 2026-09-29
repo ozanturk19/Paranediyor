@@ -92,7 +92,7 @@ Kullanıcının kendi okuduğu metne göre hazırlanan, gerçekçi görünümlü
 
 Adımlar:
 
-1. Blender modülü: `pip install bpy OpenEXR` (bpy numpy<2 ister).
+1. Ortam: `bash kurulum.sh` (Blender modülü ve uyumlu numpy/opencv sürümleri, fontlar, modeller, harita verisi).
 2. 3D plakalar: `cd tekstil/b3d && TEKSTIL_3D_OUT=../plakalar python3 fabrika.py genis 100 0` (diğerleri: `fabrika.py yakin 100 0 1 2 3 4 5 6 7`, `liman.py koridor|bariyer 100`, `sehir.py aksam|sokak|gece_acik|gece_kapali 100`, `detay.py kilit 100 0 1 2 3 4 5 6 7`, `detay.py atm 100`).
 3. Zamanlama: `python3 tekstil/zamanlama.py` (Instagram Edits'in altyazı ekranındaki cümle saniyelerinden hesaplanır).
 4. Ses efektleri: `python3 tekstil/ses.py sfx.wav`

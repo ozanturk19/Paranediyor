@@ -2,6 +2,9 @@
 
 Harita bir "kamera" ile çizilir: merkez (boylam, enlem) ve ölçek (derece başına piksel).
 Sahneler kamerayı zamanla kaydırıp yakınlaştırarak hikâyeyi anlatır.
+
+Bölge: şu an Doğu Akdeniz ve çevresi. Başka bir bölge için ISO listesine ülke kodlarını (ADM0_A3) ekle,
+_load() içindeki boylam/enlem sınırlarını genişlet ve LAT0'ı bölgenin ortalama enlemine ayarla.
 """
 import json, math, os
 import cv2

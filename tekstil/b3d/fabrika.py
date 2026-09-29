@@ -320,15 +320,12 @@ def yakin(pct=50, frames=(0,), loop=8):
     print("bolge", round(bx0, 3), round(bx1, 3), round(by0, 3), round(by1, 3))
 
 
-if __name__ == "__main__":
-    mode = sys.argv[1]
-    pct = int(sys.argv[2]) if len(sys.argv) > 2 else 50
-    frames = [int(a) for a in sys.argv[3:]] or [0]
-    {"genis": genis, "yakin": yakin}[mode](pct, frames)
-
-
 def dene(pct=25, cams=()):
-    """Hızlı kadraj denemesi: aynı sahneden birkaç kamera açısı (düşük örnek)."""
+    """Hızlı kadraj denemesi: aynı sahneden birkaç kamera açısı (düşük örnek, %25 çözünürlük).
+
+    cams: [((kamera_x, y, z), (hedef_x, y, z), lens_mm, odak_uzaklığı_m), ...]
+    Çalıştırma: python3 -c "import sys; sys.argv=['x']; import fabrika as F; F.dene(25, [((-0.8,-0.6,1.05),(-2.6,9,0.88),24,1.9)])"
+    """
     build()
     T.render_setup(samples=12, pct=pct)
     for i, (loc, tgt, lens, focus) in enumerate(cams):
@@ -336,3 +333,10 @@ def dene(pct=25, cams=()):
             bpy.data.objects.remove(o, do_unlink=True)
         T.camera(loc, tgt, lens=lens, fstop=2.0, focus=focus)
         T.render(f"fabrika_dene_{i}")
+
+
+if __name__ == "__main__":
+    mode = sys.argv[1]
+    pct = int(sys.argv[2]) if len(sys.argv) > 2 else 50
+    frames = [int(a) for a in sys.argv[3:]] or [0]
+    {"genis": genis, "yakin": yakin}[mode](pct, frames)

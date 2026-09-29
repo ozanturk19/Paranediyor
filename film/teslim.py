@@ -14,6 +14,7 @@ def duration(path):
 
 
 def encode(master, sfx, out, limit_mib=29.0, audio_kbps=160):
+    os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     dur = duration(master)
     total_kbit = limit_mib * 1024 * 1024 * 8 / 1000 * 0.985            # kapsayıcı payı
     vk = int(total_kbit / dur - audio_kbps)

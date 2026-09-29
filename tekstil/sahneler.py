@@ -804,6 +804,11 @@ def final(p, t, d, wt, lt):
 SAHNELER = dict(fabrika=fabrika, soylenti=soylenti, ilk=ilk, neden=neden, iscilik=iscilik, faiz=faiz,
                 ihracat=ihracat, suriye=suriye, ucret=ucret, yaptirim=yaptirim, tasinma=tasinma, altyapi=altyapi,
                 elektrik=elektrik, banka=banka, vergi=vergi, baslangic=baslangic, final=final)
+# Kayıtlar (yeni filmde güncelle): her sahne SAHNELER'de olmalı. EXPOSURE ve BLOOM isteğe bağlı (varsayılan 1.0 / 0.35).
+# ANIMASYON: film/ tarzı çizilmiş (doğrusal, gfx.finish renk işlemi isteyen) sahnelerin adları. film/sahne1-2.py'deki
+# 4 argümanlı bir sahneyi kullanmak için:  import sahne2 as S2 (sys.path'e ../film eklidir)
+#   SAHNELER["enflasyon"] = lambda p, t, d, wt, lt: S2.enflasyon(p, t, d, wt);  ANIMASYON.add("enflasyon")
+ANIMASYON = set()
 BLOOM = dict(yaptirim=0.12, banka=0.2, elektrik=0.3)
 EXPOSURE = dict(fabrika=1.0, soylenti=3.2, ilk=3.2, neden=1.0, iscilik=1.0, faiz=1.0, ihracat=0.9, suriye=1.0,
                 ucret=1.0, yaptirim=1.05, tasinma=3.2, altyapi=4.0, elektrik=1.3, banka=2.2, vergi=0.9, baslangic=3.2,

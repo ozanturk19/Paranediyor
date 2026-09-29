@@ -96,13 +96,21 @@ def unlock():
 
 # ================================================================== olaylar
 def build(tl):
-    scs = {sc["scene"]: sc for sc in Z.scenes(tl)}
-    M = S.Mix(scs["final"]["end"])
+    sahneler = Z.scenes(tl)
+    scs = {sc["scene"]: sc for sc in sahneler}
+    toplam = sahneler[-1]["end"]
+    M = S.Mix(toplam)
 
     def W(name):
+        if name not in scs:
+            raise KeyError(f"ses.py: '{name}' sahnesi zaman çizelgesinde yok. Bu blok önceki filme ait: "
+                           "yeni filmde bu bloğu sil ya da yeni sahneye göre yeniden yaz.")
         sc = scs[name]
         return sc["start"], sc["end"] - sc["start"], [w - sc["start"] for w in sc["t"]], \
             [x - sc["start"] for x in sc["line_t"]]
+
+    # ======== SAHNEYE ÖZEL OLAYLAR (bu filme ait) — yeni filmde bu blokları sil, yeni sahnelere göre yaz ========
+    # Her olayın zamanı, görüntüdeki olayla AYNI formülden hesaplanır (aynı wt[...] indeksi, aynı gecikme).
 
     # 1) fabrika: floresan vızıltısı, uzak makineler, 350.000 sayacı
     s, d, wt, lt = W("fabrika")
@@ -260,18 +268,25 @@ def build(tl):
     for i, f in enumerate((880, 1319, 1760)):
         M.add(s + end_t + 0.02 + i * 0.13, S.bell(f, 3.0, 0.8), -15 - i, -0.3 + 0.3 * i, 0.6)
 
-    # geçiş sesleri
-    starts = {sc["scene"]: sc["start"] for sc in Z.scenes(tl)}
+    # ======== ORTAK KISIM (her filmde kalır) ========
+    # geçiş sesleri (zamanlama.GECIS tablosundan; film.py de aynı tabloyu kullanır)
+    starts = {sc["scene"]: sc["start"] for sc in sahneler}
     for sc, (tur, h, ayar) in Z.GECIS.items():
+        if sc not in starts:
+            continue
         b = starts[sc]
         sd = sum(map(ord, sc))
         if tur == "savur":
             M.add(b - 0.3, S.whoosh(0.55, 300, 5000, 700, 0.55, 0.9, sd), -14, 0.4 if ayar == "sol" else -0.4, 0.2)
         elif tur == "zoom":
             M.add(b - 0.45, S.riser(0.45, 500, 7000, False, sd), -17, 0, 0.2)
-        elif tur in ("karart", "erit"):
+        elif tur == "bozul":
+            M.add(b - h, S.glitch(2 * h + 0.05, sd), -14, 0, 0.1)
+        elif tur == "flas":
+            M.add(b, S.boom(1.2, 130, 40, 0.4, 0.8, sd), -8, 0, 0.35)
+        elif tur in ("karart", "erit", "isik"):
             M.add(b - h - 0.1, S.whoosh(2 * h + 0.35, 200, 1400, 400, 0.45, 1.0, sd), -24, 0, 0.4)
-    room = filt(S.brown(scs["final"]["end"], 250), "lowpass", 400)
+    room = filt(S.brown(toplam, 250), "lowpass", 400)
     M.add(0, fades(room, 1.0, 1.0), -44, 0, 0.0)
     return M
 

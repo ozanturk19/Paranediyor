@@ -23,6 +23,7 @@ R = G.R
 FPS = 30
 CAP_TOP = 890
 TABLO = Z.GECIS
+KES = ("kes", 0.0, None)                                # tabloda olmayan sahneye düz kesme
 ST = {}
 
 
@@ -44,8 +45,12 @@ def scene_img(k, t_abs, seed):
     t = t_abs - s
     wt = [w - s for w in sc["t"]]
     lt = [w - s for w in sc["line_t"]]
-    img, post = SH.SAHNELER[sc["scene"]](t / d, t, d, wt, lt)
-    img = SH.finish(img, seed, exposure=SH.EXPOSURE[sc["scene"]], bloom_k=SH.BLOOM.get(sc["scene"], 0.35))
+    name = sc["scene"]
+    img, post = SH.SAHNELER[name](t / d, t, d, wt, lt)
+    if name in SH.ANIMASYON:                            # film/ tarzı animasyon sahnesi: animasyon renk işlemi
+        img = G.finish(img, seed=seed, grain_amt=0.03)
+    else:                                               # gerçekçi sahne: fotoğraf renk işlemi
+        img = SH.finish(img, seed, exposure=SH.EXPOSURE.get(name, 1.0), bloom_k=SH.BLOOM.get(name, 0.35))
     img = SH.shade_top(img, 0.35)                       # üstteki etiketler her zeminde okunsun
     return post(img) if post else img
 
@@ -67,12 +72,14 @@ def frame(i):
     k = max(j for j, sc in enumerate(scs) if sc["start"] <= t)
     img = None
     if k > 0:
-        tur, h, ayar = TABLO[scs[k]["scene"]]
+        tur, h, ayar = TABLO.get(scs[k]["scene"], KES)
         b = scs[k]["start"]
         if h > 0 and t < b + h:
             img = GC.uygula(tur, ayar, scene_img(k - 1, t, seed), scene_img(k, t, seed), (t - (b - h)) / (2 * h), i)
+        elif tur == "flas" and t - b <= GC.FLAS_SURE:  # sert kesme + beyaz parlama (yarım süre 0 olmalı)
+            img = GC.flas(scene_img(k, t, seed), t - b)
     if img is None and k + 1 < len(scs):
-        tur, h, ayar = TABLO[scs[k + 1]["scene"]]
+        tur, h, ayar = TABLO.get(scs[k + 1]["scene"], KES)
         b = scs[k + 1]["start"]
         if h > 0 and t >= b - h:
             img = GC.uygula(tur, ayar, scene_img(k, t, seed), scene_img(k + 1, t, seed), (t - (b - h)) / (2 * h), i)

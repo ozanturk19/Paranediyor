@@ -1,9 +1,11 @@
-"""Tekstil filmi: metin, altyazı sayfaları ve zamanlama.
+"""Film metni, altyazı sayfaları ve zamanlama (yeni filmler için şablon).
 
-Seslendirme kaydı henüz elimizde değil; Instagram Edits'in altyazı ekranındaki cümle başlangıç
-saniyeleri (tam saniyeye yuvarlanmış) biliniyor. Her cümlenin gerçek başlangıcı bu saniyenin içinde
-bir yerde. Hece sayısıyla konuşma hızı modeli kurulup cümle başları o saniye aralıklarına en iyi
-oturacak biçimde seçilir (dinamik programlama). Kayıt gelince `vo=` ile kelime kelime hizalanır.
+Zamanlama üç yoldan biriyle gelir (en iyiden kötüye):
+  1. Ses kaydı: altyazi/yaziya_dok.py ile çıkan kelime zamanları `build(vo_words)` ile kelime kelime oturur.
+  2. Instagram Edits ekran görüntüsü: LINES'taki ikinci alan = cümlenin ekranda yazan başlangıç saniyesi
+     (tam saniye). Hece hızı modeliyle gerçek başlangıçlar o saniyelerin içine oturtulur (dinamik programlama).
+  3. Yalnız metin: LINES'taki saniyeleri None yaz; cümle başları hece sayısından tahmin edilir.
+Rakamlar okunuşlarındaki hece sayısıyla SYL_OVERRIDE'a eklenir ("350.000" = üç-yüz-el-li-bin = 5).
 """
 import importlib.util, os, re
 import numpy as np
@@ -13,9 +15,11 @@ _spec = importlib.util.spec_from_file_location("film_zaman", os.path.join(HERE, 
 FZ = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(FZ)
 
+# rakamların okunuş hece sayısı (yeni filmde kendi rakamlarınla değiştir)
 SYL_OVERRIDE = {"3": 1, "350.000": 5, "150": 3, "5": 1, "%16": 5, "575": 5, "100": 1}
 
-# (sahne, ekrandaki saniye, konuşulan cümle, altyazı sayfaları)
+# (sahne, ekrandaki saniye ya da None, konuşulan cümle, altyazı sayfaları; sayfa None = sahne yazıyı kendisi çizer)
+# Art arda aynı sahne adı verilen cümleler tek sahnede birleşir (scenes()).
 LINES = [
     ("fabrika", 0, "Türkiye'de tekstil ve hazır giyim 3 buçuk yılda yaklaşık 350.000 iş kaybetti.",
      ["Türkiye'de / *TEKSTİL ve hazır giyim", "3_buçuk yılda / yaklaşık", "**350.000_İŞ / ~kaybetti."]),
@@ -106,8 +110,22 @@ def _fit_starts():
     return best
 
 
+def _estimate_starts(rate=FZ.SYL_PER_SEC, pause=0.35, start=0.3):
+    """Ne ses kaydı ne ekran saniyesi varsa: cümle başlarını hece sayısından tahmin et (enerjik okuma hızı)."""
+    starts, t = [], start
+    for _, _, text, _ in LINES:
+        starts.append(t)
+        t += sum(syllables(w) for w in FZ.words_of(text)) / rate + text.count(",") * 0.18 + pause
+    return 0.0, rate, pause, np.array(starts)
+
+
+def _starts():
+    """LINES'taki saniyelerden biri None ise hece tahmini, hepsi doluysa ekran saniyelerine oturtma."""
+    return _estimate_starts() if any(ln[1] is None for ln in LINES) else _fit_starts()
+
+
 def build(vo_words=None):
-    _, rate, pause, starts = _fit_starts()
+    _, rate, pause, starts = _starts()
     tl = []
     for i, (scene, sec, text, pages) in enumerate(LINES):
         ws = FZ.words_of(text)
@@ -151,7 +169,7 @@ def vo_yukle(path):
 
 
 if __name__ == "__main__":
-    cost, rate, pause, starts = _fit_starts()
+    cost, rate, pause, starts = _starts()
     print(f"hız {rate:.2f} hece/sn, cümle arası {pause:.2f} sn, hata {cost:.3f}")
     tl = build()
     for ln in tl:

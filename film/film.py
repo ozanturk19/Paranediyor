@@ -62,7 +62,7 @@ def frame(i):
         if h > 0 and t < b + h:
             u = (t - (b - h)) / (2 * h)
             img = GC.uygula(tur, ayar, scene_img(k - 1, t, seed), scene_img(k, t, seed), u, i)
-        elif tur == "flas":
+        elif tur == "flas" and t - b <= GC.FLAS_SURE:         # yalnız parlama süresince (çıkış geçişini engellemesin)
             img = GC.flas(scene_img(k, t, seed), t - b)
     if img is None and k + 1 < len(tl):                      # sonraki sahneye çıkış geçişi
         tur, h, ayar = GC.TABLO[tl[k + 1]["scene"]]
