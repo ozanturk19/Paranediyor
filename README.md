@@ -13,6 +13,7 @@ Instagram hesabı için Türkçe altyazılı finans klipleri ve içerik strateji
 | `altyazi/` | Videolara modern, kinetik Türkçe altyazı basan araç |
 | `film/` | "Para nasıl basılır?" animasyon filmi: sahneler, geçişler, ses efektleri |
 | `tekstil/` | "Tekstil Suriye'ye mi kayıyor?" gerçekçi 3D + harita filmi (yeni filmler için şablon) |
+| `telefon/` | "ASELSAN ve Türk Telekom telefon üretiyor" filmi: katmanlı 3D telefon, VHS geri sarma, harita, veri, cam arayüz |
 | `.claude/skills/film-kurgu/` | Film/kurgu rehberi: yaratıcı kurallar, iş akışı, araç haritası, kalite kontrolü, örnek kareler |
 | `kurulum.sh` | Yeni oturumda ortamı tek komutla kurar |
 | `film/miks.py` | Kullanıcının ses kaydını efektlerle karıştırır (efektler konuşurken kısılır, -14 LUFS) |
@@ -98,3 +99,30 @@ Adımlar:
 4. Ses efektleri: `python3 tekstil/ses.py sfx.wav`
 5. Film: `TEKSTIL_3D_OUT=tekstil/plakalar python3 tekstil/film.py tam film.mp4`, ardından `python3 film/teslim.py film.mp4 sfx.wav cikti.mp4`.
 6. Seslendirme kaydı gelince `yaziya_dok.py` ile kelime zamanlarını çıkarıp `--vo` ile ver; her şey kelimesi kelimesine sese oturur.
+
+## "ASELSAN ve Türk Telekom telefon üretiyor" filmi (`telefon/`)
+
+Kullanıcının Instagram Edits'te okuduğu metne göre hazırlanan, yaklaşık 94,5 saniyelik film. 22 sahne; senaryo
+tablosu `telefon/SENARYO.md` içinde.
+
+- 3D sahneler (`telefon/b3d/telefon3d.py`, Blender Cycles): modern telefon 4 ayrı katman halinde (ekran, gövde,
+  iç kart, arka kapak; şeffaf zemin) çizilir ve montajda patlatılıp birleştirilir. Ayrıca 2016 dönemi telefon
+  (masada), kaide + yükselen taş sütunlar, gece baz istasyonu (açık/kapalı), kot arka cebi (zemin, telefon,
+  cep kapağı ayrı katmanlar). Her çizim yanında ekran koordinatlarını veren bir `.json` yazar.
+- Sahneler `telefon/sahne_a.py` (1-11) ve `telefon/sahne_b.py` (12-22); ortak araçlar `telefon/yardim.py`.
+- Geçişlere "geri" (önceki sahne VHS gibi geri sarılır) eklendi (`telefon/film.py`).
+- Harita Türkiye geneline ayarlandı (`telefon/harita.py`: şehirler ve nüfus ağırlıkları).
+- Ekrandaki rakamlar: 2016 Vestel payı %7, Türk Telekom 32,7 milyon mobil abone (2026 2. çeyrek), ~95 milyon
+  telefonun 32 milyonu 5G uyumlu (Nisan 2026), Türkiye 2025 satışı 11,6 milyon, Apple 247,8 ve Samsung 241,2
+  milyon (2025), ortaklık: Türk Telekom ~%87 kamu, ASELSAN %74,2 TSK Güçlendirme Vakfı. Kaynaklar filme yazılmaz.
+
+Adımlar:
+
+1. `bash kurulum.sh` (ffmpeg yoksa `apt-get install -y ffmpeg`).
+2. 3D: `cd telefon/b3d && for m in hero eski kule devlet cep; do TEKSTIL_3D_OUT=<S>/plaka python3 telefon3d.py $m 100 48; done`
+   (4 işlemcide toplam ~13 dk).
+3. Zamanlama: `python3 telefon/zamanlama.py`
+4. Ses efektleri: `python3 telefon/ses.py sfx.wav`
+5. Film: `TEKSTIL_3D_OUT=<S>/plaka python3 telefon/film.py tam master.mp4` (~18 dk), ardından
+   `python3 film/teslim.py master.mp4 sfx.wav cikti.mp4 29`.
+6. Seslendirme kaydı gelince `altyazi/yaziya_dok.py` ile kelime zamanlarını çıkarıp `--vo` ile ver.
