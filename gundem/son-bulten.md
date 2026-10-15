@@ -1,93 +1,85 @@
-# Para Ne Diyor? – 15 Ekim 2026 Sabah Bülteni
-Hazırlanma: 2026-10-15 08:45 TSİ
+# Para Ne Diyor? – 15 Ekim 2026 Öğleden Sonra Bülteni
+Hazırlanma: 2026-10-15 16:20 TSİ
 
-Not: Ekşi Sözlük ulaşılamadı; sosyal medya trendlerinde (X) para konusu belirgin çıkmadı.
-
-## Akbank'a personel anlaşması cezası: 1,71 milyar TL
+## Taksit sınırı Resmi Gazete'den çıktı
 - Kategori: türkiye
-- Puan: 7
-- Tarih / yer: 12 Ekim 2026, Türkiye
-- Ne oldu: Akbank, Rekabet Kurulu'nun iş gücü piyasasına yönelik soruşturmasını uzlaşmayla kapattı ve 1.713.897.558 TL idari para cezası ödeyecek.
-- Detaylar ve rakamlar: Karar no 26-30/899-383; KAP açıklaması 12 Ekim 18:16; soruşturma 24 Şubat 2026'da duyurulmuştu (yaklaşık 230 gün); ceza defter değerinin ~%0,5'i; Kurum sitesinde iş gücü piyasası soruşturması 37 teşebbüs ve 2 birlik için duyuruluyor; diğer bankaların sonucu doğrulanmadı.
-- Neden ilginç: Ceza fiyat anlaşmasına değil, çalışanların işe alımı ve maaşı konusundaki rekabete.
-- Kaynaklar: https://www.foreks.com/haber/detay/6accfc4924008d7d43741076/PICNEWS/tr/akbank-a-rekabet-kurulu-ile-anlasti-1-71-milyar-tl-ceza-odeyecek-12-10-26/ ; https://bloomberght.com/rekabet-kurulu-ndan-akbank-a-1-7-milyar-lira-para-cezasi-3791136
+- Puan: 6
+- Tarih / yer: 15 Ekim 2026, Türkiye (Resmi Gazete 33401)
+- Ne oldu: Perakende Ticarette Uygulanacak İlke ve Kurallar Yönetmeliği değişti. Konut dışı mal/hizmet taksitlerindeki genel 12 ay sınırı ve havayolu, seyahat, konaklama, mobilya, elektronik, beyaz eşya için özel süreler metinden çıkarıldı; yetki Ticaret Bakanlığı'na geçti.
+- Detaylar ve rakamlar:
+  - Yönetmeliğin 12/B maddesinin ilk iki fıkrası yeniden yazıldı, 3. ve 5. fıkralar yürürlükten kalktı.
+  - Bakanlık yeni süreleri henüz açıklamadı (Milli Gazete); "sınırsız taksit" anlamına gelmiyor.
+  - Kaynaklar arasında ayrıntı farkı var; metin resmigazete.gov.tr'den doğrulanmalı.
+- Neden ilginç: Taksit sayısını artık yönetmelik değil bakanlık kararı belirleyecek.
+- Kaynaklar: https://www.milligazete.com.tr/resmi-gazetede-yayimlandi-taksitli-alisveriste-yeni-donem ; https://www.ekonomigazetesi.com/ekonomi/perakendede-12-ay-taksit-siniri-kaldirildi-89750
 
-## Bursa'da servis firmasına 1,5 milyon TL ceza
+## Covid test kiti üreticisi Farlab iflas etti
 - Kategori: türkiye
-- Puan: 7
-- Tarih / yer: 13-14 Ekim 2026, Bursa
-- Ne oldu: Bursa Ticaret İl Müdürlüğü elektronik cihaz servisi veren bir firmaya 1.524.540 TL idari para cezası kesti.
-- Detaylar ve rakamlar: 2026'da Bursa'ya ulaşan şikayetler belirgin arttı; 6 Ekim'de firma hakkında 6 CİMER başvurusu işleme alındı (2'sinde denetim, 4'ünde eksik belge); ihlalin türü haberlerde net değil; Ocak-Eylül'de Bakanlık 2,6 milyar TL ceza uyguladı (6 Ekim açıklaması).
-- Neden ilginç: Tek bir servis firmasına kesilen ceza çok yüksek, şikayetler denetimi tetikledi.
-- Kaynaklar: https://www.turkiyegazetesi.com.tr/ekonomi/2-bin-lira-istedi-15-milyon-tl-ceza-yedi-ticaret-bakanligi-sahtekarligi-affetmedi-1822632 ; https://www.iscihaber.net/bursa/bursada-teknik-servis-firmasina-rekor-idari-para-cezasi/271170
+- Puan: 5
+- Tarih / yer: 15 Ekim 2026, İzmir
+- Ne oldu: İzmir 2. Asliye Ticaret Mahkemesi Farlab'ın iflasına karar verdi; Türklab ve S.K. Teknoloji'nin konkordato talepleri reddedildi.
+- Detaylar ve rakamlar:
+  - Aynı hafta İzmir'de Yücelen Vinç Makine de iflas etti (8 Ekim, İzmir 1. Asliye Ticaret).
+  - Taban Gıda'nın konkordatosu 1 Ekim'de iflasla bitti (ilan 7 Ekim).
+  - Ayrıntılı rakam bulunamadı (sayfa açılamadı, sadece arama özeti).
+- Neden ilginç: Pandemi döneminin test kiti sektöründen şirketler kapanıyor.
+- Kaynaklar: https://www.memurlar.net/haber/1181077/covid-19-test-kiti-ureten-turk-firma-iflas-etti.html
 
-## Noter güvenli kapora tuzağı
+## Online hamburger, döner, köfte siparişinde et gramajı uyarısı
 - Kategori: türkiye
 - Puan: 6
 - Tarih / yer: 14 Ekim 2026, Türkiye
-- Ne oldu: Noter çalışanı gibi davranan dolandırıcılar 'Güvenli Ödeme Sistemi' ön şartı diyerek para istiyor; Noterler Birliği böyle bir sistem olmadığını açıkladı.
-- Detaylar ve rakamlar: Cumhuriyet'e göre 1 Ekim 2026'dan itibaren gayrimenkul satışında bedel tapu devrine kadar güvenli hesapta tutulacak (resmi sistem, dolandırıcılar bunu kötüye kullanıyor olabilir, doğrulanmadı); diğer yöntemler: sahte iş ilanı, ses klonlama, 'kargonuz teslim edilemedi' mesajı.
-- Neden ilginç: Dolandırıcılar devletin güven veren bir kurumunun adını kullanıyor.
-- Kaynaklar: https://www.iscihaber.net/gundem/turkiye-noterler-birliginden-guvenli-kapora-sistemi-uyarisi/271371
+- Ne oldu: Ticaret Bakanlığı, internetten satılan hazır yemeklerde et miktarının eksik ya da hiç yazılmadığı gerekçesiyle ilgili federasyonlara yazı gönderdi.
+- Detaylar ve rakamlar:
+  - Ürünler: hamburger, döner, iskender, köfte.
+  - Mesafeli satışta ürünün temel niteliklerinin açıkça bildirilmesi zorunlu hatırlatıldı.
+  - Tek kaynak (yerel haber sitesi); sayfa açılamadı.
+- Neden ilginç: Uygulamadan sipariş verirken kaç gram et geldiği sorgulanabilir.
+- Kaynaklar: https://www.elazigdetayhaber.com/ticaret-bakanligi-ndan-gramaj-karari/24717
 
-## Trabzon'da toplu taşıma %25 zamlandı
-- Kategori: türkiye
-- Puan: 5
-- Tarih / yer: 19 Ekim 2026'dan itibaren, Trabzon
-- Ne oldu: Dolmuş en kısa mesafe 32'den 40 TL'ye, belediye otobüsü 27'den 35 TL'ye çıkıyor.
-- Detaylar ve rakamlar: Dolmuş zammı oy birliği, otobüs zammı oy çokluğuyla kabul edildi; gerekçe akaryakıt maliyeti; Aksaray'da 10 Ekim'den beri tam bilet 30 TL, öğrenci 20 TL, kartsız 40 TL, aktarma 10 TL.
-- Neden ilginç: Yerel ve gözden kaçan zam.
-- Kaynaklar: https://www.gazetevatan.com/gundem/trabzonda-toplu-tasima-ucretlerine-yuzde-25-zam-iste-yeni-ucret-tarifesi-2417290 ; https://www.haberaksaray.com/aksarayda-toplu-tasimaya-zam-96819.html
-
-## Walmart: gözetim fiyatlaması planımız yok
-- Kategori: dünya
-- Puan: 6
-- Tarih / yer: 12 Ekim 2026, ABD
-- Ne oldu: Walmart gözetim fiyatlaması planı olmadığını söyledi; ancak bu konuda patentleri var (Gizmodo).
-- Detaylar ve rakamlar: Tek kaynak (nakedcapitalism link derlemesi, 12 Ekim); patent sayısı ve ayrıntı doğrulanmadı.
-- Neden ilginç: Patent sahibi olup yapmıyoruz demek, fiyatın kişiye göre değişme sorusunu getiriyor.
-- Kaynaklar: https://nakedcapitalism.com/2026/10/links-10-12-2026.html
-
-## DraftKings'e yapay zeka davası
-- Kategori: teknoloji
-- Puan: 7
-- Tarih / yer: 30 Eylül 2026 açıldı, ABD Massachusetts
-- Ne oldu: Toplu davada şirketin makine öğrenmesiyle kaybeden bahisçileri işaretleyip promosyonla bahse devam ettirdiği iddia ediliyor.
-- Detaylar ve rakamlar: Vest v. DraftKings, 1:26-cv-14462; davacı 30 günde en az 70 mesaj aldığını söylüyor; dayanak New York Times Eylül soruşturması; şirket iddiaları reddediyor; Massachusetts Kumar Komisyonu yapay zeka kullanımını inceliyor; iddialar kanıtlanmadı.
-- Neden ilginç: Algoritma kaybınıza göre size mesaj atıyor olabilir.
-- Kaynaklar: https://www.wbur.org/news/2026/10/01/draftkings-artificial-intelligence-lawsuit ; https://topclassactions.com/lawsuit-settlements/lawsuit-news/draftkings-class-action-claims-ai-model-targets-losing-bettors/
-
-## Türkiye'de yapay zeka kullanımı bir yılda ikiye katlandı
-- Kategori: teknoloji
-- Puan: 6
-- Tarih / yer: Ekim 2026, Türkiye (TÜİK)
-- Ne oldu: Üretken yapay zeka kullanan 16-74 yaş bireyler %19,2'den %37,6'ya çıktı.
-- Detaylar ve rakamlar: 16-24 yaş %64,9; 10+ çalışanlı girişimlerde yapay zeka kullanımı %7,5'ten %14'e; girişimlerde en yoğun alan pazarlama-satış; ChatGPT Türkiye fiyatları: Go 249,99 TL, Pro 500 26.499 TL (Sabah köşe yazısı, 2 Ekim).
-- Neden ilginç: Her 3 kişiden 1'inden fazlası kullanıyor.
-- Kaynaklar: https://www.bloomberght.com/turkiye-de-yapay-zeka-kullanimi-yaklasik-iki-kat-artti-3790100 ; https://www.sabah.com.tr/yazarlar/gunaydin/sb-mevlut_tezel/2026/10/02/yapay-zeka-hep-bedava-mi-olacak-sandiniz
-
-## Yapay zekayla sahte hasar fotoğrafı
-- Kategori: teknoloji
-- Puan: 6
-- Tarih / yer: 8 Ekim 2026, Türkiye
-- Ne oldu: Sigorta tazminatı için 10-15 saniyede gerçeğinden ayırt edilmesi çok zor hasar görselleri üretiliyor; sahte cam hasarı öne çıkıyor.
-- Detaylar ve rakamlar: Tek kaynak (FinansinGündemi); rakam ve sigorta şirketi verisi doğrulanmadı.
-- Neden ilginç: Dolandırıcılık için gereken beceri bir komuta indi.
-- Kaynaklar: https://www.finansingundemi.com/haber/dolandiricilardan-yeni-yontem-sahte-hasar-raporu/1910848
-
-## SGK ev ve arsa açık artırması
+## Ankara Büyükşehir 5 arsayı 4,02 milyar TL değerle ihaleye çıkardı
 - Kategori: küçük detay
-- Puan: 4
-- Tarih / yer: 21 Ekim-10 Kasım 2026, Türkiye
-- Ne oldu: SGK taşınmazları elektronik açık artırmayla satacak, tahmini bedel 310 bin TL'den başlıyor.
-- Detaylar ve rakamlar: Peşin ödeme; belgeler e-Devlet'ten incelenebiliyor.
-- Neden ilginç: 310 bin TL başlangıç, nihai fiyat tekliflerle belirlenir.
-- Kaynaklar: https://anlatilaninotesi.com.tr/20261013/sgk-ev-ve-arsa-satiyor-310-bin-liradan-basliyor-sartlari-aciklandi-1109501718.html
+- Puan: 5
+- Tarih / yer: 15 Ekim 2026, Ankara (Altındağ, Çankaya)
+- Ne oldu: Beş arsanın toplam tahmini bedeli 4 milyar 21,5 milyon TL; açık artırma 14.00-14.08 arası.
+- Detaylar ve rakamlar:
+  - Sonuç (satış bedeli) bulunamadı.
+  - Aynı gün SGK ev/arsa satışları 21 Ekim-10 Kasım arası, muhammen bedeller 310 bin TL'den başlıyor.
+- Neden ilginç: Sekiz dakikalık ihalede milyarlık arsa el değiştiriyor.
+- Kaynaklar: https://emlakkulisi.com/ankara-buyuksehir-4-milyarlik-arsa-satisi-icin-dugmeye-basti/829585 ; https://tasinmazhaber.com/ankara-arsa-satis-ihalesi-basliyor-4-milyar-21-milyon-tllik-arsalar-satisa-cikiyor/
 
-## Takvim
-- 19 Ekim Pazartesi – Trabzon'da yeni toplu taşıma tarifesi başlıyor
-- 20 Ekim – Rekabet Kurumu'nda bir soruşturmanın sözlü savunma toplantısı
-- 21 Ekim Çarşamba – SGK ev ve arsa açık artırması başlıyor
-- 22 Ekim Perşembe 14:00 – TCMB faiz kararı (bir kaynak 23 Ekim yazıyor)
-- 28 Ekim Çarşamba 21:00 – Fed faiz kararı
-- 30 Ekim Cuma – SPK kredili işlem teminat esnetmesi bitiyor
+## BİM yapay zeka ve siber güvenlik şirketi kuruyor
+- Kategori: teknoloji
+- Puan: 6
+- Tarih / yer: 14 Ekim 2026, Türkiye (KAP)
+- Ne oldu: BİM yönetim kurulu, 250 bin TL sermayeli, tek ortağı BİM olan bir teknoloji şirketi kurma kararı aldı.
+- Detaylar ve rakamlar:
+  - Faaliyet alanı: yapay zeka, siber güvenlik, yazılım, finansal teknolojiler.
+  - Kuruluş işlemleri başlatıldı.
+- Neden ilginç: Zincir market dijital bankacılık ve yapay zeka alanına giriyor.
+- Kaynaklar: https://www.cnbce.com/sirket-haberleri/bimden-yeni-sirket-karari-hedefinde-yapay-zeka-ve-dijital-bankacilik-var-h39474 ; https://www.forbes.com.tr/ekonomi/bim-yapay-zeka-sirketi-kuruyor
+
+## Character.AI iflas koruması istedi
+- Kategori: teknoloji
+- Puan: 6
+- Tarih / yer: Ekim 2026, ABD
+- Ne oldu: Habere göre Character.AI iflas koruması başvurusu yaptı; Disney'in teklifi taban fiyat kabul edildi, diğer alıcılar daha yüksek teklif verebilecek.
+- Detaylar ve rakamlar:
+  - Satışın kasım sonu / aralık başı tamamlanması hedefleniyor.
+  - Ücretli abonelik ve faturalama kesintisiz sürecek.
+  - Tek Türkçe kaynak; İngilizce kaynakla doğrulanmadı.
+- Neden ilginç: Çok kullanıcılı bir yapay zeka uygulaması satılığa çıktı.
+- Kaynaklar: https://www.yenicaggazetesi.com/yapay-zekada-surpriz-cokus-sektorun-oncu-girisimi-iflas-korumaya-basvurdu-1082111h.htm
+
+## #FaturaFonzedeyeKesilemez / #TekTalepANAPARA
+- Kategori: sosyal medya
+- Puan: 4
+- Tarih / yer: 15 Ekim 2026, X Türkiye
+- Ne oldu: Fon krizi mağdurları anaparalarını istiyor; getdaytrends'te ilk etiket ~579, ikincisi ~190 puan.
+- Detaylar ve rakamlar:
+  - Haberlere göre 7 portföy yönetim şirketinin fonları tasfiyede (Ziraat, İş Bankası yetkili), yaklaşık 600 bin yatırımcı.
+  - Soruşturmada 9 şirketle bağlantılı yöneticilerin malvarlığı donduruldu.
+  - Anketlerde %62-63 geri ödemeye inanmıyor.
+  - Etiketin tam çıkış nedeni doğrulanamadı. Ekşi Sözlük ulaşılamadı (Cloudflare).
+- Neden ilginç: Konu günlerdir sürüyor; 13 Ekim'de SPK Madde 79 başlığıyla da verilmişti.
+- Kaynaklar: https://www.nefes.com.tr/adim-adim-fonzede-krizine-gidiyoruz-152867 ; https://www.cnnturk.com/turkiye/fon-dosyasinin-etkisi-anketlerde-son-durum-ne-3478988
