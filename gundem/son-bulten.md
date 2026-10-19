@@ -1,39 +1,120 @@
-# Para Ne Diyor? – 18 Ekim 2026 Öğleden Sonra Bülteni
-Hazırlanma: 2026-10-18 16:20 TSİ
+# Para Ne Diyor? – 19 Ekim 2026 Sabah Bülteni
+Hazırlanma: 2026-10-19 08:46 TSİ
 
-## Sivas'ta otobüste kartla ödeme nakitten 5 lira pahalı
+## Ticaret Bakanlığı ilan cezasını platformlara da kesti
 - Kategori: türkiye
-- Puan: 5
-- Tarih / yer: Ekim 2026 (meclis kararı 1 Ekim toplantısı, haberler 18 Ekim'e kadar sürdü), Sivas
-- Ne oldu: Sivas Belediye Meclisi özel halk otobüsleri kooperatifinin talebiyle ulaşım zammını oy çokluğuyla kabul etti. Tam bilet 30 TL'den 40 TL'ye, öğrenci ve emekli bileti 22 TL'den 30 TL'ye çıktı. Araç içinde kredi kartıyla ödeme 33 TL'den 45 TL'ye yükseldi.
+- Puan: 7
+- Tarih / yer: 18 Ekim 2026, Türkiye
+- Ne oldu: Emlak ve araç ilanı denetimi sosyal medya platformlarına uzandı. A Haber başlığına göre Meta'ya 20 milyon TL, TikTok'a 4 milyon TL ceza kesildi.
 - Detaylar ve rakamlar:
-  - Tam bilet artışı yaklaşık yüzde 33,3; öğrenci/emekli yaklaşık yüzde 36 (hesaplama).
-  - Kartla ödeme tam biletin 5 TL üstünde.
-  - Haziran 2026'da yüzde 10 zam yapılmış, kooperatif yüzde 40 istemişti; Şubat 2026'da tam bilet 23'ten 27 TL'ye çıkmıştı (kaynaklarda tarih tutarsızlıkları var).
-  - Aynı günlerde Kayseri tam bilet 48 TL, Trabzon yüzde 25 zam (önceki bültenlerde verildi).
-- Neden ilginç: Kartla ödeyen yolcu nakitten fazla ödüyor; zam kooperatif talebiyle geldi.
-- Kaynaklar: https://sivas360.com/yerel-haberler/sivas-belediye-meclisinden-pes-pese-kararlar-ulasima-zam-tasinmaz-satisina-onay/26767898 ; https://www.gundemsivas.com/sivas-haberleri/sivas-ta-ulasim-40-tl-oldu-turkiye-de-nerede/501509
+  - 70 emlak ve galeri işletmesine Instagram, Facebook ve TikTok ilanları nedeniyle yaklaşık 7 milyon TL ceza.
+  - Başka bir haberde süreçte toplam 152 işletmeye 15,2 milyon TL ceza geçiyor; rakamlar kaynaklar arasında tam örtüşmüyor, yazmadan önce doğrula.
+- Neden ilginç: Cezayı ilanı veren değil, yayınlayan platform da ödedi.
+- Kaynaklar: https://www.ahaber.com.tr/ekonomi/2026/10/18/ilan-denetiminde-meta-ve-tiktoka-milyonluk-ceza ; https://www.ulusal.com.tr/gundem/ticaret-bakanligi-mevzuata-aykiri-ilan-veren-152-emlak-ve-galeri-isletmesine-152-milyon-lira-ceza-uyguladi-15103786
 
-## #5941ÇekİçinYasalDüzenleme ve #BorçHapisleBitmez
+## Yalova'da 5 litrelik su 50 TL
+- Kategori: türkiye
+- Puan: 6
+- Tarih / yer: 18 Ekim 2026, Yalova
+- Ne oldu: Vatandaş paylaşımı üzerine Ticaret Bakanlığı marketi denetledi.
+- Detaylar ve rakamlar:
+  - 4 üründe Fiyat Etiketi Yönetmeliği'ne aykırılık tespit edildi (ürünler açıklanmadı).
+  - Suyun alış ve satış faturaları istendi.
+  - Bakanlık sözcüsü Bekir Kaplan'ın açıklaması.
+- Neden ilginç: Tek bir paylaşım bakanlık denetimine döndü.
+- Kaynaklar: https://www.gidabulteni.com/gundem/5-litrelik-suyu-50-liraya-satan-markete-bakanliktan-jet-denetim/4193
+
+## Sahte yatırım uygulaması operasyonu: 6,6 milyar TL para trafiği
+- Kategori: türkiye
+- Puan: 7
+- Tarih / yer: 13 Ekim 2026, Ankara merkezli 39 il
+- Ne oldu: Dolandırıcılar mağdurun telefonuna sahte yatırım uygulaması yükletip bakiyeyi gerçeğinden yüksek gösterdi.
+- Detaylar ve rakamlar:
+  - Adalet Bakanı Gürlek'e göre 215 şüpheliye operasyon, 159 gözaltı; Başsavcılık/haberkenti 139 gözaltı diyor.
+  - 6 milyar 656 milyon TL'yi aşan para trafiği.
+  - 23 vatandaşın zararı toplam 51.407.966 TL.
+  - 5 kuyumcu şirketinin altın satışı, stok, POS ve vergi kayıtları inceleniyor.
+- Neden ilginç: Mağdur zararıyla para trafiği arasında yüzlerce kat fark var.
+- Kaynaklar: https://halktv.com.tr/turkiye/39-ilde-tam-67-milyar-tllik-operasyon-bu-da-sahte-yatirim-uygulamasi-dolandiriciligi-1061506h ; https://www.24saatgazetesi.com/akin-gurlek-duyurdu-yatirim-dolandiriciligi-sorusturmasinda-159-gozalti
+
+## Onaysız abonelik yenilemede 1 yıl itiraz hakkı
+- Kategori: türkiye
+- Puan: 6
+- Tarih / yer: 11 Ekim 2026 haberi, Türkiye
+- Ne oldu: Takvim'e göre bazı firmalar süresi dolan abonelikleri onay almadan yeniliyor.
+- Detaylar ve rakamlar:
+  - Abonelik Sözleşmeleri Yönetmeliği madde 21: hatalı tutara fatura tarihinden itibaren 1 yıl içinde itiraz.
+  - İtiraz reddedilirse tüketici hakem heyetine başvuru.
+  - Cumhuriyet'te "dijital platform şikayetleri yüzde 115 arttı" başlıklı haber var; tarihi doğrulanamadı.
+- Neden ilginç: İtiraz süresinin bir yıl olduğunu çok az kişi biliyor.
+- Kaynaklar: https://www.takvim.com.tr/guncel/2026/10/11/firmalarin-onaysiz-abonelik-yenileme-tuzagi ; https://www.cumhuriyet.com.tr/yasam/dijital-platform-sikayetleri-yuzde-115-artti-uyeligimi-iptal-ettim-ama-kartimdan-para-cekildi-2541694
+
+## New York'ta abonelik iptalini zorlaştırmak yasak
+- Kategori: dünya
+- Puan: 6
+- Tarih / yer: 1 Ekim 2026, New York City, ABD
+- Ne oldu: Telefonu kapatmak, iptal talimatını gizlemek veya iptalin sonucunu yanlış anlatmak yasaklandı.
+- Detaylar ve rakamlar:
+  - Kural 1 Ekim 2026'da yürürlüğe girdi.
+  - Şehir ayrıca zorunlu ücretlerin baştan gösterilmesi için kural önerdi (Temmuz 2026), bekliyor.
+- Neden ilginç: İptal ettirmeme taktiği doğrudan kural dışı.
+- Kaynaklar: https://www.consumerfinancialserviceslawmonitor.com/2026/07/new-york-city-takes-aim-at-hidden-fees-and-subscription-traps/
+
+## İŞKUR yapay zeka uzmanı alıyor
+- Kategori: teknoloji
+- Puan: 6
+- Tarih / yer: Ekim 2026, Türkiye
+- Ne oldu: KPSS şartsız 11 sözleşmeli bilişim personeli, 2'si yapay zeka uzmanı.
+- Detaylar ve rakamlar:
+  - Maaş 230 bin TL'ye kadar.
+  - Başvuru 26 Ekim–8 Kasım.
+  - Bakan Kacır'ın 2026–2030 planı dijital altyapıda en az 10 milyar dolar hedefliyor.
+- Neden ilginç: Kamu, yapay zeka uzmanına özel sektör düzeyinde maaş veriyor.
+- Kaynaklar: https://www.memurlar.net/haber/1181372/iskur-yapay-zeka-uzmani-aliyor-maas-230-bin-tl-ye-kadar.html ; https://www.alomaliye.com/2026/10/07/yapay-zekada-10-milyar-dolarlik-hedef/
+
+## Ses klonlamaya karşı banka uyarısı
+- Kategori: teknoloji
+- Puan: 5
+- Tarih / yer: 16 Ekim 2026, Hindistan
+- Ne oldu: SBI, yakınların sesini taklit eden dolandırıcılara karşı aranan kişiyi geri aramayı önerdi.
+- Detaylar ve rakamlar:
+  - identifAI (Milano) yıllık 40 milyar dolar deepfake dolandırıcılığı tahmin ediyor; şirket tahmini.
+  - Sentetik dolandırıcılık vakalarının yaklaşık üçte ikisi video ve ses klonlama.
+- Neden ilginç: Çözüm basit bir geri arama.
+- Kaynaklar: https://www.icici.bank.in/campaigns/TOB/the-orange-book-vol-56/voicespoofing-scam ; https://securitybrief.asia/story/deepfake-scams-drive-usd-40-billion-fraud-warning
+
+## #PBLKolağandırHemenÖde #ANAPARASIZ32GUN
 - Kategori: sosyal medya
 - Puan: 4
-- Tarih / yer: 18 Ekim 2026, X Türkiye
-- Ne oldu: Çek Kanunu, #5941ÇekİçinYasalDüzenleme ve #BorçHapisleBitmez etiketleriyle gün boyu X Türkiye trendlerindeydi. Karşılıksız çek yüzünden yargılananlar yeni düzenleme istiyor. Güncel bir Meclis işlemi doğrulanamadı.
+- Tarih / yer: 19 Ekim 2026, X Türkiye trendleri
+- Ne oldu: Tasfiye edilen fonlarda anapara bekleyenlerin etiketleri gün boyu üst sıralarda.
 - Detaylar ve rakamlar:
-  - Paylaşım sayısı alınamadı.
-  - 5941 sayılı Çek Kanunu m.5: karşılıksız çekte her çek için 1500 güne kadar adli para cezası, şikâyet süresi 3 ay.
-  - Sabah bülteninde karşılıksız çek tutarının 9 ayda yüzde 50 arttığı verilmişti (17 Ekim).
-- Neden ilginç: Çek tutarındaki artışla birlikte borç yüzünden yargılanma tartışması yeniden açıldı.
-- Kaynaklar: trends24.in/turkey ; getdaytrends.com/turkey
+  - Paylaşım sayısı alınamadı; etiketler trends24'te en üst 5 içinde.
+  - Ekşi Sözlük erişimi Cloudflare engeline takıldı.
+- Neden ilginç: Konu günlerdir trendde kalıyor.
+- Kaynaklar: https://trends24.in/turkey/
 
-## #DENETIMyokSOYGUNvar ve #ANAPARASIZ32GUN
-- Kategori: sosyal medya
+## EPDK fazla teminat iadesi
+- Kategori: küçük detay
+- Puan: 4
+- Tarih / yer: 19 Ekim 2026, Resmi Gazete
+- Ne oldu: Elektrik piyasasında 8 yönetmelik değişti; fazla teminat talep üzerine 10 iş günü içinde iade edilecek.
+- Detaylar ve rakamlar: Konut elektrik faturalarına doğrudan fiyat etkisi yok.
+- Neden ilginç: Şirketlerin bekleyen teminatı için net süre geldi.
+- Kaynaklar: https://12punto.com.tr/ekonomi/epdkdan-elektrik-piyasasinda-yeni-duzenleme-teminat-iadesi-depolama-ve-lisanssiz-uretimde-kurallar-degisti-156171
+
+## Tekirdağ'da icradan arsa 22,17 milyon TL
+- Kategori: küçük detay
 - Puan: 3
-- Tarih / yer: 18 Ekim 2026, X Türkiye
-- Ne oldu: SPK madde 79 kaynaklı fon tasfiyesi tartışması sürüyor; yatırımcılar anaparayı geri alamadıkları gün sayısını etiketliyor.
-- Detaylar ve rakamlar:
-  - Paylaşım sayısı alınamadı. Konu 13-18 Ekim bültenlerinde sosyal medya başlığı olarak geçti.
-- Neden ilginç: Etiketler günlerdir üst sıralarda kalıyor.
-- Kaynaklar: trends24.in/turkey
+- Tarih / yer: 16 Ekim 2026, Tekirdağ
+- Ne oldu: İcradan satılık arsanın asgari ihale bedeli 22.173.000 TL.
+- Detaylar ve rakamlar: Ayrıntı sınırlı.
+- Neden ilginç: İcra ilanlarında bedeller milyonları buluyor.
+- Kaynaklar: https://www.yirmidort.tv/ekonomi/tekirdagda-icradan-satilik-arsa-295596-295596
 
-Not: Ekşi Sözlük erişilemedi (bot koruması). Dünya ve teknoloji aramaları, yasak liste ve tekrar kuralı nedeniyle yeni madde çıkarmadı.
+## Takvim
+- 19 Ekim Pazartesi – Trabzon'da zamlı toplu taşıma tarifesi başlıyor
+- 21 Ekim Çarşamba – SGK ev ve arsa açık artırmaları başlıyor (10 Kasım'a kadar, 310 bin TL'den)
+- 22 Ekim Perşembe 14:00 – TCMB faiz kararı
+- 26 Ekim Pazartesi – İŞKUR bilişim personeli başvuruları başlıyor
+- 30 Ekim Cuma – TCMB toplantı özeti
