@@ -1,124 +1,86 @@
-# Para Ne Diyor? – 23 Ekim 2026 Sabah Bülteni
-Hazırlanma: 2026-10-23 08:55 TSİ
+# Para Ne Diyor? – 23 Ekim 2026 Öğleden Sonra Bülteni
+Hazırlanma: 2026-10-23 16:20 TSİ
 
-## 29 Ekim'de beş raylı hat ücretsiz
-- Kategori: türkiye
-- Puan: 6
-- Tarih / yer: 23 Ekim 2026, Türkiye (Resmi Gazete 33409)
-- Ne oldu: Resmi Gazete'de yayımlanan 22 Ekim tarihli 11919 sayılı Cumhurbaşkanı Kararı ile 29 Ekim Cumhuriyet Bayramı'nda beş raylı hat ücretsiz oluyor.
-- Detaylar ve rakamlar:
-  - Hatlar: Başkentray, Marmaray, İZBAN, Sirkeci-Kazlıçeşme, Gayrettepe-İstanbul Havalimanı-Halkalı metrosu
-  - Dayanak: 4736 sayılı Kanun madde 1
-  - Aynı 5 hat 30 Ağustos 2026'da 11643 sayılı kararla da ücretsiz olmuştu
-  - Belediyelerin metro, otobüs ve vapurları karar dışında; yerel yönetimler ayrıca duyuruyor
-- Neden ilginç: Aynı şehirde bir hat bedava, yan hat ücretli.
-- Kaynaklar: https://www.cnbce.com/haberler/resmi-gazetede-yayimlandi-29-ekimde-5-rayli-sistem-hatti-ucretsiz-olacak-h40111, https://www.endeks24.com/29-ekimde-5-rayli-hat-ucretsiz
-
-## (17 Eki) Kayseri'de tam bilet 39 TL'den 48 TL'ye çıktı
+## Tokat'ta çarşı ekmeği 12,50 TL'den 15 TL'ye çıktı
 - Kategori: türkiye
 - Puan: 5
-- Tarih / yer: 17 Ekim 2026'dan geçerli, Kayseri
-- Ne oldu: Büyükşehir Meclisi toplu taşıma zammını oy çokluğuyla kabul etti.
+- Tarih / yer: 22-23 Ekim 2026, Tokat
+- Ne oldu: Tokat'ta 210 gramlık çarşı ekmeği yüzde 20 zamla 15 TL oldu. Bazı ilçelerde 17,5 ve 20 TL'den satılıyor. Resmî tarife henüz yayımlanmamış görünüyor.
 - Detaylar ve rakamlar:
-  - Tam bilet 39 TL -> 48 TL (yaklaşık %23)
-  - İndirimli bilet 21,50 TL -> 27 TL
-  - Temassız banka/kredi kartıyla ödeme de 48 TL; kartta indirim yok
-  - Abonman rakamları (100 biniş 2.200 TL vb.) tek kaynakta, teyitsiz
-- Neden ilginç: Temassız kartla binenler de aynı 48 TL'yi ödüyor.
-- Kaynaklar: https://www.durusthaber.com/kayseride-toplu-ulasima-zam-tam-bilet-48-tl-oldu/279485, https://www.kayserianadoluhaber.com.tr/kayseri-de-toplu-tasimaya-zam-kesinlesti-yeni-tarifeler/200188
+  - Eski fiyat 12,50 TL, yeni fiyat 15 TL (+2,50 TL).
+  - Fırıncılar gerekçe olarak un, maya, elektrik, doğalgaz ve işçilik maliyetini gösteriyor.
+  - Belediyenin Halk Ekmek büfelerinde 250 gram ekmek 7,5 TL'den satılmaya devam ediyor.
+  - Aynı haberlerde Erzincan'da 210 gram ekmeğin 15 TL olduğu geçiyor (başka bir haberde 17,5 TL; kaynaklar çelişiyor).
+- Neden ilginç: Aynı ilde aynı ekmek çarşıda 15-20 TL, belediye büfesinde 7,5 TL.
+- Kaynaklar: https://www.hursozgazetesi.com/tokatta-ekmege-20-zam-210-gram-ekmek-15-tl-oldu , https://www.tokathaber.com.tr/tokatta-ekmege-zam-geldi-halk-ekmek-ile-fiyat-farki-dikkat-cekiyor
 
-## Sileceğe sıkıştırılmış 200 lira tuzağı
+## Karaman'da ekmekte gizli zam: gramaj düştü, fiyat arttı
 - Kategori: türkiye
 - Puan: 6
-- Tarih / yer: Ekim 2026, Türkiye (AVM ve market otoparkları)
-- Ne oldu: Araçların sileceğine 200 liralık banknot bırakılıyor; sürücü parayı almak için inince kapı ve kontak açık kalıyor, eşyalar çalınabiliyor.
+- Tarih / yer: 1 Ekim 2026, Karaman
+- Ne oldu: Valilik ve ilgili kurumlarla belirlenen yeni tarifede beyaz ekmek 230 gramdan 200 grama indirildi, fiyat 13 TL'den 15 TL'ye çıkarıldı.
 - Detaylar ve rakamlar:
-  - Haberlerde bazı olaylarda çalışır haldeki aracın da götürüldüğü anlatılıyor
-  - Öneri: araçtan inmemek, kapıları içeriden kilitlemek, kalabalık yere sürmek
-  - Resmi emniyet açıklaması doğrulanmadı; haber kaynaklarına dayanıyor
-- Neden ilginç: Hırsız, sürücünün parayı görünce durmayacağına güveniyor.
-- Kaynaklar: https://www.sozcu.com.tr/arabanin-on-caminda-200-lira-bulursaniz-hemen-polisi-arayin-p370950, https://nefes.com.tr/bu-da-yeni-dolandiricilik-yontemi-sileceklere-200-lira-seytanin-aklina-gelmez-159865
+  - Fiyat artışı: %15,4. Gramaj düşüşü: %13.
+  - Gram başına fiyat 0,0565 TL'den 0,075 TL'ye çıktı: gerçek zam yaklaşık %32,7 (kendi hesabım).
+  - Gerekçe: un, maya, enerji, işçilik maliyetleri.
+  - Karşılaştırma: Sakarya'da 1 Nisan 2026'da fiyat sabit kalırken gramaj 270'ten 230 grama düşmüştü; İstanbul'da 200 gram 17,50 TL.
+  - Tarım Bakanlığı: ekmek gramajı mevzuatla belirlenir ve satış noktasında bildirilmesi zorunludur.
+- Neden ilginç: Fiyat tabelası yüzde 15 artıyor ama gram başına zam iki katı.
+- Kaynaklar: https://www.habergo.com.tr/haber/karaman-da-ekmek-ve-simit-fiyatlari-resmilesti-1-ekim-den-itibaren-yeni-tarifeler , https://guvenilirgida.tarimorman.gov.tr/Haber/Detay/17274
 
-## Kanada'nın en büyük piyango ikramiyesi 90 milyon dolar
+## Avrupa'da gıda 4 yılda %33 pahalandı, küçülen ürün için AB'de özel kural yok
 - Kategori: dünya
 - Puan: 5
-- Tarih / yer: Ekim 2026, Calgary çevresi, Kanada
-- Ne oldu: Küçük bir grup Kanada tarihinin en büyük Lotto Max ikramiyesini kazandı; belgeler bekleniyor.
+- Tarih / yer: 23 Ekim 2026, AB / İrlanda
+- Ne oldu: Euronews'e göre AB'de gıda ve alkolsüz içecek fiyatları 2021-2025 arasında yaklaşık %33 arttı. AB'de shrinkflation'a özel kural yok, mevcut "yanıltıcı uygulama" yasağı uygulanıyor.
 - Detaylar ve rakamlar:
-  - Tutar 90 milyon (Kanada doları)
-  - Play Alberta üzerinden kazanılan ilk sekiz haneli ikramiye
-  - Aynı hafta BC'de bir kişi 10 ay önce kazandığı ödülü yeni talep etti
-- Neden ilginç: Kanada rekoru ve Alberta'nın ilk sekiz haneli ikramiyesi.
-- Kaynaklar: https://www.ctvnews.ca/calgary/article/90-million-richer-small-group-from-calgary-area-claims-canadas-largest-ever-lottery-jackpot/
+  - Bazı ülkelerde mağaza eski ve yeni miktarı, fiyat artışıyla birlikte 2 ay raf etiketinde göstermek zorunda; uymayana 15.000 euroya kadar ceza.
+  - İrlanda'da Anti-Shrinkflation Bill 2026 Dáil ikinci aşamada.
+  - Komisyon ağırlık etiketi ve birim fiyatı ana koruma olarak gösteriyor.
+- Neden ilginç: Türkiye'de de gramaj düşürme yaygınken Avrupa'da etiket zorunluluğu tartışılıyor.
+- Kaynaklar: https://www.euronews.com/2026/10/23/less-product-same-price-what-is-supermarket-shrinkflation , https://www.oireachtas.ie/en/bills/bill/2026/73/
 
-## Avustralya'da küçülen ürün düzenlemesi askıda
-- Kategori: dünya
+## Yapay zekâ sesiyle arayıp kartı telefona yaklaştırtan sahte banka uygulaması
+- Kategori: teknoloji
+- Puan: 7
+- Tarih / yer: Rotterdam, Hollanda; tutuklamalar 4 Ekim, haber 21 Ekim 2026
+- Ne oldu: Polis 23 ve 25 yaşındaki iki kişiyi tutukladı. Yapay zekâ ile üretilmiş çok sayıda ses kaydıyla arıyor, kurbana uygulama indirtiyor, kartı telefona yaklaştırtıp NFC çip verisini suç ortağına aktarıyorlardı.
+- Detaylar ve rakamlar:
+  - 3 haftada 170 kişi, yaklaşık 380 bin euro (DutchNews yaklaşık 400 bin diyor).
+  - Soruşturma Eylül ortasında bankaların bildirimiyle başladı; sahte uygulama ve sunucu kapatıldı, yüz binlerce euroluk kripto el konuldu.
+  - Polis: bankalar asla uygulama indirtmez, kartı telefona yaklaştırmanızı istemez.
+  - Şüpheliler 90 gün gözaltında.
+- Neden ilginç: Türkiye'de de NFC'li kartlar yaygın; aynı yöntem kolayca uyarlanabilir.
+- Kaynaklar: https://nltimes.nl/2026/10/21/police-arrest-two-suspects-ai-powered-bank-fraud-cost-victims-eu380000 , https://www.dutchnews.nl/2026/10/rotterdam-police-arrest-ai-scammers-over-e400k-thefts/
+
+## Yerli yapay zekâ platformu EVREN 1 Kasım'a kadar ücretsiz
+- Kategori: teknoloji
 - Puan: 4
-- Tarih / yer: Ekim 2026, Avustralya
-- Ne oldu: Queensland tüketici örgütü, söz verilen birim fiyat ve shrinkflation düzenlemesinin danışma sonrası ilerlemediğini söylüyor.
+- Tarih / yer: 23 Ekim 2026, Türkiye
+- Ne oldu: SSB'nin EVREN platformunda dil modeli kullanımı test süreci boyunca 1 Kasım 2026'ya kadar ücretsiz. Sonrası için fiyat açıklanmadı.
 - Detaylar ve rakamlar:
-  - Hükümet geçen yıl düzenleme yapacağını açıklamıştı
-  - Karşılaştırma: İngiltere'de Nisan 2026'da birim fiyat kuralları yürürlüğe girdi
-  - ABD'de birim fiyat yalnızca 9 eyalette zorunlu
-- Neden ilginç: Avrupa raf etiketiyle ifşa ederken Avustralya söz aşamasında.
-- Kaynaklar: https://stockhead.com.au/aftermarket/outsmarting-the-shrinkflation-hitting-your-groceries/
+  - Karşılaştırma: ChatGPT Go yaklaşık 397 TL, Google AI Pro yaklaşık 992 TL, Claude Pro yaklaşık 987 TL (karşılaştırma sitelerine göre, kur 49,6 TL).
+  - TÜBİTAK'ın Türkçe modeli BİLGE henüz genel kullanıma açık değil.
+- Neden ilginç: Ücretsiz dönem bir hafta sonra bitiyor, bedeli belli değil. Tek kaynak, doğrulama sınırlı.
+- Kaynaklar: https://www.gzt.com/teknoloji/hangi-yapay-zek-aboneligi-ne-kadar-chatgpt-gemini-anthropic-x-premium-2042451
 
-## Toplantıyı kaydeden yapay zekâ uygulamalarına davalar
-- Kategori: teknoloji
-- Puan: 6
-- Tarih / yer: Ekim 2026, ABD
-- Ne oldu: Otter, Granola ve Fireflies not alma uygulamaları farklı hukuki gerekçelerle dava edildi.
-- Detaylar ve rakamlar:
-  - Granola: Temmuz 2026 davasında, uygulamayı kullanmayan bir kişinin başkasının hesabıyla kaydedildiği iddia ediliyor
-  - Otter: Yargıç Eumi K. Lee, toplantıyı açanın izni uygulamaya da yeter savını şimdilik reddetti
-  - Read AI iki üniversitede kısıtlandı, dava yok
-- Neden ilginç: İzin veren tek kişi, toplantıdaki herkes adına izin vermiş sayılmıyor.
-- Kaynaklar: https://www.fiercehealthcare.com/ai-and-machine-learning, https://ailawsuittracker.com/latest/
-
-## (21 Eki) PHP açığı: Siber Güvenlik Başkanlığı kamuyu uyardı
-- Kategori: teknoloji
-- Puan: 5
-- Tarih / yer: 21 Ekim 2026, Türkiye
-- Ne oldu: Başkanlık yaygın PHP yazılımında iki kritik açık (PHP2Shell) için ulusal tarama başlattı; e-Devlet'te sorun bulunmadı.
-- Detaylar ve rakamlar:
-  - Açık belirli koşullarda kullanıcı adı ve şifresiz müdahaleye izin verebiliyor
-  - Kurumlara acil güvenlik bildirimi gönderildi
-  - Öneri: PHP altyapısını kontrol edip güncelleme yapmak
-- Neden ilginç: Şifresiz sisteme girme riski.
-- Kaynaklar: https://t24.com.tr/politika/php-altyapisinda-guvenlik-aciklari-tespit-edilmisti-siber-guvenlik-baskanligindan-e-devlet-aciklamasi,1354683, https://www.hurriyet.com.tr/gundem/kuresel-php-acigi-siber-guvenlik-baskanligindan-aciklama-kritik-guvenlik-aciklarina-iliskin-onleyici-calismalar-suruyor-43350827
-
-## #KirmiziCizgimizAnaParaTUFE
+## #BankalarFonlaraYonlendirdi #KirmiziCizgiANAPARA
 - Kategori: sosyal medya
 - Puan: 4
 - Tarih / yer: 23 Ekim 2026, X Türkiye
-- Ne oldu: Yatırımcı gruplarının SPK ve ana para tartışması gündemde kalıyor (trends24 ilk 3).
+- Ne oldu: Günün başında beri üst sıralarda; vatandaşlar bankaların mevduat yerine fona yönlendirmesini ve ana para güvencesini tartışıyor (getdaytrends: #KirmiziCizgimizAnaParaTUFE 632 puan, 13 saat trendde).
 - Detaylar ve rakamlar:
-  - Paylaşım sayısı sayfalarda yok
-- Neden ilginç: Üst üste günlerdir gündemde.
-- Kaynaklar: https://trends24.in/turkey/
+  - 22 Ekim itibarıyla 39 para piyasası fonunun son 1 aylık medyan brüt getirisi %3,02; 32 günlük mevduat ortalaması yıllık brüt %40,22 (karşılaştırma sitesi).
+  - SPK 22 Ekim bülteninde ANELE işlemleri için 48 kişiye suç duyurusu, 2 yıl işlem yasağı, 28 kişinin lisans iptali (ana akım haber, bültene eklenmedi).
+- Neden ilginç: Fon ve ana para güvencesi tartışması günlerdir sürüyor.
+- Kaynaklar: https://getdaytrends.com/turkey/ , https://tr.euronews.com/2026/10/23/fon-sorusturmasi-spkdan-48-kisiye-suc-duyurusu-5-sirkete-islem-yasagi
 
-## SGK taşınmaz açık artırması 310 bin TL'den
-- Kategori: küçük detay
+## #EmeklilerdeSabırTaştı
+- Kategori: sosyal medya
 - Puan: 3
-- Tarih / yer: 21 Ekim-10 Kasım 2026, Türkiye
-- Ne oldu: SGK taşınmazları elektronik portalda açık artırmayla satıyor.
+- Tarih / yer: 23 Ekim 2026, X Türkiye
+- Ne oldu: En düşük emekli aylığı 23.552 TL; 16 Ekim'de Meclis'e verilen teklif bunu net asgari ücrete bağlamak istiyor, Plan ve Bütçe Komisyonu'nda.
 - Detaylar ve rakamlar:
-  - Tahmini bedel 310 bin TL'den başlıyor
-- Neden ilginç: Düşük başlangıç bedeli.
-- Kaynaklar: https://www.karar.com/ekonomi-haberleri/310-bin-liradan-basliyor-sgk-ev-ve-arsa-satiyor-2078123
-
-## Ankara Çamlıdere'de arsa 2,57 milyon TL
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 23 Ekim 2026, Ankara
-- Ne oldu: Milli Emlak 1.026 m² arsayı ihaleye çıkardı.
-- Detaylar ve rakamlar:
-  - Tahmini bedel 2.570.000 TL, teminat 771.000 TL
-- Neden ilginç: Teminat bedelin %30'u.
-- Kaynaklar: https://emlakkulisi.com/milli-emlak-baskent-ankarada-arsa-satiyor/829796
-
-## Takvim
-- 26 Pazartesi – Kahramanmaraş'ta yeni toplu taşıma tarifesi; Almanya Ifo iş güveni endeksi
-- 28 Çarşamba – Fed faiz kararı (27-28 Ekim toplantısı, doğrulanmadı)
-- 29 Perşembe – Cumhuriyet Bayramı, 5 raylı hat ücretsiz; ECB faiz kararı (doğrulanmadı)
-- 30 Cuma – TCMB PPK toplantı özeti
+  - Ocak zammı tahminleri: %10,11 ile 25.933 TL (AA Finans), %10,73 ile 26.079 TL (FKB).
+- Neden ilginç: Gündem ana akım, bültende kısa geçildi.
+- Kaynaklar: https://www.cumhuriyet.com.tr/ekonomi/emekli-maaslari-icin-yeni-teklif-en-dusuk-aylik-asgari-ucrete-baglanacak-2548171
