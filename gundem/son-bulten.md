@@ -1,135 +1,52 @@
-# Para Ne Diyor? – 24 Ekim 2026 Sabah Bülteni
-Hazırlanma: 24 Ekim 2026 08:45 TSİ
+# Para Ne Diyor? – 24 Ekim 2026 Öğleden Sonra Bülteni
+Hazırlanma: 2026-10-24 16:25 TSİ
 
-## Milas Belediyesi'nde sahte ihale evrakı soruşturması
-- Kategori: türkiye
-- Puan: 7
-- Tarih / yer: 21-23 Ekim 2026, Milas (Muğla)
-- Ne oldu: Muğla Cumhuriyet Başsavcılığı soruşturmasında 34 şirkete ait 35 ihale evrakının sahte olduğu, 32 şirketin 33 iş deneyim belgesinin belediyece onaylandığı belirlendi. Belediye başkanı Fevzi Topuz ve oğlu dahil 35 kişi gözaltına alındı, 18'i tutuklandı (iddialar, yargılama sürüyor).
-- Detaylar ve rakamlar:
-  - Bilirkişi: bazı dosyalarda banka hesap no, vergi no ve IBAN aynı; SGK döküm bilgileri örtüşüyor, geçici kabul tutanaklarındaki imzalar aynı şekil ve konumda (kopyalama).
-  - Başsavcılık: yapılmadığı halde yapılmış gösterilen iş bedeli 2 milyar 579 milyon 555 bin TL.
-  - KİK verisine dayanan haberler: sahte belge kullanan 8 şirket 25 kamu ihalesine girmiş, toplam bedel 3 milyar 714 milyon TL üstü.
-  - Suçlamalar: örgüt kurma, rüşvet, ihaleye fesat karıştırma, resmi belgede sahtecilik, nitelikli dolandırıcılık. Gözaltı sayısı kaynaklara göre 29-35 arası değişiyor.
-- Neden ilginç: Sahte belgeyle yüz milyonlarca liralık kamu işi alınmış; belgelerdeki aynı IBAN gibi ayrıntılar tuhaf.
-- Kaynaklar: https://www.ahaber.com.tr/gundem/2026/10/21/milas-belediyesinde-sorusturmada-gelisme ; https://www.haberler.com/3-sayfa/milas-belediyesi-sorusturmasinda-baskan-topuz-ve-20360851-haberi/
-
-## Dijital aboneliklerde onaysız yenileme: bakanlık rakamları
+## Borsadaki iki şirkete birer yıllık konkordato koruması (Türk İlaç, Barem Ambalaj)
 - Kategori: türkiye
 - Puan: 6
-- Tarih / yer: ~20-21 Ekim 2026, Türkiye
-- Ne oldu: Ticaret Bakanı Ömer Bolat, TBMM'deki yazılı soruya yanıtında abonelik mevzuatının güncellenmesi için çalışma başlatıldığını bildirdi.
+- Tarih / yer: 22 Ekim 2026, Ankara ve İzmir
+- Ne oldu: Türk İlaç, Ankara 3. Asliye Ticaret Mahkemesi'nde (2026/477) 2 Kasım 2026'dan itibaren 1 yıl kesin mühlet aldı. Barem Ambalaj, İzmir 1. Asliye Ticaret Mahkemesi'nde (2026/810) 22 Ekim duruşmasında 1 yıl kesin mühlet aldı. İkisi de KAP'a bildirdi.
 - Detaylar ve rakamlar:
-  - 2025-2026'da dijital aboneliklerle ilgili 1.459 tüketici başvurusu.
-  - 2023-2026'da otomatik yenileme gerekçesiyle 282 başvuru (bakanlık: hepsi usulsüz demek değil).
-  - Geçmiş denetimde 9.669 tüketicinin yıllık/sezonluk aboneliği onaysız yenilenmiş, 9 şirkete ceza (tutar kaynaklarda tutarsız: 171,4 milyon TL ve 5,9 milyon TL geçiyor, doğrulanmadı).
-  - Büyük abonelik şirketlerinin uygulamaları da inceleniyor; rapor hazırlanıyor.
-- Neden ilginç: Bildiğimiz abonelik tuzağına resmi rakam geldi; yeni kural yolda.
-- Kaynaklar: https://www.dunya.com/ekonomi/dijital-aboneliklerde-onaysiz-yenileme-mercek-altinda-bakanlik-inceleme-baslatti-haberi-844536 ; https://onedio.com/haber/ticaret-bakanligi-abonelik-kurallarini-degistiriyor-otomatik-yenilemeye-282-sikayet-mevzuat-masada-1389714
+  - Türk İlaç 2 Haziran 2026'da başvurdu; gerekçe yüksek finansman maliyeti, geciken kredi ödemeleri, karşılıksız çek. Geçici mühlet 25 Ağustos'ta 2 ay uzatılmıştı.
+  - Dava, YK Başkanı Mehmet Berat Battal ve Battal Holding'i (%5,17 pay, %12,66 oy) de kapsıyor. Borç tutarı haberlerde yok; Endeks24'e göre 30 Haziran itibarıyla finansal borç piyasa değerinin 4,9 katı.
+  - Barem'in geçici mühleti 30 Temmuz 2026'da başlamıştı. İzmir, Gaziantep ve Karaman tesislerinde üretim sürecek. Mühlet döneminde borç yeniden yapılandırma ve Konya Ereğli Kağıt Fabrikası satış görüşmeleri hedefleniyor. Komiser YMM İbrahim Sadi Erk.
+  - Aynı gün Qlux Ideas (Lüleburgaz) da 22 Ekim'den itibaren 1 yıl kesin mühlet aldı.
+- Neden ilginç: Mühlet boyunca alacaklılar iki borsa şirketinden de tahsilat yapamıyor.
+- Kaynaklar: https://www.foreks.com/haber/detay/6ada26079e3f57734fbcd3c0/PICNEWS/tr/turk-ilac-ve-barem-ambalaj-hakkinda-bir-yillik-kesin-muhlet-karari-22-10-26/ ; https://www.cnbce.com/sirket-haberleri/borsada-iki-sirketin-konkordato-surecinde-kritik-gelisme-1-yil-sure-verildi-h40091
 
-## Astor Enerji ortaklarından TMSF'ye 5 milyar TL
-- Kategori: türkiye
-- Puan: 5
-- Tarih / yer: 23 Ekim 2026, İstanbul
-- Ne oldu: Fon soruşturması kapsamında Astor Enerji ortakları Feridun ve Enver Geçgel'in TMSF'nin gönüllü iade hesabına 5 milyar TL yatırdığı, mal varlığı tedbirlerinin kaldırıldığı bildirildi.
-- Detaylar ve rakamlar:
-  - Soruşturmayı İstanbul Cumhuriyet Başsavcılığı yürütüyor.
-  - SPK 27 Eylül'de 45 şirket ve 19 fon hakkındaki tedbirleri kaldırmıştı.
-  - Geçgel isimleri 24 Ekim sabahı X trendlerindeydi.
-- Neden ilginç: Soruşturma sürerken tek seferde 5 milyarlık gönüllü iade.
-- Kaynaklar: https://www.sabah.com.tr/gundem/2026/10/23/fon-sorusturmasinda-o-isimlerden-5-milyarlik-gonullu-odeme ; https://www.elipshaber.com/astor-enerji-ortaklarindan-tmsfye-5-milyar-tl-iade-mal-varligi-tedbirleri-kaldirildi
-
-## Çin dışında itriyum fiyatı iki yılda 179 kat
+## Çin, yapay zekâ ihracatına kayıt zorunluluğu getirdi
 - Kategori: dünya
-- Puan: 7
-- Tarih / yer: ~20-21 Ekim 2026, Japonya / Çin
-- Ne oldu: Çin'in nadir toprak ihracat kontrolleri nedeniyle Japonya'da itriyum kıtlığı uyarıları yapılıyor.
+- Puan: 5
+- Tarih / yer: 16-23 Ekim 2026, Çin
+- Ne oldu: Çin Ticaret ve Bilim-Teknoloji bakanlıkları 16 Ekim'de ihracat kataloğu taslağı yayımladı; yapay zekâ teknolojisini yurt dışına çıkarmak ön kayda bağlı. 22-23 Ekim'de devlet medyası hesabı DeepSeek ve MiniMax'in kaydı tamamladığını duyurdu.
 - Detaylar ve rakamlar:
-  - Argus fiyatları (FT aktarımı): itriyum oksit Çin dışında ~1.150 dolar/kg, Çin içinde ~9 dolar/kg; Çin dışı fiyat iki yılda ~179 kat. Başka kaynaklar x140 ve ~128 kat gibi farklı katsayılar veriyor (farklı başlangıç tarihleri).
-  - Çin gümrük verisi: Japonya'ya itriyum oksit ihracatı 2026'nın ilk 5 ayında 605,3 tondan 14,1 tona (~%98 düşüş).
-  - Japon yetkililer ve tüccarlar yıl sonuna kadar kıtlık çıkabileceğini söylüyor. Kullanım: araç, jet motoru, yarı iletken.
-- Neden ilginç: Aynı madde Çin içinde 9 dolar, dışında 1.150 dolar.
-- Kaynaklar: https://rareearthexchanges.com/news/china-yttrium-export-restrictions-japan-shortage/ ; https://mining.com.au/japan-runs-low-on-yttrium-amid-chinese-supply-squeeze/
+  - Taslakta 40 teknoloji var, 23'ü yapay zekâ ilişkili; 14'ü doğrudan ihracat yasağı kapsamında.
+  - Görüş süresi 15 Kasım 2026'ya kadar.
+  - API, web ve uygulama erişimi kapsam dışı; açık kaynak yayınların işlenişi kaynaklarda tutarsız.
+  - Kayıt iddiası tek bir devlet bağlantılı sosyal medya hesabına dayanıyor, resmî teyit bulunamadı.
+- Neden ilginç: Bir ülke yapay zekâ modellerini ihraç edilecek stratejik mal gibi ele alıyor.
+- Kaynaklar: https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media ; https://tech-insider.org/china-ai-export-curbs-23-technologies-2026/
 
-## Canlı bahiste 7 saniyelik gecikme iddiası
-- Kategori: teknoloji
-- Puan: 7
-- Tarih / yer: 23 Ekim 2026, İstanbul
-- Ne oldu: Spor verisi şirketi Spordata'da çalışan bir veri analistinin tenis ve voleybol canlı oranlarını yaklaşık 7 saniye geciktirdiği, bağlantılı kişilerin skor belli olduktan sonra kupon yaptığı öne sürüldü.
-- Detaylar ve rakamlar:
-  - MASAK raporu: şüphelinin hesaplarında toplam 192 milyon TL giriş-çıkış (işlem hacmi, kâr değil).
-  - Şirket ve bağlı bahis firmaları için aktarılan zarar 12 milyon TL.
-  - Analist tutuklandı; 8 kişi gözaltında. Haberlerde tarihler çelişiyor, iddialar kanıtlanmış değil.
-- Neden ilginç: Hile, veri akışındaki 7 saniyelik farka dayanıyor.
-- Kaynaklar: https://www.hurriyet.com.tr/gundem/istanbulda-canli-bahis-dolandiriciligi-8-supheli-gozaltinda-43351834 ; https://www.ahaber.com.tr/gundem/2026/10/23/veri-analistinden-7-saniyelik-canli-bahis-vurgunu-12-milyonluk-oyun
-
-## ABD üssünde BYD yasağı
+## Martı TAG davasını taksiciler 4 yıl sonra kaybetti
 - Kategori: teknoloji
 - Puan: 6
-- Tarih / yer: 23-24 Ekim 2026, Okinawa (Japonya)
-- Ne oldu: ABD Japonya Kuvvetleri, 26 Ekim'den itibaren BYD araçlarının Kadena Hava Üssü'ne girmesini yasaklıyor.
+- Tarih / yer: 23 Ekim 2026, Türkiye (14. Bölge Adliye Mahkemesi)
+- Ne oldu: Taksi odalarının Martı TAG'a karşı açtığı haksız rekabet davasında mahkeme yasak talebini reddetti.
 - Detaylar ve rakamlar:
-  - Kapsam: müteahhit araçları, taksiler, teslimat ve ticari araçlar dahil, istisna yok; 18. Güvenlik Kuvvetleri Bölüğü geri çevirecek.
-  - Gerekçe (Yonhap'a göre): araçlardaki kamera ve sensörlerin hassas bilgi toplayıp sızdırabilmesi. Ordu bir verinin toplandığını söylemedi.
-  - Kore'deki ABD üslerine yayılabileceği belirtiliyor.
-- Neden ilginç: Araba, güvenlik riski olarak üs kapısından geri çevriliyor.
-- Kaynaklar: https://www.koreatimes.co.kr/world/20261023/us-bans-byd-from-air-base-in-japan-over-security-concern-news-report-says ; https://en.sedaily.com/international/2026/10/24/us-bars-byd-vehicles-from-base-in-japan-may-extend-to-korea
+  - İstanbul Otomobilciler Esnaf Odası ve Antalya Şoförler ve Otomobilciler Odası dahil 10'dan fazla oda davacı; dava yaklaşık 4 yıl sürdü.
+  - Gerekçe: kanunla yasaklanmayan ticari faaliyet mahkemece yasaklanamaz; girişim özgürlüğü; teknolojik gelişmelerin getirdiği yeni mevzuatı yasama yapmalı.
+  - Martı TAG kurucusu Oğuz Alper Öktem: "Karar güvenimizi haklı çıkardı." Taksi Odası Başkanı karara "hukuk garabeti" dedi (Yeni Akit).
+  - Yargıtay'a gidip gitmeyeceği kaynaklarda yok.
+- Neden ilginç: Uygulama tabanlı ulaşımın önündeki en büyük dava sonuçlandı, ama temyiz ihtimali açık.
+- Kaynaklar: https://t24.com.tr/gundem/4-yil-suren-marti-tag-davasinda-karar-cikti,1354996 ; https://www.haberturk.com/gundem/marti-tag-davasinda-karar-3922137
 
-## Meta'ya yapay zekâlı işten çıkarma davası
-- Kategori: teknoloji
-- Puan: 5
-- Tarih / yer: Ekim 2026 (kesin tarih doğrulanamadı), ABD
-- Ne oldu: 26 çalışan, Meta'nın 2026 işten çıkarmalarında korumalı izindeki kişilerin de seçildiğini ve değerlendirmede şirket içi yapay zekâ araçları ile performans verisinin kullanıldığını iddia ediyor.
-- Detaylar ve rakamlar:
-  - Meta iddiaları dayanaksız buluyor, kararları insanların verdiğini söylüyor.
-  - Mahkeme henüz ihlal kararı vermedi. Kaynaklar arasında dava tarihi çelişiyor (geçen ay / bu ay).
-- Neden ilginç: İşten çıkarmada yapay zekâ rolü hukuki tartışma konusu oluyor.
-- Kaynaklar: https://www.hinckleyallen.com/publications/metas-ai-layoff-lawsuit-a-warning-shot-for-companies-nationwide/ ; https://www.whitefordlaw.com/news-events/employment-law-update-a-scheduling-system-cost-one-employer-125-million-now-26-employees-are-suing-over-ai-driven-layoffs-is-your-organization-next
-
-## Sosyal medya: #KirmiziCizgiANAPARA #FonzedeninSabrıKalmadı
+## Sosyal medya: #FONLARATamAnaPara #AltinbasYaOdeYaHapis #MelisSandalFatura15milyar
 - Kategori: sosyal medya
 - Puan: 4
-- Tarih / yer: 23-24 Ekim 2026, Türkiye X
-- Ne oldu: Fon yasasının TBMM'den geçmesinin ardından tasfiyedeki fon yatırımcıları ana paralarını talep ediyor; etiketler gece boyunca trendlerin başındaydı.
+- Tarih / yer: 24 Ekim 2026, Türkiye X trendleri (paylaşım sayısı alınamadı)
+- Ne oldu: Fon soruşturmasında Altınbaş ailesine gözaltı/yakalama kararı (21 Ekim) ve Melis Sütşurup Sandal'ın 2026'da fonlardan toplam 15 milyar 793 milyon TL çıkış yapıldığı iddiası gündemde.
 - Detaylar ve rakamlar:
-  - getdaytrends 24 saatlik skor: #GüçlüDevletANAPARAyıKorur 665, #KirmiziCizgiANAPARA 643, #FonzedeninSabrıKalmadı 630, #FonzedeSecimistiyor 627.
-  - #CumhurbaşkanımKanunaVeto ve #ReisKanunaANAPARA de listede.
-  - Ekşi Sözlük ulaşılamadı (Cloudflare engeli).
-- Neden ilginç: Yatırımcı tepkisi etiket savaşına dönüştü.
-- Kaynaklar: https://getdaytrends.com/turkey/ ; https://www.karar.com/guncel-haberler/fon-yasasi-mecliste-tek-bir-yetkili-gormeden-gecti-tek-kurum-baskaninin-2080161
-
-## Avusturya'da market sepeti 88,10 euro
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 24 Ekim 2026, Avrupa
-- Ne oldu: Euronews analizinde Avusturya'da market sepeti 88,10 euro, AB ortalaması 69,84 euro.
-- Detaylar ve rakamlar: Fransa AB ortalamasının %27,5 üstünde; Avusturya'da küçülen ürün uyarısı kuralı Nisan 2026'da başladı (%3 birim fiyat artışı eşiği, ceza 15.000 euroya kadar).
-- Neden ilginç: Aynı sepet AB içinde çok farklı fiyatta.
-- Kaynaklar: https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why
-
-## Hanenin maddi durum endeksi 75,3'ten 68,3'e düştü
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 22 Ekim 2026, Türkiye
-- Ne oldu: TÜİK ekim tüketici güveni %7,7 düşüşle 84,8 oldu; hanenin mevcut maddi durum endeksi 75,3'ten 68,3'e geriledi (%9,3).
-- Detaylar ve rakamlar: Dayanıklı tüketim harcama düşüncesi 108,8'den 102,7'ye indi.
-- Neden ilginç: Güven endeksinin içinde en sert düşen kalem hanenin kendi maddi durumu.
-- Kaynaklar: https://www.takvim.com.tr/ekonomi/2026/10/22/tuketici-guven-endeksi-ekim-2026-verileri
-
-## Fahiş fiyat ve etiket denetimlerinde 8,8 milyar TL ceza
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 20 Ekim 2026, Türkiye
-- Ne oldu: Bakan Bolat, Haziran 2023'ten bu yana fahiş fiyat ve etiket denetimlerinde toplam 8,8 milyar TL idari para cezası uygulandığını açıkladı.
-- Detaylar ve rakamlar: Ocak-Eylül 2026'da 360.578 firma ve ~44 milyon ürün denetlendi, toplam ceza 2,6 milyar TL (399,5 milyon TL'si fahiş fiyata).
-- Neden ilginç: Üç yılda denetlenen ürün sayısı ve ceza ölçeği.
-- Kaynaklar: https://www.ahaber.com.tr/gundem/2026/10/20/fahis-fiyat-ve-etiket-denetimlerinde-88-milyar-tl-ceza-bakan-bolat-rakamlari-acikladi
-
-## Takvim
-- 26 Ekim Pazartesi – Kadena Hava Üssü'nde BYD yasağı başlıyor
-- 27-28 Ekim – ABD Merkez Bankası (Fed) faiz toplantısı
-- 29 Ekim Perşembe – Cumhuriyet Bayramı, beş raylı hat ücretsiz
-- 1 Kasım Pazar – 15 yaş altı sosyal medya düzenlemesi başlıyor
-- 3 Kasım Salı – TÜİK ekim ayı enflasyon verisi
-- 10 Kasım Salı – SGK taşınmaz açık artırması sona eriyor
-- 20 Kasım – TÜİK kasım tüketici güven endeksi
+  - Soruşturmada 31 kişi hakkında gözaltı kararı, 26 şüpheli yakalandı; Nusret Altınbaş hakkında yakalama kararı, İnan Altınbaş gözaltında (kaynaklar tutuklama konusunda ayrışıyor).
+  - Sandal için ilk iddia 11,1 milyar TL'ydi; yeni haberlerde TLY fonuna 13,673 milyar TL yatırım, toplam çıkış 15,793 milyar TL, kâr yaklaşık 2,355 milyar TL; aile kârı iade için savcılığa başvurdu. Rakam resmî belgeyle doğrulanmış değil.
+- Neden ilginç: Fon soruşturması sosyal medyada üç ayrı etiketle sürüyor.
+- Kaynaklar: https://t24.com.tr/gundem/melis-sutsurup-fondan-111-milyar-degil-15-milyar-793-milyon-lira-kazandi-iddiasi,1351249 ; https://www.aydinlik.com.tr/haber/teradan-yaklasik-3-milyar-lira-kar-melis-sutsurup-sandal-ve-babasindan-iade-basvurusu-595911
