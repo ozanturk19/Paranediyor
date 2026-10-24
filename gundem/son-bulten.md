@@ -1,86 +1,135 @@
-# Para Ne Diyor? – 23 Ekim 2026 Öğleden Sonra Bülteni
-Hazırlanma: 2026-10-23 16:20 TSİ
+# Para Ne Diyor? – 24 Ekim 2026 Sabah Bülteni
+Hazırlanma: 24 Ekim 2026 08:45 TSİ
 
-## Tokat'ta çarşı ekmeği 12,50 TL'den 15 TL'ye çıktı
+## Milas Belediyesi'nde sahte ihale evrakı soruşturması
 - Kategori: türkiye
-- Puan: 5
-- Tarih / yer: 22-23 Ekim 2026, Tokat
-- Ne oldu: Tokat'ta 210 gramlık çarşı ekmeği yüzde 20 zamla 15 TL oldu. Bazı ilçelerde 17,5 ve 20 TL'den satılıyor. Resmî tarife henüz yayımlanmamış görünüyor.
+- Puan: 7
+- Tarih / yer: 21-23 Ekim 2026, Milas (Muğla)
+- Ne oldu: Muğla Cumhuriyet Başsavcılığı soruşturmasında 34 şirkete ait 35 ihale evrakının sahte olduğu, 32 şirketin 33 iş deneyim belgesinin belediyece onaylandığı belirlendi. Belediye başkanı Fevzi Topuz ve oğlu dahil 35 kişi gözaltına alındı, 18'i tutuklandı (iddialar, yargılama sürüyor).
 - Detaylar ve rakamlar:
-  - Eski fiyat 12,50 TL, yeni fiyat 15 TL (+2,50 TL).
-  - Fırıncılar gerekçe olarak un, maya, elektrik, doğalgaz ve işçilik maliyetini gösteriyor.
-  - Belediyenin Halk Ekmek büfelerinde 250 gram ekmek 7,5 TL'den satılmaya devam ediyor.
-  - Aynı haberlerde Erzincan'da 210 gram ekmeğin 15 TL olduğu geçiyor (başka bir haberde 17,5 TL; kaynaklar çelişiyor).
-- Neden ilginç: Aynı ilde aynı ekmek çarşıda 15-20 TL, belediye büfesinde 7,5 TL.
-- Kaynaklar: https://www.hursozgazetesi.com/tokatta-ekmege-20-zam-210-gram-ekmek-15-tl-oldu , https://www.tokathaber.com.tr/tokatta-ekmege-zam-geldi-halk-ekmek-ile-fiyat-farki-dikkat-cekiyor
+  - Bilirkişi: bazı dosyalarda banka hesap no, vergi no ve IBAN aynı; SGK döküm bilgileri örtüşüyor, geçici kabul tutanaklarındaki imzalar aynı şekil ve konumda (kopyalama).
+  - Başsavcılık: yapılmadığı halde yapılmış gösterilen iş bedeli 2 milyar 579 milyon 555 bin TL.
+  - KİK verisine dayanan haberler: sahte belge kullanan 8 şirket 25 kamu ihalesine girmiş, toplam bedel 3 milyar 714 milyon TL üstü.
+  - Suçlamalar: örgüt kurma, rüşvet, ihaleye fesat karıştırma, resmi belgede sahtecilik, nitelikli dolandırıcılık. Gözaltı sayısı kaynaklara göre 29-35 arası değişiyor.
+- Neden ilginç: Sahte belgeyle yüz milyonlarca liralık kamu işi alınmış; belgelerdeki aynı IBAN gibi ayrıntılar tuhaf.
+- Kaynaklar: https://www.ahaber.com.tr/gundem/2026/10/21/milas-belediyesinde-sorusturmada-gelisme ; https://www.haberler.com/3-sayfa/milas-belediyesi-sorusturmasinda-baskan-topuz-ve-20360851-haberi/
 
-## Karaman'da ekmekte gizli zam: gramaj düştü, fiyat arttı
+## Dijital aboneliklerde onaysız yenileme: bakanlık rakamları
 - Kategori: türkiye
 - Puan: 6
-- Tarih / yer: 1 Ekim 2026, Karaman
-- Ne oldu: Valilik ve ilgili kurumlarla belirlenen yeni tarifede beyaz ekmek 230 gramdan 200 grama indirildi, fiyat 13 TL'den 15 TL'ye çıkarıldı.
+- Tarih / yer: ~20-21 Ekim 2026, Türkiye
+- Ne oldu: Ticaret Bakanı Ömer Bolat, TBMM'deki yazılı soruya yanıtında abonelik mevzuatının güncellenmesi için çalışma başlatıldığını bildirdi.
 - Detaylar ve rakamlar:
-  - Fiyat artışı: %15,4. Gramaj düşüşü: %13.
-  - Gram başına fiyat 0,0565 TL'den 0,075 TL'ye çıktı: gerçek zam yaklaşık %32,7 (kendi hesabım).
-  - Gerekçe: un, maya, enerji, işçilik maliyetleri.
-  - Karşılaştırma: Sakarya'da 1 Nisan 2026'da fiyat sabit kalırken gramaj 270'ten 230 grama düşmüştü; İstanbul'da 200 gram 17,50 TL.
-  - Tarım Bakanlığı: ekmek gramajı mevzuatla belirlenir ve satış noktasında bildirilmesi zorunludur.
-- Neden ilginç: Fiyat tabelası yüzde 15 artıyor ama gram başına zam iki katı.
-- Kaynaklar: https://www.habergo.com.tr/haber/karaman-da-ekmek-ve-simit-fiyatlari-resmilesti-1-ekim-den-itibaren-yeni-tarifeler , https://guvenilirgida.tarimorman.gov.tr/Haber/Detay/17274
+  - 2025-2026'da dijital aboneliklerle ilgili 1.459 tüketici başvurusu.
+  - 2023-2026'da otomatik yenileme gerekçesiyle 282 başvuru (bakanlık: hepsi usulsüz demek değil).
+  - Geçmiş denetimde 9.669 tüketicinin yıllık/sezonluk aboneliği onaysız yenilenmiş, 9 şirkete ceza (tutar kaynaklarda tutarsız: 171,4 milyon TL ve 5,9 milyon TL geçiyor, doğrulanmadı).
+  - Büyük abonelik şirketlerinin uygulamaları da inceleniyor; rapor hazırlanıyor.
+- Neden ilginç: Bildiğimiz abonelik tuzağına resmi rakam geldi; yeni kural yolda.
+- Kaynaklar: https://www.dunya.com/ekonomi/dijital-aboneliklerde-onaysiz-yenileme-mercek-altinda-bakanlik-inceleme-baslatti-haberi-844536 ; https://onedio.com/haber/ticaret-bakanligi-abonelik-kurallarini-degistiriyor-otomatik-yenilemeye-282-sikayet-mevzuat-masada-1389714
 
-## Avrupa'da gıda 4 yılda %33 pahalandı, küçülen ürün için AB'de özel kural yok
-- Kategori: dünya
+## Astor Enerji ortaklarından TMSF'ye 5 milyar TL
+- Kategori: türkiye
 - Puan: 5
-- Tarih / yer: 23 Ekim 2026, AB / İrlanda
-- Ne oldu: Euronews'e göre AB'de gıda ve alkolsüz içecek fiyatları 2021-2025 arasında yaklaşık %33 arttı. AB'de shrinkflation'a özel kural yok, mevcut "yanıltıcı uygulama" yasağı uygulanıyor.
+- Tarih / yer: 23 Ekim 2026, İstanbul
+- Ne oldu: Fon soruşturması kapsamında Astor Enerji ortakları Feridun ve Enver Geçgel'in TMSF'nin gönüllü iade hesabına 5 milyar TL yatırdığı, mal varlığı tedbirlerinin kaldırıldığı bildirildi.
 - Detaylar ve rakamlar:
-  - Bazı ülkelerde mağaza eski ve yeni miktarı, fiyat artışıyla birlikte 2 ay raf etiketinde göstermek zorunda; uymayana 15.000 euroya kadar ceza.
-  - İrlanda'da Anti-Shrinkflation Bill 2026 Dáil ikinci aşamada.
-  - Komisyon ağırlık etiketi ve birim fiyatı ana koruma olarak gösteriyor.
-- Neden ilginç: Türkiye'de de gramaj düşürme yaygınken Avrupa'da etiket zorunluluğu tartışılıyor.
-- Kaynaklar: https://www.euronews.com/2026/10/23/less-product-same-price-what-is-supermarket-shrinkflation , https://www.oireachtas.ie/en/bills/bill/2026/73/
+  - Soruşturmayı İstanbul Cumhuriyet Başsavcılığı yürütüyor.
+  - SPK 27 Eylül'de 45 şirket ve 19 fon hakkındaki tedbirleri kaldırmıştı.
+  - Geçgel isimleri 24 Ekim sabahı X trendlerindeydi.
+- Neden ilginç: Soruşturma sürerken tek seferde 5 milyarlık gönüllü iade.
+- Kaynaklar: https://www.sabah.com.tr/gundem/2026/10/23/fon-sorusturmasinda-o-isimlerden-5-milyarlik-gonullu-odeme ; https://www.elipshaber.com/astor-enerji-ortaklarindan-tmsfye-5-milyar-tl-iade-mal-varligi-tedbirleri-kaldirildi
 
-## Yapay zekâ sesiyle arayıp kartı telefona yaklaştırtan sahte banka uygulaması
+## Çin dışında itriyum fiyatı iki yılda 179 kat
+- Kategori: dünya
+- Puan: 7
+- Tarih / yer: ~20-21 Ekim 2026, Japonya / Çin
+- Ne oldu: Çin'in nadir toprak ihracat kontrolleri nedeniyle Japonya'da itriyum kıtlığı uyarıları yapılıyor.
+- Detaylar ve rakamlar:
+  - Argus fiyatları (FT aktarımı): itriyum oksit Çin dışında ~1.150 dolar/kg, Çin içinde ~9 dolar/kg; Çin dışı fiyat iki yılda ~179 kat. Başka kaynaklar x140 ve ~128 kat gibi farklı katsayılar veriyor (farklı başlangıç tarihleri).
+  - Çin gümrük verisi: Japonya'ya itriyum oksit ihracatı 2026'nın ilk 5 ayında 605,3 tondan 14,1 tona (~%98 düşüş).
+  - Japon yetkililer ve tüccarlar yıl sonuna kadar kıtlık çıkabileceğini söylüyor. Kullanım: araç, jet motoru, yarı iletken.
+- Neden ilginç: Aynı madde Çin içinde 9 dolar, dışında 1.150 dolar.
+- Kaynaklar: https://rareearthexchanges.com/news/china-yttrium-export-restrictions-japan-shortage/ ; https://mining.com.au/japan-runs-low-on-yttrium-amid-chinese-supply-squeeze/
+
+## Canlı bahiste 7 saniyelik gecikme iddiası
 - Kategori: teknoloji
 - Puan: 7
-- Tarih / yer: Rotterdam, Hollanda; tutuklamalar 4 Ekim, haber 21 Ekim 2026
-- Ne oldu: Polis 23 ve 25 yaşındaki iki kişiyi tutukladı. Yapay zekâ ile üretilmiş çok sayıda ses kaydıyla arıyor, kurbana uygulama indirtiyor, kartı telefona yaklaştırtıp NFC çip verisini suç ortağına aktarıyorlardı.
+- Tarih / yer: 23 Ekim 2026, İstanbul
+- Ne oldu: Spor verisi şirketi Spordata'da çalışan bir veri analistinin tenis ve voleybol canlı oranlarını yaklaşık 7 saniye geciktirdiği, bağlantılı kişilerin skor belli olduktan sonra kupon yaptığı öne sürüldü.
 - Detaylar ve rakamlar:
-  - 3 haftada 170 kişi, yaklaşık 380 bin euro (DutchNews yaklaşık 400 bin diyor).
-  - Soruşturma Eylül ortasında bankaların bildirimiyle başladı; sahte uygulama ve sunucu kapatıldı, yüz binlerce euroluk kripto el konuldu.
-  - Polis: bankalar asla uygulama indirtmez, kartı telefona yaklaştırmanızı istemez.
-  - Şüpheliler 90 gün gözaltında.
-- Neden ilginç: Türkiye'de de NFC'li kartlar yaygın; aynı yöntem kolayca uyarlanabilir.
-- Kaynaklar: https://nltimes.nl/2026/10/21/police-arrest-two-suspects-ai-powered-bank-fraud-cost-victims-eu380000 , https://www.dutchnews.nl/2026/10/rotterdam-police-arrest-ai-scammers-over-e400k-thefts/
+  - MASAK raporu: şüphelinin hesaplarında toplam 192 milyon TL giriş-çıkış (işlem hacmi, kâr değil).
+  - Şirket ve bağlı bahis firmaları için aktarılan zarar 12 milyon TL.
+  - Analist tutuklandı; 8 kişi gözaltında. Haberlerde tarihler çelişiyor, iddialar kanıtlanmış değil.
+- Neden ilginç: Hile, veri akışındaki 7 saniyelik farka dayanıyor.
+- Kaynaklar: https://www.hurriyet.com.tr/gundem/istanbulda-canli-bahis-dolandiriciligi-8-supheli-gozaltinda-43351834 ; https://www.ahaber.com.tr/gundem/2026/10/23/veri-analistinden-7-saniyelik-canli-bahis-vurgunu-12-milyonluk-oyun
 
-## Yerli yapay zekâ platformu EVREN 1 Kasım'a kadar ücretsiz
+## ABD üssünde BYD yasağı
 - Kategori: teknoloji
-- Puan: 4
-- Tarih / yer: 23 Ekim 2026, Türkiye
-- Ne oldu: SSB'nin EVREN platformunda dil modeli kullanımı test süreci boyunca 1 Kasım 2026'ya kadar ücretsiz. Sonrası için fiyat açıklanmadı.
+- Puan: 6
+- Tarih / yer: 23-24 Ekim 2026, Okinawa (Japonya)
+- Ne oldu: ABD Japonya Kuvvetleri, 26 Ekim'den itibaren BYD araçlarının Kadena Hava Üssü'ne girmesini yasaklıyor.
 - Detaylar ve rakamlar:
-  - Karşılaştırma: ChatGPT Go yaklaşık 397 TL, Google AI Pro yaklaşık 992 TL, Claude Pro yaklaşık 987 TL (karşılaştırma sitelerine göre, kur 49,6 TL).
-  - TÜBİTAK'ın Türkçe modeli BİLGE henüz genel kullanıma açık değil.
-- Neden ilginç: Ücretsiz dönem bir hafta sonra bitiyor, bedeli belli değil. Tek kaynak, doğrulama sınırlı.
-- Kaynaklar: https://www.gzt.com/teknoloji/hangi-yapay-zek-aboneligi-ne-kadar-chatgpt-gemini-anthropic-x-premium-2042451
+  - Kapsam: müteahhit araçları, taksiler, teslimat ve ticari araçlar dahil, istisna yok; 18. Güvenlik Kuvvetleri Bölüğü geri çevirecek.
+  - Gerekçe (Yonhap'a göre): araçlardaki kamera ve sensörlerin hassas bilgi toplayıp sızdırabilmesi. Ordu bir verinin toplandığını söylemedi.
+  - Kore'deki ABD üslerine yayılabileceği belirtiliyor.
+- Neden ilginç: Araba, güvenlik riski olarak üs kapısından geri çevriliyor.
+- Kaynaklar: https://www.koreatimes.co.kr/world/20261023/us-bans-byd-from-air-base-in-japan-over-security-concern-news-report-says ; https://en.sedaily.com/international/2026/10/24/us-bars-byd-vehicles-from-base-in-japan-may-extend-to-korea
 
-## #BankalarFonlaraYonlendirdi #KirmiziCizgiANAPARA
+## Meta'ya yapay zekâlı işten çıkarma davası
+- Kategori: teknoloji
+- Puan: 5
+- Tarih / yer: Ekim 2026 (kesin tarih doğrulanamadı), ABD
+- Ne oldu: 26 çalışan, Meta'nın 2026 işten çıkarmalarında korumalı izindeki kişilerin de seçildiğini ve değerlendirmede şirket içi yapay zekâ araçları ile performans verisinin kullanıldığını iddia ediyor.
+- Detaylar ve rakamlar:
+  - Meta iddiaları dayanaksız buluyor, kararları insanların verdiğini söylüyor.
+  - Mahkeme henüz ihlal kararı vermedi. Kaynaklar arasında dava tarihi çelişiyor (geçen ay / bu ay).
+- Neden ilginç: İşten çıkarmada yapay zekâ rolü hukuki tartışma konusu oluyor.
+- Kaynaklar: https://www.hinckleyallen.com/publications/metas-ai-layoff-lawsuit-a-warning-shot-for-companies-nationwide/ ; https://www.whitefordlaw.com/news-events/employment-law-update-a-scheduling-system-cost-one-employer-125-million-now-26-employees-are-suing-over-ai-driven-layoffs-is-your-organization-next
+
+## Sosyal medya: #KirmiziCizgiANAPARA #FonzedeninSabrıKalmadı
 - Kategori: sosyal medya
 - Puan: 4
-- Tarih / yer: 23 Ekim 2026, X Türkiye
-- Ne oldu: Günün başında beri üst sıralarda; vatandaşlar bankaların mevduat yerine fona yönlendirmesini ve ana para güvencesini tartışıyor (getdaytrends: #KirmiziCizgimizAnaParaTUFE 632 puan, 13 saat trendde).
+- Tarih / yer: 23-24 Ekim 2026, Türkiye X
+- Ne oldu: Fon yasasının TBMM'den geçmesinin ardından tasfiyedeki fon yatırımcıları ana paralarını talep ediyor; etiketler gece boyunca trendlerin başındaydı.
 - Detaylar ve rakamlar:
-  - 22 Ekim itibarıyla 39 para piyasası fonunun son 1 aylık medyan brüt getirisi %3,02; 32 günlük mevduat ortalaması yıllık brüt %40,22 (karşılaştırma sitesi).
-  - SPK 22 Ekim bülteninde ANELE işlemleri için 48 kişiye suç duyurusu, 2 yıl işlem yasağı, 28 kişinin lisans iptali (ana akım haber, bültene eklenmedi).
-- Neden ilginç: Fon ve ana para güvencesi tartışması günlerdir sürüyor.
-- Kaynaklar: https://getdaytrends.com/turkey/ , https://tr.euronews.com/2026/10/23/fon-sorusturmasi-spkdan-48-kisiye-suc-duyurusu-5-sirkete-islem-yasagi
+  - getdaytrends 24 saatlik skor: #GüçlüDevletANAPARAyıKorur 665, #KirmiziCizgiANAPARA 643, #FonzedeninSabrıKalmadı 630, #FonzedeSecimistiyor 627.
+  - #CumhurbaşkanımKanunaVeto ve #ReisKanunaANAPARA de listede.
+  - Ekşi Sözlük ulaşılamadı (Cloudflare engeli).
+- Neden ilginç: Yatırımcı tepkisi etiket savaşına dönüştü.
+- Kaynaklar: https://getdaytrends.com/turkey/ ; https://www.karar.com/guncel-haberler/fon-yasasi-mecliste-tek-bir-yetkili-gormeden-gecti-tek-kurum-baskaninin-2080161
 
-## #EmeklilerdeSabırTaştı
-- Kategori: sosyal medya
+## Avusturya'da market sepeti 88,10 euro
+- Kategori: küçük detay
 - Puan: 3
-- Tarih / yer: 23 Ekim 2026, X Türkiye
-- Ne oldu: En düşük emekli aylığı 23.552 TL; 16 Ekim'de Meclis'e verilen teklif bunu net asgari ücrete bağlamak istiyor, Plan ve Bütçe Komisyonu'nda.
-- Detaylar ve rakamlar:
-  - Ocak zammı tahminleri: %10,11 ile 25.933 TL (AA Finans), %10,73 ile 26.079 TL (FKB).
-- Neden ilginç: Gündem ana akım, bültende kısa geçildi.
-- Kaynaklar: https://www.cumhuriyet.com.tr/ekonomi/emekli-maaslari-icin-yeni-teklif-en-dusuk-aylik-asgari-ucrete-baglanacak-2548171
+- Tarih / yer: 24 Ekim 2026, Avrupa
+- Ne oldu: Euronews analizinde Avusturya'da market sepeti 88,10 euro, AB ortalaması 69,84 euro.
+- Detaylar ve rakamlar: Fransa AB ortalamasının %27,5 üstünde; Avusturya'da küçülen ürün uyarısı kuralı Nisan 2026'da başladı (%3 birim fiyat artışı eşiği, ceza 15.000 euroya kadar).
+- Neden ilginç: Aynı sepet AB içinde çok farklı fiyatta.
+- Kaynaklar: https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why
+
+## Hanenin maddi durum endeksi 75,3'ten 68,3'e düştü
+- Kategori: küçük detay
+- Puan: 3
+- Tarih / yer: 22 Ekim 2026, Türkiye
+- Ne oldu: TÜİK ekim tüketici güveni %7,7 düşüşle 84,8 oldu; hanenin mevcut maddi durum endeksi 75,3'ten 68,3'e geriledi (%9,3).
+- Detaylar ve rakamlar: Dayanıklı tüketim harcama düşüncesi 108,8'den 102,7'ye indi.
+- Neden ilginç: Güven endeksinin içinde en sert düşen kalem hanenin kendi maddi durumu.
+- Kaynaklar: https://www.takvim.com.tr/ekonomi/2026/10/22/tuketici-guven-endeksi-ekim-2026-verileri
+
+## Fahiş fiyat ve etiket denetimlerinde 8,8 milyar TL ceza
+- Kategori: küçük detay
+- Puan: 3
+- Tarih / yer: 20 Ekim 2026, Türkiye
+- Ne oldu: Bakan Bolat, Haziran 2023'ten bu yana fahiş fiyat ve etiket denetimlerinde toplam 8,8 milyar TL idari para cezası uygulandığını açıkladı.
+- Detaylar ve rakamlar: Ocak-Eylül 2026'da 360.578 firma ve ~44 milyon ürün denetlendi, toplam ceza 2,6 milyar TL (399,5 milyon TL'si fahiş fiyata).
+- Neden ilginç: Üç yılda denetlenen ürün sayısı ve ceza ölçeği.
+- Kaynaklar: https://www.ahaber.com.tr/gundem/2026/10/20/fahis-fiyat-ve-etiket-denetimlerinde-88-milyar-tl-ceza-bakan-bolat-rakamlari-acikladi
+
+## Takvim
+- 26 Ekim Pazartesi – Kadena Hava Üssü'nde BYD yasağı başlıyor
+- 27-28 Ekim – ABD Merkez Bankası (Fed) faiz toplantısı
+- 29 Ekim Perşembe – Cumhuriyet Bayramı, beş raylı hat ücretsiz
+- 1 Kasım Pazar – 15 yaş altı sosyal medya düzenlemesi başlıyor
+- 3 Kasım Salı – TÜİK ekim ayı enflasyon verisi
+- 10 Kasım Salı – SGK taşınmaz açık artırması sona eriyor
+- 20 Kasım – TÜİK kasım tüketici güven endeksi
