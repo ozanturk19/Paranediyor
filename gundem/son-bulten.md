@@ -1,128 +1,81 @@
-# Para Ne Diyor? – 25 Ekim 2026 Sabah Bülteni
-Hazırlanma: 2026-10-25 08:50 TSİ
+# Para Ne Diyor? – 25 Ekim 2026 Öğleden Sonra Bülteni
+Hazırlanma: 2026-10-25 16:20 TSİ
 
-## Bad Bear'ın sahibi Selçuk Mağazacılık konkordatodan iflasa gitti
+## Fon soruşturmasında 3 milyon dolarlık blokaj ve iade başvurusu
 - Kategori: türkiye
 - Puan: 6
-- Tarih / yer: 8 Ekim 2026 karar, 24 Ekim haber; İstanbul
-- Ne oldu: İstanbul 3. Asliye Ticaret Mahkemesi 8 Ekim 2026'da şirket için iflas kararı verdi. Konkordato planı borçların 36 ayda 12 eşit taksitle ödenmesini öngörüyordu.
+- Tarih / yer: 25 Ekim 2026, İstanbul
+- Ne oldu: İstanbul Başsavcılığının fon soruşturmasında Reyhan Sütşurup'un hesabındaki yaklaşık 3 milyon dolara tedbir kondu; paranın yurt dışına gönderilmeye çalışıldığı öne sürüldü. Melis Sandal ve Cihan Sütşurup'un avukatları kazancı iade etmek istediklerini bildirdi, TMSF'ye yönlendirildiler.
 - Detaylar ve rakamlar:
-  - Kesin mühlet sonrası plan: 36 ay, 12 eşit taksit
-  - İlk taksitler ödenmişti, mali durum beklenen şekilde düzelmedi
-  - Aynı gün Gaziantep'te Konukoğlu ve bazı şirketlerin konkordato talepleri reddedildi, kesin mühlet kaldırıldı (ParaMedya, 24 Ekim)
-- Neden ilginç: Konkordato planı işliyor görünürken bile şirket iflasa gidebiliyor.
-- Kaynaklar: https://yenicaggazetesi.com/bad-bear-markasinin-arkasindaki-selcuk-magazacilik-iflas-etti-1084785h.htm , https://paramedya.com/devami/150192/gaziantepte-konkordato-depremi
+  - 3 milyon dolar yaklaşık 103 milyon TL (haberlere göre)
+  - İddia: Melis Sandal 2026'da Tera TLY fonuna 13,673 milyar TL yatırıp 2,355 milyar TL kâr etti
+  - İddia: Cihan Sütşurup aynı fona 3,707 milyar TL yatırıp 639 milyon TL kâr etti
+  - Haber7: 25 kişi haksız kazancı iade etti
+  - Rakamlar dosyaya dayanan haber, resmi açıklama yok; kaynaklar arasında küçük farklar var
+- Neden ilginç: Kâr ile yatırılan tutarın büyüklüğü ve iade başvurusu.
+- Kaynaklar: https://www.gzt.com/gundem/fon-sorusturmasinda-yeni-gelisme-mustafa-sandalin-esi-melis-sandalin-annesinin-3-milyon-dolarina-el-konuldu-4272647 , https://ekonomi.haber7.com/ekonomi/haber/3671181-fon-sorusturmasi-25-kisi-haksiz-kazanci-iade-etti-siraya-girdiler-surpriz-isimler
 
-## "Güvenli Kapora Sistemi" dolandırıcılığı
-- Kategori: türkiye
-- Puan: 6
-- Tarih / yer: yaklaşık 15 Ekim 2026 uyarısı, Türkiye
-- Ne oldu: Türkiye Noterler Birliği, noter çalışanı kılığında arayıp araç ve ev alımlarında "güvenli kapora" parası isteyenlere karşı uyardı.
-- Detaylar ve rakamlar:
-  - Böyle bir sistem hiçbir mevzuatta yok
-  - Gerçek sistem "Güvenli Ödeme Sistemi": ikinci el araç satışında bedel havuz hesabında tutulur, satış bitince satıcıya geçer
-  - Sahte ilan ve noter taklidi siteler de kullanılıyor
-  - Birlik Başkanı Fulya Uysal Güler: noterler hiçbir adla arayıp para istemez
-- Neden ilginç: Gerçek bir sistemin adına benzer sahte bir sistem uydurulmuş.
-- Kaynaklar: https://www.iscihaber.net/gundem/turkiye-noterler-birliginden-guvenli-kapora-sistemi-uyarisi/271371 , https://www.ekonomim.net/haber/guvenli-kapora-dolandiriciliga-dikkat-13036
-
-## "Aidatsız" kartlarda aidat kesintisi şikayetleri
+## Sahte yoruma ve "kötü yorum temizleme" hizmetine erişim engeli
 - Kategori: türkiye
 - Puan: 5
-- Tarih / yer: 3-18 Ekim 2026, Türkiye
-- Ne oldu: Şikayetvar'da Halkbank için 3 Ekim'de 820 TL, Tom Bank için 18 Ekim'de 1.000 TL "yıllık kart ücreti" kesildiği yazıldı. Kartlar "aidatsız" diye tanıtılmıştı.
+- Tarih / yer: Eylül sonu – 5 Ekim 2026 haberleri, Türkiye
+- Ne oldu: Ticaret Bakanlığı Reklam Kurulu sahte yorum, takipçi, beğeni satan sitelere ve bunlardan yararlanan yüzlerce e-ticaret adresine erişim engeli getirdi.
 - Detaylar ve rakamlar:
-  - Şikayetvar'ın 16 Ekim BDDK analizi: 11 şikayette "aidatsız" kartlara ücret yansıtıldığı ve onaysız hesap bakım ücreti alındığı belirtiliyor
-  - POS bakım ücreti iade talepleri de çok (ör. VakıfBank 950 TL)
-  - Bunlar kullanıcı beyanı, bankalar doğrulamadı
-- Neden ilginç: "Aidatsız" sözü ekstrede başka isimle geri gelmiş olabiliyor.
-- Kaynaklar: https://www.sikayetvar.com/halkbank/taahhut-edilen-ucretsiz-kartta-820-tl-yillik-aidat-kesintisi-ve-iade-talebi , https://www.sikayetvar.com/hadi-tombank/tom-banktan-yillik-kart-aidatinin-iadesi-ve-100-tl-kampanya-odulunun-odenmesi-talebi , https://www.sikayetvar.com/bddk
+  - Ücret karşılığı kötü puanları "temizleyen" şirketler de hedefte
+  - Yorum yapmak için ürünün platformdan satın alınmış olması zorunlu (yönetmelik 1 Ağustos 2026'da yürürlükte, tek kaynak)
+  - 13 Ağustos kurul toplantısında 87 dosyada yaklaşık 32,7 milyon TL ceza (tek kaynak, doğrulanmadı)
+  - Bugün çıkan bir gelişme değil; arşivde yoktu
+- Neden ilginç: Ürün sayfasındaki 5 yıldızın bir kısmı para karşılığı olabiliyor.
+- Kaynaklar: https://www.habergo.com.tr/haber/ticaret-bakanligi-sahte-5-yildiz-agini-kirdi-yuzlerce-siteye-erisim-engeli , https://www.haber.tr/ticaret-bakanligi-e-ticarette-sahte-etkilesimlere-erisim-engeli-getirdi
 
-## Üniversite mezunlarında yurt dışına göç oranı arttı
-- Kategori: türkiye
-- Puan: 6
-- Tarih / yer: 23 Ekim 2026, Türkiye (TÜİK)
-- Ne oldu: TÜİK 2025 yükseköğretim beyin göçü istatistiğine göre mezunların yurt dışına göç oranı yüzde 2'den 2,2'ye çıktı.
-- Detaylar ve rakamlar:
-  - Erkek mezunlar yüzde 2,7, kadın mezunlar yüzde 1,8
-  - Gidilen ülkelerde Almanya yüzde 22,0 ile birinci, ardından ABD ve Birleşik Krallık
-  - İstanbul erkek mezunlarda yüzde 4,7 ile ilk sırada
-- Neden ilginç: Gidenlerin beşte birinden fazlası tek ülkeyi, Almanya'yı seçiyor.
-- Kaynaklar: https://nefes.com.tr/genclerin-mezun-olur-olmaz-kapagi-attiklari-bes-ulke-bir-tanesi-en-revacta-olani-tuik-acikladi-160029 , https://www.denizlimuhabir.com/denizlinin-beyin-gocu-orani-yuzde-14/70621
-
-## T-Mobile "fiyatı artırmam" sözünü bozdu, 38 milyon dolar ödeyecek
+## Maryland'de market fiyatını kişisel veriye göre belirlemek yasak
 - Kategori: dünya
-- Puan: 7
-- Tarih / yer: 20 Ekim 2026, New York, ABD
-- Ne oldu: New York Başsavcılığı, fiyat garantisi verip 2024'te zam yapan T-Mobile ile uzlaştı.
+- Puan: 5
+- Tarih / yer: Yasa 28 Nisan 2026'da imzalandı, 1 Ekim 2026'da yürürlüğe girdi; Maryland, ABD
+- Ne oldu: Marketler, gıda perakendecileri ve paket servis uygulamaları müşterinin kişisel verisine bakarak daha yüksek fiyat belirleyemiyor.
 - Detaylar ve rakamlar:
-  - Etkilenen plan sayısı 252.957, 2024 zammı hat başına yaklaşık 5 dolar
-  - Toplam değer 38 milyon doların üzerinde
-  - 4G kullananlar: iptal edip son ayı geri alma + 25 dolar hediye kartı ya da 250 dolarlık ücretsiz 5G telefon / 150 dolar kredi
-  - Kalanlar iptal edip son ödemeyi geri alabilir ya da en az 2029'a kadar fiyat sabitlenir
-  - Eyalete yaklaşık 100 bin dolar ödeme (kaynaklarda küçük farklar var)
-- Neden ilginç: "Fiyat garantisi" sözü tutulmayınca devlet devreye girdi.
-- Kaynaklar: https://ag.ny.gov/press-release/2026/attorney-general-james-secures-reimbursements-t-mobile-customers-whose-rates , https://www.tmonews.com/2026/10/t-mobile-settles-with-new-york-ag-over-broken-price-guarantee-refunds-free-phones-and-a-2029-rate-freeze/
+  - Yasa adı Protection From Predatory Pricing Act
+  - Connecticut'ta Public Act 26-130 benzer yasak getirdi
+  - New Jersey yasası 23 Temmuz'da imzalandı, 1 Ağustos 2027'de yürürlüğe girecek
+  - New York One Fair Price Act Haziran'da meclisten geçti, Vali Hochul'un imzası bekleniyor (31 Aralık'a kadar süresi var)
+  - FTC 19 Ağustos'ta kişiselleştirilmiş fiyat için politika taslağı yayımladı
+- Neden ilginç: Aynı ürüne kişiye göre farklı fiyat yasa konusu oldu.
+- Kaynaklar: https://www.regulatoryoversight.com/2026/06/new-york-passes-one-fair-price-act-banning-surveillance-pricing/ , https://sigmalawgroup.com/blog/2026-08-06-surveillance-pricing-laws/
 
-## WhatsApp'ta "kızıma oy verir misin?" GhostPairing tuzağı
+## Character.AI iflas koruması istedi, varlıkları Disney'e gidiyor
 - Kategori: teknoloji
 - Puan: 6
-- Tarih / yer: 20 Ekim 2026, Türkiye
-- Ne oldu: Tanıdık gibi görünen mesajdaki sahte oy sayfası telefon numarası ve kod istiyor. Kod girilince saldırganın cihazı WhatsApp hesabına bağlanıyor.
+- Tarih / yer: 13 Ekim 2026 başvuru; Delaware, ABD
+- Ne oldu: Sohbet platformu Chapter 11 başvurusu yaptı, bazı varlıklarını 20 milyon dolara Disney'e satmayı kabul etti.
 - Detaylar ve rakamlar:
-  - Şifre kırılmıyor, kurban kendi eliyle cihaz eşleştirmesini onaylıyor
-  - Ele geçiren kişi mesajları okuyabiliyor ve aynı tuzağı rehbere yayıyor
-  - Hollanda'da da aynı kalıp görülüyor
-  - Korunma: WhatsApp'ta Bağlı Cihazlar'ı kontrol et, tanımadığını kaldır; iki adımlı doğrulamayı aç
-- Neden ilginç: Hesap şifresi hiç çalınmadan ele geçirilebiliyor.
-- Kaynaklar: https://boldmedya.com/2026/10/20/whatsapp-ghostpairing-dolandiriciligi/ , https://www.turkinfo.nl/whatsapp-oy-verme-tuzagi-bagli-cihazlar/45261
+  - Satış mahkeme onayına bağlı, Disney "stalking-horse" teklif sahibi, rakip teklif gelebilir
+  - Disney'e sürekli, münhasır olmayan lisans ve bazı talepler gidiyor
+  - Aylık harcama 8 milyondan fazla (haberlere göre)
+  - Tahmini varlık ve borç 50-100 milyon dolar aralığı (kaynaklar farklı yorumluyor)
+  - Platform dava sürecinde çalışıyor; satışın kasım sonu/aralık başı bitmesi bekleniyor
+  - Disney eski CEO Karandeep Anand'ı ilk CTO'su olarak işe aldı
+- Neden ilginç: Beş yıllık, çok kullanıcılı bir yapay zekâ uygulaması bile parayı yetiştiremeyip satışa çıktı.
+- Kaynaklar: https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174 , https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
 
-## Türkiye'de yapay zeka girişimi sayısı 500'ü aştı
-- Kategori: teknoloji
-- Puan: 5
-- Tarih / yer: 17-18 Ekim 2026, Türkiye
-- Ne oldu: TRAI Ekim Girişim Haritası'na göre sayı 504 oldu. Loops AI 3,5 milyon dolar yatırım aldı.
-- Detaylar ve rakamlar:
-  - Güncellemede 43 girişim eklendi, 21 çıkarıldı
-  - Loops AI 2025'te kuruldu, e-ticaret için yapay zeka; yatırımcılar a16z Speedrun, NTT DOCOMO, Monday Capital; ilk hedef pazar Japonya
-  - Bakan Kacır (23 Ekim): Türk teknoloji girişimleri son 5 yılda 5,7 milyar dolar üzeri yatırım aldı
-- Neden ilginç: Türk girişim ilk küresel pazar olarak Japonya'yı seçti.
-- Kaynaklar: https://www.foreks.com/haber/detay/6ad4de3758b1b941c208c4c7/FRKS/tr/turkiye-de-yapay-zeka-girisimi-sayisi-504-e-yukseldi-18-10-26/ , https://www.yorumla.net/teknoloji/turk-yapay-zek-girisimi-loops-ai-3-5-milyon-dolar-yatirim-aldi/123744
-
-## #FONLARATamAnaPara #AltinbasYaOdeYaHapis
+## #BankalarFonAldirdiCeza
 - Kategori: sosyal medya
 - Puan: 4
-- Tarih / yer: 25 Ekim 2026, Türkiye (X trendleri; sayı görünmüyor)
-- Ne oldu: Fon soruşturmasında Altınbaş ailesinin mal varlığı donduruldu, 15 kişi daha tutuklandı.
+- Tarih / yer: 25 Ekim 2026, X Türkiye
+- Ne oldu: SPK 131 fonu tasfiye etti; 18 Eylül usullerine göre tasfiyeyi yetkili bankalar yürütüyor, yatırımcı ödemesi bankalara yüklendi. Bankalara başta 3 ay, sonra 6 aya uzatılan süre verildiği bildiriliyor.
 - Detaylar ve rakamlar:
-  - Soruşturmada tutuklu sayısı 84, adli işlem yapılan 282 kişi
-  - Atlas Portföy'ün eylülde fonlardan 16 milyar TL çıkış yaptığı tespit edildi
-  - 31 kişi hakkında gözaltı kararı
-- Neden ilginç: Yatırımcılar "ana para" iadesini talep ediyor.
-- Kaynaklar: https://www.hurriyet.com.tr/gundem/son-dakika-fon-sorusturmasinda-yeni-gelisme-15-supheli-daha-tutuklandi-nusret-altinbas-gozaltinda-43353506 , https://www.milliyet.com.tr/gundem/fon-sorusturmasi-kapsaminda-26-yeni-gozalti-altinbas-ailesinin-mal-varligi-donduruldu-7684928
+  - getdaytrends 24 saat skoru 287; aynı gün #TamAnaParaYoksaSeçimVar (294), #FONLARATamAnaPara (589)
+  - Anonim eski bankacı iddiası tek kaynak, doğrulanmadı
+- Neden ilginç: Fon zararının bankalara yüklenmesi tepki topluyor.
+- Kaynaklar: https://halktv.com.tr/ekonomi/fon-krizinde-enkaz-neden-bankalara-birakildi-eski-bankaci-ismimi-verme-dedi-anlatti-1056706h
 
-## Avrupa kış saatine geçti, Türkiye geçmedi
-- Kategori: küçük detay
+## #StajyerçırakSeçimDiyor
+- Kategori: sosyal medya
 - Puan: 3
-- Tarih / yer: 25 Ekim 2026, Avrupa / Türkiye
-- Ne oldu: Türkiye 2016'dan beri sabit UTC+3 kullanıyor; Avrupa kış saatine geçince Almanya ile fark 2, İngiltere ile fark 3 saate çıktı.
-- Detaylar ve rakamlar: Telefon saat dilimi Türkiye ise elle değişiklik gerekmiyor.
-- Neden ilginç: Aynı ülkeyle saat farkı yılda iki kez değişiyor.
-- Kaynaklar: https://www.milligazete.com.tr/2026-kis-saati-uygulamasi-turkiyede-olacak-mi-telefon-saatleri-25-ekimde-degisecek-mi
+- Tarih / yer: 25 Ekim 2026, X Türkiye
+- Ne oldu: Staj ve çıraklık sigortası mağdurları sigortasız günlerinin emeklilikte sayılmasını istiyor; borçlanma teklifi 1 Ekim'de Plan ve Bütçe Komisyonu'na sevk edildi, yasalaşmadı.
+- Detaylar ve rakamlar:
+  - AK Parti Grup Başkanvekili Akbaşoğlu: çalışma seçim sonrası da sürecek
+- Neden ilginç: Konu yıllardır çözülmeden gündemde.
+- Kaynaklar: https://www.haberlisin.com/staj-ve-ciraklik-magdurlari-icin-mecliste-iki-teklif-emeklilik-hesabi-degisebilir
 
-## TOKİ 61 ilde 725 arsa satacak
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 5-6 Kasım 2026 açık artırma, 61 il
-- Ne oldu: TOKİ 725 arsayı açık artırmayla satışa çıkarıyor.
-- Detaylar ve rakamlar: Bazı arsalarda peşin ödemeye yüzde 15 indirim; 48 aya kadar vade.
-- Neden ilginç: Tek seferde 61 ilde arsa satışı.
-- Kaynaklar: https://www.emlakdream.com/tokiden-61-ilde-dev-arsa-satisi-725-arsa-48-ay-vade-yuzde-15-indirim/
-
-## Takvim
-- 26 Ekim Pazartesi – Muhtasar ve SGK prim hizmet beyannamesi son günü
-- 28 Ekim Çarşamba – Aylık KDV beyannamesi son günü
-- 29 Ekim Perşembe – Cumhuriyet Bayramı
-- 3 Kasım Salı – TÜİK Ekim enflasyonu (genelde ayın 3'ü)
-
-Ulaşılamayan: Ekşi Sözlük
+Ulaşılamayan: Ekşi Sözlük (bot koruması)
