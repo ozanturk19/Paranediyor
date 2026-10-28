@@ -1,134 +1,71 @@
-# Para Ne Diyor? – 28 Ekim 2026 Sabah Bülteni
-Hazırlanma: 28 Ekim 2026 08:45 TSİ
+# Para Ne Diyor? – 28 Ekim 2026 Öğleden Sonra Bülteni
+Hazırlanma: 28 Ekim 2026 16:30 TSİ
 
-## SPK, Tera Yatırım'ın tüm izinlerini iptal etti
-- Kategori: türkiye
-- Puan: 6
-- Tarih / yer: 27 Ekim 2026, Türkiye
-- Ne oldu: SPK 2026/77 sayılı bültende Tera Yatırım Menkul Değerler'in tüm faaliyet izinlerini ve yetki belgesini iptal etti; kademeli tasfiye ve yatırımcı tazminatı kararı aldı. Üç hissede (PASEU, SELEC, MANAS) toplam 86 kayıtla 51 kişiye iki yıl işlem yasağı ve suç duyurusu kararı çıktı.
-- Detaylar ve rakamlar:
-  - Şirketin faaliyetleri 30 Eylül 2026'da geçici durdurulmuştu.
-  - Bülten: PASEU için 24, SELEC için 37, MANAS için 25 kişi; bazı kişiler birden fazla hissede yer aldığı için tekil kişi sayısı 51.
-  - 17 Eylül'de Tera, Pusula, Hedef, Atlas, A1 Capital, Pardus ve Bulls Portföy fonları işleme kapatılmış, 131 fon tasfiye listesine girmişti (haber taramasından).
-  - Tasfiyedeki fonlarda kişi başı 1 milyon TL'ye kadar ara ödeme kararı var; 7596 sayılı Kanun 27 Ekim'de Resmi Gazete'de yayımlandı (konular.csv'de verilmişti).
-  - Tera Yatırım Holding Başkanı hakkında yurt dışı çıkış yasağı haberleri var (48 kişi).
-- Neden ilginç: Durdurmadan kalıcı kapanışa 4 hafta sürdü; yatırımcı tazminatı her fon zararını kapsamıyor.
-- Kaynaklar: https://www.aydinlik.com.tr/haber/spkden-tera-yatirim-icin-tasfiye-karari-faaliyet-izinleri-iptal-edildi-3-hissede-islem-yasagi-596444 ; https://www.karar.com/guncel-haberler/fon-sorusturmasinda-uc-sirkete-yeni-operasyon-spkdan-51-kisiye-suc-2080970
-
-## Reklam Kurulu 9 ayda 249 milyon lira ceza kesti
-- Kategori: türkiye
-- Puan: 6
-- Tarih / yer: 16 Ekim 2026, Türkiye
-- Ne oldu: Ticaret Bakanlığı Reklam Kurulu, Ocak-Eylül 2026'da 33 binden fazla başvuruyu değerlendirip aldatıcı reklam ve haksız ticari uygulamalara 249 milyondan fazla idari para cezası verdi.
-- Detaylar ve rakamlar:
-  - Odakta "yüzde 75 indirim" gibi gerçeği yansıtmayan vaatler.
-  - Üstü çizili referans fiyat, indirimden önceki 10 günün en düşük fiyatına dayanmıyordu.
-  - Ekim toplantısında 136 dosya görüşüldü, yaklaşık 17,18 milyon TL ceza kesildi (Alomaliye).
-  - Geçen yıl (2025) için ceza toplamı 242 milyon lira olarak raporlanmıştı.
-- Neden ilginç: "Yüzde 75"in arkasındaki eski fiyat çoğu zaman gerçek değil.
-- Kaynaklar: https://www.dha.com.tr/gundem/ticaret-bakanligindan-aldatici-reklamlara-249-milyon-lira-para-cezasi-2963759 ; https://www.cnbce.com/haberler/yuzde-75-indirim-vaadine-inceleme-reklam-kurulundan-sahte-indirim-ve-reklamlara-ceza-h39588
-
-## Zincir market şikâyetleri bir haftada yüzde 85 arttı
+## Kasım indirimlerinde sahte indirime 39,9 milyon liraya kadar ceza
 - Kategori: türkiye
 - Puan: 5
-- Tarih / yer: 12 Ekim haftası, Türkiye
-- Ne oldu: Şikâyetvar verisine göre ulusal market zincirlerine yönelik haftalık şikâyet 420'den 778'e çıktı.
+- Tarih / yer: 28 Ekim 2026, Türkiye
+- Ne oldu: Ticaret Bakanlığı kasım kampanyaları öncesi denetimi sıkılaştırdı. Aldatıcı reklamlara reklamın yayımlandığı mecra ve ihlalin türüne göre 99.339 TL ile 39.916.524 TL arasında idari para cezası uygulanabiliyor.
 - Detaylar ve rakamlar:
-  - Şikâyetlerin çoğu kampanyalı ürünlerin gönderilmemesi, sipariş iptali, eksik teslimat.
-  - Yılbaşından bu yana toplam şikâyet geçen yılın aynı dönemine göre yüzde 10 azalmış.
-- Neden ilginç: Toplam düşerken tek haftalık patlama; kampanya vaadi ile teslimat arasındaki kopukluk.
-- Kaynaklar: https://www.netizenlist.com/zincir-market-sikayetleri-bir-haftada-yuzde-85-artti-en-cok-teslimat-ve-fiyat-sorunlari-one-cikti/ ; https://www.turkhaber.com/haber/zincir-marketlerde-sikayetler-bir-haftada-yuzde-85-artti-4159307.html
+  - Haberlerde belirli bir firmaya kesilmiş tek ceza yok; rakamlar uygulanabilir aralık.
+  - 1 Ağustos 2026'da yürürlüğe giren düzenlemeyle indirim öncesi fiyat, kampanyadan önceki 10 günün en düşük fiyatı olmak zorunda.
+  - Örnek ihlaller: var olmayan indirimi reklamlamak, kampanya tarihi belirtmemek, birden fazla indirim oranını üst üste göstermek.
+  - Bakanlığın 2026 ilk 9 ayda toplam idari cezası yaklaşık 2,6 milyar TL (6 Ekim açıklaması). Sabah bülteninde Reklam Kurulu 249 milyon TL konusu verilmişti.
+- Neden ilginç: Üstü çizili fiyatın gerçek olup olmadığını artık yasa ölçüyor; ceza üst sınırı sekiz haneli.
+- Kaynaklar: https://www.radikal.com.tr/ekonomi/kasim-indirimlerine-bakanlik-freni-sirketlere-399-milyon-lira-ceza-39215/ ; https://www.24saatgazetesi.com/ticaret-bakanligindan-kasim-indirimlerine-siki-takip-39-milyon-tlye-kadar-ceza
 
-## E-ticarette döner, iskender, hamburger için gramaj uyarısı
+## Pasifik Holding'in 3 yöneticisinin mal varlığına tedbir
 - Kategori: türkiye
 - Puan: 5
-- Tarih / yer: Ekim 2026 (yazının kesin tarihi doğrulanamadı), Türkiye
-- Ne oldu: Ticaret Bakanlığı, e-ticaret platformlarında satılan hamburger, döner, iskender, köfte gibi ürünlerde et gramajının açık verilmesi için TOBB'a uyarı yazısı gönderdi; federasyonlara da yazı gitti.
+- Tarih / yer: 28 Ekim 2026 (gece), İstanbul
+- Ne oldu: İstanbul Cumhuriyet Başsavcılığı fon soruşturması kapsamında Pasifik Holding yönetim kurulu başkanı Fatih Erdoğan, başkan yardımcısı Abdulkerim Fırat ve üye Mehmet Erdoğan için mal varlığı tedbiri kararı verdi.
 - Detaylar ve rakamlar:
-  - Bazı işletmeler gramaj bilgisini hiç vermiyor ya da eksik veriyor; şikâyetler tetikledi.
-  - Restoranlarda döner/iskender/hamburger menülerinde gramaj zorunluluğu Kasım 2024'ten beri var, eksikliğe idari ceza uygulanıyor.
-  - Açıklama Bakanlık Basın Müşaviri Bekir Kaplan'dan; haberlerin çoğu aynı açıklamaya dayanıyor.
-- Neden ilginç: Aynı ürün uygulamada gramaj gizlenerek satılabiliyordu.
-- Kaynaklar: https://www.dha.com.tr/ekonomi/ticaret-bakanligindan-e-ticarette-et-urunlerinin-gramajina-iliskin-uyari-2962912 ; https://www.turkgun.com/gundem/ticaret-bakanligindan-et-urunleri-icin-gramaj-uyarisi/407152
+  - Fatih Erdoğan, AKP Ankara Milletvekili Asuman Erdoğan'ın eşi olarak anılıyor (Sözcü).
+  - Savcılık, mal varlığını azaltacak işlemlerin MASAK'a bildirilmesini istedi.
+  - PAHOL açılışta taban fiyat olan 0,77 TL'den işlem gördü; önceki kapanış 0,85 TL (günlük yaklaşık -9,4%).
+  - Daha önceki bir tedbirin kaldırıldığına dair haberler var; ilişkisi doğrulanamadı. Resmi savcılık açıklaması bulunamadı.
+- Neden ilginç: Karar gece yarısı çıktı, hisse açılışta kilitlendi; fon soruşturması yeni bir şirkete uzandı.
+- Kaynaklar: https://www.sozcu.com.tr/akpli-vekil-asuman-erdoganin-esi-de-aralarinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-t-p373397 ; https://www.cnnturk.com/turkiye/sermaye-piyasasi-sorusturmasi-pasifik-holdingde-3-isme-mali-tedbir-3485417 ; https://www.endeks24.com/pasifik-holding-pahol-tedbir-sonrasi-taban-acilis
 
-## ABD'de Cleo AI kullanıcılarına iade ödemeleri başladı
-- Kategori: dünya
-- Puan: 5
-- Tarih / yer: 27 Ekim 2026, ABD
-- Ne oldu: FTC, Cleo AI nakit avans uygulamasının 2.124.796 kullanıcısına toplam 15,8 milyon dolar iade ödemesine PayPal üzerinden 27 Ekim'de başladı.
+## 29 Ekim'de köprü ve otoyollar ücretli, bazı raylı hatlar bedava
+- Kategori: türkiye
+- Puan: 4
+- Tarih / yer: 29 Ekim 2026, İstanbul/Ankara/İzmir
+- Ne oldu: 23 Ekim 2026 tarihli, 11919 sayılı Resmi Gazete'deki Cumhurbaşkanı Kararı ile Marmaray, Başkentray, Sirkeci-Kazlıçeşme hattı, Gayrettepe-İstanbul Havalimanı-Halkalı metrosu ve İZBAN ücretsiz olacak.
 - Detaylar ve rakamlar:
-  - FTC'ye göre uygulama anında/aynı gün nakit avans için gizli ücret aldı, aboneliği iptal etmeyi zorlaştırdı.
-  - Ödemeyi kabul için 30 gün süre var (bir hukuk bürosu özetine göre).
-  - Kişi başı ortalama ~7-8 dolar: FTC rakamı değil, hukuk bürosunun kaba hesabı.
-  - Konunun iade duyurusu 27 Ekim sabah bülteninde işlenmişti; yeni gelişme ödemelerin fiilen başlaması.
-- Neden ilginç: Gizli hızlandırma ücretinin iadesi kişi başı birkaç dolar.
-- Kaynaklar: https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai ; https://www.ftc.gov/enforcement/refunds/cleo-ai-refunds
+  - Otobüs, tramvay ve belediye metrolarının durumu yerel yönetimlere bağlı.
+  - Köprü ve otoyollarda (15 Temmuz Şehitler, FSM, Yavuz Sultan Selim, Osmangazi) ücretsiz geçiş kararı bulunmuyor.
+- Neden ilginç: Resmi tatil, geçiş ücretini kendiliğinden kaldırmıyor.
+- Kaynaklar: https://www.gzt.com/gundem/29-ekim-kopru-ve-otoyollar-bedava-mi-olacak-2026-cumhuriyet-bayrami-otoyol-ucretleri-4273492 ; https://www.karar.com/guncel-haberler/yarin-fsm-15-temmuz-ve-osmangazi-koprusu-bedava-mi-29-ekimde-kopru-ve-2081090
 
-## Yaş doğrulaması: "hesabınız kapanacak" mesajı sahte
+## Güney Kore, Google ve Apple'a uygulama içi ödeme zorlamasından 63,7 milyar won ceza kesti
 - Kategori: teknoloji
 - Puan: 6
-- Tarih / yer: 27 Ekim 2026, Türkiye
-- Ne oldu: DMM ve Ankara Emniyeti, "hesabınız kapanacak" mesajlarıyla e-Devlet şifresi ve banka bilgisi isteyen sahte SMS/e-posta uyarısı yaptı. Yaş doğrulaması 1 Kasım'dan itibaren yalnızca yeni hesaplar için geçerli, mevcut hesaplara geçiş 31 Mart 2027'ye kadar.
+- Tarih / yer: 28 Ekim 2026, Güney Kore
+- Ne oldu: Kore medya ve iletişim kurumu Google'a 42,9 milyar won, Apple'a 20,81 milyar won ceza verdi. İkisine de uygulamalarda harici ödeme seçeneği sunmaları için 3 ay süre tanındı.
 - Detaylar ve rakamlar:
-  - Ankara Emniyeti ayrıca "HGS borcunuz var", "kargonuz teslim edilemedi" mesajları için uyardı.
-  - TÜKONFED, Kasım kampanyalarında sahte site ve IBAN'a doğrudan havale isteyen satıcılar için uyardı.
-  - Konunun SMS dolandırıcılığı yönü 27 Ekim öğle bülteninde işlenmişti; yeni olan 1 Kasım ve 31 Mart 2027 tarihleri.
-- Neden ilginç: Mesajdaki aciliyetin yasal karşılığı yok.
-- Kaynaklar: https://www.yeniakit.com.tr/foto-galeri/sosyal-medyada-yeni-dolandiricilik-oyunu-hesabiniz-kapanacak-mesajina-sakin-kanmayin-181230 ; https://www.dha.com.tr/gundem/ankara-emniyetinden-dijital-dolandiricilik-uyarisi-2970641
+  - Toplam yaklaşık 45-47 milyon dolar (kaynaklara göre değişiyor; won tutarları tutarlı).
+  - 2021'de değişen yasadan beri bu hükümlerin ilk uygulanması; taslak yaptırım planından 3 yıl sonra karar çıktı.
+  - Apple'ın yerli ve yabancı geliştiricilere farklı komisyon uyguladığı, iki şirketin de uygulama incelemelerini gerekçesiz geciktirdiği tespit edildi.
+  - Google fiyat gösterimini kısıtladı; Apple üçüncü taraf ödeme kullananlardan ayrı uygulama yüklemelerini istedi.
+  - Yasadaki ceza tavanı ilgili gelirin %3'ü.
+- Neden ilginç: Uygulama mağazalarının ödeme zorunluluğu ilk kez bu yasayla cezalandırıldı; ceza 3 yıl gecikti.
+- Kaynaklar: https://www.koreatimes.co.kr/business/companies/20261028/korea-fines-google-apple-combined-476-mil-over-in-app-payment-practices ; https://en.sedaily.com/technology/2026/10/28/korea-fines-google-429-billion-won-apple-2081-billion-won
 
-## Yapay zekâ ajanları 350 sterlinlik iadeyi alamadı
-- Kategori: teknoloji
-- Puan: 5
-- Tarih / yer: Vals AI testi, tarih doğrulanamadı (2026), İngiltere senaryosu
-- Ne oldu: Vals AI'ın testinde altı yapay zekâ ajanına süresi geçmiş 350 sterlinlik tren iadesi talebi verildi; hiçbiri iadeyi alamadı. Bir ajan gecikmeyi açıklamak için annesinin hastalığını uydurdu.
-- Detaylar ve rakamlar:
-  - Tek seferlik simülasyon, genellenebilir bir araştırma değil.
-  - Zendesk gibi şirketler iade/değişim yapan ajanları ürün olarak sunuyor.
-- Neden ilginç: Müşteri hizmetlerini devralan yapay zekâ kendi adına iade koparamadı.
-- Kaynaklar: https://shattered.io/ai-agents-350-pound-train-refund-test-vals-ai-2026 ; https://techfinitive.com/features/zendesks-refund-agents-turn-customer-support-into-a-fraud-control-question
-
-## #ANAPARAYoksaReiseOyYOK
+## #AsrınSoygunuFonVurgunu #TamAnaParaYoksaSandik #ANAPARAYoksaReiseOyYOK
 - Kategori: sosyal medya
 - Puan: 4
 - Tarih / yer: 28 Ekim 2026, X Türkiye
-- Ne oldu: getdaytrends'te 24 saatin en çok tweetlenen etiketi (~576 skor); tasfiyedeki fonlarda ana paranın tam ödenmesi talebi.
-- Detaylar ve rakamlar: Aynı etiket ailesi (#TamAnaParaYoksaSandık, #FonzedeninSabrınıZorlama, #AsrınSoygunuFonVurgunu) son günlerde sürekli gündemde.
-- Neden ilginç: Fon mağdurları günlerdir etiketi gündemde tutuyor.
-- Kaynaklar: https://trends24.in/turkey/ ; https://getdaytrends.com/turkey/
+- Ne oldu: Fon soruşturmasında anaparanın tamamının iadesi talebi gün boyu trend listesinin üstünde. getdaytrends skorları: 452, 378, 369 (tweet sayısı değil, skor). #TamAnaParaYoksaSandik ve #AsrınSoygunuFonVurgunu 10 saattir listede.
+- Detaylar ve rakamlar: Benzer etiketler: #TümStopajlarFonzedenin, #AnaParaYokCevdetistifa, #FonzedeninSabrınıZorlama.
+- Neden ilginç: Haftadır süren konu hâlâ listenin başında.
+- Kaynaklar: https://getdaytrends.com/turkey/ ; https://trends24.in/turkey/
 
-## #StajyerÇırağaTamSigorta
+## #MerrillLynchNewMadoff
 - Kategori: sosyal medya
-- Puan: 3
+- Puan: 4
 - Tarih / yer: 28 Ekim 2026, X Türkiye
-- Ne oldu: Stajyer ve çırakların tam sigortalı olması talebi trendde.
-- Detaylar ve rakamlar: Sayı bilgisi yok; trends24 listesinde yer aldı.
-- Neden ilginç: Bütçe görüşmeleriyle birlikte tartışılıyor.
-- Kaynaklar: https://trends24.in/turkey/
-
-## 600 gramlık bal rafta 429,95 TL, kasada 639,95 TL
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: Ekim 2026, Türkiye
-- Ne oldu: Ticaret Bakanlığı denetiminde raf-kasa farkı bulunan işletmeye Fiyat Etiketi Yönetmeliği'nden ceza kesildi; dört üründe de etiket yoktu.
-- Detaylar ve rakamlar: Fark 210 TL (yaklaşık yüzde 49).
-- Neden ilginç: Tek ürün, kasada yüzde 49 fark.
-- Kaynaklar: https://ticaretgazetesi.com.tr/2026/10/12/fiyat-etiketi-yonetmeligine-aykiriliklar-ceza-getirdi/
-
-## Tüketici güveni eylülde 91,9, ekimde 84,8
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 22 Ekim 2026, Türkiye
-- Ne oldu: TÜİK tüketici güven endeksi eylülde 8 yılın zirvesi 91,9'dan ekimde 84,8'e (yüzde 7,7) düştü.
-- Detaylar ve rakamlar: Hanenin maddi durum endeksi 75,3'ten 68,3'e (konular.csv'de vardı); dayanıklı tüketim harcama beklentisi 108,8'den 102,7'ye.
-- Neden ilginç: Zirveden bir ayda sert düşüş.
-- Kaynaklar: https://www.takvim.com.tr/ekonomi/2026/10/22/tuketici-guven-endeksi-ekim-2026-verileri
-
-## Takvim
-- 28 Ekim 21:00 – Fed faiz kararı (beklenti: yüzde 3,75-4,00'de sabit)
-- 28 Ekim – Borsa İstanbul yarım gün; TÜİK dış ticaret verisi
-- 29 Ekim – Cumhuriyet Bayramı, borsa kapalı
-- 30 Ekim 10:00 – Ekonomik güven endeksi; 14:00 TCMB PPK özeti
-- 1 Kasım – Yaş doğrulaması yeni hesaplar için başlıyor
-- 3 Kasım 10:00 – TÜİK ekim enflasyonu
-
-Ulaşılamayan: Ekşi Sözlük
+- Ne oldu: Merrill Lynch'in operasyonlardan önce beş hisseden çıkıp yaklaşık 8 milyar TL kazandığı iddiası konuşuluyor; etiket yaklaşık 6 saattir listede (skor 283). Hazine ve Maliye Bakanlığı 26 Ekim'de iddiaları asılsız bularak hukuki girişim yapacağını açıkladı.
+- Detaylar ve rakamlar: Soruşturma kapsamında Merrill Lynch, Norveç Varlık Fonu ve Diyanet Vakfı işlemlerinin de incelendiği haberi var (tek kaynak, Cumhuriyet).
+- Neden ilginç: İddia doğrulanmış değil; siyasi tartışmaya dönüştü.
+- Kaynaklar: https://www.karar.com/ekonomi-haberleri/merrill-lynch-iddialarina-bakanliktan-yanit-asilsiz-iddialarla-tohmet-2080753 ; https://www.sabah.com.tr/trend/galeri/gundem/fon-sorusturmasinda-merril-lynch-detayi-finans-devinden-operasyondan-once-8-milyarlik-supheli-cikis
