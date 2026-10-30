@@ -1,66 +1,117 @@
-# Para Ne Diyor? – 29 Ekim 2026 Öğleden Sonra Bülteni
-Hazırlanma: 29 Ekim 2026 16:29 TSİ
+# Para Ne Diyor? – 30 Ekim 2026 Sabah Bülteni
+Hazırlanma: 2026-10-30 08:55 TSİ
 
-Not: 29 Ekim resmi tatil; Resmi Gazete ve kurum kararları az, X trendleri ağırlıkla bayram ve siyaset. Yavaş haber günü.
-
-## Banka başka dairenin DASK poliçesini kesti, hakem heyeti iade ettirdi
+## Qlux Ideas'a 1 yıllık kesin konkordato mühleti
 - Kategori: türkiye
 - Puan: 6
-- Tarih / yer: 28-29 Ekim 2026, Kayseri (Kocasinan)
-- Ne oldu: Kocasinan Tüketici Hakem Heyeti, müşterinin hesabından aynı apartmandaki başka bir daire için DASK primi kesen bankayı kusurlu buldu ve tutarın iadesine oy birliğiyle karar verdi.
+- Tarih / yer: 22 Ekim 2026, Lüleburgaz (Kırklareli)
+- Ne oldu: Lüleburgaz 2. Asliye Ticaret Mahkemesi, ev ve mutfak eşyası üreticisi Qlux Ideas'a 22 Ekim'den başlayan 1 yıllık kesin mühlet verdi. Süreç 22 Mayıs'ta 3 aylık geçici mühletle başlamıştı.
 - Detaylar ve rakamlar:
-  - Kesilen tutar 1.703,05 TL.
-  - Müşteri kendi dairesi için zaten geçerli DASK yaptırmıştı.
-  - Banka kendisinin yalnızca aracı/acente olduğunu, işlemin UAVT adres kodu üzerinden yapıldığını savundu.
-  - Heyet acentelik sırasında gereken özenin gösterilmediğini, hizmetin ayıplı olduğunu belirtti.
-  - Birden fazla haber sitesi aynı olayı aktarıyor; tam karar metni görülmedi.
-- Neden ilginç: Sahibinin haberi olmadan başka bir dairenin sigortası hesaptan ödenmiş.
-- Kaynaklar: https://www.trtv.net/2026/10/29/kayseride-bankanin-hatali-dask-kesintisi-musteriye-iade-edildi/ ; https://www.yenicaggazetesi.com/yanlis-dask-policesi-kesildi-hakem-heyeti-bankayi-kusurlu-buldu-170305-tl-iade-edilecek-1085749h.htm
+  - Dosya 2026/118; karar 19 Ekim duruşmasının ardından çıktı
+  - Geçici mühlet 22 Ağustos'tan 2 ay uzatılmıştı (153 gün, 5 aylık yasal sınır)
+  - Haberlerde "90'dan fazla ülkeye ihracat, 5 kıtaya ürün" vurgusu
+  - Karar şirketin iflası anlamına gelmiyor, komiser heyeti sürüyor
+- Neden ilginç: Her evde ürünü bulunan, 90+ ülkeye satan bir üretici konkordatoda.
+- Kaynaklar: https://www.gzt.com/ekonomi/5-kitaya-urun-gonderiyordu-qlux-ideas-icin-mahkemeden-kritik-karar-4271830 ; https://www.endeks24.com/qlux-ideasa-konkordatoda-1-yillik-kesin-muhlet
 
-## Toplu taşımada zam şehir şehir sürüyor: Balıkesir ve Van
+## Yurt içi seyahat harcaması %32,6 arttı, seyahat sayısı azaldı
 - Kategori: türkiye
+- Puan: 5
+- Tarih / yer: TÜİK 2026 2. çeyrek verisi (yayın tarihi doğrulanamadı, ~Ekim), Türkiye
+- Ne oldu: Harcama yaklaşık 155 milyar TL'ye çıktı; seyahat sayısı %3,6 azalıp 16 milyon 467 bin oldu.
+- Detaylar ve rakamlar:
+  - Yurt içi seyahat eden kişi: 13 milyon 549 bin
+  - Toplam geceleme 85 milyon 890 bin; 61 milyon 192 bini (~%71) akraba/arkadaş evinde
+  - Aile ziyareti harcaması 115,4 milyar TL (Karar haberi)
+- Neden ilginç: Daha az seyahat, çok daha yüksek harcama; konaklamanın üçte ikisi akraba evinde.
+- Kaynaklar: https://www.ozgunkocaeli.com.tr/tuik-acikladi-seyahat-azaldi-harcamalar-155-milyar-tlye-dayandi ; https://www.karar.com/guncel-haberler/yerli-turistler-aile-ziyaretleri-icin-1154-milyar-lira-harcadi-2080189
+
+## Evlenmenin maliyeti 1,8 milyon liraya dayandı
+- Kategori: türkiye
+- Puan: 5
+- Tarih / yer: 2026, Türkiye (haber tarihi doğrulanamadı)
+- Ne oldu: Düğün.com ve KONDA araştırmasına göre düğün ve ev kurma masrafı ortalama 1,8 milyon TL.
+- Detaylar ve rakamlar:
+  - TÜİK: evlenen çift 2024'te 569.983, 2025'te 552.237
+  - Başka bir haber toplam maliyeti 2 milyona yakın veriyor (kaynağı belirsiz)
+- Neden ilginç: Maliyet artarken evlenen sayısı düşüyor.
+- Kaynaklar: https://www.bolgegundemi.com/antalya/evlilik-maliyeti-18-milyon-liraya-ulasti-destek-kapsami-genisledi-221387.html ; https://www.yenialanya.com/genclerin-evlilik-hayali-butceye-takildi-bir-yuva-kurmanin-bedeli-2-milyona-dayandi
+
+## Binance'te 2,54 milyar dolarlık varlık donduruldu
+- Kategori: dünya
+- Puan: 6
+- Tarih / yer: 29-30 Ekim 2026, küresel; Binance TR açıklaması Türkiye
+- Ne oldu: Binance olası güvenlik olayı sonrası para yatırma/çekmeyi askıya aldı; doğrulanan dondurulmuş tutar 2,54 milyar dolar.
+- Detaylar ve rakamlar:
+  - Tether ~971 milyon, Circle ~823 milyon dolar dondurdu
+  - Dolaşan rakamlar: 1,8 milyar; bir kaynakta 6,3 milyar; tek kaynakta ~3 milyar ve saldırgan cüzdanlarında 2,4 milyar dolarlık BTC/ETH (doğrulanmadı)
+  - Binance tüm kayıpların SAFU fonu ve şirket kaynaklarıyla karşılanacağını söyledi
+  - Binance TR: Türkiye'deki varlıklar güvende, hizmet kesintisiz
+  - Çekme işlemlerinin ne zaman açılacağı belli değil
+- Neden ilginç: Dünyanın en büyük borsasında dev dondurma; rakamlar netleşmedi, Türkiye X gündeminde.
+- Kaynaklar: https://www.gzt.com/ekonomi/binance-hacklendi-mi-254-milyar-dolarlik-varlik-donduruldu-4274012 ; https://www.milligazete.com.tr/binancete-guvenlik-alarmi-254-milyar-dolarlik-kripto-varlik-donduruldu-para-cekme-islemleri-durduruldu
+
+## YÖK'ün ücretsiz yapay zekâ eğitimi sonuçları bugün
+- Kategori: teknoloji
 - Puan: 4
-- Tarih / yer: Ekim 2026, Balıkesir ve Van (tarihler kaynakta net değil)
-- Ne oldu: Balıkesir'de belediye otobüsü tam bilet 32 TL'den 40 TL'ye, dolmuş/minibüs 37 TL'den 45 TL'ye çıktı. Van'da meclis 13 Ekim kararıyla tam bileti 29 TL'den 35 TL'ye çıkardı.
+- Tarih / yer: 30 Ekim 2026, Türkiye
+- Ne oldu: 14-20 Ekim'de başvuru alınan çevrim içi eğitimin sonuçları 30 Ekim'de açıklanacak, eğitim 3 Kasım'da başlayacak.
 - Detaylar ve rakamlar:
-  - Balıkesir otobüs artışı yüzde 25, dolmuş yaklaşık yüzde 21.
-  - Van'da bazı hatlarda yaklaşık yüzde 20, taksimetrede yüzde 10.
-  - Aksaray 10 Ekim'den beri tam bilet 30 TL, öğrenci 20 TL.
-  - Kahramanmaraş sabah bülteninde işlendi (tekrar edilmedi).
-- Neden ilginç: Büyükşehir dışı şehirlerde zamlar bu ay yüzde 20-25 bandında.
-- Kaynaklar: https://www.politikam.com/balikesir-toplu-tasima-zammi-otobus-minibus-ucretleri-2026 ; https://www.vanhaber.tr/vanda-toplu-tasimaya-zam-iste-yeni-fiyatlar
+  - Ücretsiz, çevrim içi, 18 yaş ve üzeri
+- Neden ilginç: Devlet yapay zekâ eğitimini ücretsiz sunuyor.
+- Kaynaklar: https://www.bilimsenligi.com/yok-ucretsiz-yapay-zeka-egitimi-2026-basvurulari.html/
 
-## Üretken yapay zeka kullanımı bir yılda ikiye katlandı (TÜİK)
+## Alphabet'e Gemini 3.5 Pro nedeniyle yatırımcı davası
 - Kategori: teknoloji
-- Puan: 5
-- Tarih / yer: 2026 araştırması, Türkiye (yayın tarihi tam doğrulanamadı, son haftalar)
-- Ne oldu: TÜİK'e göre 16-74 yaş bireylerde üretken yapay zeka kullanımı 2025'te yüzde 19,2 iken 2026'da yüzde 37,6.
+- Puan: 4
+- Tarih / yer: 28 Ekim 2026, ABD
+- Ne oldu: Hukuk bürosu duyurusuna göre Alphabet, Gemini 3.5 Pro hakkında yanıltıcı açıklama yaptığı iddiasıyla menkul kıymet davasıyla karşı karşıya; hisse %4 düşmüştü.
 - Detaylar ve rakamlar:
-  - 16-24 yaş yüzde 64,9; 65-74 yaş yüzde 5,1.
-  - Kadın yüzde 38,1, erkek yüzde 37,2.
-  - Yükseköğretim yüzde 62,7, lise yüzde 45,4, ortaokul yüzde 35,5, ilkokul yüzde 8,5.
-  - Kullananların yüzde 86,4'ü özel, yüzde 37,3'ü mesleki amaçla.
-  - İşletmelerde (10+ çalışan) yapay zeka kullanımı yüzde 7,5'ten yüzde 14,0'a.
-  - Rakamlar basın haberlerinden; TÜİK bülteninin kendisi görülmedi.
-- Neden ilginç: Kadınlar erkekleri geçmiş, şirketler bireylerin çok gerisinde.
-- Kaynaklar: https://www.karar.com/guncel-haberler/tuik-yapay-zeka-kullanimi-bir-yilda-yaklasik-iki-katina-cikti-2075729 ; https://12punto.com.tr/bilim-teknoloji/tuik-verilerine-gore-uretken-yapay-zeka-kullanimi-bir-yilda-yuzde-376ya-cikti-154235
+  - Baş davacı başvuru son günü 1 Aralık 2026
+  - Kaynak bir hukuk bürosunun basın bildirisi; iddialar kanıtlanmış değil
+- Neden ilginç: Yapay zekâ gecikmesi şirketi mahkemeye taşıdı.
+- Kaynaklar: https://globenewswire.com/news-release/2026/10/28/3389972/0/en/goog-and-googl-stock-market-alert-alphabet-sued-for-securities-fraud-after-ai-issues-lead-to-4-stock-drop-contact-bfa-law-if-you-lost-money.html
 
-## Grok aboneliği iptal edilemiyor iddiasıyla toplu dava
-- Kategori: teknoloji
-- Puan: 5
-- Tarih / yer: Haber 21 Ekim 2026, ABD (Kaliforniya federal mahkemesi)
-- Ne oldu: Bir abone, SuperGrok aboneliğini web ve uygulamadan iptal etmeye çalıştığı halde aylık 30 dolar çekilmeye devam edildiğini öne sürüyor.
-- Detaylar ve rakamlar:
-  - Aynı dönemde Google Gemini AI Pro/Ultra için "sahte referans fiyat" davası ve Claude Max planları için kullanım limiti davası da var.
-  - Haberin tarihi 24 saatten eski; yeni gelişme yok, düşük öncelik.
-- Neden ilginç: Yapay zeka abonelikleri iptal ve fiyat konusunda ardı ardına davalık oluyor.
-- Kaynaklar: https://topclassactions.com/lawsuit-settlements/lawsuit-news/x-ai-class-action-lawsuit-alleges-grok-subscriptions-are-difficult-to-cancel/
-
-## #YaAnaParaYaErkenSecim
+## #AnaParamızıSokaktaBulmadık / #BizeAnaParaYokSizeHuzurYok
 - Kategori: sosyal medya
-- Puan: 3
-- Tarih / yer: 29 Ekim 2026, X Türkiye
-- Ne oldu: Fon tasfiyesi ve ana para iadesi tartışması gün boyu trend listesinin üst sıralarında; sayı bilgisi alınamadı. Diğer trendler 29 Ekim, siyaset ve spor.
-- Detaylar ve rakamlar: Ekşi Sözlük yükleme ekranında kaldı (ulaşılamadı).
-- Neden ilginç: Para konulu tek hashtag bu.
+- Puan: 4
+- Tarih / yer: 29-30 Ekim 2026, Türkiye X
+- Ne oldu: Fon soruşturmasında yatırımcıların tam anaparasını talep eden etiketler 9-12 saat trendde kaldı (getdaytrends skoru 564 ve 411).
+- Detaylar ve rakamlar: #YaAnaParaYaErkenSecim da 6 saat trendde.
+- Neden ilginç: Konu günlerdir gündemde kalıyor.
+- Kaynaklar: https://getdaytrends.com/turkey/
+
+## Binance (X trendi)
+- Kategori: sosyal medya
+- Puan: 4
+- Tarih / yer: 30 Ekim 2026, Türkiye X
+- Ne oldu: Küresel platformdaki dondurma haberiyle gece boyunca trend listesinde.
+- Detaylar ve rakamlar: Ayrıntı yukarıdaki Binance bölümünde.
+- Neden ilginç: Türk kripto yatırımcısı yakından izliyor.
 - Kaynaklar: https://trends24.in/turkey/
+
+## Sahte indirime 39,9 milyon liraya kadar ceza
+- Kategori: küçük detay
+- Puan: 3
+- Tarih / yer: 28 Ekim 2026, Türkiye
+- Ne oldu: Ceza aralığı 99.339 TL - 39.916.524 TL.
+- Detaylar ve rakamlar: Kasım indirimleri denetimi Kasım boyunca sürecek.
+- Neden ilginç: Konular.csv'de önceden vardı, ayrıntı olarak tekrarlandı.
+- Kaynaklar: https://www.iscihaber.net/ekonomi/ticaret-bakanligindan-sahte-indirim-ve-fiyat-oyunlarina-ceza-yagdi/276039
+
+## İndirim öncesi fiyat: önceki 10 günün en düşük fiyatı
+- Kategori: küçük detay
+- Puan: 3
+- Tarih / yer: 1 Ağustos 2026'dan beri, Türkiye
+- Ne oldu: İndirim öncesi fiyat kampanyadan önceki 10 gündeki en düşük fiyat esas alınarak belirleniyor.
+- Detaylar ve rakamlar: Takvim.com.tr haberine dayanıyor.
+- Neden ilginç: "Eski fiyat" şişirmesini zorlaştıran kural.
+- Kaynaklar: https://www.takvim.com.tr/guncel/2026/10/28/kasim-indirimlerine-siki-takip-sahte-indirime-agir-ceza
+
+## Takvim
+- 1 Kasım Pazar – Sosyal medya yaş doğrulama düzenlemesi yürürlüğe giriyor
+- 3 Kasım Salı – TÜİK Ekim ayı enflasyon verisi
+- 4 Kasım Çarşamba – ABD PCE enflasyonu ve euro bölgesi enflasyonu
+- 6 Kasım Cuma – ABD tarım dışı istihdam raporu
+- 10 Kasım Salı – SGK taşınmaz açık artırmasının bitişi
+- 12 Kasım Perşembe – TCMB faiz toplantısı
