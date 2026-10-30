@@ -1,117 +1,47 @@
-# Para Ne Diyor? – 30 Ekim 2026 Sabah Bülteni
-Hazırlanma: 2026-10-30 08:55 TSİ
+# Para Ne Diyor? – 30 Ekim 2026 Öğleden Sonra Bülteni
+Hazırlanma: 30 Ekim 2026 16:45 TSİ
 
-## Qlux Ideas'a 1 yıllık kesin konkordato mühleti
+## Klasik araçlarda şasi numarası (change) oyunu: 61 araç, yaklaşık 500 milyon lira
 - Kategori: türkiye
-- Puan: 6
-- Tarih / yer: 22 Ekim 2026, Lüleburgaz (Kırklareli)
-- Ne oldu: Lüleburgaz 2. Asliye Ticaret Mahkemesi, ev ve mutfak eşyası üreticisi Qlux Ideas'a 22 Ekim'den başlayan 1 yıllık kesin mühlet verdi. Süreç 22 Mayıs'ta 3 aylık geçici mühletle başlamıştı.
-- Detaylar ve rakamlar:
-  - Dosya 2026/118; karar 19 Ekim duruşmasının ardından çıktı
-  - Geçici mühlet 22 Ağustos'tan 2 ay uzatılmıştı (153 gün, 5 aylık yasal sınır)
-  - Haberlerde "90'dan fazla ülkeye ihracat, 5 kıtaya ürün" vurgusu
-  - Karar şirketin iflası anlamına gelmiyor, komiser heyeti sürüyor
-- Neden ilginç: Her evde ürünü bulunan, 90+ ülkeye satan bir üretici konkordatoda.
-- Kaynaklar: https://www.gzt.com/ekonomi/5-kitaya-urun-gonderiyordu-qlux-ideas-icin-mahkemeden-kritik-karar-4271830 ; https://www.endeks24.com/qlux-ideasa-konkordatoda-1-yillik-kesin-muhlet
+- Puan: 7
+- Tarih / yer: 30 Ekim 2026, İstanbul merkezli 6 il
+- Ne oldu: İstanbul, Batman, Gaziantep, İzmir, Kocaeli ve Sakarya'da eş zamanlı operasyon yapıldı, 37 şüpheli gözaltına alındı. Yurt dışından getirilen antika araçlar usulsüz raporlarla "change" edilip noterde yeni tescil çıkarıldı ve üçüncü kişilere satıldı.
+- Detaylar ve rakamlar: 61 aracın şasi numarası değiştirilmiş; toplam değer yaklaşık 500 milyon TL; araçlar İstanbul Emniyeti'nde sergilendi; bir araç 1950 model klasik Amerikan otomobili; bir şüphelinin evinde 97 mermi bulundu; bazı haberlerde gözaltı sayısı 35 geçiyor, çoğunluk 37 diyor.
+- Neden ilginç: Milyonluk klasik araç alanın aracının kimliği başka araca ait çıkabiliyor.
+- Kaynaklar: https://www.sabah.com.tr/yasam/klasik-vurgununa-dev-baskin-61-change-oto-piyasaya-suruldu-37-gozalti-7691389 ; https://www.aksiyon.com.tr/koleksiyonluk-klasiklerin-sasi-oyunu-change-oto-operasyonunda-61-arac-ve-37-supheli-384759
 
-## Yurt içi seyahat harcaması %32,6 arttı, seyahat sayısı azaldı
+## Doğuş Otomotiv ile Volkswagen Türkiye'de üretim için niyet mektubu imzaladı
 - Kategori: türkiye
 - Puan: 5
-- Tarih / yer: TÜİK 2026 2. çeyrek verisi (yayın tarihi doğrulanamadı, ~Ekim), Türkiye
-- Ne oldu: Harcama yaklaşık 155 milyar TL'ye çıktı; seyahat sayısı %3,6 azalıp 16 milyon 467 bin oldu.
-- Detaylar ve rakamlar:
-  - Yurt içi seyahat eden kişi: 13 milyon 549 bin
-  - Toplam geceleme 85 milyon 890 bin; 61 milyon 192 bini (~%71) akraba/arkadaş evinde
-  - Aile ziyareti harcaması 115,4 milyar TL (Karar haberi)
-- Neden ilginç: Daha az seyahat, çok daha yüksek harcama; konaklamanın üçte ikisi akraba evinde.
-- Kaynaklar: https://www.ozgunkocaeli.com.tr/tuik-acikladi-seyahat-azaldi-harcamalar-155-milyar-tlye-dayandi ; https://www.karar.com/guncel-haberler/yerli-turistler-aile-ziyaretleri-icin-1154-milyar-lira-harcadi-2080189
+- Tarih / yer: 30 Ekim 2026, KAP (09:30)
+- Ne oldu: Mektup yalnızca Volkswagen binek araçlarının Türkiye'de üretiminin değerlendirilmesini kapsıyor.
+- Detaylar ve rakamlar: Model, yatırım büyüklüğü, zaman çizelgesi açıklanmadı; fabrika açılış tarihi yok; 2019'da duyurulup 2020'de iptal edilen Manisa planını hatırlatıyor; bazı yorumlar AB "Made in Europe" kurallarına bağlıyor (bu bağ KAP metninde yok, Cumhuriyet yorumu).
+- Neden ilginç: İptal edilen eski fabrika planı yeniden masada.
+- Kaynaklar: https://www.aa.com.tr/tr/ekonomi/dogus-otomotiv-ile-volkswagen-arasinda-turkiyede-uretim-icin-niyet-mektubu-imzalandi/4105629 ; https://www.cumhuriyet.com.tr/otomotiv/volkswagen-den-made-in-europe-krizi-ortasinda-turkiye-ye-yatirim-karari-2551688
 
-## Evlenmenin maliyeti 1,8 milyon liraya dayandı
+## Konya'daki lastik firması Küçüksönmez Otomotiv'e konkordatoda 2 ay ek süre
 - Kategori: türkiye
-- Puan: 5
-- Tarih / yer: 2026, Türkiye (haber tarihi doğrulanamadı)
-- Ne oldu: Düğün.com ve KONDA araştırmasına göre düğün ve ev kurma masrafı ortalama 1,8 milyon TL.
-- Detaylar ve rakamlar:
-  - TÜİK: evlenen çift 2024'te 569.983, 2025'te 552.237
-  - Başka bir haber toplam maliyeti 2 milyona yakın veriyor (kaynağı belirsiz)
-- Neden ilginç: Maliyet artarken evlenen sayısı düşüyor.
-- Kaynaklar: https://www.bolgegundemi.com/antalya/evlilik-maliyeti-18-milyon-liraya-ulasti-destek-kapsami-genisledi-221387.html ; https://www.yenialanya.com/genclerin-evlilik-hayali-butceye-takildi-bir-yuva-kurmanin-bedeli-2-milyona-dayandi
+- Puan: 4
+- Tarih / yer: 30 Ekim 2026, Konya
+- Ne oldu: Mahkeme geçici mührü 17 Kasım 2026'dan itibaren 2 ay uzattı, geçici komiser görevine devam ediyor.
+- Detaylar ve rakamlar: Ekim'de İdeal Ecza Deposu (iflas 21 Ekim), ÜSO Su Armatürleri ve Taban Gıda (iflas 1 Ekim) konkordato taleplerinin reddedilip iflasa dönüştüğü örnekler.
+- Neden ilginç: Konkordato taleplerinin reddedilip iflasa dönüştüğü bir ay.
+- Kaynaklar: https://www.sozcu.com.tr/turkiye-nin-38-yillik-lastik-firmasi-iflasin-esiginde-mahkeme-2-ay-ek-sure-verdi-p374025 ; https://www.finansingundemi.com/haber/lastik-sektorunde-konkordato-soku-koklu-sirkete-2-ay-ek-sure/1913183
 
-## Binance'te 2,54 milyar dolarlık varlık donduruldu
-- Kategori: dünya
+## ABD'de Toast'a gizli ücret ve iptal tuzağı davası
+- Kategori: teknoloji
 - Puan: 6
-- Tarih / yer: 29-30 Ekim 2026, küresel; Binance TR açıklaması Türkiye
-- Ne oldu: Binance olası güvenlik olayı sonrası para yatırma/çekmeyi askıya aldı; doğrulanan dondurulmuş tutar 2,54 milyar dolar.
-- Detaylar ve rakamlar:
-  - Tether ~971 milyon, Circle ~823 milyon dolar dondurdu
-  - Dolaşan rakamlar: 1,8 milyar; bir kaynakta 6,3 milyar; tek kaynakta ~3 milyar ve saldırgan cüzdanlarında 2,4 milyar dolarlık BTC/ETH (doğrulanmadı)
-  - Binance tüm kayıpların SAFU fonu ve şirket kaynaklarıyla karşılanacağını söyledi
-  - Binance TR: Türkiye'deki varlıklar güvende, hizmet kesintisiz
-  - Çekme işlemlerinin ne zaman açılacağı belli değil
-- Neden ilginç: Dünyanın en büyük borsasında dev dondurma; rakamlar netleşmedi, Türkiye X gündeminde.
-- Kaynaklar: https://www.gzt.com/ekonomi/binance-hacklendi-mi-254-milyar-dolarlik-varlik-donduruldu-4274012 ; https://www.milligazete.com.tr/binancete-guvenlik-alarmi-254-milyar-dolarlik-kripto-varlik-donduruldu-para-cekme-islemleri-durduruldu
+- Tarih / yer: 29-30 Ekim 2026, ABD (Kaliforniya Kuzey Bölge Mahkemesi)
+- Ne oldu: FTC ve 8 eyalet (ve iki Kaliforniya yerel makamı) restoran yazılımı şirketi Toast'a dava açtı.
+- Detaylar ve rakamlar: "Aylık 0 dolar" planda açıklanmayan yüksek işlem ücreti; Haziran 2023'ten beri 10 doların üzeri online siparişlerde müşteriden 99 sent ücret, restorana değil Toast'a; iptal süreci zor, iptalden sonra cezai ücret/faturalama iddiası; Toast Capital kredisi iptalde hemen ödenmek zorunda; "7/24 destek" vaadi sorgulanıyor; Toast, ROSCA'nın şirket sözleşmelerini kapsamadığını savunuyor; talep: kalıcı yasak, para iadesi, cezalar.
+- Neden ilginç: Reklamdaki "0 dolar" ile gerçek maliyet arasındaki fark.
+- Kaynaklar: https://thenextweb.com/news/toast-ftc-lawsuit-hidden-fees-cancellation ; https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/
 
-## YÖK'ün ücretsiz yapay zekâ eğitimi sonuçları bugün
-- Kategori: teknoloji
-- Puan: 4
-- Tarih / yer: 30 Ekim 2026, Türkiye
-- Ne oldu: 14-20 Ekim'de başvuru alınan çevrim içi eğitimin sonuçları 30 Ekim'de açıklanacak, eğitim 3 Kasım'da başlayacak.
-- Detaylar ve rakamlar:
-  - Ücretsiz, çevrim içi, 18 yaş ve üzeri
-- Neden ilginç: Devlet yapay zekâ eğitimini ücretsiz sunuyor.
-- Kaynaklar: https://www.bilimsenligi.com/yok-ucretsiz-yapay-zeka-egitimi-2026-basvurulari.html/
-
-## Alphabet'e Gemini 3.5 Pro nedeniyle yatırımcı davası
-- Kategori: teknoloji
-- Puan: 4
-- Tarih / yer: 28 Ekim 2026, ABD
-- Ne oldu: Hukuk bürosu duyurusuna göre Alphabet, Gemini 3.5 Pro hakkında yanıltıcı açıklama yaptığı iddiasıyla menkul kıymet davasıyla karşı karşıya; hisse %4 düşmüştü.
-- Detaylar ve rakamlar:
-  - Baş davacı başvuru son günü 1 Aralık 2026
-  - Kaynak bir hukuk bürosunun basın bildirisi; iddialar kanıtlanmış değil
-- Neden ilginç: Yapay zekâ gecikmesi şirketi mahkemeye taşıdı.
-- Kaynaklar: https://globenewswire.com/news-release/2026/10/28/3389972/0/en/goog-and-googl-stock-market-alert-alphabet-sued-for-securities-fraud-after-ai-issues-lead-to-4-stock-drop-contact-bfa-law-if-you-lost-money.html
-
-## #AnaParamızıSokaktaBulmadık / #BizeAnaParaYokSizeHuzurYok
+## #AnaParaYaDaHemenSecim
 - Kategori: sosyal medya
-- Puan: 4
-- Tarih / yer: 29-30 Ekim 2026, Türkiye X
-- Ne oldu: Fon soruşturmasında yatırımcıların tam anaparasını talep eden etiketler 9-12 saat trendde kaldı (getdaytrends skoru 564 ve 411).
-- Detaylar ve rakamlar: #YaAnaParaYaErkenSecim da 6 saat trendde.
-- Neden ilginç: Konu günlerdir gündemde kalıyor.
-- Kaynaklar: https://getdaytrends.com/turkey/
-
-## Binance (X trendi)
-- Kategori: sosyal medya
-- Puan: 4
-- Tarih / yer: 30 Ekim 2026, Türkiye X
-- Ne oldu: Küresel platformdaki dondurma haberiyle gece boyunca trend listesinde.
-- Detaylar ve rakamlar: Ayrıntı yukarıdaki Binance bölümünde.
-- Neden ilginç: Türk kripto yatırımcısı yakından izliyor.
-- Kaynaklar: https://trends24.in/turkey/
-
-## Sahte indirime 39,9 milyon liraya kadar ceza
-- Kategori: küçük detay
 - Puan: 3
-- Tarih / yer: 28 Ekim 2026, Türkiye
-- Ne oldu: Ceza aralığı 99.339 TL - 39.916.524 TL.
-- Detaylar ve rakamlar: Kasım indirimleri denetimi Kasım boyunca sürecek.
-- Neden ilginç: Konular.csv'de önceden vardı, ayrıntı olarak tekrarlandı.
-- Kaynaklar: https://www.iscihaber.net/ekonomi/ticaret-bakanligindan-sahte-indirim-ve-fiyat-oyunlarina-ceza-yagdi/276039
-
-## İndirim öncesi fiyat: önceki 10 günün en düşük fiyatı
-- Kategori: küçük detay
-- Puan: 3
-- Tarih / yer: 1 Ağustos 2026'dan beri, Türkiye
-- Ne oldu: İndirim öncesi fiyat kampanyadan önceki 10 gündeki en düşük fiyat esas alınarak belirleniyor.
-- Detaylar ve rakamlar: Takvim.com.tr haberine dayanıyor.
-- Neden ilginç: "Eski fiyat" şişirmesini zorlaştıran kural.
-- Kaynaklar: https://www.takvim.com.tr/guncel/2026/10/28/kasim-indirimlerine-siki-takip-sahte-indirime-agir-ceza
-
-## Takvim
-- 1 Kasım Pazar – Sosyal medya yaş doğrulama düzenlemesi yürürlüğe giriyor
-- 3 Kasım Salı – TÜİK Ekim ayı enflasyon verisi
-- 4 Kasım Çarşamba – ABD PCE enflasyonu ve euro bölgesi enflasyonu
-- 6 Kasım Cuma – ABD tarım dışı istihdam raporu
-- 10 Kasım Salı – SGK taşınmaz açık artırmasının bitişi
-- 12 Kasım Perşembe – TCMB faiz toplantısı
+- Tarih / yer: 30 Ekim 2026, X Türkiye
+- Ne oldu: X'te günün en üst trendi; fon anaparası tartışması sürüyor. "250bin" başlığı, satış talimatı verip işlemi tamamlanamayan yaklaşık 250 bin yatırımcıyı tasfiye kapsamına alan Meclis düzenlemesiyle ilişkili (Sözcü; tarih tam doğrulanamadı).
+- Detaylar ve rakamlar: Paylaşım sayısı alınamadı; 17 Eylül 2026 ve öncesinde iade talimatı verenler kapsamda.
+- Neden ilginç: Fon mağdurları siyasi tartışmanın merkezinde.
+- Kaynaklar: https://www.sozcu.com.tr/gece-yarisi-haramileri-p371858
