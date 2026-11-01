@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-01 08:55 TSİ)
+(Güncelleme: 2026-11-01 16:25 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -13,6 +13,7 @@
   - 30 Ekim 2026 – Ara ödemeler İş Bankası ve Ziraat Bankası üzerinden başladı: 7 fon, 235.705 yatırımcı, 29,3 milyar TL; gözlenen en yüksek ödeme 250 bin TL (1.233.000 TL'lik yatırımcıya da 250 bin TL), sınırın resmi dayanağı açıklanmadı – https://www.yatirimx.com.tr/gundem/fon-tasfiyesinde-ara-odeme-soku-1-milyon-tllik-beklenti-250-bin-tavanina-carpti/27414
   - 31 Ekim 2026 – X'te #dilencideğiliz250binnedir (getdaytrends skoru 547, 13 saat), #TamAnaParayaOYUMUZ (486), #AraÖdemeFiyaskosu (443), #FondaAraÖdemeRezaleti – https://getdaytrends.com/turkey/
   - 1 Kasım 2026 – X'te #TamAnaParayaOYUMUZ (skor 629, 13 saat), #FondaAraÖdemeRezaleti (615, 13 saat); yeni resmi gelişme yok – https://getdaytrends.com/turkey/
+  - 1 Kasım 2026 öğleden sonra – "Hazineden öde, hırsızdan al" X'te 1. sırada; #FondaAraÖdemeRezaleti skor 707 (15 saat); Muhsin Atcı SPK Başkanlığına atandı (2026/367) – https://www.birgun.net/haber/erdogan-imzaladi-spk-nin-yeni-baskani-belli-oldu-743740
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -31,6 +32,7 @@
   - 31 Ekim 2026 akşam – Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun (26 Mart 2021'den beri görevde) gözaltına alındı – https://www.ekonomim.com/ekonomi/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-928288
   - 1 Kasım 2026 – Gözaltı "örgüt üyeliği" ve "rüşvet" suçlamasıyla Başsavcılıkça doğrulandı; Ergun'un 14-15 Ekim'de TBMM'de fon hareketlerini SPK'ya bildirdiğini söylediği aktarıldı; Borsa İstanbul'dan açıklama bulunamadı – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-borsa-istanbul-genel-muduru-enes-ergungozaltina-alindi-1748814
   - 30 Ekim 2026 – BIST 100 yüzde 3,64 düştü (10.759,56), 7. ardışık haftalık düşüş – https://www.endeks24.com/bist-100-yedi-hafta-ust-uste-dustu
+  - 1 Kasım 2026 öğleden sonra – Dünya gazetesi sahibi Umut Güner gözaltına alındı (Bulls Yatırım Dünya Holding'de %20,45) – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-1748880
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
