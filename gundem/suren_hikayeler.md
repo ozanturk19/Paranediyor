@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-10-31 22:10 TSİ)
+(Güncelleme: 2026-11-01 08:55 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -12,6 +12,7 @@
   - 27 Ekim 2026 – SPK 2026/77 bülteni: Tera Yatırım Menkul Değerler'in tüm faaliyet izinleri iptal, yatırımcıların tazmini ve tedrici tasfiye; şirket organlarının yetkileri YTM'de; ödemeler alacaklılar cetvelinin ilanından sonra 3 ay içinde (SPK onayıyla +3 ay), nakit alacaklara faiz yok – https://t24.com.tr/ekonomi/yatirimci-tazmin-merkezinden-tera-aciklamasi-yatirimcilarin-alacaklarina-iliskin-cetvel-hazirlanacak-odemeler-uc-ay-icinde-yapilacak,1355818
   - 30 Ekim 2026 – Ara ödemeler İş Bankası ve Ziraat Bankası üzerinden başladı: 7 fon, 235.705 yatırımcı, 29,3 milyar TL; gözlenen en yüksek ödeme 250 bin TL (1.233.000 TL'lik yatırımcıya da 250 bin TL), sınırın resmi dayanağı açıklanmadı – https://www.yatirimx.com.tr/gundem/fon-tasfiyesinde-ara-odeme-soku-1-milyon-tllik-beklenti-250-bin-tavanina-carpti/27414
   - 31 Ekim 2026 – X'te #dilencideğiliz250binnedir (getdaytrends skoru 547, 13 saat), #TamAnaParayaOYUMUZ (486), #AraÖdemeFiyaskosu (443), #FondaAraÖdemeRezaleti – https://getdaytrends.com/turkey/
+  - 1 Kasım 2026 – X'te #TamAnaParayaOYUMUZ (skor 629, 13 saat), #FondaAraÖdemeRezaleti (615, 13 saat); yeni resmi gelişme yok – https://getdaytrends.com/turkey/
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -28,6 +29,8 @@
   - 31 Ekim 2026 – BDDK: iddialar "bütünüyle asılsız", hukuki süreç başlatılacak; Sayan yeni sorular yöneltti – https://www.bloomberght.com/bddk-dan-kurum-ve-baskan-kavcioglu-hakkindaki-iddialara-yalanlama-3792976
   - 31 Ekim 2026 – JCR Eurasia Rating, fon krizindeki şirketlere verdiği notlarla ilgili iddiaları yalanladı; X'te #JCREurasiaArastirilsin – https://www.turcomoney.com/jcr-eurasiadan-gundemdeki-iddialara-iliskin-aciklama.html
   - 31 Ekim 2026 akşam – Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun (26 Mart 2021'den beri görevde) gözaltına alındı – https://www.ekonomim.com/ekonomi/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-928288
+  - 1 Kasım 2026 – Gözaltı "örgüt üyeliği" ve "rüşvet" suçlamasıyla Başsavcılıkça doğrulandı; Ergun'un 14-15 Ekim'de TBMM'de fon hareketlerini SPK'ya bildirdiğini söylediği aktarıldı; Borsa İstanbul'dan açıklama bulunamadı – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-borsa-istanbul-genel-muduru-enes-ergungozaltina-alindi-1748814
+  - 30 Ekim 2026 – BIST 100 yüzde 3,64 düştü (10.759,56), 7. ardışık haftalık düşüş – https://www.endeks24.com/bist-100-yedi-hafta-ust-uste-dustu
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -40,6 +43,7 @@
   - 9 Eylül 2026 – Dizel kıtlığı uyarısı: ABD-İran savaşı ve Rus rafinerilerine saldırılar; Türkiye motorininin ~%47'si ithal, benzinin neredeyse tamamı yerli – https://www.diken.com.tr/motorin-fiyati-yuksek-kalacak-kitlik-uyarisi/
   - 1 Ekim 2026 – Benzin için 11822 sayılı karar (haberlerde anılıyor; Resmî Gazete metni açılmadı) – https://www.yeniankara.com.tr/ekonomi/31-ekim-2026-akaryakit-fiyatlari-benzin-motorin-lpg-kac-tl-1-kasimda-zam-var-mi-188328
   - 1 Kasım 2026 – Motorin ÖTV'si 9 TL, benzin 11,36 TL; Ankara'da motorin ~101,60, benzin ~81,45 TL bekleniyor – https://www.yeniankara.com.tr/ekonomi/31-ekim-2026-akaryakit-fiyatlari-benzin-motorin-lpg-kac-tl-1-kasimda-zam-var-mi-188328
+  - 1 Kasım 2026 – ÖTV zammı uygulandı: benzine +4,15, motorine +3,60 TL; İstanbul'da motorin ~100,50, benzin ~80,50 TL – https://www.haber.tr/benzin-ve-motorin-fiyatlarina-otv-kaynakli-zam-yapildi
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
@@ -51,6 +55,7 @@
   - 30 Ekim 2026 – Doğal gazda kasım il limitleri: İstanbul 101,71, Ankara 161,63, İzmir 61,43 m3; kademe-1 17,79, kademe-2 26,73 TL/m3 (vergili) – https://www.haberturk.com/bilgi/dogal-gazda-kasim-tarifesi-belli-oldu-limiti-asanin-faturasi-artacak-3923717
   - 30 Ekim 2026 – EPDK: 2027 konut son kaynak limiti 4.000'den 3.000 kWh'ye (aylık ~820 TL fatura), ~6,5 milyon abone – https://www.haberturk.com/ekonomi/elektrikte-limit-guncellemesi-3923762
   - 31 Ekim 2026 – Endeks24: 2026'da ~2,5 milyon olan yüksek tüketimli konut sayısı 2027'de ~6,5 milyona; yüksek tüketim tarifesinin sabit TL/kWh fiyatı yok – https://www.endeks24.com/epdk-konut-elektrik-limiti-3000-kwh
+  - 1 Kasım 2026 – Kasım tarifesi yürürlükte; hesap: 101,71 m3 ~1.809 TL, 102,71 m3 ~2.745 TL (fark ~936 TL, tümü kademe-2 varsayımı)
 - Açık sorular: Aralık-Mart doğal gaz limitleri ne olacak? Desteksiz elektrik tarifesi kWh başına ne kadar daha pahalı? Faturası limiti aşan ev bunu faturadan nasıl anlayacak?
 
 ## Kapananlar
