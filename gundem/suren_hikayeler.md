@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-02 08:45 TSİ)
+(Güncelleme: 2026-11-02 16:40 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -16,6 +16,7 @@
   - 1 Kasım 2026 öğleden sonra – "Hazineden öde, hırsızdan al" X'te 1. sırada; #FondaAraÖdemeRezaleti skor 707 (15 saat); Muhsin Atcı SPK Başkanlığına atandı (2026/367) – https://www.birgun.net/haber/erdogan-imzaladi-spk-nin-yeni-baskani-belli-oldu-743740
   - 2 Kasım 2026 – Ödemeler Hazine'den değil fonların varlıklarından (Güler), hedef Kasım ortası; bir mağdur 600 bin TL'ye 19.800 TL yattığını söylüyor; X'te #AnaParaGelmedenOyYok (568, 13 saat), #HazinedenÖdeHırsızdanAl (483, 10 saat) – https://www.birgun.net/haber/fon-magdurlarina-odemeler-basladi-743518
   - 2 Kasım 2026 – Tera Finansal Yatırım Holding (TRHOL) Yakın İzleme Pazarı'nda, 5 endeksten çıkarıldı – https://paratic.com/trhol-5-endeksten-cikarildi-2-kasimda-yakin-izleme-pazarina-aliniyor/
+  - 2 Kasım 2026 öğleden sonra – Para piyasası fonları ~6 ayın en düşüğünde (Bloomberg HT başlığı); X'te #işinUcuArtıkÖdemeyeGelsin – https://www.bloomberght.com/para-piyasasi-fonlari-alti-ayin-en-dusuk-seviyesinde-3793089
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -34,6 +35,7 @@
   - 31 Ekim 2026 akşam – Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun (26 Mart 2021'den beri görevde) gözaltına alındı – https://www.ekonomim.com/ekonomi/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-928288
   - 1 Kasım 2026 – Gözaltı "örgüt üyeliği" ve "rüşvet" suçlamasıyla Başsavcılıkça doğrulandı; Ergun'un 14-15 Ekim'de TBMM'de fon hareketlerini SPK'ya bildirdiğini söylediği aktarıldı; Borsa İstanbul'dan açıklama bulunamadı – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-borsa-istanbul-genel-muduru-enes-ergungozaltina-alindi-1748814
   - 2 Kasım 2026 – Borsa İstanbul yönetim kurulu Genel Müdür Yardımcısı Atila Türeli'yi vekâleten görevlendirdi; Ergun için tutuklama/adli kontrol haberi yok; Umut Güner için ev hapsi ve yurt dışı çıkış yasağı bildirildi – https://medyascope.tv/2026/11/01/borsa-istanbul-genel-mudurlugune-vekaleten-atila-tureli-getirildi/
+  - 2 Kasım 2026 öğleden sonra – Ergun için tutuklama/adli kontrol haberi yok; Savcı Sayan–BDDK tartışması X'te sürüyor – https://www.memurlar.net/haber/1182698/borsa-istanbul-as-genel-muduru-gozaltina-alindi.html
   - 30 Ekim 2026 – BIST 100 yüzde 3,64 düştü (10.759,56), 7. ardışık haftalık düşüş – https://www.endeks24.com/bist-100-yedi-hafta-ust-uste-dustu
   - 1 Kasım 2026 öğleden sonra – Dünya gazetesi sahibi Umut Güner gözaltına alındı (Bulls Yatırım Dünya Holding'de %20,45) – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-1748880
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
