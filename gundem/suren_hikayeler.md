@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-03 08:55 TSİ)
+(Güncelleme: 2026-11-03 16:40 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -18,6 +18,7 @@
   - 2 Kasım 2026 – Tera Finansal Yatırım Holding (TRHOL) Yakın İzleme Pazarı'nda, 5 endeksten çıkarıldı – https://paratic.com/trhol-5-endeksten-cikarildi-2-kasimda-yakin-izleme-pazarina-aliniyor/
   - 2 Kasım 2026 öğleden sonra – Para piyasası fonları ~6 ayın en düşüğünde (Bloomberg HT başlığı); X'te #işinUcuArtıkÖdemeyeGelsin – https://www.bloomberght.com/para-piyasasi-fonlari-alti-ayin-en-dusuk-seviyesinde-3793089
   - 3 Kasım 2026 – Tasfiyedeki fon sayısı 131'den 38'e iniyor (tek kaynak); X'te #YasadaTadilTamAnaPara (581, 12 saat) – https://www.endeks24.com/fon-sorusturmasinin-sayisal-dokumu-tutuklu-tasfiye
+  - 3 Kasım 2026 öğleden sonra – "Ana para + TÜFE" formülü üzerinde çalışıldığı yazıldı (resmî değil); #YasadaTadilTamAnaPara skor 628, 13 saat – https://www.yenialanya.com/456-bin-fon-magduru-icin-ana-para-ve-tufe-formulu
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -40,6 +41,7 @@
   - 30 Ekim 2026 – BIST 100 yüzde 3,64 düştü (10.759,56), 7. ardışık haftalık düşüş – https://www.endeks24.com/bist-100-yedi-hafta-ust-uste-dustu
   - 1 Kasım 2026 öğleden sonra – Dünya gazetesi sahibi Umut Güner gözaltına alındı (Bulls Yatırım Dünya Holding'de %20,45) – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-1748880
   - 3 Kasım 2026 – Korkmaz Enes Ergun "rüşvet almak" suçundan tutuklandı; Takasbank GM Yunus Arıncı adli kontrolle serbest; haberlerde tutuklu 121 (tek kaynak); gönüllü iade 18-19 milyar TL (iddia) – https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-takasbank-genel-muduru-yunus-arinci-adli-kontrolle-serbest-1749032
+  - 3 Kasım 2026 öğleden sonra – Bakan Gürlek: 433 şüpheli, 112 tutuklu, 186 adli kontrol, 38 firari; ~30 milyar TL iade; AK Parti içinde liste açıklansın çağrısı – https://paratic.com/bakan-gurlek-acikladi-fon-sorusturmasinda-112-tutuklama/
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
