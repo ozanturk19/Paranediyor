@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-02 16:40 TSİ)
+(Güncelleme: 2026-11-03 08:55 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -17,6 +17,7 @@
   - 2 Kasım 2026 – Ödemeler Hazine'den değil fonların varlıklarından (Güler), hedef Kasım ortası; bir mağdur 600 bin TL'ye 19.800 TL yattığını söylüyor; X'te #AnaParaGelmedenOyYok (568, 13 saat), #HazinedenÖdeHırsızdanAl (483, 10 saat) – https://www.birgun.net/haber/fon-magdurlarina-odemeler-basladi-743518
   - 2 Kasım 2026 – Tera Finansal Yatırım Holding (TRHOL) Yakın İzleme Pazarı'nda, 5 endeksten çıkarıldı – https://paratic.com/trhol-5-endeksten-cikarildi-2-kasimda-yakin-izleme-pazarina-aliniyor/
   - 2 Kasım 2026 öğleden sonra – Para piyasası fonları ~6 ayın en düşüğünde (Bloomberg HT başlığı); X'te #işinUcuArtıkÖdemeyeGelsin – https://www.bloomberght.com/para-piyasasi-fonlari-alti-ayin-en-dusuk-seviyesinde-3793089
+  - 3 Kasım 2026 – Tasfiyedeki fon sayısı 131'den 38'e iniyor (tek kaynak); X'te #YasadaTadilTamAnaPara (581, 12 saat) – https://www.endeks24.com/fon-sorusturmasinin-sayisal-dokumu-tutuklu-tasfiye
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -38,6 +39,7 @@
   - 2 Kasım 2026 öğleden sonra – Ergun için tutuklama/adli kontrol haberi yok; Savcı Sayan–BDDK tartışması X'te sürüyor – https://www.memurlar.net/haber/1182698/borsa-istanbul-as-genel-muduru-gozaltina-alindi.html
   - 30 Ekim 2026 – BIST 100 yüzde 3,64 düştü (10.759,56), 7. ardışık haftalık düşüş – https://www.endeks24.com/bist-100-yedi-hafta-ust-uste-dustu
   - 1 Kasım 2026 öğleden sonra – Dünya gazetesi sahibi Umut Güner gözaltına alındı (Bulls Yatırım Dünya Holding'de %20,45) – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-1748880
+  - 3 Kasım 2026 – Korkmaz Enes Ergun "rüşvet almak" suçundan tutuklandı; Takasbank GM Yunus Arıncı adli kontrolle serbest; haberlerde tutuklu 121 (tek kaynak); gönüllü iade 18-19 milyar TL (iddia) – https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-takasbank-genel-muduru-yunus-arinci-adli-kontrolle-serbest-1749032
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -51,6 +53,7 @@
   - 1 Ekim 2026 – Benzin için 11822 sayılı karar (haberlerde anılıyor; Resmî Gazete metni açılmadı) – https://www.yeniankara.com.tr/ekonomi/31-ekim-2026-akaryakit-fiyatlari-benzin-motorin-lpg-kac-tl-1-kasimda-zam-var-mi-188328
   - 1 Kasım 2026 – Motorin ÖTV'si 9 TL, benzin 11,36 TL; Ankara'da motorin ~101,60, benzin ~81,45 TL bekleniyor – https://www.yeniankara.com.tr/ekonomi/31-ekim-2026-akaryakit-fiyatlari-benzin-motorin-lpg-kac-tl-1-kasimda-zam-var-mi-188328
   - 1 Kasım 2026 – ÖTV zammı uygulandı: benzine +4,15, motorine +3,60 TL; İstanbul'da motorin ~100,50, benzin ~80,50 TL – https://www.haber.tr/benzin-ve-motorin-fiyatlarina-otv-kaynakli-zam-yapildi
+  - 3 Kasım 2026 – Otogaza ~9 TL zam, İstanbul 50,10-50,70 TL; benzin 80,50, motorin 100,50 – https://www.dunya.com/enerji/otogaza-9-tlyi-asan-zam-lpg-fiyatlari-50-lirayi-gecti-haberi-846195
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
