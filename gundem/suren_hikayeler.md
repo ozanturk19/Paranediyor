@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-04 09:10 TSİ)
+(Güncelleme: 2026-11-04 16:30 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -19,6 +19,7 @@
   - 2 Kasım 2026 öğleden sonra – Para piyasası fonları ~6 ayın en düşüğünde (Bloomberg HT başlığı); X'te #işinUcuArtıkÖdemeyeGelsin – https://www.bloomberght.com/para-piyasasi-fonlari-alti-ayin-en-dusuk-seviyesinde-3793089
   - 3 Kasım 2026 – Tasfiyedeki fon sayısı 131'den 38'e iniyor (tek kaynak); X'te #YasadaTadilTamAnaPara (581, 12 saat) – https://www.endeks24.com/fon-sorusturmasinin-sayisal-dokumu-tutuklu-tasfiye
   - 3 Kasım 2026 öğleden sonra – "Ana para + TÜFE" formülü üzerinde çalışıldığı yazıldı (resmî değil); #YasadaTadilTamAnaPara skor 628, 13 saat – https://www.yenialanya.com/456-bin-fon-magduru-icin-ana-para-ve-tufe-formulu
+  - 4 Kasım 2026 öğleden sonra – Tasfiyedeki fonların BIST 30 hisse satışı borsa dışında tamamlandı, takas 4 Kasım (tek kaynak); BIST 100 gün içinde yüzde 4,6 yükseldi; X'te #MuhalefetSPKOnune, #Anayasa125MaddeHemenAnaPara – https://paratic.com/borsa-11-bin-500-puani-asti-hangi-gelismeler-etkili-oluyor/
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
