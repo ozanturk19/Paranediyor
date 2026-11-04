@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-03 16:40 TSİ)
+(Güncelleme: 2026-11-04 09:10 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -42,6 +42,7 @@
   - 1 Kasım 2026 öğleden sonra – Dünya gazetesi sahibi Umut Güner gözaltına alındı (Bulls Yatırım Dünya Holding'de %20,45) – https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-1748880
   - 3 Kasım 2026 – Korkmaz Enes Ergun "rüşvet almak" suçundan tutuklandı; Takasbank GM Yunus Arıncı adli kontrolle serbest; haberlerde tutuklu 121 (tek kaynak); gönüllü iade 18-19 milyar TL (iddia) – https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-takasbank-genel-muduru-yunus-arinci-adli-kontrolle-serbest-1749032
   - 3 Kasım 2026 öğleden sonra – Bakan Gürlek: 433 şüpheli, 112 tutuklu, 186 adli kontrol, 38 firari; ~30 milyar TL iade; AK Parti içinde liste açıklansın çağrısı – https://paratic.com/bakan-gurlek-acikladi-fon-sorusturmasinda-112-tutuklama/
+  - 3-4 Kasım 2026 – 6 yeni gözaltı kararı (eski SPK Kurul Başkanvekili dahil); Gürlek: 359 gerçek + 111 tüzel kişi mal varlığı bloke, iade ~19 milyar TL – https://www.ntv.com.tr/turkiye/son-dakika-fon-sorusturmasinda-6-yeni-gozalti-karari-aralarinda-eski-spk-kurul-baskanvekili-de-var-1749162
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV

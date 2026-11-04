@@ -1,82 +1,92 @@
-# Para Ne Diyor? – 3 Kasım 2026 Öğleden Sonra Bülteni
-Hazırlanma: 2026-11-03 16:40 TSİ
-Not: Bu oturumda WebFetch gzt.com ve memurlar.net'e ağ kısıtıyla ulaşamadı; rakamlar birden çok WebSearch özetinde çapraz kontrol edildi, sayfa açılarak doğrulanamadı. YouTube RSS yine 403 verdi (rakip radarı yok).
+# Para Ne Diyor? – 4 Kasım 2026 Sabah Bülteni
+Hazırlanma: 2026-11-04 09:05 TSİ
+Not: YouTube RSS (rakip radarı) 403 verdi; memurlar.net, notbir, cnbce WebFetch ağ izni dışında kaldı. Rakamlar WebSearch özetlerinde birden çok kaynakta tutarlı çıkanlardır, sayfa açılarak doğrulanamadı.
 
-## GÜNCELLEME: Ekim enflasyonu %2,58, beklentinin üstünde; emekli ve memur zammı
-- Kategori: güncelleme
-- Puan: 12/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 1)
-- Tarih / yer: 3 Kasım 2026, Türkiye
-- Ne oldu: TÜİK Ekim TÜFE'yi aylık %2,58, yıllık %29,77 açıkladı (Eylül: aylık %1,84, yıllık %29,73). Sabahki beklenti AA Finans %2,20 (bir kaynak piyasa beklentisini %2,40 yazıyor).
-- Detaylar ve rakamlar:
-  - Yeni TÜFE serisi 2025=100 bazlı.
-  - Gıda ve alkolsüz içecek aylık %3,50 (katkı 0,84 puan); konut-su-elektrik-gaz %2,84 (0,34); ulaştırma %2,02 (0,36).
-  - Ürün bazında: taze yeşil yapraklı sebze %71,79, diğer taze meyve %27,82, meyvesi yenen sebze %26,77; ana grup olarak giyim-ayakkabı aylık %12,58; en çok düşen kalem yurt dışı uçak bileti %20,9.
-  - Yıllık: konut grubu %40,24, ulaştırma %36,39, gıda %27,73, eğitim %48,86, sağlık %43,29.
-  - ENAG: aylık %2,68, yıllık %45,12.
-  - SSK/Bağ-Kur 4 aylık fark %8,28-8,29 (kaynaklar yuvarlamada ayrışıyor); memur: %7 toplu sözleşme (2026 ikinci yarı) üstüne enflasyon farkı %1,20-1,21; haberlerde memur için yaklaşık %6,26-6,27 (%5 toplu sözleşme + fark) hesabı.
-  - Kesin oran Kasım (3 Aralık) ve Aralık (5 Ocak 2027) verisiyle belli olur; TCMB anketi/FKB anketi emekli için %10,08-10,45 diyor (haber hesabı, en düşük aylık 25.926-26.013 TL).
-  - (hesap) 23.552 x 1,0829 ≈ 25.504 TL: yalnız 4 aylık orana göre en düşük emekli aylığı; kalan iki ay eklenince artar.
-- Kimsenin anlatmadığı taraf: Aylık artışın en büyük katkısı taze sebze-meyveden (yeşil yapraklı sebze %71,79); haberler rakamı veriyor, nedenini (mevsim, tarla fiyatı) açıklamıyor. Zam oranını bu yüzden sebze fiyatı da yukarı çekiyor.
-- Kim kazanıyor / kim kaybediyor: Emekli ve memur Ocak zammı büyüyor; kiracı ve gıda alıcısı kaybediyor.
-- İzleyicinin sorusu: Enflasyon beklentiyi aşınca Ocak'ta emekli ve memur ne kadar zam alacak?
-- Kaynaklar: https://www.timeturk.com/2026-ekim-enflasyonu-aciklandi-tufe-aylik-258-yillik-2977 · https://www.haberturk.com/ekonomi/son-dakika-ekim-enflasyonu-aciklandi-3924495 · https://onedio.com/haber/emeklinin-4-aylik-zammi-yuzde-8-28-memurun-farki-yuzde-1-20-ocak-2027-maaslari-icin-hesaplar-netlesti-1393097
-
-## GÜNCELLEME: Kasım kira artış tavanı %31,23
-- Kategori: güncelleme
+## Dolar 50 lirayı gördü, Merkez Bankası rezervi eriyor
+- Kategori: ana konu
 - Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
 - Tarih / yer: 3 Kasım 2026, Türkiye
-- Ne oldu: TÜFE 12 aylık ortalaması %31,23; Ekim'deki tavan %31,49'du. Kasım'da yenilenen konut ve çatılı işyeri kiralarında azami artış bu.
-- Detaylar ve rakamlar:
-  - (hesap) 30.000 TL x 0,3123 ≈ 9.369 TL; yeni kira 39.369 TL (kaynakta aynı örnek).
-  - Yıllık enflasyon %29,77 iken tavan daha yüksek: 12 aylık ortalama geçmiş yüksek ayları taşıyor.
-  - Bir sonraki enflasyon açıklaması 3 Aralık 2026.
-  - Taraflar tavandan düşük artışta anlaşabilir.
-- Kimsenin anlatmadığı taraf: Tavan ile yıllık enflasyon arasındaki ~1,5 puanlık fark (hesap: 31,23 − 29,77) ve tavanın düşme hızı.
-- Kim kazanıyor / kim kaybediyor: Kiracı için küçük rahatlama; ev sahibi için tavan hâlâ yüksek.
-- İzleyicinin sorusu: Kira artış tavanı neden enflasyondan yüksek?
-- Kaynaklar: https://bigpara.hurriyet.com.tr/haberler/konut-haberleri/son-dakika-kasim-ayi-kira-artis-orani-belli-oldu_ID102281157/ · https://www.takvim.com.tr/ekonomi/2026/11/03/kira-artis-orani-ve-zam-hesaplama-tablosu-konut-ve-is-yerinde-yasal-tavan-sinir
+- Ne oldu: Dolar/TL serbest piyasada 3 Kasım'da 50 lirayı test etti (yaklaşık 49,98-50,02). Kurdaki artış hızı ekimde hızlandı.
+- Detaylar ve rakamlar: Barclays (Ercan Ergüzel, 3 Kasım notu): TL'nin aylık değer kaybı hızı eylülde %1,6, ekimde %1,8. QNB: TCMB brüt rezervi 30 Ekim haftasında 4,1 milyar dolar düşüp 158,1 milyar dolar; ekimde ~12 milyar dolar döviz satışı tahmini; net rezerv 37,9 milyar dolar (kaynaklar arası farklı rakamlar var: Cumhuriyet/Matriks zirveden bu yana 60,1 milyar dolar kayıp, Ekonomi Gazetesi toplam rezerv 6,9 milyar dolar geriledi). N24 başlığı: 2002'den beri kur 30 kat arttı. Barclays: küresel enerji fiyatları belirgin düşmedikçe TCMB değer kaybı hızını düşürmez.
+- Kimsenin anlatmadığı taraf: Kur sakin görünse de satılan dövizle tutuluyor; ekimde ~12 milyar dolar satış tahmini (QNB).
+- Kim kazanıyor / kaybediyor: Dövizi olanlar kazanıyor, TL maaş ve tasarruf sahibi kaybediyor (yorum düzeyinde).
+- İzleyicinin sorusu: Dolar neden bu kadar hızlı yükseliyor, rezerv ne kadar yeter?
+- Kaynaklar: https://n24.com.tr/ekonomi/dolar-50-tlyi-gordu-2002den-beri-kur-30-kat-artti ; https://www.karar.com/ekonomi-haberleri/barclaysten-dolarizasyon-ve-rezerv-uyarisi-merkez-bankasi-tlnin-deger-2082160 ; https://www.cumhuriyet.com.tr/ekonomi/tcmb-rezervlerinde-buyuk-erime-dusus-serisi-uc-haftaya-cikti-2552581
 
-## Bakan Işıkhan: Ocak 2027'de emekliye ek iyileştirme çalışması
+## Emekli ve memur Ocak zammında 4 aylık tablo netleşti
 - Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 0)
-- Tarih / yer: 3 Kasım 2026, Ankara (TBMM Plan ve Bütçe Komisyonu)
-- Ne oldu: Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, komisyonda yasal artışın üstüne Ocak 2027 için ek iyileştirme çalışması olduğunu, mevcut artışın yeterli olmadığını bildiğini söyledi (arama özetleri; sayfa açılamadı).
-- Detaylar ve rakamlar:
-  - En düşük emekli aylığı şu an 23.552 TL.
-  - Tutar ve tarih açıklanmadı; ekonomistler 30.000 TL'ye varan senaryolar yazıyor (resmî karar yok).
-  - Aynı oturumda Bağ-Kur 7.200 / 9.000 prim günü tartışması gündeme geldi.
-- Kimsenin anlatmadığı taraf: "Ek iyileştirme" ifadesine rağmen tutar yok; kesin yasal zam Ocak'ta belli olacak.
-- Kim kazanıyor / kim kaybediyor: Düşük aylıklı emekli.
-- İzleyicinin sorusu: Emekliye Ocak'ta yasal zamın üstüne ne kadar ek gelecek?
-- Kaynaklar: https://www.dunya.com/ekonomi/bakan-isikhan-tarih-verdi-emekli-maaslarina-ek-iyilestirme-hazirligi-haberi-846251 · https://www.5ocakgazetesi.com/bakan-isikhandan-emeklilere-zam-aciklamasi-ocak-2027-icin-ilave-iyilestirme-hazirligi
+- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 3-4 Kasım 2026, Türkiye
+- Ne oldu: Ekim enflasyonu aylık %2,58 (beklenti %2,20), yıllık %29,77. Temmuz-Ekim birikimi %8,28-8,29. Memurda %7 toplu sözleşme zammını aşan fark ~%1,20-1,21, toplam ~%6,26.
+- Detaylar ve rakamlar: SSK/Bağ-Kur zammı Temmuz-Aralık 6 aylık enflasyona bağlı; TCMB anketi tahmini %10,08 (OVP %9,04); memur+emekli memur toplamı anketle ~%8,02; memura Ocak'ta ayrıca %5 toplu sözleşme zammı. Kasım kira artış tavanı %31,23. Gıda aylık %3,50; konut-su-elektrik-gaz grubu %40,24 (yıllık, tek kaynak). (hesap) 20.000 TL aylık x 1,0828 = 21.656 TL; x 1,1008 = 22.016 TL.
+- Kimsenin anlatmadığı taraf: Rakam henüz kesin değil; Kasım (3 Aralık) ve Aralık (5 Ocak) enflasyonu belirleyecek.
+- Kim kazanıyor / kaybediyor: Biliniyor değil.
+- İzleyicinin sorusu: Ocak'ta emekli maaşı ne kadar artacak?
+- Kaynaklar: https://www.yeniasir.com.tr/ekonomi/2026/11/04/emekli-zamminda-4-aylik-tablo-netlesti ; https://www.trtv.net/2026/11/04/emekli-zam-enflasyon-farki-aciklandi/ ; https://www.memurlar.net/haber/1182940/enflasyon-yuzde-2-58-oldu-memurun-yuzde-7-lik-zammi-asildi.html
 
-## Fon soruşturmasında Adalet Bakanı rakamları açıkladı (süren hikâye)
-- Kategori: süren hikâye
+## ABD seçimi altını oynattı, gram altın 6.335 TL
+- Kategori: ana konu
 - Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 3 Kasım 2026, Türkiye
-- Ne oldu: Adalet Bakanı Akın Gürlek: 433 şüpheli, 112 tutuklu, 186 adli kontrol, 38 firari; 359 gerçek ve 111 tüzel kişiye bloke. Yaklaşık 30 milyar liralık para, taşınmaz ve hisse iade edildi.
-- Detaylar ve rakamlar:
-  - Fon Koordinasyon Kurulu 8. kez toplandı (Cevdet Yılmaz başkanlığında).
-  - Gürlek: "basit borsa manipülasyonu değil", üst düzey finans bürokrasisini de kapsayan suç yapılanması.
-  - memurlar.net başlığı: AK Parti'de fon krizi tepkileri büyüyor, "liste açıklansın" çağrısı (sayfa açılamadı, ayrıntı doğrulanamadı).
-  - Rakam farkı: sabah haberlerinde tutuklu 120-121; Bakan 112 diyor (farklı sayım olabilir).
-- Kimsenin anlatmadığı taraf: İade edilen ~30 milyar TL, ara ödeme için ayrılan 29,3 milyar TL ile aynı büyüklükte ama aynı kalem olup olmadığı açıklanmadı.
-- İzleyicinin sorusu: Fon soruşturmasında geri alınan para mağdurlara ne zaman dönecek?
-- Kaynaklar: https://paratic.com/bakan-gurlek-acikladi-fon-sorusturmasinda-112-tutuklama/ · https://bianet.org/haber/akin-gurlek-fon-yolsuzlugu-icin-devlet-mekanizmasina-sizan-sebeke-dedi-325036
+- Tarih / yer: 4 Kasım 2026 sabah, ABD/Türkiye
+- Ne oldu: Ara seçimde erken sonuçlar Demokratların Senato ve Temsilciler Meclisi'nde önde olduğuna işaret etti; dolar endeksi %0,4'e varan düştü (son 2 ayın en büyüğü), ons altın %0,9 artıp ~3.950-3.960 dolar.
+- Detaylar ve rakamlar: Gram altın 6.332-6.358 TL (güne 6.335); 3 Kasım'da gram ~6.277-6.309 TL, çeyrek ~10.366-10.377 TL. Ons altın geçen haftanın son işlem gününde son bir yılın en düşüğüne inmişti. Erken, resmi olmayan sonuçlara dayanıyor. Bir kaynak Fed'in Aralık'ta faiz artırma olasılığını %78 yazıyor (tek kaynak, şüpheli, bültene alınmadı).
+- Kimsenin anlatmadığı taraf: Artış, bir yılın dibinden geliyor.
+- Kim kazanıyor / kaybediyor: Biliniyor değil.
+- İzleyicinin sorusu: ABD seçimi neden altını yükseltiyor?
+- Kaynaklar: https://www.bloomberght.com/altin-ara-secim-sinyalleriyle-yukseldi-3793360 ; https://gazeteoksijen.com/ekonomi/abd-secimleri-altin-fiyatlarini-yukseltti-gram-altin-6-bin-335-liraya-cikti-294861
+
+## Aselsan'dan 1,1 milyar dolarlık hava savunma ihracatı
+- Kategori: ana konu
+- Puan: 9/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 3 Kasım 2026, KAP
+- Ne oldu: Aselsan, adı açıklanmayan uluslararası müşteriyle toplam 1,1 milyar dolarlık hava savunma sistemi ihracat sözleşmesi imzaladı.
+- Detaylar ve rakamlar: Tek kaynaklı (arama özeti, KAP metni açılamadı). Aynı gün KAP'ta Togg pay devri (Vestel %23, ~184 milyon euro, Varlık Fonu; Turkcell de alıcı) ve Yapı Kredi 3. çeyrek bilançosu var.
+- Kimsenin anlatmadığı taraf: Müşteri adı ve teslim takvimi açıklanmadı.
+- Kim kazanıyor / kaybediyor: -
+- İzleyicinin sorusu: Aselsan yabancıya ne satıyor, bu para nereye gidiyor?
+- Kaynaklar: https://www.cnbce.com/borsa/3-kasim-2026-haberleri-12-sirketten-ucuncu-ceyrek-aciklamasi-g40866
+
+## Hal Yasası taslağı: marketler sebze meyvenin %20'sini üreticiden alacak
+- Kategori: ana konu
+- Puan: 9/13 (isim 2, cep 3, tazelik 2, boşluk 1, açı 1)
+- Tarih / yer: 4 Kasım 2026, TBMM/Türkiye
+- Ne oldu: 9 maddelik taslak yıl sonu mali torba teklife eklenebilir.
+- Detaylar ve rakamlar: Komisyoncudan komisyoncuya satış yasağı; üretici birlikleri aracısız satabilir; büyük marketler sebze-meyvenin %20'sini doğrudan üreticiden alacak; fahiş komisyona hapis cezası; taslak ~30 maddeden 9'a indi. Sektör: fiyat yalnız aracı sayısıyla açıklanamaz.
+- Kimsenin anlatmadığı taraf: Yasalaşma tarihi belli değil, fiyatı düşürüp düşürmeyeceği tartışmalı.
+- Kim kazanıyor / kaybediyor: Üretici kazanabilir, aracı kaybedebilir (taslağın amacı).
+- İzleyicinin sorusu: Hal Yasası sebze meyve fiyatını düşürecek mi?
+- Kaynaklar: https://www.memurlar.net/haber/1183036/hal-yasasi-nda-komisyoncudan-komisyoncuya-satis-yasagi-geliyor.html ; https://www.gidabulteni.com/gundem/hal-yasasinda-9-maddelik-yeni-taslak-market-raflarinda-yerli-urun-zorunlulugu-geliyor/4291
+
+## Kredi kartında kademeli azami faiz
+- Kategori: küçük detay
+- Puan: 6/13 (isim 2, cep 2, tazelik 0, boşluk 1, açı 1)
+- Tarih / yer: Ekim 2026 itibarıyla, Türkiye (kaynaklar tarihte tutarsız)
+- Ne oldu: Aylık azami akdi faiz dönem borcuna göre: 30 bin TL altı %3,25, 30-180 bin TL %3,75, 180 bin üstü %4,25.
+- Detaylar ve rakamlar: Asgari ödeme limit eşiği 50 bin→100 bin TL; 400 bin TL üzeri toplam limitlerde 1 Ocak 2027'ye kadar limit azaltımı; yapılandırmada faiz tavanı %3,11. Tarihler çelişkili.
+- Kimsenin anlatmadığı taraf: -
+- Kim kazanıyor / kaybediyor: -
+- İzleyicinin sorusu: Kart borcuma hangi faiz uygulanıyor?
+- Kaynaklar: https://www.sozcu.com.tr/kredi-kartinda-asgari-odeme-siniri-degisti-kademeli-faiz-donemi-basladi-p368969
 
 ## Süren hikâye gelişmeleri (bugün)
-- Fon ara ödemeleri (9/13: isim 2, cep 3, tazelik 3, boşluk 1, açı 0): Sabah yazarının aktardığına göre "ana para + TÜFE" formülü üzerinde çalışılıyor (resmî değil). AKP teklifinde ödeme takvimi ve tam tazmin güvencesi yok (Cumhuriyet). SPK: 131 fon, 455.758 tekil yatırımcı. X: #YasadaTadilTamAnaPara skor 628, 13 saat. Kaynak: https://www.yenialanya.com/456-bin-fon-magduru-icin-ana-para-ve-tufe-formulu
-- Binance TR: yeni resmî gelişme bulunamadı; #BinanceOduyorDevletizliyor skor 252, 6 saat.
-- Akaryakıt: bugün yeni gelişme yok (sabah otogaz zammı).
+- Fon soruşturması: Puan 9/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 0). Eski SPK Kurul Başkanvekili dahil 6 yeni gözaltı kararı (NTV, tarih haberin yayın gününe göre 3-4 Kasım); Bakan Gürlek: 433 şüpheli, 112 tutuklu, 186 adli kontrol, 38 firari, 359 gerçek + 111 tüzel kişi mal varlığı bloke, iade ~19 milyar TL (başka kaynaklarda ~30 milyar). Tutuklu sayısı kaynaklara göre 112/118/121. https://www.ntv.com.tr/turkiye/son-dakika-fonda-soruşturmasinda-6-yeni-gozalti-karari-aralarinda-eski-spk-kurul-baskanvekili-de-var-1749162
+- Fon ödemeleri: X'te #AkMasallarFonlaKARARDI, #ihmalVarANAPARAYOK, #Yasada Tam Ana Para Güvencesi, #MuhalefetFonzedeyeDestekOL öne çıktı; resmi yeni karar bulunamadı. Fon yasası: 9 maddelik kanun Ekim sonunda kabul edildi; ara ödeme üst sınırı 1 milyon TL.
+- Akaryakıt ÖTV: yeni karar yok; İstanbul benzin 80,50, motorin 100,50 TL, otogaz ~50 TL (yaklaşık 9-9,5 TL zam). 4 Kasım için yeni zam yok.
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Başlık: "Emekli Ocak'ta ne kadar zam alacak?" · İlk cümle: "Ekim enflasyonu yüzde 2,58 çıktı ve emekli zammının dörtte üçü artık belli: yüzde 8,29." · Neden bugün: açıklama bugün, ek iyileştirme açıklaması (Işıkhan) çok konuşulur.
-2. Başlık: "Kira zammı neden hâlâ yüzde 31?" · İlk cümle: "30 bin liralık kira Kasım'da 39 bin 369 liraya çıkabiliyor." · Neden bugün: tavan bugün belli oldu; cebe doğrudan etki.
-3. Başlık: "Togg'u neden bırakıyorlar?" (sabah adayı, hâlâ geçerli) · İlk cümle: "Vestel, Togg payını 184 milyon euroya sattı; parasının yüzde 90'ı bankaya gidiyor." · Neden bugün: 2 gündür gündemde.
-Yedek (haber şart değil): "Migros neden bu kadar pahalı?" – bizim kanalın son 30 günü RSS engeli nedeniyle doğrulanamadı; yayın öncesi kontrol et.
+1. Başlık: "Dolar 50 lira, rezerv neden eriyor?" İlk cümle: Dolar ilk kez 50 lirayı gördü, Merkez Bankası ekimde yaklaşık 12 milyar dolar sattı. Neden bugün: 50 lira psikolojik eşik, rezerv haberi taze.
+2. Başlık: "Emekli zammı 22 bin mi olacak?" İlk cümle: 20 bin TL alan emekli bugünkü oranla 21.656 TL'ye çıkıyor. Neden bugün: 4 aylık tablo netleşti, kimse hesabı somut anlatmadı.
+3. Başlık: "Altın neden yükseldi, ABD seçimi ne?" İlk cümle: Gram altın 6.335 liraya çıktı ama ons altın bir yılın dibinde. Neden bugün: seçim sonuçları sabah çıktı.
+Not: üçü de 9 üstü ama 3. daha az özgün. Yedek (haber şart değil): "THY neden hep bilet pahalı?" – kanalda son 30 günde işlenmediği doğrulanmadı, konular.csv'de arama yapılmadı.
 
 ## Rakip radarı
-YouTube RSS bu oturumda 403 verdi (proxy engeli); dört kanal için veri alınamadı. Web aramasıyla da rakiplerin güncel videoları bulunamadı.
+Veri alınamadı: YouTube RSS 403 (proxy). Web aramasında rakip kanalların Kasım 2026 videosu bulunamadı.
 
-## Bu akşam
-- Gece – ABD ara seçim sonuçları; 6 Kasım Cuma ABD istihdam verisi
+## Takvim
+- 5 Kasım Perşembe – İş Bankası, Migros, Ford Otosan, Tofaş, Doğan Holding bilanço; Şişecam 3. çeyrek
+- 6 Kasım Cuma – Anadolu Grubu, Aygaz, Borusan Boru, Park Elektrik, Tüpraş bilanço; ABD tarım dışı istihdam
+- 9 Kasım Pazartesi – Koç Holding, Turkcell, Pegasus bilanço (yasal son gün)
+- 10 Kasım – Eylül sanayi üretimi (tek kaynak, tarih teyit edilmeli)
+- 12 Kasım – TCMB Enflasyon Raporu; 13 Kasım – ödemeler dengesi (cari)
+- 7 günün dışında: 27 Kasım Finansal İstikrar Raporu; Aralık'ta Asgari Ücret Komisyonu; 10 Aralık 14.00 PPK
+- Açıklanınca bakılacak rakamlar (Kasım enflasyonu, 3 Aralık): önceki ay %2,58, yıllık %29,77, Kasım ayı memur/emekli zammı için 4 ay %8,28, bu rakama bağlı kira tavanı %31,23.
