@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-04 16:30 TSİ)
+(Güncelleme: 2026-11-05 09:10 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -44,6 +44,7 @@
   - 3 Kasım 2026 – Korkmaz Enes Ergun "rüşvet almak" suçundan tutuklandı; Takasbank GM Yunus Arıncı adli kontrolle serbest; haberlerde tutuklu 121 (tek kaynak); gönüllü iade 18-19 milyar TL (iddia) – https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-takasbank-genel-muduru-yunus-arinci-adli-kontrolle-serbest-1749032
   - 3 Kasım 2026 öğleden sonra – Bakan Gürlek: 433 şüpheli, 112 tutuklu, 186 adli kontrol, 38 firari; ~30 milyar TL iade; AK Parti içinde liste açıklansın çağrısı – https://paratic.com/bakan-gurlek-acikladi-fon-sorusturmasinda-112-tutuklama/
   - 3-4 Kasım 2026 – 6 yeni gözaltı kararı (eski SPK Kurul Başkanvekili dahil); Gürlek: 359 gerçek + 111 tüzel kişi mal varlığı bloke, iade ~19 milyar TL – https://www.ntv.com.tr/turkiye/son-dakika-fon-sorusturmasinda-6-yeni-gozalti-karari-aralarinda-eski-spk-kurul-baskanvekili-de-var-1749162
+  - 5 Kasım 2026 – Yeni resmi gelişme doğrulanamadı; X'te #FonKuruluHepimiziKandirdi, #FonzedelerOrgutluSoyuldu sürüyor – https://getdaytrends.com/turkey/
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -58,6 +59,7 @@
   - 1 Kasım 2026 – Motorin ÖTV'si 9 TL, benzin 11,36 TL; Ankara'da motorin ~101,60, benzin ~81,45 TL bekleniyor – https://www.yeniankara.com.tr/ekonomi/31-ekim-2026-akaryakit-fiyatlari-benzin-motorin-lpg-kac-tl-1-kasimda-zam-var-mi-188328
   - 1 Kasım 2026 – ÖTV zammı uygulandı: benzine +4,15, motorine +3,60 TL; İstanbul'da motorin ~100,50, benzin ~80,50 TL – https://www.haber.tr/benzin-ve-motorin-fiyatlarina-otv-kaynakli-zam-yapildi
   - 3 Kasım 2026 – Otogaza ~9 TL zam, İstanbul 50,10-50,70 TL; benzin 80,50, motorin 100,50 – https://www.dunya.com/enerji/otogaza-9-tlyi-asan-zam-lpg-fiyatlari-50-lirayi-gecti-haberi-846195
+  - 5 Kasım 2026 – Brent 93 dolara inince benzinde 6 Kasım 00.01'de 4,80 TL'ye kadar indirim bekleniyor (resmi değil); motorin/LPG indirimi yok – https://www.dunya.com/ekonomi/benzinde-480-tl-indirim-beklentisi-gozler-6-kasima-cevrildi-haberi-846484
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
