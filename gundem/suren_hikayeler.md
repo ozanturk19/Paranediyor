@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-06 09:30 TSİ)
+(Güncelleme: 2026-11-06 16:20 TSİ; önceki: 2026-11-06 09:30 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -48,6 +48,7 @@
   - 5 Kasım 2026 – Yeni resmi gelişme doğrulanamadı; X'te #FonKuruluHepimiziKandirdi, #FonzedelerOrgutluSoyuldu sürüyor – https://getdaytrends.com/turkey/
   - 5-6 Kasım 2026 – Eski Aile Bakanı Fatma Betül Sayan Kaya tutuklandı (OZATD hissesini Nisan'da alıp 16 Eylül'de, tasfiyeden bir gün önce satmış); eşi İlyas Kaya ve eski SPK Başkanı Gönül adli kontrolle serbest – https://www.aa.com.tr/tr/gundem/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklandi/4113433
   - 5 Kasım 2026 – Erdoğan: "ummadığınız insanlar işin içine girmiş"; DDK görevlendirildi, ödemeler kamu parasıyla değil – https://ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513
+  - 2026-11-06 öğleden sonra – Meclis komisyonunda Borsa İstanbul Başkanı Arıcan'ın gelmemesi tartışıldı, resmî suçlama yok – https://boldmedya.com/2026/11/06/mecliste-erisah-arican-tepkisi-komisyona-neden-gelmedi-ogluna-halkbankta-ayricalik-mi-tanindi/
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -64,6 +65,7 @@
   - 3 Kasım 2026 – Otogaza ~9 TL zam, İstanbul 50,10-50,70 TL; benzin 80,50, motorin 100,50 – https://www.dunya.com/enerji/otogaza-9-tlyi-asan-zam-lpg-fiyatlari-50-lirayi-gecti-haberi-846195
   - 5 Kasım 2026 – Brent 93 dolara inince benzinde 6 Kasım 00.01'de 4,80 TL'ye kadar indirim bekleniyor (resmi değil); motorin/LPG indirimi yok – https://www.dunya.com/ekonomi/benzinde-480-tl-indirim-beklentisi-gozler-6-kasima-cevrildi-haberi-846484
   - 6 Kasım 2026 – Benzine ~6,08 TL indirim yansıdı, İstanbul ~74,4 TL (80,51'den); motorin ~100,5 TL, 7 Kasım için 5,10-7 TL indirim beklentisi (resmî değil) – https://shiftdelete.net/benzine-indirim-6-kasim-2026-akaryakit-fiyatlari
+  - 2026-11-06 öğleden sonra – Motorinde 7 Kasım 00.01 için 5,47 TL indirim bekleniyor (7 TL diyen de var), resmî değil – https://www.kayserim.net/haber/30001773/motorinde-5-47-tl-indirim-bekleniyor
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
