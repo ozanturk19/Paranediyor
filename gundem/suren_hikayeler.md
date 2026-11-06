@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-05 16:20 TSİ)
+(Güncelleme: 2026-11-06 09:30 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -46,11 +46,13 @@
   - 3 Kasım 2026 öğleden sonra – Bakan Gürlek: 433 şüpheli, 112 tutuklu, 186 adli kontrol, 38 firari; ~30 milyar TL iade; AK Parti içinde liste açıklansın çağrısı – https://paratic.com/bakan-gurlek-acikladi-fon-sorusturmasinda-112-tutuklama/
   - 3-4 Kasım 2026 – 6 yeni gözaltı kararı (eski SPK Kurul Başkanvekili dahil); Gürlek: 359 gerçek + 111 tüzel kişi mal varlığı bloke, iade ~19 milyar TL – https://www.ntv.com.tr/turkiye/son-dakika-fon-sorusturmasinda-6-yeni-gozalti-karari-aralarinda-eski-spk-kurul-baskanvekili-de-var-1749162
   - 5 Kasım 2026 – Yeni resmi gelişme doğrulanamadı; X'te #FonKuruluHepimiziKandirdi, #FonzedelerOrgutluSoyuldu sürüyor – https://getdaytrends.com/turkey/
+  - 5-6 Kasım 2026 – Eski Aile Bakanı Fatma Betül Sayan Kaya tutuklandı (OZATD hissesini Nisan'da alıp 16 Eylül'de, tasfiyeden bir gün önce satmış); eşi İlyas Kaya ve eski SPK Başkanı Gönül adli kontrolle serbest – https://www.aa.com.tr/tr/gundem/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklandi/4113433
+  - 5 Kasım 2026 – Erdoğan: "ummadığınız insanlar işin içine girmiş"; DDK görevlendirildi, ödemeler kamu parasıyla değil – https://ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
-- Başlangıç: 13 Ağustos 2026 · Son gelişme: 1 Kasım 2026
+- Başlangıç: 13 Ağustos 2026 · Son gelişme: 6 Kasım 2026
 - Özet: 11606 sayılı Cumhurbaşkanı Kararı ile motorinin ÖTV'si 13 Ağustos'ta sıfırlandı ve her ay 3 TL artırılarak 1 Ocak 2027'de 13,9006 TL'ye dönecek şekilde takvime bağlandı; benzinde ÖTV 1 Kasım'da 7,90 TL'den 11,36 TL'ye çıkıyor. Dünyadaki dizel sıkışıklığı nedeniyle motorin benzinden ~20 TL pahalı; İstanbul'da 31 Ekim'de motorin 96,90, benzin 76,30 TL.
 - Zaman çizelgesi:
   - 4 Mart 2026 – 10995 sayılı CK (önceki motorin ÖTV düzenlemesi; 11606 ile bu iki motorin türü için uygulanmaz oldu) – https://www.yenisafak.com/galeri/ozgun/motorin-otv-duzenlemesi-2026-ay-ay-uygulanacak-yeni-tutarlar-belli-oldu-eylulden-sonra-fiyatlar-nasil-degisecek-4847647
@@ -61,6 +63,7 @@
   - 1 Kasım 2026 – ÖTV zammı uygulandı: benzine +4,15, motorine +3,60 TL; İstanbul'da motorin ~100,50, benzin ~80,50 TL – https://www.haber.tr/benzin-ve-motorin-fiyatlarina-otv-kaynakli-zam-yapildi
   - 3 Kasım 2026 – Otogaza ~9 TL zam, İstanbul 50,10-50,70 TL; benzin 80,50, motorin 100,50 – https://www.dunya.com/enerji/otogaza-9-tlyi-asan-zam-lpg-fiyatlari-50-lirayi-gecti-haberi-846195
   - 5 Kasım 2026 – Brent 93 dolara inince benzinde 6 Kasım 00.01'de 4,80 TL'ye kadar indirim bekleniyor (resmi değil); motorin/LPG indirimi yok – https://www.dunya.com/ekonomi/benzinde-480-tl-indirim-beklentisi-gozler-6-kasima-cevrildi-haberi-846484
+  - 6 Kasım 2026 – Benzine ~6,08 TL indirim yansıdı, İstanbul ~74,4 TL (80,51'den); motorin ~100,5 TL, 7 Kasım için 5,10-7 TL indirim beklentisi (resmî değil) – https://shiftdelete.net/benzine-indirim-6-kasim-2026-akaryakit-fiyatlari
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
