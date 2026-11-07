@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-07 08:45 TSİ; önceki: 2026-11-06 16:20 TSİ)
+(Güncelleme: 2026-11-07 16:30 TSİ; önceki: 2026-11-06 16:20 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -51,6 +51,7 @@
   - 5 Kasım 2026 – Erdoğan: "ummadığınız insanlar işin içine girmiş"; DDK görevlendirildi, ödemeler kamu parasıyla değil – https://ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513
   - 2026-11-06 öğleden sonra – Meclis komisyonunda Borsa İstanbul Başkanı Arıcan'ın gelmemesi tartışıldı, resmî suçlama yok – https://boldmedya.com/2026/11/06/mecliste-erisah-arican-tepkisi-komisyona-neden-gelmedi-ogluna-halkbankta-ayricalik-mi-tanindi/
   - 2026-11-07 – X'te #ErisahAricanJCRarastirin (573, 12 saat); JCR Avrasya Arıcan'ın 2020-2021 yönetim kurulu üyeliğini açıkladı, resmi suçlama yok – https://www.tgrthaber.com/ekonomi/jcr-eurasia-ratingden-erisah-arican-aciklamasi-3369988
+  - 7 Kasım 2026 öğleden sonra – Eski SPK Başkanvekili Enver Usca, Ercan Urkan (SPK), Mustafa Alper Taş (BDDK) ve Tera Holding'den Ümit Sincanlı tutuklandı; haberlerde toplam tutuklu 118 (rakamlar kaynaklara göre değişiyor) – https://www.haber7.com/guncel/haber/3674900-fon-sorusturmasinda-hareketli-dakikalar-4-kisi-daha-tutuklandi
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
