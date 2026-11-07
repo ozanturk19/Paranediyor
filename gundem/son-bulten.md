@@ -1,69 +1,101 @@
-# Para Ne Diyor? – 6 Kasım 2026 Öğleden Sonra Bülteni
-Hazırlanma: 2026-11-06 16:20 TSİ
-Not: WebFetch bu oturumda bloomberght, aa.com.tr, tr.investing.com sitelerine ulaşamadı; YouTube RSS 403 verdi (rakip radarı alınamadı); getdaytrends skorları okunamadı. Tüm rakamlar WebSearch özetlerinden, fetch ile doğrulanmadı. BIST kapanışı henüz yok (16:20).
+# Para Ne Diyor? – 7 Kasım 2026 Sabah Bülteni
+Hazırlanma: 2026-11-07 08:45 TSİ
+Not: Cumartesi, piyasalar kapalı; son işlem günü 6 Kasım Cuma. WebFetch bu oturumda milliyet, gzt, liderhaber sitelerine ulaşamadı (ağ engeli); rakamlar WebSearch özetlerinden, sayfa açılarak doğrulanamadı. YouTube RSS 403 verdi (rakip radarı alınamadı).
 
-## GÜNCELLEME: Motorine 7 Kasım gece yarısı 5,47 TL indirim bekleniyor
-- Kategori: güncelleme (süren hikâye: Akaryakıtta kademeli ÖTV)
-- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 7 Kasım 2026 00.01, Türkiye
-- Ne oldu: Çoğu kaynak motorinde 5,47 TL indirim bekliyor (sabah 5,10 idi); bazıları 7 TL diyor. Resmî pompa fiyatı henüz açıklanmadı. Benzin indirimi (6,08 TL) dün gece pompaya yansıdı, ek değişiklik beklenmiyor.
-- Detaylar ve rakamlar:
-  - Sabah arşivine göre İstanbul motorin ~100,4-100,6 TL; (hesap) 100,5 − 5,47 ≈ 95 TL.
-  - Brent 110 doların üzerinden 97,94 dolara kadar indi (ABD ara seçimi sonrası); öğlen bir kaynakta 100,3 dolar. Kaynaklar çelişiyor.
-  - Motorin ÖTV'si Kasım 9 TL, Aralık 12 TL, 1 Ocak 2027 13,9006 TL (arşiv).
-- Kimsenin anlatmadığı taraf: benzinde indirim ÖTV adımını silmişken motorinde ÖTV artışları sürüyor; ucuzlama yalnızca Brent'e bağlı (arşivdeki ÖTV takvimi).
-- Kim kazanıyor / kaybediyor: dizel araç sahipleri, nakliye; ÖTV adımları sürdüğü için fark kalıcı olmayabilir.
-- İzleyicinin sorusu: Motorin indirimi gelirse ne kadar kalır, Aralık'ta ÖTV yine zam getirir mi?
-- Kaynaklar: https://www.sonmuhur.com/benzinin-ardindan-motorine-de-indirim-geliyor-iste-tarihi-6-kasim-2026-guncel-akaryakit-fiyatlari ; https://www.kayserim.net/haber/30001773/motorinde-5-47-tl-indirim-bekleniyor
-
-## Nvidia, Samsung ve yapay zeka hisseleri çöktü, Borsa İstanbul dayandı
-- Kategori: dünya
-- Puan: 10/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 1)
-- Tarih / yer: 5-6 Kasım 2026, ABD / Güney Kore / İstanbul
-- Ne oldu: ABD ara seçiminde Demokratların Kongre'yi almasının yapay zeka veri merkezi düzenlemelerini sıkılaştırabileceği endişesi satış dalgası başlattı. Nasdaq-100 yüzde 6,3, Nasdaq Bileşik yüzde 5,52 (24.315) düştü. KOSPI sabah yüzde 8,55 düşüşle 4.923 açıldı, 20 dakika işlem durdu.
-- Detaylar ve rakamlar:
-  - Nasdaq-100: Mart 2020'den beri en kötü gün; yaklaşık 2,3 trilyon dolar değer silindi (tek kaynak özeti).
-  - Samsung ~yüzde 10, SK Hynix ~yüzde 11,7 düştü; Nikkei yüzde 6, MSCI Asya Pasifik yüzde 3,8 geriledi. KOSPI kapanışı kaynaklarda çelişkili (yüzde 6,02 / yüzde 4,1). Bu yıl Güney Kore'de 10. devre kesici.
-  - BIST 100 öğlen yüzde 0,08 düşüşle 11.323,97; bankacılık endeksi yüzde 1,18 yukarı. Dün kapanış yüzde 1,26 düşüşle 11.333 (arşiv ile uyumlu).
-  - Ons altın yüzde 0,7 düşüşle ~4.070 dolar, gram altın dünden yüzde 1,01 düşük (~6.556 TL, tek kaynak). Dolar 50,16 TL (yüzde 0,22 yukarı).
-  - Dolar/euro: euro 56,09 TL.
-- Kimsenin anlatmadığı taraf: Borsa İstanbul'da çip/yapay zeka üreticisi yok; etki genel risk iştahı üzerinden (kaynak: haber özeti, yorum niteliği taşıyor).
-- Kim kazanıyor / kaybediyor: Asya çip hisselerine yatıranlar kaybediyor; Türk bankacılık hisseleri bugün tutundu.
-- İzleyicinin sorusu: Dünyada yapay zeka hisseleri çökerken Türk borsası neden bu kadar az etkilendi?
-- Kaynaklar: https://www.haberturk.com/ekonomi/piyasalarda-yapay-zeka-depremi-abd-nin-ardindan-asya-piyasalarinda-da-sert-dusus-3925292 ; https://www.sozcu.com.tr/borsa-gune-dususle-basladi-6-kasim-2026-p376584
-
-## Şimşek: Emekli düzenlemesi tüm emeklileri kapsayacak
+## Fon yatırımcısı: Şimşek "para piyasası fonlarında kayıp yok" dedi (süren hikâye)
 - Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 5-6 Kasım 2026, TBMM Plan ve Bütçe Komisyonu
-- Ne oldu: Bakan Şimşek 2027 bütçe görüşmeleri sonrası emeklilere yönelik düzenlemenin tüm emeklileri kapsayacağını, artışın yaş ve prim gün sayısına göre farklılaşmasının daha adil olacağını söyledi.
+- Puan: 11/13 (isim 2, cep 3, tazelik 3, boşluk 2, açı 1)
+- Tarih / yer: 6-7 Kasım 2026 (tarih kaynaklarda net değil), TBMM Plan ve Bütçe Komisyonu, Ankara
+- Ne oldu: Hazine ve Maliye Bakanı Şimşek, normal tasfiyedeki para piyasası fonlarında yatırımın ve getirinin (nema) ödendiğini, olağan ve olağanüstü tasfiyelerde kamu kaynağı kullanılmadığını söyledi. Tasfiyedeki 131 fonun portföyünde 52,2 milyar TL özel sektör tahvili olduğunu, bunların hepsinin kayıp anlamına gelmediğini belirtti.
 - Detaylar ve rakamlar:
-  - Seyyanen artış olsa bile yaş ve prim ölçütleri gözetilecek.
-  - Nihai çalışmanın Aralık'ta tamamlanması bekleniyor; düzenleme bütçe sonrası Meclis'e sunulabilir (haber özeti).
-  - Net rakam yok; 10-15 bin liralık seyyanen artış kulis iddiası.
-  - Şimşek: gelir, kurumlar, KDV oranlarında artış gündemde yok.
-  - Arşiv: TCMB anketi Ocak memur/emekli zammı beklentisi yüzde 8,56.
-- Kimsenin anlatmadığı taraf: Haberler aynı açıklamayı tekrarlıyor; farklılaşma ölçütü (yaş, prim günü) kimin kazanıp kimin kaybedeceğini belirleyecek ama henüz hesap yok.
-- Kim kazanıyor / kaybediyor: belirsiz; kriter netleşince düşük aylık alanlar ile uzun prim ödeyenler arasında fark çıkabilir.
-- İzleyicinin sorusu: Emekliye Ocak'ta kim, ne kadar alacak?
-- Kaynaklar: https://www.cnbce.com/sosyal-guvenlik/bakan-simsekten-emekliler-icin-yeni-duzenleme-mesaji-butun-emeklileri-kapsayacak-h41139 ; https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak/4113546
+  - 131 fon, 52,2 milyar TL özel sektör tahvili (Şimşek, Milliyet/Anka Haber özetleri).
+  - Ara ödemelerden stopaj kesildiği iddiasını reddetti; fon listelerinin açıklanmasına engel olmadığını söyledi.
+  - SPK tasfiye süresini 3 aydan 6 aya çıkardı (varlıkların tek seferde ucuza satılmaması gerekçesiyle, yorum).
+  - Hisse ve serbest fonlarda tek ödeme günü yok; nihai bakiyenin 5-6 ayda netleşmesi bekleniyor (Bigpara).
+  - Gedik Yatırım: 30.09.2026 itibarıyla tasfiye kapsamındaki fon büyüklüğü 652,3 milyar TL.
+  - Önceki ödeme verisi (5 Kasım): 108 fonda 420.031 kişiye 130,2 milyar TL.
+  - X: #PPFdeSabırTükendi skor 698 (16 saat), #HisseSerbestFonTamAnaPara 657 (15 saat).
+- Kimsenin anlatmadığı taraf: "Kayıp yok" ifadesi yalnız normal tasfiyedeki para piyasası fonları için; hisse/serbest fonlarda tam ana para sözü yok ve Şimşek tahvillerin hepsinin kayıp olmadığını söylerken hepsinin geri döneceğini de söylemedi.
+- Kim kazanıyor / kim kaybediyor: PPF yatırımcısı geri alıyor; hisse ve serbest fon yatırımcısı belirsizlikte.
+- İzleyicinin sorusu: Hisse ve serbest fondaki paramın tamamını geri alacak mıyım?
+- Kaynaklar: https://www.milliyet.com.tr/ekonomi/para-piyasasi-fonlarinda-hicbir-kayip-yok-7696038 ; https://bigpara.hurriyet.com.tr/borsa-haberleri/galeri-fon-paralari-ne-zaman-yatacak-ppf-hisse-ve-serbest-fon-odemeleri-ne-zaman-basliyor_ID102263059/
+
+## Tüpraş üç ayda 68,7 milyar lira kâr yazdı
+- Kategori: ana konu
+- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 2)
+- Tarih / yer: 6 Kasım 2026 KAP, Türkiye
+- Ne oldu: Tüpraş 3. çeyrek net kârını 68,7 milyar TL açıkladı (beklenti 60,4 milyar TL). Dokuz aylık kâr 121,3 milyar TL.
+- Detaylar ve rakamlar:
+  - Yıllık artış yüzde 335 (Bloomberg HT); Endeks24'e göre geçen yılın aynı çeyreğinin 4,4 katı (15,8 milyar TL). Ekonomim 2025 için 12,2 milyar TL veriyor; kâr tanımı farkı olabilir.
+  - Net rafineri marjı 2. çeyrekte 21,4 dolar/varil, 3. çeyrekte 36,3 dolar/varil (yüksek enerji fiyatları).
+  - Yıl marj beklentisi 13-15 dolardan 20-22 dolara yükseltildi.
+  - Aynı hafta İstanbul'da motorin 100,5 TL'den 95 TL'ye indi; benzin 74,6 TL.
+  - Dizel marjı 2026 için doğrulanamadı.
+- Kimsenin anlatmadığı taraf: Dizel sıkışıklığı pompada fiyat yaparken rafineri marjı iki katına yakın arttı (21,4 → 36,3 dolar).
+- Kim kazanıyor / kim kaybediyor: Rafineri kazanıyor; araç sahibi ve nakliyeci pompada ödüyor.
+- İzleyicinin sorusu: Motorin 100 lirayı görürken Tüpraş neden rekor kâr yazdı?
+- Kaynaklar: https://www.bloomberght.com/tupras-tan-2026-nin-en-guclu-ceyreklik-performansi-3793853 ; https://www.endeks24.com/tupras-tuprs-3-ceyrekte-69-milyar-tl-net-kar-yazdi-2026nin-en-yuksegi
+
+## Motorine 5,47 TL indirim pompaya yansıdı (süren hikâye)
+- Kategori: süren hikâye
+- Puan: 10/13 (isim 3, cep 3, tazelik 3, boşluk 0, açı 1)
+- Tarih / yer: 7 Kasım 2026 00.01, Türkiye
+- Ne oldu: Motorinde 5,47 TL indirim gece yarısı uygulandı; İstanbul'da litre fiyatı yaklaşık 95 TL (Avrupa Yakası 95,20, Anadolu 95,00). Benzin 74,60 TL, LPG 50,70 TL.
+- Detaylar ve rakamlar:
+  - İndirim öncesi motorin ~100,5 TL. Bazı haberlerde 7 TL ve 5,29 TL denmişti; gerçekleşen 5,47 TL.
+  - Benzin 6 Kasım'da 6,08 TL indirimle ~74,4-74,6 TL.
+  - Motorin ÖTV'si: Kasım 9 TL, Aralık 12 TL, 1 Ocak 2027 13,9006 TL (arşiv).
+  - (hesap) Aralık ÖTV adımı 3 TL; yüzde 20 KDV varsayımıyla pompaya yaklaşık 3,60 TL (3 × 1,20).
+  - İndirimin nedeni petrol fiyatındaki düşüş (ABD ara seçimi sonrası jeopolitik beklenti).
+- Kimsenin anlatmadığı taraf: İndirim ÖTV adımlarıyla kısmen geri alınacak; benzinde ÖTV 11,36 TL'de sabit.
+- Kim kazanıyor / kim kaybediyor: dizel araç sahibi bu hafta kazanıyor; Aralık adımı farkı kapatabilir.
+- İzleyicinin sorusu: Motorin Aralık'ta tekrar 100 TL'ye döner mi?
+- Kaynaklar: https://www.trtv.net/2026/11/07/motorin-fiyati-100-lira-altina-indi-zam-indirim/ ; https://www.aydinlik.com.tr/haber/motorine-indirim-7-kasim-guncel-akaryakit-fiyatlari-597877
+
+## Merkez Bankası Başkanı Karahan: kira enflasyonu düşmeye devam edecek
+- Kategori: ana konu
+- Puan: 10/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 0)
+- Tarih / yer: 7 Kasım 2026 (AA gündem özeti), Türkiye
+- Ne oldu: Karahan, yeni kiralamalardaki fiyat hareketlerinin TÜİK verisine yansımaya başladığını ve kira enflasyonunda gerilemenin süreceğini söyledi.
+- Detaylar ve rakamlar:
+  - Yıllık kira enflasyonu bir yıl önce ~yüzde 66, ekimde yüzde 39,71.
+  - Ekim enflasyonu aylık yüzde 2,58; Kasım kira artış tavanı yüzde 31,23 (Ekim: 31,49).
+  - (hesap) 15.000 TL kirada tavan artış 4.684,50 TL.
+  - Ana eğilim yıllıklandırılmış yüzde 23,7 (Karahan).
+  - Dolar haftayı 50,15 TL'den kapattı (haber sitesi).
+- Kimsenin anlatmadığı taraf: Kiralar ucuzlamıyor, artış hızı yavaşlıyor; kira enflasyonu (yüzde 39,71) yasal tavandan (31,23) hâlâ yüksek.
+- Kim kazanıyor / kim kaybediyor: Kiracı için hız kesiliyor; ev sahibi tavana bağlı.
+- İzleyicinin sorusu: Kiralar gerçekten düşecek mi?
+- Kaynaklar: https://www.cnnturk.com/ekonomi/tcmb-baskani-karahandan-kiralarla-ilgili-kritik-mesaj-gerileme-surecek-mi-3490063 ; https://paratic.com/kasim-2026-kira-artis-orani-belli-oldu-yuzde-31-23/
+
+## Küçük detay: Vestel ve Ülker zarar
+- Kategori: küçük detay
+- Puan: 8/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 6 Kasım 2026, KAP
+- Ne oldu: Vestel 3. çeyrekte 6.549.022.000 TL net zarar yazdı (tek anketli beklenti 5,6 milyar TL); dokuz aylık zarar 16.833.274.000 TL.
+- Detaylar ve rakamlar: dokuz aylık satış 139,61 milyar TL'den 74,44 milyar TL'ye düştü (cnbce). Ülker 3. çeyrek 546 milyon TL zarar, beklenti 125 milyon TL kâr (tek başlık kaynak: paratic); dokuz aylık kâr yüzde 55 düştü, net borç 44,5 milyar TL. Vestel Beyaz Eşya ayrı şirket, karıştırma.
+- Kimsenin anlatmadığı taraf: Vestel'in satışı dokuz ayda yaklaşık yarıya indi (-yüzde 47).
+- Kim kazanıyor / kim kaybediyor: Vestel ve Ülker çalışan/ortakları zararda; Tüpraş ve Halkbank (dokuz ay 25,9 milyar TL, +yüzde 28,4) kâr yazdı.
+- İzleyicinin sorusu: Vestel neden bu kadar küçülüyor?
+- Kaynaklar: https://www.cnbce.com/sirket-bilancolari/vestelin-vestl-satislari-yuzde-47-dustu-3-ceyrekte-zarar-beklentileri-asti-h41228 ; https://paratic.com/ulkerden-2026-ucuncu-ceyrekte-546-milyon-tl-zarar/
 
 ## Süren hikâye gelişmeleri (bugün)
-### Fon soruşturması – Arıcan Meclis'te tartışıldı
-- Puan: 8/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 1)
-- Gelişme: TBMM Plan ve Bütçe Komisyonu'nda Borsa İstanbul Yönetim Kurulu Başkanı Erişah Arıcan'ın toplantıya gelmemesi eleştirildi; bir milletvekili istifasını istedi. Arıcan'ın JCR'nin ilk yönetim kurulu başkanı olduğu (17 Ocak 2020) ve JCR'nin Tera notunu skandaldan sonra CC'ye indirdiği iddiaları muhalefet/köşe yazısı kaynaklı; iddianame, gözaltı ya da resmî suçlama yok.
-- Kaynaklar: https://boldmedya.com/2026/11/06/mecliste-erisah-arican-tepkisi-komisyona-neden-gelmedi-ogluna-halkbankta-ayricalik-mi-tanindi/ ; https://www.meridyenhaber.com/seytanin-aklina-gelmez-vurgunda-akil-almaz-detay-fonlarin-puanini-yerli-ve-milli-reyting-kurulusu-yukseltmis
-### Fon tasfiyeleri – PPF mağdurları (X)
-- Puan: 7/13. #FondaDuruşumuzHemenÖdeme ve #PPFdeSabırTükendi gün boyu trend. SPK ara ödemeyi para piyasası fonlarından başlatma kararı almıştı; mağdurlar birikim büyüklüğüne göre ayrımı kabul etmiyor. Şimşek: 108 fonda 614.874 hesaba, 420.031 kişiye 130,2 milyar TL ödendi (arşivle uyumlu).
+- Fon soruşturması: yeni resmi gelişme doğrulanamadı. X'te #ErisahAricanJCRarastirin (skor 573, 12 saat), JCR Avrasya Arıcan'ın 17.01.2020-30.03.2021 arası yönetim kurulu üyesi olduğunu, sonra görevi olmadığını açıkladı; resmi soruşturma bilgisi yok (puan 8/13: isim 2, cep 1, tazelik 3, boşluk 1, açı 1). Kaynak: https://www.tgrthaber.com/ekonomi/jcr-eurasia-ratingden-erisah-arican-aciklamasi-3369988
+- Fon tasfiyesi ve akaryakıt: yukarıdaki ana maddeler.
+- Enerji fatura eşikleri: yeni gelişme yok.
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Başlık: "Motorin ucuzladı, ÖTV geri alacak mı?" — İlk cümle: "Benzin 6 lira ucuzladı, motorin gece yarısı 5,47 lira ucuzlayacak ama Aralık'ta ÖTV 12 liraya çıkıyor." — Neden bugün: indirim bu gece yürürlükte. (11/13)
-2. Başlık: "Emekliye Ocak'ta yaş ve prim günü hesabı" — İlk cümle: "Şimşek tüm emekliler dedi ama rakam vermedi." — Neden bugün: tazelik yüksek, ama rakam olmadan açı zayıf. (11/13)
-3. Başlık: "Yapay zeka çöktü, Türk borsası neden dayandı?" — İlk cümle: "Nasdaq bir günde yüzde 6,3 düştü, BIST 100 öğlen sıfırın yanında." — Neden bugün: 2020'den beri en sert gün; ancak yabancı konu riski (Trump/Fransa örneği düşük izlendi), BIST kapanışı bekleniyor. (10/13)
-- Yedek: haber şart değil: "Migros neden bu kadar pahalı hissediliyor?" (Son 30 günlük kanal başlıkları alınamadığı için çakışma kontrol edilemedi; arşivde Migros bilançosu 6 Kasım sabah bülteninde var, o yüzden alternatif: "Şok mu BİM mi daha ucuz?" sorusu da kullanılabilir.)
+1. Başlık: "Motorin 100 liraydı, Tüpraş neden rekor kırdı?" İlk cümle: "Tüpraş üç ayda 68,7 milyar lira kâr yazdı." Neden bugün: kâr 6 Kasım'da açıklandı, motorin indirimi bu gece geldi; en iyi aday.
+2. Başlık: "Fon paramın tamamı geri gelecek mi?" İlk cümle: "Tasfiyedeki 131 fonda 52,2 milyar liralık şirket tahvili var." Neden bugün: Şimşek açıklaması ve X'te 698 skorlu etiket.
+3. Başlık: "Kira artışı yavaşlıyor, kiralar ucuzluyor mu?" İlk cümle: "Kira enflasyonu bir yılda yüzde 66'dan yüzde 39,71'e indi." Neden bugün: Karahan açıklaması. (9 ve üstü var, ama biri hesaba dayalı.)
+Yedek (haber şart değil): "Vestel neden küçülüyor?" ya da "Togg ortağı Vestel'in satışı neden yarıya indi?" — kanalda son 30 günde işlenmemiş görünüyor (rakip verisi alınamadı).
 
 ## Rakip radarı
-YouTube RSS her dört kanal için 403 verdi; bugünkü rakip videoları ve kendi kanalımızın son videoları alınamadı.
+YouTube RSS bu oturumda 403 verdi; dört kanalın son 48 saatlik verisi alınamadı.
 
-## Bu akşam
-- 00.01 – Motorinde beklenen indirimin pompaya yansıması (kesinleşmedi)
+## Takvim
+- 7-8 Kasım hafta sonu: piyasalar kapalı; BIST 100 cuma yüzde 1,32 artışla 11.482,60, bankacılık yüzde 1,94 (tek kaynak); gram altın ~6.540 TL, ons ~4.043 dolar (kaynaklar 6.516-6.571 arası).
+- 11 Kasım Çarşamba: 11.11 indirimleri (Trendyol 6-11 Kasım, Hepsiburada 2-11 Kasım); Anayasa Mahkemesi Genel Kurulu memur ek ödemesi dosyaları.
+- 12 Kasım Perşembe 10.30: TCMB Enflasyon Raporu 2026-IV. Açıklanınca bakılacak rakamlar: yıl sonu tahmini (Ağustos'ta yüzde 26'dan 28'e çıkmıştı), ara hedefler 2026 yüzde 24 / 2027 yüzde 15 / 2028 yüzde 9, piyasa katılımcıları anketi 2026 yıl sonu ~yüzde 29,6, tahmin aralığı yeniden verilecek mi.
+- 13 Kasım Cuma: cari denge.
+- 7 günün dışında: 27 Kasım bütçe görüşmeleri biter, Black Friday; 10 Aralık TCMB PPK; Aralık'ta Asgari Ücret Tespit Komisyonu (net asgari ücret 28.075 TL; yüzde 30 senaryosu ~36.498 TL, resmi değil).

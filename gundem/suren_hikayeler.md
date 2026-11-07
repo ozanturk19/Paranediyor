@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-06 16:20 TSİ; önceki: 2026-11-06 09:30 TSİ)
+(Güncelleme: 2026-11-07 08:45 TSİ; önceki: 2026-11-06 16:20 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -21,6 +21,7 @@
   - 3 Kasım 2026 öğleden sonra – "Ana para + TÜFE" formülü üzerinde çalışıldığı yazıldı (resmî değil); #YasadaTadilTamAnaPara skor 628, 13 saat – https://www.yenialanya.com/456-bin-fon-magduru-icin-ana-para-ve-tufe-formulu
   - 4 Kasım 2026 öğleden sonra – Tasfiyedeki fonların BIST 30 hisse satışı borsa dışında tamamlandı, takas 4 Kasım (tek kaynak); BIST 100 gün içinde yüzde 4,6 yükseldi; X'te #MuhalefetSPKOnune, #Anayasa125MaddeHemenAnaPara – https://paratic.com/borsa-11-bin-500-puani-asti-hangi-gelismeler-etkili-oluyor/
   - 5 Kasım 2026 – Şimşek: 108 fonda 614.874 hesaba, 420.031 kişiye 130,2 milyar TL ödendi (179.449 kişi tamamını aldı; olağanüstü tasfiye 15 fonda 62,2 milyar TL); kamu bütçesi kullanılmıyor – https://www.ekonomim.com/ekonomi/bakan-simsek-acikladi-tasfiye-edilen-fonlarda-1302-milyar-tl-odeme-yapildi-haberi-929351
+  - 7 Kasım 2026 – Şimşek bütçe görüşmesinde: normal tasfiyedeki PPF'lerde yatırım ve nema ödendi, kamu kaynağı yok; 131 fonda 52,2 milyar TL özel sektör tahvili var, hepsi kayıp değil; tasfiye süresi 3'ten 6 aya çıkarıldı; X'te #PPFdeSabırTükendi skor 698 (16 saat) – https://www.milliyet.com.tr/ekonomi/para-piyasasi-fonlarinda-hicbir-kayip-yok-7696038
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -49,11 +50,12 @@
   - 5-6 Kasım 2026 – Eski Aile Bakanı Fatma Betül Sayan Kaya tutuklandı (OZATD hissesini Nisan'da alıp 16 Eylül'de, tasfiyeden bir gün önce satmış); eşi İlyas Kaya ve eski SPK Başkanı Gönül adli kontrolle serbest – https://www.aa.com.tr/tr/gundem/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklandi/4113433
   - 5 Kasım 2026 – Erdoğan: "ummadığınız insanlar işin içine girmiş"; DDK görevlendirildi, ödemeler kamu parasıyla değil – https://ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513
   - 2026-11-06 öğleden sonra – Meclis komisyonunda Borsa İstanbul Başkanı Arıcan'ın gelmemesi tartışıldı, resmî suçlama yok – https://boldmedya.com/2026/11/06/mecliste-erisah-arican-tepkisi-komisyona-neden-gelmedi-ogluna-halkbankta-ayricalik-mi-tanindi/
+  - 2026-11-07 – X'te #ErisahAricanJCRarastirin (573, 12 saat); JCR Avrasya Arıcan'ın 2020-2021 yönetim kurulu üyeliğini açıkladı, resmi suçlama yok – https://www.tgrthaber.com/ekonomi/jcr-eurasia-ratingden-erisah-arican-aciklamasi-3369988
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
-- Başlangıç: 13 Ağustos 2026 · Son gelişme: 6 Kasım 2026
+- Başlangıç: 13 Ağustos 2026 · Son gelişme: 7 Kasım 2026
 - Özet: 11606 sayılı Cumhurbaşkanı Kararı ile motorinin ÖTV'si 13 Ağustos'ta sıfırlandı ve her ay 3 TL artırılarak 1 Ocak 2027'de 13,9006 TL'ye dönecek şekilde takvime bağlandı; benzinde ÖTV 1 Kasım'da 7,90 TL'den 11,36 TL'ye çıkıyor. Dünyadaki dizel sıkışıklığı nedeniyle motorin benzinden ~20 TL pahalı; İstanbul'da 31 Ekim'de motorin 96,90, benzin 76,30 TL.
 - Zaman çizelgesi:
   - 4 Mart 2026 – 10995 sayılı CK (önceki motorin ÖTV düzenlemesi; 11606 ile bu iki motorin türü için uygulanmaz oldu) – https://www.yenisafak.com/galeri/ozgun/motorin-otv-duzenlemesi-2026-ay-ay-uygulanacak-yeni-tutarlar-belli-oldu-eylulden-sonra-fiyatlar-nasil-degisecek-4847647
@@ -66,6 +68,7 @@
   - 5 Kasım 2026 – Brent 93 dolara inince benzinde 6 Kasım 00.01'de 4,80 TL'ye kadar indirim bekleniyor (resmi değil); motorin/LPG indirimi yok – https://www.dunya.com/ekonomi/benzinde-480-tl-indirim-beklentisi-gozler-6-kasima-cevrildi-haberi-846484
   - 6 Kasım 2026 – Benzine ~6,08 TL indirim yansıdı, İstanbul ~74,4 TL (80,51'den); motorin ~100,5 TL, 7 Kasım için 5,10-7 TL indirim beklentisi (resmî değil) – https://shiftdelete.net/benzine-indirim-6-kasim-2026-akaryakit-fiyatlari
   - 2026-11-06 öğleden sonra – Motorinde 7 Kasım 00.01 için 5,47 TL indirim bekleniyor (7 TL diyen de var), resmî değil – https://www.kayserim.net/haber/30001773/motorinde-5-47-tl-indirim-bekleniyor
+  - 7 Kasım 2026 – Motorinde 5,47 TL indirim uygulandı, İstanbul ~95,2 TL; benzin 74,6 TL; Aralık ÖTV 12 TL (hesap: +3 TL ÖTV, KDV'li ~3,60 TL) – https://www.trtv.net/2026/11/07/motorin-fiyati-100-lira-altina-indi-zam-indirim/
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
