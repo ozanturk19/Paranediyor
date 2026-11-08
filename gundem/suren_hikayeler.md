@@ -22,6 +22,7 @@
   - 4 Kasım 2026 öğleden sonra – Tasfiyedeki fonların BIST 30 hisse satışı borsa dışında tamamlandı, takas 4 Kasım (tek kaynak); BIST 100 gün içinde yüzde 4,6 yükseldi; X'te #MuhalefetSPKOnune, #Anayasa125MaddeHemenAnaPara – https://paratic.com/borsa-11-bin-500-puani-asti-hangi-gelismeler-etkili-oluyor/
   - 5 Kasım 2026 – Şimşek: 108 fonda 614.874 hesaba, 420.031 kişiye 130,2 milyar TL ödendi (179.449 kişi tamamını aldı; olağanüstü tasfiye 15 fonda 62,2 milyar TL); kamu bütçesi kullanılmıyor – https://www.ekonomim.com/ekonomi/bakan-simsek-acikladi-tasfiye-edilen-fonlarda-1302-milyar-tl-odeme-yapildi-haberi-929351
   - 7 Kasım 2026 – Şimşek bütçe görüşmesinde: normal tasfiyedeki PPF'lerde yatırım ve nema ödendi, kamu kaynağı yok; 131 fonda 52,2 milyar TL özel sektör tahvili var, hepsi kayıp değil; tasfiye süresi 3'ten 6 aya çıkarıldı; X'te #PPFdeSabırTükendi skor 698 (16 saat) – https://www.milliyet.com.tr/ekonomi/para-piyasasi-fonlarinda-hicbir-kayip-yok-7696038
+  - 8 Kasım 2026 – Yılmaz: 455 bin yatırımcının önemli kısmının anaparası ödenecek, hedef kasım ortası; 31,5 milyar TL iade toplandı; X'te #FonKuruluAnaParaKarari – https://www.borsagundem.com.tr/cevdet-yilmaz-455-bin-yatirimcinin-anapara-iadesinde-buyuk-bolum-kasim-ortasina-kadar-tamamlanacak
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -52,6 +53,7 @@
   - 2026-11-06 öğleden sonra – Meclis komisyonunda Borsa İstanbul Başkanı Arıcan'ın gelmemesi tartışıldı, resmî suçlama yok – https://boldmedya.com/2026/11/06/mecliste-erisah-arican-tepkisi-komisyona-neden-gelmedi-ogluna-halkbankta-ayricalik-mi-tanindi/
   - 2026-11-07 – X'te #ErisahAricanJCRarastirin (573, 12 saat); JCR Avrasya Arıcan'ın 2020-2021 yönetim kurulu üyeliğini açıkladı, resmi suçlama yok – https://www.tgrthaber.com/ekonomi/jcr-eurasia-ratingden-erisah-arican-aciklamasi-3369988
   - 7 Kasım 2026 öğleden sonra – Eski SPK Başkanvekili Enver Usca, Ercan Urkan (SPK), Mustafa Alper Taş (BDDK) ve Tera Holding'den Ümit Sincanlı tutuklandı; haberlerde toplam tutuklu 118 (rakamlar kaynaklara göre değişiyor) – https://www.haber7.com/guncel/haber/3674900-fon-sorusturmasinda-hareketli-dakikalar-4-kisi-daha-tutuklandi
+  - 7 Kasım 2026 akşam – BDDK Başkan Yardımcısı Muhammet Erişen dahil 4 kişi hakkında gözaltı kararı (tutuklama doğrulanamadı) – https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-bddk-baskan-yardimcisi-dahil-4-isim-gozaltinda-h41271
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
