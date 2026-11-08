@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-07 16:30 TSİ; önceki: 2026-11-06 16:20 TSİ)
+(Güncelleme: 2026-11-08 08:46 TSİ; önceki: 2026-11-07 16:30 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -82,6 +82,7 @@
   - 30 Ekim 2026 – EPDK: 2027 konut son kaynak limiti 4.000'den 3.000 kWh'ye (aylık ~820 TL fatura), ~6,5 milyon abone – https://www.haberturk.com/ekonomi/elektrikte-limit-guncellemesi-3923762
   - 31 Ekim 2026 – Endeks24: 2026'da ~2,5 milyon olan yüksek tüketimli konut sayısı 2027'de ~6,5 milyona; yüksek tüketim tarifesinin sabit TL/kWh fiyatı yok – https://www.endeks24.com/epdk-konut-elektrik-limiti-3000-kwh
   - 1 Kasım 2026 – Kasım tarifesi yürürlükte; hesap: 101,71 m3 ~1.809 TL, 102,71 m3 ~2.745 TL (fark ~936 TL, tümü kademe-2 varsayımı)
+  - 8 Kasım 2026 – BOTAŞ 81 ilde limitleri güncelledi: İstanbul kasım 136,01 (önceki 101,71), aralık 259,35; Ankara 283,78 / 420; İzmir 67,97 / 196,23 (güncelleme günü kaynaklarda net değil, 30 Ekim sonrası). Yukarıdaki 936 TL hesabı eski limite aitti; yeni limitle hesap: 136,01 m3 ~2.420 TL, 137,01 m3 ~3.662 TL, fark ~1.240 TL (hesap; 17,79 / 26,73 TL/m3 vergili fiyat varsayımı) – https://www.aa.com.tr/tr/enerjiterminali/dogal-gaz/dogal-gazda-kasim-ve-aralik-aylarina-iliskin-tuketim-limitleri-guncellendi/60616
 - Açık sorular: Aralık-Mart doğal gaz limitleri ne olacak? Desteksiz elektrik tarifesi kWh başına ne kadar daha pahalı? Faturası limiti aşan ev bunu faturadan nasıl anlayacak?
 
 ## Kapananlar
