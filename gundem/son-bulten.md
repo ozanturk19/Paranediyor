@@ -1,92 +1,68 @@
-# Para Ne Diyor? – 9 Kasım 2026 Sabah Bülteni
-Hazırlanma: 2026-11-09 08:45 TSİ
+# Para Ne Diyor? – 9 Kasım 2026 Öğleden Sonra Bülteni
+Hazırlanma: 2026-11-09 16:20 TSİ
 
-## Emekliye refah payı: Kabine bugün 16.00'da toplanıyor
-- Kategori: ana konu
-- Puan: 12/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 1)
+Not: YouTube RSS (rakip radarı) proxy 403 verdi; WebFetch alan adları (bloomberght, cnbce, mahalligundem) kapalıydı. Rakamlar WebSearch özetlerine dayanır, sayfa açılarak doğrulanamadı; kaynaklar arası çelişkiler belirtildi.
+
+## GÜNCELLEME: Emekliye ek zam, Kabine 16.00'da toplandı, karar henüz yok
+- Kategori: güncelleme
+- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 0)
 - Tarih / yer: 9 Kasım 2026, Beştepe, Ankara
-- Ne oldu: Kabine Erdoğan başkanlığında 16.00'da toplanıyor. Gündemde emekliye enflasyon farkının üstünde ek iyileştirme (refah payı), fon soruşturması ve Terörsüz Türkiye süreci var. Zam oranı ve yöntemi kesinleşmedi.
+- Ne oldu: Kabine 16.00'da toplandı; gündemde emekli düzenlemesi, fon soruşturması, Terörsüz Türkiye ve ABD-İran gerilimi var. Erdoğan'ın toplantı sonrası 19.00-20.00 arasında açıklama yapması bekleniyor. Kesin karar haberi yok.
 - Detaylar ve rakamlar:
-  - Seçenekler haberlerde: seyyanen (sabit tutarlı) zam, refah payı, yaş ve prim gününe göre artış (kesin karar yok).
-  - Bakan Işıkhan'ın toplantıda sunum yapması bekleniyor.
-  - Düzenlemenin bütçe görüşmelerinden sonra kanun teklifine dönüştürülmesi planlanıyor (tek haber).
-  - Önceki arşiv: Ocak zammı 4 aylık tablo yüzde 8,28 (4 Kasım), TCMB anketi yüzde 8,56 (5 Kasım); Şimşek "alan oluşturduk, oran yok" demişti.
-  - Memur: 2027'de yüzde 5 ve yüzde 4 toplu sözleşme artışı + enflasyon farkı (Işıkhan, bütçe komisyonu).
-  - Asgari ücret komisyonu aralıkta toplanacak; 2026 net asgari ücret 28.075 TL; 2027 oranı açıklanmadı.
-- Kimsenin anlatmadığı taraf: Şimşek'in daha önce söylediği "yaş ve prim gününe göre farklılaşma" ihtimali; herkes aynı zammı almayabilir. Kaynak: NTV, Haberturk (kabine önü haberleri), Şimşek açıklaması arşivde 6 Kasım.
-- Kim kazanıyor / kim kaybediyor: Karar çıkmadı; yaş ve prim günü esasında düşük prim günlü emekli daha az alabilir (olasılık, kesin değil).
+  - Seçenekler: enflasyon farkı üstüne refah payı, sabit tutarlı (seyyanen) zam, yaş ve prim gün sayısına göre farklılaşma.
+  - Işıkhan'ın ek iyileştirmeyi Ocak 2027'den itibaren uygulamayı hedeflediği bildirildi; Şimşek çalışmanın henüz tamamlanmadığını söyledi.
+  - X'te #EmekliyiAyrıştırmayın sabahtan beri trendde (trends24).
+  - Sabah dosyasındaki Ocak zammı tahminleri: 4 aylık tablo yüzde 8,28, TCMB anketi yüzde 8,56.
+- Kimsenin anlatmadığı taraf: yaş ve prim gününe göre seçenek herkese aynı artışı vermiyor (olasılık, karar çıkmadı).
+- Kim kazanıyor / kim kaybediyor: Karar yok; farklılaşma seçilirse düşük prim günlü emekli daha az alabilir (olasılık).
 - İzleyicinin sorusu: Emekliye ek zam herkese mi verilecek, ne kadar olacak?
-- Kaynaklar: https://www.ntv.com.tr/turkiye/kabine-toplaniyor-emekliye-refah-payi-duzenlemesi-ve-fon-sorusturmasi-ele-alinacak-1750042 · https://www.haberturk.com/gundem/kabine-toplaniyor-emekli-maasi-duzenlemesi-fon-sorusturmasi-terorsuz-turkiye-sureci-masada-3925767 · https://www.yeniankara.com.tr/guncel/bakan-isikhandan-asgari-ucret-zammi-ve-emekli-maasi-aciklamasi-188837
+- Kaynaklar: https://www.cumhuriyet.com.tr/siyaset/kabine-toplantisi-bugun-erdogan-in-masasinda-emekli-duzenlemesi-ve-fon-sorusturmasi-var-2554584 · https://www.trtv.net/2026/11/09/kabine-toplantisi-emekli-zammi-fon-sorusturmasi/ · https://www.haberhurriyeti.com/haber/29126480/milyonlarca-emekli-icin-kritik-toplanti-seyyanen-zam-ve-refah-payi-masada
 
-## BİM, Turkcell, Pegasus, Koç: 3. çeyrek bilançolarının son günü
-- Kategori: ana konu
-- Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 9 Kasım 2026, Borsa İstanbul / KAP
-- Ne oldu: SPK düzenlemesine göre 1 Ocak-30 Eylül konsolide tablolar için son gün bugün; hisse.net'e göre BİM, Koç Holding, Pegasus, Turkcell dahil 15 şirket bekleniyor.
-- Detaylar ve rakamlar (aracı kurum tahminleri, Endeks24, 28 Ekim itibarıyla derlenmiş; sonradan değişmiş olabilir):
-  - BİM net kâr medyanı 8,69 milyar TL (aralık 6,67-9,76); Ziraat Yatırım 7,9 milyar TL.
-  - Pegasus medyan 9,12 milyar TL (8,79-9,88); 2. çeyrekte 4,79 milyar TL zarar.
-  - Turkcell medyan 5,39 milyar TL (4,76-6,04); Deniz Yatırım yaklaşık yüzde 20 düşüş ve 5,6 milyar TL öngörüyor.
-  - Koç Holding için güncel tahmin bulunamadı.
-  - Kervansaray Yatırım Holding 9 aylık dönem kârı 1,657 milyar TL (KAP, bugün sabah).
-  - BİM'in açıklama saati bildirilmemiş (tek kaynaklı).
-- Kimsenin anlatmadığı taraf: Benzer çeyrek: Vestel 6,55 milyar TL, Ülker 546 milyon TL zarar yazdı (7 Kasım arşivi), Migros kârı yüzde 34 düştü; sektör ayrışıyor.
-- Kim kazanıyor / kim kaybediyor: Tahminlere göre Pegasus zarardan kâra dönüyor, Turkcell kârı geriliyor (beklenti).
-- İzleyicinin sorusu: Zam çağında BİM ve Turkcell ne kadar kazandı?
-- Kaynaklar: https://www.endeks24.com/2026-ucuncu-ceyrek-bilanco-beklentileri · https://paratic.com/turkcell-3c26-bilanco-beklentisi-net-kar-zayiflayabilir/ · https://www.hisse.net/haber/amp/borsada-kritik-pazartesi-bim-dahil-15-sirketin-bilancosu-bekleniyor-106012
-
-## Altın haftaya yükselişle başladı, dolar 50,18 TL
-- Kategori: ana konu
-- Puan: 9/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 0)
-- Tarih / yer: 9 Kasım 2026 sabah, Türkiye / küresel
-- Ne oldu: Gram altın kaynağa göre 6.638-6.668 TL; ons 4.118-4.130 dolar (cuma kapanışı 4.070, geçen hafta yaklaşık yüzde 5 arttı). Dolar/TL 07.15'te 50,1651 alış, 50,1887 satış; euro yaklaşık 56,06; Brent yaklaşık 98,9 dolar (Sabah: 100 doların altında).
+## Tim Cook İstanbul ve Ankara'da, Apple'ın patronu neden geldi?
+- Kategori: dünya
+- Puan: 9/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 8-9 Kasım 2026, İstanbul ve Ankara
+- Ne oldu: Haberlere göre Cook, Bağdat Caddesi'ndeki Apple mağazasında Türk moda markası Les Benjamins ile ortak etkinliğe katıldı, Kapalıçarşı'yı gezdi, "Merhaba İstanbul" paylaşımı yaptı ve Anıtkabir'i ziyaret etti. X'te "Tim Cook", "Apple" trendde.
 - Detaylar ve rakamlar:
-  - Yükseliş gerekçesi (haberler): petrol düşüşü enflasyon baskısını azaltacak beklentisi, dolar zayıflığı.
-  - Risk: güçlü ABD istihdamı Fed'in aralıkta faiz artırma ihtimalini artırdı.
-  - Piyasa gözü ABD enflasyon verisinde.
-  - BIST 100: haftalık kapanış 11.482,60 (yüzde 6,72 yükseliş), cuma kapanışı 11.333,27 (yüzde 1,26 düşüş) (kaynaklar arasında tutarsızlık var). Bir kaynak pazartesi sabahı 11.482,60 puan ve yüzde 1,32 artış gösteriyor (doğrulanmadı).
-  - TCMB toplam rezervleri 30 Ekim haftasında 4,084 milyar dolar azalıp 158,107 milyar dolara geriledi.
-- Kimsenin anlatmadığı taraf: Güçlü istihdam verisi Fed faiz artırımı ihtimalini büyütürken altın için olumsuz sayılıyor.
-- Kim kazanıyor / kim kaybediyor: Altın tutanın TL değeri artıyor (gerçekleşmiş hareket).
-- İzleyicinin sorusu: Altın neden bir haftada yüzde 5 yükseldi?
-- Kaynaklar: https://tgrthaber.com/ekonomi/9-kasim-2026-altin-fiyatlari-altin-haftaya-yukselisle-basladi-3370296 · https://www.bursasaati.com.tr/dolar-bugun-kac-tl-euro-ne-kadar-9-kasim-2026-guncel-doviz-kurlari · https://www.borsatek.com/bist-100-haftalik-yuzde-672-prim-tcmb-enflasyon/
+  - Cook'un unvanı kaynaklarda farklı: bazı haberler Eylül 2026'da yönetim kurulu başkanlığına geçtiğini, bazıları eski CEO olduğunu yazıyor (tutarsız).
+  - Programa dair resmi açıklama yok, haberler basına dayanıyor.
+  - Yatırım, iPhone fiyatı ya da Türkiye üretimi hakkında açıklama bulunamadı.
+- Kimsenin anlatmadığı taraf: ziyaretin ticari karşılığı haberlerde açıklanmadı.
+- Kim kazanıyor / kim kaybediyor: belirsiz.
+- İzleyicinin sorusu: Apple'ın patronu Türkiye'ye neden geldi, iPhone fiyatlarına etkisi olur mu?
+- Kaynaklar: https://www.cnnturk.com/turkiye/apple-yonetim-kurulu-baskani-tim-cook-istanbulda-bu-essiz-ulkeyi-ziyaret-etmekten-buyuk-mutluluk-duyuyorum-3490648 · https://www.diken.com.tr/tim-cook-turkiye-turunda/ · https://haber.doviz.com/gundem-haberleri/apple-patronu-tim-cook-tan-anitkabir-e-ziyaret/948477
 
-## LPG 50,70 TL; benzin ve motorinde bugün değişiklik yok
-- Kategori: küçük detay
-- Puan: 8/13 (isim 3, cep 3, tazelik 1, boşluk 1, açı 0)
-- Tarih / yer: 9 Kasım 2026, İstanbul Avrupa Yakası
-- Ne oldu: Benzin 74,60, motorin 95,20, LPG 50,70 TL; son LPG zammı 3 Kasım'da yaklaşık 9,50 TL.
-- Detaylar ve rakamlar: Ankara benzin 75,60 / motorin 96,30; İzmir 75,80 / 96,60. Benzinde son indirim 6 Kasım (6,08 TL, Petrolistan 5,99), motorinde 7 Kasım (5,47 TL, Petrolistan 5,40). Aralık ÖTV adımı 12 TL (süren hikâye). Önceki arşivdeki "LPG zammı doğrulanmadı" notu artık iki kaynakla doğrulandı.
-- Kimsenin anlatmadığı taraf: Benzin ve motorin inerken LPG zam aldı ve indirimden yararlanmadı.
-- Kim kazanıyor / kim kaybediyor: LPG'li araç sahibi kaybediyor.
-- İzleyicinin sorusu: Benzin düşerken LPG neden düşmedi?
-- Kaynaklar: https://sanayigazetesi.com.tr/9-kasim-akaryakit-fiyatlari-benzine-motorine-ve-lpgye-zam-veya-indirim-var-mi/ · https://www.dunya.com/enerji/akaryakit-fiyatlarinda-son-durum-benzin-motorin-ve-lpgye-zam-indirim-var-mi-9-kasim-2026-haberi-846918
-
-## TMSF üç şirketin LPG depolama tesislerini satışa çıkardı
-- Kategori: küçük detay
-- Puan: 6/13 (isim 1, cep 1, tazelik 3, boşluk 0, açı 1)
-- Tarih / yer: 9 Kasım 2026 Resmi Gazete ilanı
-- Ne oldu: Kayyum atanan üç şirketin LPG depolama tesisleri 3,21 milyar TL muhammen bedelle satışa çıktı; ihale 9 Aralık 2026, teminat 321 milyon TL.
-- Detaylar ve rakamlar: Şirket adları kaynakta açılmadı.
-- Kimsenin anlatmadığı taraf: Kayyum şirketlerinin varlıkları fon/soruşturma ödemeleriyle ilişkilendirilmedi; bağlantı doğrulanmadı.
-- Kim kazanıyor / kim kaybediyor: Bilinmiyor.
-- İzleyicinin sorusu: TMSF'ye geçen şirketlerin malları kime satılıyor?
-- Kaynaklar: https://www.endeks24.com/tmsf-3-sirketin-lpg-tesislerini-3-milyar-210-milyona-satisa-cikardi (arama sonucundaki URL: endeks24.com/tmsf-3-sirketin-lpg-tesislerini-3-milyar-210-milyon-liraya-satisa-cikardi)
+## GÜNCELLEME: Borsa yeni haftaya yükselişle başladı
+- Kategori: güncelleme
+- Puan: 9/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 0)
+- Tarih / yer: 9 Kasım 2026, Borsa İstanbul
+- Ne oldu: BIST 100 öğlen önceki kapanışa göre yüzde 0,58 artışla 11.549,65'teydi (gün içi aralık 11.521,40-11.625,57). Neden: petrol gerilemesi (Brent ~97,3 dolar, yüzde 0,9 düşüş) ve teknoloji hisselerinde toparlanma.
+- Detaylar ve rakamlar:
+  - Teknik seviyeler: direnç 11.600 / 11.700, destek 11.400 / 11.300.
+  - Cuma kapanışı kaynaklarda çelişkili: bir kaynak 11.482,60 (yüzde 1,32 artış), sabah arşivimizde 11.333,27 (yüzde 1,26 düşüş). Haftalık artış yaklaşık yüzde 6,7.
+  - Tek kaynak: BIST 100 fon krizinden sonra değerinin yaklaşık üçte birini kaybetti, son bir yıllık getiri yüzde 5,11.
+- Kimsenin anlatmadığı taraf: yıllık getirinin yüzde 5,11 olması (tek kaynak).
+- Kim kazanıyor / kim kaybediyor: Haftalık yükseliş yaşandı; fon krizinden sonraki kayıp kalıcı toparlanma değil (kaynak yorumu).
+- İzleyicinin sorusu: Borsa yedi haftalık düşüşten sonra neden yükseldi?
+- Kaynaklar: https://www.capital.com.tr/haberler/tum-haberler/piyasalarda-gun-ortasi-borsa-doviz-ve-altinda-son-durum-ne-9-kasim-2026 · https://www.ekoturk.com/doviz/piyasalarda-gun-ortasi-dolar-50-lirayi-asti-altin-yukseldi-borsa-kazandirdi
 
 ## Süren hikâye gelişmeleri (bugün)
-- Fon soruşturması (puan 9/13: isim 3, cep 2, tazelik 3, boşluk 1, açı 0): Sözcü 9 Kasım'da rüşvetin "hisse tüyosu" biçiminde verildiği iddiasını yazdı (kamu kurumundan onay isteyen şirketlerin işi bittikten sonra bürokrata bir hisse adı söylemesi, kazancın borsa getirisi gibi görünmesi). Kanıt bağı kurulmuş değil. Gürlek: 433 şüpheli, 112 tutuklu. Kabine'de fon konusu da gündemde. Kaynak: https://www.sozcu.com.tr/turkiye-nin-konustugu-cift-rusvet-yerine-tuyo-vermis-p379358
-- Fon ödemeleri: bugün için yeni açıklama bulunamadı. Son resmî rakam 130,2 milyar TL, 420.031 kişi (5 Kasım). X'te #FonKuruluTamANAPARAkarari, #KamuSoydurduKamuÖdesin, #AKPartiListeyiAcikla ilk beşte.
+- Fon soruşturması (9/13: isim 2, cep 2, tazelik 3, boşluk 1, açı 1): BDDK Başkan Yardımcısı Muhammet Erişen ile Adil Katılım Bankası Genel Müdürü Murat Yönaç (ikisi 7 Kasım'da gözaltına alınmıştı) tutuklandı; 8 Kasım'da BDDK 3. Daire Başkanı Bilal Soysal (bianet "Soylu" yazıyor) tutuklanmıştı. Adli kontrolle serbest bırakılan eski Takasbank Genel Müdürü Yunus Arıncı ve Bulls Yatırım YK Başkanı Kemal Akkaya yeniden gözaltına alındı; Ruzy Madencilik YK Başkanı Nureddin Çevik'in bugün adliyeye sevki bekleniyordu. Kaynaklara göre tutuklu sayısı 121 (Gürlek 3 Kasım: 433 şüpheli, 112 tutuklu). Kaynaklar: https://serbestiyet.com/haberler/fon-sorusturmasinda-bddk-baskan-yardimcisi-erisen-ve-adil-katilim-bankasi-genel-muduru-tutuklandi-253229/ · https://bianet.org/haber/fon-vurgununda-iki-tutuklama-daha-325223
+- X: #AKPartiListeyiYayinla (1. sıra), #ErisahAricanistifaET, #BatuhanMumcuTutuklansin, "Fonzedelere TAM ANAPARA TUFE" gün boyu üst sıralarda.
+
+## Dışarıda bırakılanlar
+- Aliağa (İzmir) HABAŞ demir-çelik fabrikası patlaması: 3-6 ölü, 14 yaralı (kaynaklar çelişkili), valilik ilk değerlendirmesi vinç kopması; para/cep etkisi düşük, puan ~6.
+- AYM 11 Kasım: memur ek ödemesi ve emekli ikramiyesi dosyaları yalnızca usul incelemesi, o gün iptal/ret kararı beklenmiyor.
 
 ## Video adayları (yalnızca arşivde)
-1. Başlık: "Emekliye herkese aynı zam gelecek mi?" İlk cümle: "Kabine bugün 16.00'da emekli için refah payını konuşuyor, ama oran açıklanmadı." Neden bugün: kabine akşam kararı çıkabilir.
-2. Başlık: "BİM bu çeyrekte ne kadar kazandı?" İlk cümle: "Aracı kurumlar BİM'den 8,7 milyar lira net kâr bekliyordu." Neden bugün: son bilanço günü; gerçek rakamı doğrulayıp kullan.
-3. Başlık: "Altın neden bir haftada yüzde 5 çıktı?" (puan 9, sınırda; sonuç kanıtlanırsa güçlenir.)
-- Yedek: haber şart değil: "Migros neden her ay biraz daha pahalı?" ya da "THY biletleri neden dolar bazında düştü?" (son 30 gün içinde işlenip işlenmediği kanal verisine ulaşılamadığı için doğrulanamadı).
+1. Emekliye ek zam: "Emekliye ek zam herkese verilecek mi?" İlk cümle: "Kabine bugün toplandı ve masada emekliye üç farklı zam modeli var." Neden bugün: Erdoğan'ın akşam açıklaması. (11/13; karar çıkarsa güncelle)
+2. Fon soruşturması: "Fon soruşturması BDDK'ya nasıl uzandı?" İlk cümle: "Bugün BDDK Başkan Yardımcısı tutuklandı; tutuklu sayısı 121'i buldu." (9/13, süren hikâye)
+3. Borsa: "Borsa yedi haftalık düşüşten neden çıktı?" (9/13, zayıf: tek kaynaklı rakam, cuma kapanışı çelişkili)
+Yedek (haber şart değil): "Migros neden her yıl daha pahalı hissettiriyor?" Not: son 30 günde işlenip işlenmediği rakip/kanal RSS'i alınamadığı için doğrulanamadı; konular.csv'de Migros yalnızca 6 Kasım kâr haberi olarak var.
 
 ## Rakip radarı
-- YouTube RSS 403 (proxy) döndü; dört kanal da (üç rakip ve biz) okunamadı. Web aramasında rakiplerin yeni videosuna da ulaşılamadı. Bu nedenle rakip analizi yapılamadı.
+Alınamadı: YouTube RSS proxy 403 hatası verdi. Rakip videoları bu bültende yok.
 
-## Takvim
-- Bugün 16.00 Kabine; bugün bilanço son günü; 10 Kasım 10.00 eylül sanayi üretimi (ağustosta yıllık yüzde 1,9 azalış); 11 Kasım 10.00 eylül perakende satış hacmi; 11 Kasım AYM memur ek ödemesi / emekli ikramiyesi ilk inceleme (arşiv notu); 12 Kasım 10.30 TCMB Enflasyon Raporu 2026-IV (yıl sonu tahmini yüzde 28, ara hedef yüzde 24, 2027 ara hedef yüzde 15; Kasım+Aralık toplamı yaklaşık yüzde 0,4 olursa yüzde 28 tutar – tek kaynak); 13 Kasım 10.00 eylül cari işlemler (ağustos fazla 4,05 milyar dolar; kaynak çelişkili).
-- 7 günün dışında: 30 Kasım 10.00 TÜİK ekim işsizlik (eylül yüzde 8,4); Aralık asgari ücret komisyonu.
-- Açıklanınca bakılacak rakamlar: Enflasyon Raporu – yıl sonu tahmin (şimdi yüzde 28), ara hedef (yüzde 24), 2027 ara hedef (yüzde 15), gıda tahmini (yüzde 28,5); bağlı ödemeler: emekli ve memur Ocak zammı, asgari ücret komisyonu.
+## Bu akşam
+- 19.00-20.00 (beklenti) – Kabine sonrası Erdoğan'ın açıklaması
+- Gün sonu – BİM, Turkcell, Pegasus, Koç dahil 3. çeyrek bilançolarının son günü (tahminler: BİM medyan 8,69 milyar TL, Turkcell 5,39 milyar TL, Pegasus 9,12 milyar TL; sabah dosyası)

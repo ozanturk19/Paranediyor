@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-09 08:45 TSİ)
+(Güncelleme: 2026-11-09 16:20 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -55,6 +55,7 @@
   - 7 Kasım 2026 öğleden sonra – Eski SPK Başkanvekili Enver Usca, Ercan Urkan (SPK), Mustafa Alper Taş (BDDK) ve Tera Holding'den Ümit Sincanlı tutuklandı; haberlerde toplam tutuklu 118 (rakamlar kaynaklara göre değişiyor) – https://www.haber7.com/guncel/haber/3674900-fon-sorusturmasinda-hareketli-dakikalar-4-kisi-daha-tutuklandi
   - 7 Kasım 2026 akşam – BDDK Başkan Yardımcısı Muhammet Erişen dahil 4 kişi hakkında gözaltı kararı (tutuklama doğrulanamadı) – https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-bddk-baskan-yardimcisi-dahil-4-isim-gozaltinda-h41271
   - 9 Kasım 2026 – Sözcü: rüşvetin "hisse tüyosu" biçiminde verildiği iddiası (kanıt bağı kurulmadı); Kabine gündeminde fon konusu; X'te #KamuSoydurduKamuÖdesin, #AKPartiListeyiAcikla – https://www.sozcu.com.tr/turkiye-nin-konustugu-cift-rusvet-yerine-tuyo-vermis-p379358
+  - 9 Kasım 2026 öğleden sonra – BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası GM Murat Yönaç tutuklandı; Arıncı ve Akkaya yeniden gözaltında; tutuklu sayısı haberlerde 121 – https://serbestiyet.com/haberler/fon-sorusturmasinda-bddk-baskan-yardimcisi-erisen-ve-adil-katilim-bankasi-genel-muduru-tutuklandi-253229/
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
