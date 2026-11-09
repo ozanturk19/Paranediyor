@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-08 08:46 TSİ; önceki: 2026-11-07 16:30 TSİ)
+(Güncelleme: 2026-11-09 08:45 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -54,6 +54,7 @@
   - 2026-11-07 – X'te #ErisahAricanJCRarastirin (573, 12 saat); JCR Avrasya Arıcan'ın 2020-2021 yönetim kurulu üyeliğini açıkladı, resmi suçlama yok – https://www.tgrthaber.com/ekonomi/jcr-eurasia-ratingden-erisah-arican-aciklamasi-3369988
   - 7 Kasım 2026 öğleden sonra – Eski SPK Başkanvekili Enver Usca, Ercan Urkan (SPK), Mustafa Alper Taş (BDDK) ve Tera Holding'den Ümit Sincanlı tutuklandı; haberlerde toplam tutuklu 118 (rakamlar kaynaklara göre değişiyor) – https://www.haber7.com/guncel/haber/3674900-fon-sorusturmasinda-hareketli-dakikalar-4-kisi-daha-tutuklandi
   - 7 Kasım 2026 akşam – BDDK Başkan Yardımcısı Muhammet Erişen dahil 4 kişi hakkında gözaltı kararı (tutuklama doğrulanamadı) – https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-bddk-baskan-yardimcisi-dahil-4-isim-gozaltinda-h41271
+  - 9 Kasım 2026 – Sözcü: rüşvetin "hisse tüyosu" biçiminde verildiği iddiası (kanıt bağı kurulmadı); Kabine gündeminde fon konusu; X'te #KamuSoydurduKamuÖdesin, #AKPartiListeyiAcikla – https://www.sozcu.com.tr/turkiye-nin-konustugu-cift-rusvet-yerine-tuyo-vermis-p379358
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -72,6 +73,7 @@
   - 6 Kasım 2026 – Benzine ~6,08 TL indirim yansıdı, İstanbul ~74,4 TL (80,51'den); motorin ~100,5 TL, 7 Kasım için 5,10-7 TL indirim beklentisi (resmî değil) – https://shiftdelete.net/benzine-indirim-6-kasim-2026-akaryakit-fiyatlari
   - 2026-11-06 öğleden sonra – Motorinde 7 Kasım 00.01 için 5,47 TL indirim bekleniyor (7 TL diyen de var), resmî değil – https://www.kayserim.net/haber/30001773/motorinde-5-47-tl-indirim-bekleniyor
   - 7 Kasım 2026 – Motorinde 5,47 TL indirim uygulandı, İstanbul ~95,2 TL; benzin 74,6 TL; Aralık ÖTV 12 TL (hesap: +3 TL ÖTV, KDV'li ~3,60 TL) – https://www.trtv.net/2026/11/07/motorin-fiyati-100-lira-altina-indi-zam-indirim/
+  - 9 Kasım 2026 – Değişiklik yok: İstanbul benzin 74,60, motorin 95,20, LPG 50,70 TL; LPG 3 Kasım'da ~9,50 TL zam almıştı (iki kaynak) – https://sanayigazetesi.com.tr/9-kasim-akaryakit-fiyatlari-benzine-motorine-ve-lpgye-zam-veya-indirim-var-mi/
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
