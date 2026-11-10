@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-09 16:20 TSİ)
+(Güncelleme: 2026-11-10 08:45 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -56,6 +56,7 @@
   - 7 Kasım 2026 akşam – BDDK Başkan Yardımcısı Muhammet Erişen dahil 4 kişi hakkında gözaltı kararı (tutuklama doğrulanamadı) – https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-bddk-baskan-yardimcisi-dahil-4-isim-gozaltinda-h41271
   - 9 Kasım 2026 – Sözcü: rüşvetin "hisse tüyosu" biçiminde verildiği iddiası (kanıt bağı kurulmadı); Kabine gündeminde fon konusu; X'te #KamuSoydurduKamuÖdesin, #AKPartiListeyiAcikla – https://www.sozcu.com.tr/turkiye-nin-konustugu-cift-rusvet-yerine-tuyo-vermis-p379358
   - 9 Kasım 2026 öğleden sonra – BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası GM Murat Yönaç tutuklandı; Arıncı ve Akkaya yeniden gözaltında; tutuklu sayısı haberlerde 121 – https://serbestiyet.com/haberler/fon-sorusturmasinda-bddk-baskan-yardimcisi-erisen-ve-adil-katilim-bankasi-genel-muduru-tutuklandi-253229/
+  - 9 Kasım 2026 – Bakan Gürlek TBMM bütçe komisyonunda: 464 şüpheli, 120 tutuklu, 262 adli kontrol; Lydia Holding'den Enver Çevik gözaltında; TMSF tasfiyede fahiş kazanca göre süreç; Erdoğan "en küçük taviz olmayacak"; X'te #KamuSuçluKamuÖdesin (575, 13 saat) – https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-saray-in-atadigi-isimlere-pes-pese-tutuklama-ummadiginiz-kisileri-erdogan-atamis-2554848
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
