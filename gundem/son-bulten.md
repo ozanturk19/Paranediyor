@@ -1,124 +1,86 @@
-# Para Ne Diyor? – 10 Kasım 2026 Sabah Bülteni
-Hazırlanma: 2026-11-10 08:45 TSİ
+# Para Ne Diyor? – 10 Kasım 2026 Öğleden Sonra Bülteni
+Hazırlanma: 2026-11-10 16:25 TSİ
 
-Not: YouTube RSS (rakip radarı) proxy 403 verdi; WebFetch alan adları (endeks24, trtv) kapalıydı. Rakamlar WebSearch özetlerine dayanır, sayfa açılarak doğrulanamadı; tek kaynaklı olanlar belirtildi. 10 Kasım resmî tatil değil (Atatürk'ü Anma Günü, saat 09.05 saygı duruşu); piyasalar açık.
+Not: YouTube RSS proxy 403 verdi (rakip radarı yok). WebFetch alan adları (dunya.com, birgun.net, yeniasir.com.tr) kapalıydı; rakamlar WebSearch özetlerine dayanır, sayfa açılarak doğrulanamadı. getdaytrends çıktısı ayıklamada kesildi, skor yok.
 
-## Emekliye ek zam: Kabine toplandı, oran açıklanmadı
-- Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 0)
-- Tarih / yer: 9 Kasım 2026, Beştepe, Ankara
-- Ne oldu: Kabine 9 Kasım'da toplandı. Erdoğan toplantı sonrası emeklilerin gelir düzeyini iyileştirmek için mali imkânlar oluşturduklarını söyledi; oran, kapsam, tarih açıklanmadı.
+## Benzin ve motorine yeni indirim kulisi
+- Kategori: güncelleme
+- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 10 Kasım 2026, Türkiye
+- Ne oldu: Sektör kaynakları benzine ~3 TL (12 Kasım Perşembe), motorine ~4 TL (14 Kasım Cumartesi) indirim bekliyor. Brent 10 Kasım'da 89,4-89,7 dolara indi.
 - Detaylar ve rakamlar:
-  - Seçenekler: enflasyon farkına ek refah payı, sabit tutarlı (seyyanen) zam, prim gün sayısına göre kademelendirme (hiçbiri kesin değil; "yüzde 5-10, yüzde 10-20 ya da 3 bin TL" gibi rakamlar kulis).
-  - Bir habere göre bütçe maratonundan sonra kanun teklifi Meclis'e sunulacak; Erdoğan'ın düzenlemenin yıl sonuna kadar yasalaşmasını umduğu aktarıldı (tek kaynak, Sonsöz).
-  - Bir kulis hesabı refah payı modeli için 1,1 trilyon TL kaynak ihtiyacı diyor (tek kaynak).
-  - Zamların "ocağın ilk haftasında" kesinleşeceği yazılıyor (Aralık enflasyonu bağlı).
-  - Önceki arşiv: Ocak zammı 4 aylık tablo yüzde 8,28, TCMB anketi yüzde 8,56 (hesap/tahmin, kesin değil).
-- Kimsenin anlatmadığı taraf: düzenleme bütçe sonrası kanun teklifine bağlı; yani Ocak zammının üstüne gelecek ek ödeme için yasa gerekiyor (kaynak: Sonsöz, tek kaynak).
-- Kim kazanıyor / kim kaybediyor: Karar yok; prim gününe göre kademelendirme seçilirse düşük prim günlü emekli daha az alabilir (olasılık).
-- İzleyicinin sorusu: Emekliye ek zam herkese aynı mı verilecek, ne zaman yatacak?
-- Kaynaklar: https://abcgazetesi.com.tr/gundem/erdogandan-emekli-maaslari-icin-yeni-aciklama-mali-imkanlari-olusturuyoruz-876702 · https://sonsoz.com.tr/erdogandan-kabine-sonrasi-aciklamalar · https://www.memurlar.net/haber/1183538/emekliye-refah-payi-icin-yeni-formul.html
+  - İstanbul Avrupa yakası benzin 74,60 → ~71,60 TL; motorin 95,20 → ~91,20 TL (kulis).
+  - 6 Kasım'da benzine 6,08 TL, 7 Kasım'da motorine 5,47 TL indirim gelmişti.
+  - (hesap) 50 litrelik depo: benzin 3x50 = 150 TL, motorin 4x50 = 200 TL.
+  - Kesin tutar açıklanmadı; eşel mobil sistemi indirimin pompaya yansıyan kısmını sınırlayabilir (Haziran 2026'da 5,50 TL indirimin 1,38 TL'si yansımıştı; arama özeti).
+  - 1 Aralık'ta motorin ÖTV'si 12 TL'ye çıkıyor (süren hikâye).
+- Kimsenin anlatmadığı taraf: Kasım başında ÖTV zammıyla gelen artışın bir kısmı iki haftada geri alınıyor; asıl soru Aralık ÖTV adımı.
+- Kim kazanıyor / kim kaybediyor: araç sahipleri kısmen kazanıyor; Aralık ÖTV adımı belirsiz.
+- İzleyicinin sorusu: Benzin ve motorin neden bu kadar hızlı ucuzluyor, Aralık'ta tekrar zam gelecek mi?
+- Kaynaklar: https://www.birgun.net/haber/10-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-745570 · https://www.dunya.com/enerji/akaryakitta-indirim-beklentisi-benzin-ve-motorinde-fiyatlar-dusecek-haberi-847105 · https://www.politikam.com/benzin-motorin-indirim-12-14-kasim-2026-akaryakit-fiyatlari
 
-## BİM'in kârı 10,4 milyar TL, ama mağaza trafiği düştü
-- Kategori: ana konu
-- Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 9 Kasım 2026 KAP, Türkiye
-- Ne oldu: BİM 2026 üçüncü çeyrekte 10,39 milyar TL net kâr açıkladı; Matriks anketinde beklenti 8,78 milyar TL'ydi.
+## GÜNCELLEME: Emekliye ek zamda karar yok
+- Kategori: güncelleme
+- Puan: 10/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 0)
+- Tarih / yer: 10 Kasım 2026, Ankara
+- Ne oldu: Bakan Işıkhan ilave iyileştirme çalışması yürütüldüğünü söyledi, refah payı/seyyanen zam demedi. Enflasyon farkı Ocak için ~%8,29 görünüyor.
 - Detaylar ve rakamlar:
-  - Çeyreklik net kâr 10.385.559 bin TL; geçen yıla göre yüzde 52 (Foreks), beklentinin yaklaşık yüzde 18 üstünde.
-  - 9 aylık net kâr 26.151.834 bin TL, yüzde 79 artış (cnbce/Endeks24 başlığı).
-  - Hasılat 233,12 milyar TL'den 245,74 milyar TL'ye çıktı.
-  - FAVÖK marjı yüzde 7,4'ten 7,2'ye düştü; net kâr marjı yüzde 2,9'dan 4,2'ye çıktı.
-  - Çeyrekte 113 yeni mağaza, toplam 14.964 mağaza.
-  - Mağaza trafiği yüzde 1,8 geriledi; mağaza başı ciro ve sepet tutarı arttı (tek kaynak arama özeti).
-- Kimsenin anlatmadığı taraf: kâr rekor beklenti üstü gelirken mağazaya girenlerin sayısı azaldı; gelir artışı sepetin büyümesinden (tek kaynak).
-- Kim kazanıyor / kim kaybediyor: BİM ve ortakları kazanıyor; müşteri başına harcama arttı.
-- İzleyicinin sorusu: BİM kâr ederken market alışverişi neden hâlâ bu kadar pahalı?
-- Kaynaklar: https://www.bloomberght.com/bim-den-ucuncu-ceyrekte-beklentileri-asan-net-kr-3794012 · https://www.cnbce.com/sirket-bilancolari/bimin-bimas-kari-yuzde-79-artti-ucuncu-ceyrekte-104-milyar-tl-net-kar-h41400 · https://www.foreks.com/haber/detay/6af2a63395131d72027da771/PICNEWS/tr/bim-bilancosu-aciklandi-net-kar-yuzde-52-artti-10-11-26/
+  - Kulis: enflasyon farkı üstüne %5-20 refah payı; prim gün sayısına göre kademe; bir SGK uzmanı yaşa göre pay tahmini yapıyor (tahmin, düzenleme değil).
+  - Medyada en düşük emekli aylığı 23.552 TL, %20 refah payıyla 31.263 TL hesabı dolaşıyor (hesap yöntemi belirsiz, kullanma).
+  - Yıl sonu enflasyon beklentisi %10,62 diye geçiyor (tek kaynak).
+  - Erdoğan'ın yıl sonuna kadar yasal düzenleme umduğu aktarılıyor.
+- Kimsenin anlatmadığı taraf: kademeli model seçilirse ek ödeme herkese aynı olmaz (kulis).
+- Kim kazanıyor / kim kaybediyor: karar yok.
+- İzleyicinin sorusu: Emekliye ek zam ne zaman, kaç lira ve herkese aynı mı?
+- Kaynaklar: https://bigpara.hurriyet.com.tr/ekonomi-haberleri/galeri-emekliye-refah-payi-son-dakika-gelismesi-2026-emekliye-refah-payi-seyyanen-zam-yapilacak-mi-ne-kadar-olacak-en-dusuk_ID102277238/ · https://www.sozcu.com.tr/iktidar-medyasi-duyurdu-en-dusuk-emekli-ayligi-hesaplandi-p379436
 
-## Borsa neden yeniden yükseliyor? Bankalar öne çıktı
+## Turkcell beklentiyi yüzde 25 aştı
 - Kategori: ana konu
-- Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 9 Kasım 2026, Borsa İstanbul
-- Ne oldu: BIST 100 yüzde 2,00 artışla 11.712,67 puandan kapandı (+230,06 puan), işlem hacmi 143,3 milyar TL.
-- Detaylar ve rakamlar:
-  - Cuma kapanışı 11.482,60 (önceki çelişki çözüldü: 11.482,60 + 230,06 = 11.712,66).
-  - Bankacılık endeksi yüzde 3,80, holding endeksi yüzde 1,75 yükseldi; 100 hissenin 78'i arttı (AA / arama özeti).
-  - Nedenler: petrol düşüşü (Brent yüzde 5,6 azalıp 92,85 dolar), teknoloji hisselerinde toparlanma, Trump'ın İran'a yeni saldırı ihtimalini düşük görmesi.
-  - 7 haftalık düşüş serisi önceki hafta bitmişti (haftalık yüzde 6,72).
-  - Dolar 50,23 TL (sabah), euro 56,39 TL.
-- Kimsenin anlatmadığı taraf: artışın yarısından fazlası bankacılık öncülüğünde, petrol düşüşü TL varlıklar için bağlantı (kaynak yorumu).
-- Kim kazanıyor / kim kaybediyor: Banka hissesi taşıyanlar kazanıyor.
-- İzleyicinin sorusu: Borsa fon krizinin ardından neden bu kadar hızlı toparlandı?
-- Kaynaklar: https://www.cnbce.com/borsa/borsa-gunu-yukselisle-kapadi-09-kasim-2026-h41329 · https://www.bloomberght.com/piyasalarda-gunun-ozeti-9-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3793995 · https://www.cnbce.com/doviz/dolar-endeksinde-dikkat-ceken-geri-cekilme-gozler-abd-enflasyonunda-h41423
-
-## Altın zirveden döndü: ons 4.148'den 4.112 dolara
-- Kategori: ana konu
-- Puan: 9/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 0)
-- Tarih / yer: 9-10 Kasım 2026
-- Ne oldu: Ons altın 9 Kasım'da 4.148 dolara çıkarak 20 Ekim'den bu yana en yüksek seviyeyi gördü; 10 Kasım sabahı 4.112 dolara geriledi.
-- Detaylar ve rakamlar:
-  - Gram altın sabah 6.637-6.688 TL (kaynaklara göre değişiyor); 9 Kasım akşamı 6.649 TL; gün içi düşüş yüzde 0,24-0,50.
-  - Haberler nedeni olarak Fed beklentisi ve bugünkü ABD enflasyon verisini gösteriyor (ayrıntılı gerekçe yok).
-  - Dolar/TL 50,23.
-- Kimsenin anlatmadığı taraf: yok (kaynaklarda yeni açı bulunamadı).
-- Kim kazanıyor / kim kaybediyor: belirsiz.
-- İzleyicinin sorusu: Altın neden zirveden döndü?
-- Kaynaklar: https://www.ekonomim.com/finans/haberler/altin-zirveden-dondu-iste-10-kasim-2026-ceyrek-gram-ve-yarim-altin-satis-fiyatlari-haberi-930196 · https://www.bursahayat.com.tr/ekonomi/fed-beklentisi-altini-vurdu-bursa-da-10-kasim-guncel-altin-fiyatlari-776675
-
-## 5 milyon TL üzeri vergi borçlularının isimleri Aralık'ta açıklanacak
-- Kategori: ana konu
-- Puan: 8/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 10 Kasım 2026 Resmî Gazete, Türkiye
-- Ne oldu: Vergi Usul Kanunu Genel Tebliği (Sıra No: 597) yayımlandı; vergi dairesi başına 5 milyon TL ve üzeri kesinleşmiş vergi borcu ya da cezası olanların isimleri ilan edilecek.
-- Detaylar ve rakamlar:
-  - Aşama 1: 1-15 Aralık 2026 vergi dairelerinin ilan alanları; aşama 2: 16-30 Aralık 2026 GİB internet sitesi.
-  - Bir habere göre 31 Aralık 2025 itibarıyla vadesi dolmuş, 20 Kasım 2026'ya kadar ödenmemiş vergi ve cezalar dikkate alınacak (tek kaynak; kapsam dönemi 1 Haziran 2025-31 Mayıs 2026 diye de geçiyor, çelişkili).
-  - Resmî Gazete numarası kaynaklarda 33426 ve 33333 diye farklı.
-- Kimsenin anlatmadığı taraf: ödeme tarihi (20 Kasım) listeye girmeyi belirliyor olabilir (tek kaynak).
-- Kim kazanıyor / kim kaybediyor: Büyük borçlular ifşa riskiyle karşı karşıya.
-- İzleyicinin sorusu: Vergi borcu listesine kimler girecek, 20 Kasım'a kadar ödenirse çıkar mı?
-- Kaynaklar: https://www.cnbce.com/haberler/vergi-borcu-olanlarin-isimleri-aciklanacak-5-milyon-tl-siniri-h41417 · https://www.ekonomim.com/ekonomi/vergi-borcu-olanlarin-isimleri-aciklanacak-5-milyon-tl-siniri-haberi-930203 · https://www.yatirimx.com.tr/ekonomi/5-milyon-tl-vergi-borcu-olanlarin-isimleri-aciklanacak/27924
-
-## Astor Enerji'nin 9 aylık kârı yüzde 73 düştü
-- Kategori: küçük detay
-- Puan: 7/13 (isim 2, cep 1, tazelik 3, boşluk 0, açı 1)
+- Puan: 9/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 1)
 - Tarih / yer: 9-10 Kasım 2026, KAP
-- Ne oldu: Astor Enerji'nin 9 aylık satışı yüzde 16,4 artıp 33,6 milyar TL oldu; net kâr yüzde 72,8 azalıp 1,677 milyar TL'ye indi.
+- Ne oldu: Turkcell 3. çeyrekte 6,7 milyar TL net kâr açıkladı, beklentiyi %24,9 aştı; hisse bilanço sonrası %6'dan fazla yükseldi.
 - Detaylar ve rakamlar:
-  - Brüt kâr yüzde 24,8 artışla 13,9 milyar TL; FAVÖK yüzde 23,7 artışla 11,57 milyar TL.
-  - Üçüncü çeyrekte yatırım faaliyetlerinden 5,54 milyar TL net gider; net parasal kayıp 7,2 milyar TL; şirket net nakitten net borca geçti (tek kaynak).
-  - Şirket fon soruşturmasıyla anılıyor; bilanço haberleri bunu kâr düşüşünün doğrudan nedeni olarak göstermiyor.
-- Kimsenin anlatmadığı taraf: operasyonel kâr artarken net kârı yatırım zararı eritti.
-- Kim kazanıyor / kim kaybediyor: hissedarlar kaybetti.
-- İzleyicinin sorusu: Satışı artan Astor'un kârı neden bu kadar düştü?
-- Kaynaklar: https://www.foreks.com/haber/detay/6af2a28a95131d72027da760/PICNEWS/tr/astor-enerji-nin-net-kari-yuzde-73-dustu-favok-yukseldi-10-11-26/ · https://hibya.com/astor-enerjinin-net-kari-yuzde-728-azaldi-1087087
+  - Gelir %6,2 artışla 82 milyar TL; FAVÖK %6,8 artışla 36,2 milyar TL.
+  - Pegasus: çeyrek net kârı 11,27 milyar TL; ama bir kaynakta 9 aylık net zarar 1,279 milyar TL (çelişkili, KAP'tan doğrulanmadı).
+  - Koç Holding 9 ay net kâr 56,4 milyar TL (çeyrek 34,9 milyar TL diye geçiyor, karışık).
+  - 164 şirketten 88'i 9 ayı kârla, 76'sı zararla kapattı.
+- Kimsenin anlatmadığı taraf: borsa şirketlerinin yaklaşık yarısı 9 ayı zararla kapatmış (tek kaynak, bankadunyasi/cnbce).
+- Kim kazanıyor / kim kaybediyor: Turkcell hissedarları kazandı; zarar eden şirketler kaybediyor.
+- İzleyicinin sorusu: Borsa şirketlerinin yarısı zarardayken borsa neden yükseliyor?
+- Kaynaklar: https://www.cnbce.com/borsa/koc-holding-bim-pegasus-dogus-otomotiv-borsada-140i-askin-sirketten-bilanco-yagmuru-g41409 · https://www.ekonomist.com.tr/sirketler/turkcell-den-2026-yili-ucuncu-ceyrek-bilanco-degerlendirmesi-var-80754 · https://bankadunyasi.com/borsa-bilanco-yagmuru-9-ay-2026-finansal-rapor/
+
+## GÜNCELLEME: Apple Türkiye'ye 5 akademi, 1 merkez açacak
+- Kategori: güncelleme
+- Puan: 9/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 9 Kasım 2026, Ankara
+- Ne oldu: Tim Cook'un Erdoğan ile görüşmesi sonrası Apple çok yıllık yatırım duyurdu: 5 Developer Academy + 1 Developer Center, ayrıca ABD dışındaki ilk Manufacturing Academy.
+- Detaylar ve rakamlar:
+  - İlk akademi 2027'de İstanbul; beşi üç yıl içinde.
+  - Üretim akademisi Ankara'da 2028 (bir kaynakta 2027).
+  - Toplam yatırım tutarı açıklanmadı.
+- Kimsenin anlatmadığı taraf: telefon üretimi değil, yazılım ve üretici eğitimi; tutar yok.
+- Kim kazanıyor / kim kaybediyor: girişimciler ve sanayiciler eğitim alanı kazanıyor.
+- İzleyicinin sorusu: Apple Türkiye'de telefon üretecek mi?
+- Kaynaklar: https://www.apple.com/tr/newsroom/2026/11/apple-announces-multiyear-investment-in-turkiye/ · https://paraajansi.com.tr/gundem/appledan-turkiye-yatirimi-abd-disindaki-ilk-uretim-akademisi-kurulacak-22231562h · https://haber.doviz.com/gundem-haberleri/apple-dan-turkiye-ye-uzun-vadeli-yatirim-karari-5-yeni-akademi-acilacak/948971
 
 ## Süren hikâye gelişmeleri (bugün)
-- Fon soruşturması (9/13: isim 2, cep 2, tazelik 3, boşluk 1, açı 1): Bakan Gürlek TBMM Plan ve Bütçe Komisyonu'nda 9 Kasım itibarıyla 464 şüpheli, 120 tutuklu, 262 adli kontrol bilançosunu açıkladı (3 Kasım: 433 şüpheli, 112 tutuklu). Lydia Holding YK Başkanı Enver Çevik gözaltına alındı; Kemal Akkaya ve Yunus Arıncı bir gün önce yeniden gözaltına alınmıştı. Erdoğan "en küçük taviz olmayacak" dedi; TMSF tasfiyede kişiye değil fahiş kazanca göre süreç yürüteceğini duyurdu. X: #KamuSuçluKamuÖdesin (575, 13 saat), #AKPartiListeyiYayinla (395, 8 saat), #ErisahAricanistifaET (383, 8 saat). Kaynaklar: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-saray-in-atadigi-isimlere-pes-pese-tutuklama-ummadiginiz-kisileri-erdogan-atamis-2554848 · https://www.sozcu.com.tr/fon-sorusturmasinda-kemal-akkaya-ve-yunus-arinci-gozaltina-alindi-p376998 · https://milliyet.com.tr/gundem/fon-sorusturmasinda-tum-baglantilar-masada-7697711
-- Akaryakıt, doğal gaz, tasfiye ödemeleri: yeni gelişme doğrulanamadı (9 Kasım'da akaryakıt fiyatı değişmedi: İstanbul benzin 74,60, motorin 95,20).
+- Fon soruşturması (9/13: isim 2, cep 3, tazelik 3, boşluk 0, açı 1): Gürlek gönüllü iade ~31,5 milyar TL (TMSF 31,6 milyar), 464 şüpheli, 120-121 tutuklu, 40 firari. Enver Çevik adliyeye sevk edildi. Borsa İstanbul YK Başkanı Arıcan'ın ayrılacağı kulisi var (resmî değil). TBMM bütçe komisyonunda muhalefet isimlerin açıklanmasını istedi. Kaynak: https://hurriyet.com.tr/gundem/bakan-gurlekten-fon-aciklamasi-gonullu-iade-31-5-milyar-tl-43372202
+- Akaryakıt ÖTV: indirim kulisi yukarıda ana madde.
+
+## Diğer notlar (Telegram'a girmedi)
+- TÜİK: eylül sanayi üretimi yıllık %2,6, aylık %2,1; nisandan sonra ilk yıllık artış; 3. çeyrek 2. çeyreğin altında; inşaat maliyet endeksi yıllık %30,80. Puan ~7 (zayıf). Kaynak: https://www.endeks24.com/sanayi-uretimi-eylulde-artti-3-ceyrekte-2-ceyregin-altinda-kaldi
+- Resmî Gazete: 5 milyon TL üzeri vergi borçlularının listesi (VUK Genel Tebliği 597), borç kesim tarihi 20 Kasım, ilan 1-30 Aralık (sabah maddesi).
+- İzmir demir çelik fabrikası patlaması 17 ölü (para konusu değil, atlandı).
+- BIST 100 öğlen 11.764 (%0,44), ons altın ~4.090-4.114, Brent -%3,2.
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Başlık: "Emekliye ek zam herkese verilecek mi?" (11/13)
-   İlk cümle: "Kabine toplandı ama emekliye ek zam için tek bir rakam bile açıklanmadı."
-   Neden bugün: Kabine dün toplandı, karar çıkmadı; en çok merak edilen soru.
-2. Başlık: "BİM kâr rekoru kırdı, mağazaya girenler azaldı" (10/13)
-   İlk cümle: "BİM üç ayda 10,4 milyar lira kâr etti ama mağazasına giren müşteri sayısı yüzde 1,8 düştü."
-   Neden bugün: Bilanço dün gece açıklandı; açı (trafik düşüşü) tek kaynaklı, yayından önce KAP'tan doğrulanmalı.
-3. Başlık: "Borsa fon krizinden nasıl toparlandı?" (10/13)
-   İlk cümle: "Borsa İstanbul tek günde 230 puan yükseldi, bankalar yüzde 3,8 arttı."
-   Neden bugün: Yükseliş sürüyor, fon soruşturması aynı anda sürüyor.
-Yedek (haber şart değil): "THY biletleri neden hep pahalı görünüyor?" — tanıdık Türk markası, açık "neden" sorusu; son 30 günde THY bilet fiyatı konusu işlenmedi (THY kâr haberi 5 Kasım'da vardı), veri yayından önce toplanmalı.
+1. "Benzin ve motorin neden hızla ucuzluyor?" – İlk cümle: "Kasım başında 80,50 TL'ye çıkan benzin, iki haftada 71 TL'ye inebilir." Neden bugün: 12-14 Kasım indirim tarihleri yakın (puan 11).
+2. "Emekliye ek zam kimlere verilecek?" – İlk cümle: "Emekliye ek zam için Kabine toplandı, ama tek bir rakam yok." Neden bugün: karar bekleniyor (puan 10; sabahki aday).
+3. "BİM kâr ederken neden müşteri azaldı?" – sabahki aday: kâr 10,4 milyar TL, mağaza trafiği %1,8 düştü (puan 10).
+Yedek (haber şart değil): "Migros mu BİM mi neden daha pahalı?" – Not: son 30 gün kanal videoları RSS erişilemediği için kontrol edilemedi.
 
 ## Rakip radarı
-YouTube RSS erişimi proxy tarafından reddedildi (403); dört kanal için de veri alınamadı. Rakiplerin son 48 saatteki konuları bilinmiyor.
+Veri alınamadı (YouTube RSS 403).
 
-## Takvim
-- 10 Kasım Salı 10.00 – TÜİK eylül sanayi üretimi (ağustos: yıllık yüzde 1,9 düşüş, aylık yüzde 1,0 düşüş, imalat aylık yüzde 1,6 düşüş); ABD TÜFE aynı gün (saat doğrulanamadı)
-- 11 Kasım Çarşamba 10.00 – TÜİK eylül perakende satış hacmi; 11.11 indirim günü (ünlü kural: indirim öncesi fiyat önceki 10 günün en düşüğü, 1 Ağustos'tan beri; ceza 108.370 TL'den yaklaşık 39,9 milyon TL'ye); AYM Genel Kurulu: memur ek ödemesi (3 itiraz) ve emekli ikramiyesi (2 itiraz) dosyalarında yalnızca ilk inceleme bekleniyor
-- 12 Kasım Perşembe 10.30 – TCMB Enflasyon Raporu 2026-IV (Karahan, İstanbul); yıl sonu tahmini şu an yüzde 28 (26'dan yükseltilmişti), 2027 için yüzde 15, 2028 için yüzde 9
-- 13 Kasım Cuma – TCMB eylül ödemeler dengesi / cari işlemler; SPK kredili işlem özkaynak esnekliği tedbiri 13 Kasım seans sonuna kadar uzatıldı
-- 7 günün dışında: 1-15 Aralık vergi borçlusu listeleri; Aralık – Asgari Ücret Tespit Komisyonu ilk toplantı (net asgari ücret şimdi 28.075,50 TL, brüt 33.030 TL); 10 Aralık 14.00 PPK faiz kararı; 27 Kasım Black Friday.
-Açıklanınca bakılacak rakamlar:
-- Enflasyon Raporu (12 Kasım): yıl sonu tahmini 28 mi değişti; Ekim yıllık enflasyon yüzde 29,77 (aylık 2,58); Ocak emekli/memur zammı hesabı (4 aylık tablo yüzde 8,28 civarı) bu tahminle nasıl uyuşuyor.
-- Sanayi üretimi (10 Kasım): ağustos yıllık yüzde 1,9 düşüş; İSO PMI Ekim 47,3 (31 aydır 50 altında).
+## Bu akşam
+- 16.30 – ABD ekim enflasyonu. Yarın 10.30 TCMB Enflasyon Raporu (Karahan).

@@ -57,6 +57,7 @@
   - 9 Kasım 2026 – Sözcü: rüşvetin "hisse tüyosu" biçiminde verildiği iddiası (kanıt bağı kurulmadı); Kabine gündeminde fon konusu; X'te #KamuSoydurduKamuÖdesin, #AKPartiListeyiAcikla – https://www.sozcu.com.tr/turkiye-nin-konustugu-cift-rusvet-yerine-tuyo-vermis-p379358
   - 9 Kasım 2026 öğleden sonra – BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası GM Murat Yönaç tutuklandı; Arıncı ve Akkaya yeniden gözaltında; tutuklu sayısı haberlerde 121 – https://serbestiyet.com/haberler/fon-sorusturmasinda-bddk-baskan-yardimcisi-erisen-ve-adil-katilim-bankasi-genel-muduru-tutuklandi-253229/
   - 9 Kasım 2026 – Bakan Gürlek TBMM bütçe komisyonunda: 464 şüpheli, 120 tutuklu, 262 adli kontrol; Lydia Holding'den Enver Çevik gözaltında; TMSF tasfiyede fahiş kazanca göre süreç; Erdoğan "en küçük taviz olmayacak"; X'te #KamuSuçluKamuÖdesin (575, 13 saat) – https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-saray-in-atadigi-isimlere-pes-pese-tutuklama-ummadiginiz-kisileri-erdogan-atamis-2554848
+  - 10 Kasım 2026 – Bakan Gürlek: gönüllü iade ~31,5 milyar TL (TMSF: 31,6 milyar TL tahsil), 464 şüpheli, 120-121 tutuklu, 40 firari; Lydia Holding'den Enver Çevik adliyede; Borsa İstanbul YK Başkanı Arıcan'ın ayrılacağı kulisi (resmî değil) – https://hurriyet.com.tr/gundem/bakan-gurlekten-fon-aciklamasi-gonullu-iade-31-5-milyar-tl-43372202
 - Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -76,6 +77,7 @@
   - 2026-11-06 öğleden sonra – Motorinde 7 Kasım 00.01 için 5,47 TL indirim bekleniyor (7 TL diyen de var), resmî değil – https://www.kayserim.net/haber/30001773/motorinde-5-47-tl-indirim-bekleniyor
   - 7 Kasım 2026 – Motorinde 5,47 TL indirim uygulandı, İstanbul ~95,2 TL; benzin 74,6 TL; Aralık ÖTV 12 TL (hesap: +3 TL ÖTV, KDV'li ~3,60 TL) – https://www.trtv.net/2026/11/07/motorin-fiyati-100-lira-altina-indi-zam-indirim/
   - 9 Kasım 2026 – Değişiklik yok: İstanbul benzin 74,60, motorin 95,20, LPG 50,70 TL; LPG 3 Kasım'da ~9,50 TL zam almıştı (iki kaynak) – https://sanayigazetesi.com.tr/9-kasim-akaryakit-fiyatlari-benzine-motorine-ve-lpgye-zam-veya-indirim-var-mi/
+  - 10 Kasım 2026 – Brent 89,7 dolar (10 haftanın en düşüğü, tek kaynak); sektör kaynakları benzine ~3 TL (12 Kasım), motorine ~4 TL (14 Kasım) indirim bekliyor, resmî değil; İstanbul benzin 74,60 → ~71,60, motorin 95,20 → ~91,20 – https://www.birgun.net/haber/10-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-745570
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
