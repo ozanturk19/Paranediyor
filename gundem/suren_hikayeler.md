@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-11 08:48 TSİ)
+(Güncelleme: 2026-11-11 16:45 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -60,7 +60,8 @@
   - 9 Kasım 2026 – Bakan Gürlek TBMM bütçe komisyonunda: 464 şüpheli, 120 tutuklu, 262 adli kontrol; Lydia Holding'den Enver Çevik gözaltında; TMSF tasfiyede fahiş kazanca göre süreç; Erdoğan "en küçük taviz olmayacak"; X'te #KamuSuçluKamuÖdesin (575, 13 saat) – https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-saray-in-atadigi-isimlere-pes-pese-tutuklama-ummadiginiz-kisileri-erdogan-atamis-2554848
   - 10 Kasım 2026 – Bakan Gürlek: gönüllü iade ~31,5 milyar TL (TMSF: 31,6 milyar TL tahsil), 464 şüpheli, 120-121 tutuklu, 40 firari; Lydia Holding'den Enver Çevik adliyede; Borsa İstanbul YK Başkanı Arıcan'ın ayrılacağı kulisi (resmî değil) – https://hurriyet.com.tr/gundem/bakan-gurlekten-fon-aciklamasi-gonullu-iade-31-5-milyar-tl-43372202
   - 10-11 Kasım 2026 – Barış Terkoğlu kaynaklı "Erişah Arıcan'ın ayrılması an meselesi" kulisi (resmî değil); X'te #ErisahAricanHemenistifa skor 555, #COP31FonlaKirlendi 676 (14 saat) – https://boldmedya.com/2026/11/10/fon-vurgununda-yeni-kulis-erisah-aricanin-gorevden-ayrilmasi-an-meselesi/
-- Açık sorular: Borsa İstanbul'un genel müdürünün gözaltısı borsanın işleyişini ve pazartesi seansını nasıl etkileyecek? Soruşturma BDDK ve SPK'ya uzanacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
+  - 11 Kasım 2026 öğle – BDDK Başkanı Şahap Kavcıoğlu "kurumun daha fazla yıpranmaması için" Cumhurbaşkanı'ndan görevden affını istedi (Sabah: bırakması istendi); yerine atama bekleniyor; Arıcan için resmî gelişme yok; X'te #PPFdeParamNerede 903 (19 saat), #OnceTamOdeSonraTutukla 1. sıra – https://serbestiyet.com/haberler/gorevi-birakmasi-istendi-bddk-baskani-kavcioglu-istifa-etti-253363/
+- Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
@@ -81,6 +82,7 @@
   - 9 Kasım 2026 – Değişiklik yok: İstanbul benzin 74,60, motorin 95,20, LPG 50,70 TL; LPG 3 Kasım'da ~9,50 TL zam almıştı (iki kaynak) – https://sanayigazetesi.com.tr/9-kasim-akaryakit-fiyatlari-benzine-motorine-ve-lpgye-zam-veya-indirim-var-mi/
   - 10 Kasım 2026 – Brent 89,7 dolar (10 haftanın en düşüğü, tek kaynak); sektör kaynakları benzine ~3 TL (12 Kasım), motorine ~4 TL (14 Kasım) indirim bekliyor, resmî değil; İstanbul benzin 74,60 → ~71,60, motorin 95,20 → ~91,20 – https://www.birgun.net/haber/10-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-745570
   - 11 Kasım 2026 – Benzine 12 Kasım 00.01'de 2,70-3,50 TL (çoğunluk ~3 TL), motorine 14 Kasım'da ~4 TL (bir kaynakta 5,20) indirim beklentisi, resmî değil; İstanbul benzin 74,60, motorin 95,20, LPG 50,70; Ankara benzin 75,60 – https://www.yenisafak.com/galeri/ozgun/petrol-fiyatlari-cakildi-akaryakit-fiyatlarina-indirim-beklentisi-artti-once-benzin-ardindan-motorine-indirim-yolda-4871357
+  - 11 Kasım 2026 öğleden sonra – Benzine 12 Kasım 00.01 indirim tutarı 2,70 (sektör) – 3,54 TL; 3,54 ile İstanbul 71,06, Ankara 72,06, İzmir 72,26 TL; Brent 10 Kasım 91,49 kapanış (gün içi 90 altı), 11 Kasım öğlen ~93,1 – https://www.milligazete.com.tr/benzine-indirim-geliyor-yeni-fiyatlar-belli-oldupeki-pompaya-ne-kadar-yansiyacak
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
