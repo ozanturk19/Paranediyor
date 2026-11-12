@@ -1,9 +1,9 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-11 16:45 TSİ)
+(Güncelleme: 2026-11-12 08:45 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
-- Başlangıç: 15 Eylül 2026 · Son gelişme: 11 Kasım 2026
+- Başlangıç: 15 Eylül 2026 · Son gelişme: 12 Kasım 2026
 - Özet: Pusula Portföy'ün 15 Eylül'de bazı fonlarda katılma payı iadesinde temerrüt açıklamasıyla başlayan krizde SPK fonları tasfiyeye aldı. Olağanüstü tasfiyedeki 7 fonun (Atlas, Pusula, Tera Portföy kurucu) 235.705 yatırımcısına 29,3 milyar TL'lik ilk ara ödeme 30 Ekim'de başladı; 1 milyon TL'ye kadar ödeme beklenirken hesaplara en fazla 250 bin TL yattı. Ayrıca Tera Yatırım Menkul Değerler'in izinleri 27 Ekim'de iptal edildi, yatırımcı tazmini Yatırımcı Tazmin Merkezi'ne (YTM) geçti.
 - Zaman çizelgesi:
   - 15 Eylül 2026 – Pusula Portföy KAP'ta kurucusu olduğu bazı fonların katılma payı iade ödemelerinde temerrüt oluştuğunu duyurdu (sonraki haberlere göre iki para piyasası fonu) – https://www.ekonomim.com/ekonomi/pusula-portfoy-fonlari-temerrude-dustu-haberi-918387
@@ -24,11 +24,12 @@
   - 7 Kasım 2026 – Şimşek bütçe görüşmesinde: normal tasfiyedeki PPF'lerde yatırım ve nema ödendi, kamu kaynağı yok; 131 fonda 52,2 milyar TL özel sektör tahvili var, hepsi kayıp değil; tasfiye süresi 3'ten 6 aya çıkarıldı; X'te #PPFdeSabırTükendi skor 698 (16 saat) – https://www.milliyet.com.tr/ekonomi/para-piyasasi-fonlarinda-hicbir-kayip-yok-7696038
   - 8 Kasım 2026 – Yılmaz: 455 bin yatırımcının önemli kısmının anaparası ödenecek, hedef kasım ortası; 31,5 milyar TL iade toplandı; X'te #FonKuruluAnaParaKarari – https://www.borsagundem.com.tr/cevdet-yilmaz-455-bin-yatirimcinin-anapara-iadesinde-buyuk-bolum-kasim-ortasina-kadar-tamamlanacak
   - 11 Kasım 2026 – X'te #PPFdeParamNerede skor 855 (18 saat), #GundemHerFonaTamAnaPara 435; kasım ortası ödeme hedefi yaklaşıyor, yeni resmî ödeme duyurusu bulunamadı – https://getdaytrends.com/turkey/
+  - 12 Kasım 2026 – Kasım ortası hedefi yaklaşırken yeni ödeme duyurusu yok; bazı mağdurlar anaparayı eksik aldığını söylüyor; X'te #HirsizListesiVerilmezseOyYok 770 (16 saat), #OnceTamOdeSonraTutukla 575, #PPFdeAlınTerimiGeriVer 549 (12 saat), #FonzedeYarınAYMde 341 – https://www.cumhuriyet.com.tr/turkiye/fon-krizinde-milyarlar-odendi-ama-magduriyet-bitmedi-magdurlar-borc-bataginda-2554063
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
 - Durum: aktif
-- Başlangıç: 18 Eylül 2026 (ilk tutuklamalar) · Son gelişme: 11 Kasım 2026
+- Başlangıç: 18 Eylül 2026 (ilk tutuklamalar) · Son gelişme: 12 Kasım 2026
 - Özet: İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmasında tutuklu sayısı 27 Ekim'de 120'ye ulaştı; aralarında Pusula Holding'den Serdar Turhan, Tera Yatırım Holding'den Emre Tezmen, eski Türkiye Sigorta Genel Müdürü Taha Çakmak ve İnan Altınbaş var. 31 Ekim akşamı Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun "örgüt üyeliği" ve "rüşvet" iddiasıyla gözaltına alındı. Soruşturma düzenleyicilere de uzanıyor: BDDK Başkanı Kavcıoğlu hakkındaki iddiaları BDDK yalanladı.
 - Zaman çizelgesi:
   - 18-22 Eylül 2026 – Serdar Turhan (Pusula Holding) ve Emre Tezmen (Tera Yatırım Holding) tutuklandı – https://www.ekonomim.com/ekonomi/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-928288
@@ -61,11 +62,12 @@
   - 10 Kasım 2026 – Bakan Gürlek: gönüllü iade ~31,5 milyar TL (TMSF: 31,6 milyar TL tahsil), 464 şüpheli, 120-121 tutuklu, 40 firari; Lydia Holding'den Enver Çevik adliyede; Borsa İstanbul YK Başkanı Arıcan'ın ayrılacağı kulisi (resmî değil) – https://hurriyet.com.tr/gundem/bakan-gurlekten-fon-aciklamasi-gonullu-iade-31-5-milyar-tl-43372202
   - 10-11 Kasım 2026 – Barış Terkoğlu kaynaklı "Erişah Arıcan'ın ayrılması an meselesi" kulisi (resmî değil); X'te #ErisahAricanHemenistifa skor 555, #COP31FonlaKirlendi 676 (14 saat) – https://boldmedya.com/2026/11/10/fon-vurgununda-yeni-kulis-erisah-aricanin-gorevden-ayrilmasi-an-meselesi/
   - 11 Kasım 2026 öğle – BDDK Başkanı Şahap Kavcıoğlu "kurumun daha fazla yıpranmaması için" Cumhurbaşkanı'ndan görevden affını istedi (Sabah: bırakması istendi); yerine atama bekleniyor; Arıcan için resmî gelişme yok; X'te #PPFdeParamNerede 903 (19 saat), #OnceTamOdeSonraTutukla 1. sıra – https://serbestiyet.com/haberler/gorevi-birakmasi-istendi-bddk-baskani-kavcioglu-istifa-etti-253363/
+  - 11 Kasım 2026 akşam – Eski Takasbank GM Yunus Arıncı, Adil Katılım Bankası kurucu ortağı Ali Paslı ve OMG Capital'den Ömer Murat Gülkan tutuklandı, 4 kişiye ev hapsi; tutuklu 123 (tek kaynak). Sevk yazısı (iddia): banka 31 Temmuz 2025'te 1,844 milyar TL'yi Tera TLY fonuna yatırıp 84 günde 2,43 milyar TL kâr etti (hesap: %132); Arıncı için 500 bin dolar rüşvet iddiası. BDDK'ya yeni başkan ataması yok; muhalefet kazanç sağlayanların listesini istiyor – https://paratic.com/fon-sorusturmasinda-sevk-yazisi-243-milyar-tl-kazanc-ve-500-bin-dolar-rusvet-iddiasi/
 - Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
-- Başlangıç: 13 Ağustos 2026 · Son gelişme: 11 Kasım 2026
+- Başlangıç: 13 Ağustos 2026 · Son gelişme: 12 Kasım 2026
 - Özet: 11606 sayılı Cumhurbaşkanı Kararı ile motorinin ÖTV'si 13 Ağustos'ta sıfırlandı ve her ay 3 TL artırılarak 1 Ocak 2027'de 13,9006 TL'ye dönecek şekilde takvime bağlandı; benzinde ÖTV 1 Kasım'da 7,90 TL'den 11,36 TL'ye çıkıyor. Dünyadaki dizel sıkışıklığı nedeniyle motorin benzinden ~20 TL pahalı; İstanbul'da 31 Ekim'de motorin 96,90, benzin 76,30 TL.
 - Zaman çizelgesi:
   - 4 Mart 2026 – 10995 sayılı CK (önceki motorin ÖTV düzenlemesi; 11606 ile bu iki motorin türü için uygulanmaz oldu) – https://www.yenisafak.com/galeri/ozgun/motorin-otv-duzenlemesi-2026-ay-ay-uygulanacak-yeni-tutarlar-belli-oldu-eylulden-sonra-fiyatlar-nasil-degisecek-4847647
@@ -83,6 +85,7 @@
   - 10 Kasım 2026 – Brent 89,7 dolar (10 haftanın en düşüğü, tek kaynak); sektör kaynakları benzine ~3 TL (12 Kasım), motorine ~4 TL (14 Kasım) indirim bekliyor, resmî değil; İstanbul benzin 74,60 → ~71,60, motorin 95,20 → ~91,20 – https://www.birgun.net/haber/10-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-745570
   - 11 Kasım 2026 – Benzine 12 Kasım 00.01'de 2,70-3,50 TL (çoğunluk ~3 TL), motorine 14 Kasım'da ~4 TL (bir kaynakta 5,20) indirim beklentisi, resmî değil; İstanbul benzin 74,60, motorin 95,20, LPG 50,70; Ankara benzin 75,60 – https://www.yenisafak.com/galeri/ozgun/petrol-fiyatlari-cakildi-akaryakit-fiyatlarina-indirim-beklentisi-artti-once-benzin-ardindan-motorine-indirim-yolda-4871357
   - 11 Kasım 2026 öğleden sonra – Benzine 12 Kasım 00.01 indirim tutarı 2,70 (sektör) – 3,54 TL; 3,54 ile İstanbul 71,06, Ankara 72,06, İzmir 72,26 TL; Brent 10 Kasım 91,49 kapanış (gün içi 90 altı), 11 Kasım öğlen ~93,1 – https://www.milligazete.com.tr/benzine-indirim-geliyor-yeni-fiyatlar-belli-oldupeki-pompaya-ne-kadar-yansiyacak
+  - 12 Kasım 2026 – Benzine 00.01'de 3,40-3,54 TL indirim (kaynaklara göre); İstanbul Avrupa 71,20, Anadolu 71,00, Ankara ~72,20, İzmir 72,40; motorin 95,20 (İzmir 96,60), LPG 50,70 değişmedi; motorine 14 Kasım ~4 TL indirim beklentisi (resmî değil); Brent 91,45 (ABD-İran diplomasi beklentisi) – https://www.gzt.com/ekonomi/benzine-340-tl-indirim-geldi-12-kasim-istanbul-ankara-izmir-akaryakit-fiyatlari-4277757
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
