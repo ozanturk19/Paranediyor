@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-12 08:45 TSİ)
+(Güncelleme: 2026-11-12 16:05 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -25,6 +25,7 @@
   - 8 Kasım 2026 – Yılmaz: 455 bin yatırımcının önemli kısmının anaparası ödenecek, hedef kasım ortası; 31,5 milyar TL iade toplandı; X'te #FonKuruluAnaParaKarari – https://www.borsagundem.com.tr/cevdet-yilmaz-455-bin-yatirimcinin-anapara-iadesinde-buyuk-bolum-kasim-ortasina-kadar-tamamlanacak
   - 11 Kasım 2026 – X'te #PPFdeParamNerede skor 855 (18 saat), #GundemHerFonaTamAnaPara 435; kasım ortası ödeme hedefi yaklaşıyor, yeni resmî ödeme duyurusu bulunamadı – https://getdaytrends.com/turkey/
   - 12 Kasım 2026 – Kasım ortası hedefi yaklaşırken yeni ödeme duyurusu yok; bazı mağdurlar anaparayı eksik aldığını söylüyor; X'te #HirsizListesiVerilmezseOyYok 770 (16 saat), #OnceTamOdeSonraTutukla 575, #PPFdeAlınTerimiGeriVer 549 (12 saat), #FonzedeYarınAYMde 341 – https://www.cumhuriyet.com.tr/turkiye/fon-krizinde-milyarlar-odendi-ama-magduriyet-bitmedi-magdurlar-borc-bataginda-2554063
+  - 12 Kasım 2026 öğleden sonra – Yeni resmî açıklama yok; X'te #PPFdeAlınTerimiGeriVer 24 saatin 1 numarası (skor 655, 15 saat), gün içinde #PPFyiOyalamaTamOde, #SucluSPKOmerGonulHapse, #AltinbasODEyoksaTMSF, "Para Piyasası Fonu" – https://getdaytrends.com/turkey/
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
