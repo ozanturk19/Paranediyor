@@ -1,130 +1,89 @@
-# Para Ne Diyor? – 13 Kasım 2026 Sabah Bülteni
-Hazırlanma: 13 Kasım 2026 08:50 TSİ
+# Para Ne Diyor? – 13 Kasım 2026 Öğleden Sonra Bülteni
+Hazırlanma: 13 Kasım 2026 16:55 TSİ
 
-Not: Bu oturumda da WebFetch ve curl ile haber sitelerine erişim ağ politikası nedeniyle engellendi (investor.nvidia.com, endeks24.com, hisse.net, cnbce.com, dunya.com, aa.com.tr, bloomberght.com, trthaber.com, resmigazete.gov.tr, ekonomim.com, youtube.com). Sayfa açılarak doğrulama yapılamadı. Birden çok bağımsız kaynakta aynı geçen rakamlar "(çok kaynaklı arama özeti)", tek kaynaklılar "(yalnız arama özeti)" diye işaretlendi. trends24.in ve getdaytrends.com erişilebildi.
+Not: Bu oturumda da WebFetch ve curl ile haber sitelerine erişim ağ politikası nedeniyle engellendi (haberturk.com, tr.euronews.com, memurlar.net, endeks24.com, ekoturk.com, turkiyegazetesi.com.tr; YouTube RSS 403). Sayfa açılarak doğrulama yapılamadı. Birden çok bağımsız kaynakta aynı geçen rakamlar "(çok kaynaklı arama özeti)", tek kaynaklılar "(yalnız arama özeti)" diye işaretlendi. trends24 ve getdaytrends çalıştı.
 
-## Fon mağdurlarına bugün yeni ödeme günü (süren hikâye)
-- Kategori: süren hikâye (ana konu)
+## GÜNCELLEME: Fon mağdurlarına ödenen para 161 milyar liraya çıktı (süren hikâye)
+- Kategori: güncelleme
 - Puan: 12/13 (isim 2, cep 3, tazelik 3, boşluk 2, açı 2)
-- Tarih / yer: 13 Kasım 2026 (ödeme günü), Türkiye
-- Ne oldu: Cumhurbaşkanı Yardımcısı Cevdet Yılmaz 6 Kasım'da NTV'de, tasfiyedeki fonlarda 13 Kasım'da yeni ve "önemli miktarda" ödeme yapılacağını söyledi. Ödemelerin küçük tutardan büyüğe gittiğini, sürecin kasım sonuna kadar tamamlanmasını beklediğini belirtti. Ödemenin tutarı ve kaç kişiyi kapsayacağı açıklanmadı. (Önceki bültenlerimiz bu tarihi kaçırmış; "kasım ortası" diye yazılmıştı.)
+- Tarih / yer: 13 Kasım 2026, Ankara (Cumhurbaşkanlığı İletişim Başkanlığı açıklaması; 10. Fon Koordinasyon Kurulu toplantısı, başkan Cevdet Yılmaz)
+- Ne oldu: 13 Kasım'daki ödemelerle olağan ve olağanüstü tasfiyedeki 119 fonda 444.893 tekil yatırımcıya ayni ve nakdi toplam yaklaşık 161 milyar TL ödendi. 333.493 yatırımcı ara ödeme olarak net yatırım tutarının tamamını aldı. Ara ödemelerin süreceği, "haksız ve fahiş kazanç" sağladığı tespit edilenlerin ara ödeme dışında bırakıldığı açıklandı.
 - Detaylar ve rakamlar:
-  - Şimdiye kadar yaklaşık 420 bin yatırımcıya toplam ~130 milyar TL ödendi (çok kaynaklı arama özeti; Şimşek 5 Kasım'da 130,2 milyar TL / 420 bin kişi demişti).
-  - Ara ödeme sınırı: net yatırım tutarı 1 milyon TL altındaysa tamamı, üstündeyse en fazla 1 milyon TL; MKK kayıtları üzerinden (çok kaynaklı arama özeti).
-  - Gönüllü iade ~31,5 milyar TL; soruşturmada 444 şüpheli, 113 tutuklu (Yılmaz'ın 6 Kasım açıklaması; yalnız arama özeti — 10 Kasım'da Gürlek 464 şüpheli / 120 tutuklu demişti).
-  - Şirketler kendi hisselerini fonlardan geri alıyor (borsa dışında, virmanla, bir önceki gün kapanış fiyatından; TMSF / İş Bankası tasfiye yürütücüsü):
-    - 11 Kasım: Blume Metal (BLUME) 497.693 pay × 29,40 TL ≈ 14,63 milyon TL; TMSF teklifiyle; şirketin elindeki pay sermayenin %1,73'ü (çok kaynaklı arama özeti).
-    - 12 Kasım: Şa-Ra Enerji (SARAE) 12.329.698 pay × 33,20 TL = 409,35 milyon TL; Tera Portföy Hisse Senedi Fonu (THF) ve Tera Portföy Dördüncü Hisse Senedi Serbest Fonu (DOH); sermayenin %2,77'si (çok kaynaklı arama özeti).
-    - 12 Kasım: Çitlekçi Mağazacılık (CITAS) 13.857.770 pay × 81,85 TL ≈ 1,13 milyar TL; fonlardaki kendi paylarının tamamı; sermaye oranı kaynaklarda %7,70 ya da %10,32 (çelişkili).
-    - 12 Kasım: Gıpta Ofis (GIPTA) 3.053.435 pay × 26,20 TL ≈ 80 milyon TL (yalnız arama özeti).
-    - Toplam ~1,62-1,64 milyar TL (çok kaynaklı arama özeti). Endeks24'te SVGYO'nun da geri alım yapacağı geçiyor (yalnız başlık).
-  - Fatih Erbakan (YRP) 12 Kasım Beykoz'da mağdurlarla buluştu: 455 bin doğrudan mağdur, ~1 trilyon TL kayıp, bunun 400 milyar TL'den fazlasının yurt dışına çıkarıldığı iddiası (DOĞRULANMAMIŞ, yalnız Erbakan'ın sözü), geri alınan yalnız 18 milyar TL (iddia).
-- Kimsenin anlatmadığı taraf: Tasfiyedeki fonların elindeki hisseler borsada satılıp fiyatı ezmek yerine, şirketlerin kendisine kapanış fiyatından blok satılıyor; 11-12 Kasım'da 4 şirket ~1,64 milyar TL ödedi. Bu, mağdurlara giden nakdin bir kaynağı ve hisse fiyatına baskıyı önlüyor.
-- Kim kazanıyor / kim kaybediyor: Küçük tutarlı fon yatırımcıları önce parasını alıyor; büyük tutarlılar ve "ana para + TÜFE" formülüne itiraz eden para piyasası fonu yatırımcıları bekliyor.
-- İzleyicinin sorusu: Fondaki param bugün yatacak mı, ne kadarı yatacak?
-- Kaynaklar: https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-cevdet-yilmazdan-ntvye-ozel-aciklamalar-1749713 · https://www.borsamatik.com.tr/borsada-uc-sirketten-16-milyar-tllik-tera-fonu-hamlesi-haber-181796 · https://www.ekonomim.com/ekonomi/blume-metal-tera-fondaki-hisselerini-tmsfden-satin-aldi-haberi-930679
+  - 161 milyar TL, 119 fon, 444.893 yatırımcı, 333.493 tamamını aldı (çok kaynaklı arama özeti: türkiyegazetesi, star, haberglobal, doviz.com, mynet, ahaber)
+  - 5 Kasım (Şimşek): 108 fon, 420.031 kişi, 130,2 milyar TL, 179.449 kişi tamamını almıştı (arşivden)
+  - Fark (hesap): 5-13 Kasım arasında ödenen ~30,8 milyar TL (161 - 130,2); tamamını alan kişi sayısı 179.449'dan 333.493'e, yani ~154 bin kişi arttı; tamamını almayan ~111.400 kişi kaldı (444.893 - 333.493)
+  - İlk ara ödemeler 30 Ekim'de başlamıştı (7596 sayılı Kanun, SPK kararı)
+  - Adalet Bakanlığı, TMSF ve MASAK denetiminde piyasa bozucu faaliyetle haksız kazanç sağladığı belirlenenler hakkında hukuki süreç sürüyor; bunlar ara ödeme dışında (çok kaynaklı arama özeti)
+  - Aynı gün Çitlekçi'nin fonlardaki kendi paylarını geri alması (Habertürk başlığı) — sabah bülteninde ayrıntı var
+  - "Nihai mahsuplaşma" ifadesi bazı özetlerde geçti, resmî metinde doğrulanamadı
+- Kimsenin anlatmadığı taraf: Bir haftada parasının tamamını alan kişi sayısı neredeyse iki katına çıktı (179 bin → 333 bin), ama kalan ~111 bin kişi büyük olasılıkla 1 milyon TL üstü yatırımı olan ya da "fahiş kazanç" incelemesine takılanlar (bu çıkarım; resmî kırılım açıklanmadı).
+- Kim kazanıyor / kim kaybediyor: Küçük yatırımcı büyük ölçüde parasını aldı; büyük tutarlı yatırımcı ve inceleme altındakiler bekliyor.
+- İzleyicinin sorusu: Parasının tamamını alamayan 111 bin kişi kim ve ne zaman alacak?
+- Kaynaklar: https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/fon-koordinasyon-kurulu-10-kez-toplandi-161-milyar-tl-odeme-yapildi-1829128 · https://www.star.com.tr/ekonomi/10-fon-koordinasyon-kurulu-toplantisi-sona-erdi-161-milyar-lira-odeme-yapildi-haber-2053267/ · https://haber.doviz.com/gundem-haberleri/iletisim-baskanligi-119-fonda-161-milyar-tl-odeme-yapildi/951245
 
-## Motorine yarın 4 lira indirim bekleniyor, ama 1 Aralık'ta ÖTV geri geliyor (süren hikâye)
-- Kategori: süren hikâye (ana konu) — emtia bağlantılı
-- Puan: 12/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 12-14 Kasım 2026, Türkiye / petrol piyasası
-- Ne oldu: Sektör kaynaklarına dayanan haberlere göre motorine 14 Kasım Cumartesi litrede yaklaşık 4 TL indirim bekleniyor; resmî değil. Benzine 12 Kasım'da 3,40-3,54 TL indirim gelmişti. Brent 12 Kasım'da Trump'ın "İran'la bir anlaşmaya ihtiyacımız yok" sözleri sonrası gün içi dipten ~3 dolar yükseldi.
-- Detaylar ve rakamlar:
-  - Brent 12 Kasım akşam/kapanış: kaynaklarda 94,24 / 95,09 / 95,82 dolar (çelişkili; yalnız arama özeti). Sabah 92,70 dolardı.
-  - Düşüş baskıları: OPEC ekim üretimi günlük 1,965 milyon varil artışla 27,164 milyon varil; ABD ticari ham petrol stokları 4,7 milyon varil artışla 414,4 milyon varil (yalnız arama özeti).
-  - ÖTV takvimi (11606 sayılı CK): motorin ÖTV Eylül 3, Ekim 6, Kasım 9, Aralık 12 TL, 1 Ocak 2027'den 13,9006 TL (arşivde kayıtlı).
-  - (hesap) Aralık adımı: +3 TL ÖTV × 1,20 KDV = ~3,60 TL/litre pompaya etkisi (ürün fiyatı sabit varsayımı).
-  - (hesap, haberden) Tam yansırsa 50 litrelik depoda 4 × 50 = 200 TL tasarruf.
-- Kimsenin anlatmadığı taraf: Yarınki ~4 TL'lik indirimin ~3,60 TL'si 1 Aralık'taki ÖTV adımıyla geri gelecek; ayrıca indirim tutarı Akdeniz ürün fiyatı ve kura göre belirleniyor ve petrol dün yükseldi.
-- Kim kazanıyor / kim kaybediyor: Kısa vadede dizel araç sahipleri ve nakliyeciler; Aralık'ta vergi geliri artışıyla Hazine.
-- İzleyicinin sorusu: Motorin ucuzlıyor mu, yoksa iki hafta sonra yine mi pahalanacak?
-- Kaynaklar: https://www.dunya.com/enerji/petrolde-3-dolarlik-sicramanin-ardindan-sert-fren-haberi-847469 · https://paratic.com/trumpin-iran-restiyle-birlikte-brent-petrol-92-dolari-asti/ · https://www.ekovitrin.com/benzin-indiriminin-ardindan-gozler-motorinde-4-tllik-indirim-icin-tarih-belli-oldu
-
-## Nvidia'nın kurucusu Jensen Huang istifa etti
-- Kategori: dünya
-- Puan: 10/13 (isim 3, cep 1, tazelik 3, boşluk 2, açı 1)
-- Tarih / yer: 11 Kasım kurul kararı, 12 Kasım duyuru; ABD
-- Ne oldu: Nvidia, Jensen Huang'ın Başkan, CEO ve yönetim kurulu üyeliğinden derhal ayrıldığını duyurdu. CFO Colette Kress geçici CEO, Harvey C. Jones yönetim kurulu başkanı oldu. Şirket gerekçe açıklamadı; haberler Huang'ın 8 Kasım'da kabul ettiği evlilik dışı ilişki ve bununla ilgili casusluk iddialarına değiniyor (iddia düzeyinde).
-- Detaylar ve rakamlar:
-  - NVDA 12 Kasım kapanış 166,19 dolar, -%4,34; gün içi aralık 148,80-167,14 (açılışta ~%13-14 düşüş) (çok kaynaklı arama özeti: Yahoo/Motley Fool, Endeks24 -%4,34).
-  - İşlem hacmi 734,3 milyon hisse; 3 aylık ortalama 140,3 milyon (≈5,2 kat) (yalnız arama özeti).
-  - 6 Ekim rekor kapanışı 239,24 dolar; kapanış bunun ~%31 altında (yalnız arama özeti).
-  - Piyasa değeri ~4,19 trilyon dolar (yalnız arama özeti, kapanış seviyesi).
-  - Melius Research "Tut"a indirdi, hedef 315 → 185 dolar (yalnız arama özeti).
-  - Kalıcı CEO için iç ve dış adaylar değerlendiriliyor. 3. çeyrek bilançosu 18 Kasım TSİ gece bekleniyor (önceki bülten; yalnız arama özeti).
-  - Tarihsel karşılaştırma: Apple 1985'te kurucu Steve Jobs'u yönetimden uzaklaştırdı, Jobs 1997'de geri döndü (genel bilinen olgu).
-- Kimsenin anlatmadığı taraf: Dünyanın en değerli şirketlerinden biri kurucusunu tek bir kurul kararıyla kaybetti; dün normalin 5 katı hisse el değiştirdi. Türkiye'deki yatırımcı için köprü: ABD hisse ve yapay zekâ temalı fonlar, yurt dışı hisse uygulamalarındaki en popüler hisse.
-- Kim kazanıyor / kim kaybediyor: Kısa vadede rakipler AMD ve Broadcom (haberlere göre %5,9'a kadar yükseldi; yalnız arama özeti); kaybeden Nvidia hissedarları.
-- İzleyicinin sorusu: Kurucusu giden dev şirkete ne olur?
-- Kaynaklar: https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns · https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-shares-slide-on-reports-of-ceo-jensen-huang-s-resignation/ · https://www.dunya.com/is-dunyasi/nvidia-ceosu-jensen-huang-istifa-etti-33-yillik-liderlik-sona-erdi-haberi-847470
-
-## Bu yıl halka arz olan 36 şirketin 16'sının sonucu kötüleşti
+## Piyasa yıl sonu enflasyonunu ilk kez yüzde 30'un üstünde görüyor: emekli zammına ne olur?
 - Kategori: ana konu
-- Puan: 10/13 (isim 2, cep 2, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 13 Kasım 2026 (Endeks24 derlemesi), Borsa İstanbul
-- Ne oldu: 2026'da borsada işlem görmeye başlayan 36 şirketin 16'sında 9 aylık net sonuç (ana ortaklık payı) bir yıl öncesine göre kötüleşti; 6 şirket 9 ayı zararla kapattı.
+- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 13 Kasım 2026 10.00, TCMB Piyasa Katılımcıları Anketi (kasım; 9-11 Kasım, 70 katılımcı)
+- Ne oldu: 2026 yıl sonu TÜFE beklentisi %29,63'ten %30,04'e çıktı; endeks24'e göre bu yıl sonu beklentisi 10. kez arttı. Bir gün önce TCMB kendi tahminini %29,5'e çekmişti.
+- Detaylar ve rakamlar (çok kaynaklı arama özeti: cnbce, euronews, cumhuriyet, memurlar, endeks24):
+  - Aylık TÜFE beklentisi: kasım %1,09, aralık %0,84, ocak 2027 %3,58
+  - 12 ay sonrası %23,89 → %24,04; 24 ay sonrası %17,94 → %18,02; 2027 yıl sonu %23,57; 5 yıl sonrası %12,15
+  - Yıl sonu dolar/TL 51,55 → 51,61; aralık PPK faiz beklentisi %35
+  - Büyüme: 2026 %2,9, 2027 %3,9
+  - (hesap) SSK/Bağ-Kur ocak zammı: temmuz-ekim birikimli %8,28 (arşiv) × kasım 1,0109 × aralık 1,0084 = ~%10,4. Ocak beklentisi %3,58 bunun ~üçte biri.
+  - Emekliye ek zam / refah payı için 13 Kasım itibarıyla açıklanmış oran yok (arama özeti)
+- Kimsenin anlatmadığı taraf: Zammı belirleyen kasım-aralık beklentileri düşük (%1,09 ve %0,84), ama ocak ayı tek başına %3,58 bekleniyor; zam yürürlüğe girdiği ay üçte biri eriyor (hesap).
+- Kim kazanıyor / kim kaybediyor: Sabit gelirliler (emekli, memur) ve TL birikimi olan kaybeder; enflasyona endeksli tahvil sahipleri kazanır.
+- İzleyicinin sorusu: Ocakta emekli zammı ne kadar olacak ve ne kadar sürecek?
+- Kaynaklar: https://www.cnbce.com/veriler/piyasa-katilimcilari-anketi-yil-sonu-enflasyonu-tahmini-yuzde-30-asti-h41724 · https://www.endeks24.com/tcmb-anketinde-yil-sonu-enflasyon-beklentisi-yuzde-30-u-asti-10-kez-artti · https://www.memurlar.net/haber/1183988/piyasa-katilimcilarinin-enflasyon-beklentisi-yukseldi.html
+
+## ABD'de üretici enflasyonu beklentinin altında kaldı: Fed ve altın
+- Kategori: dünya
+- Puan: 9/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 0)
+- Tarih / yer: 13 Kasım 2026 16.30 TSİ, ABD (BLS)
+- Ne oldu: Ekim ÜFE aylık %0,3 (beklenti %0,4), yıllık %6,5 (beklenti %6,6; eylül %6,3). Çekirdek aylık %0,3 (beklentiye paralel), yıllık %5. Eylül aylık %1,3'ten %1,4'e revize.
 - Detaylar ve rakamlar:
-  - Gentaş Kimya (GENKM): 199,9 milyon TL kârdan 76,7 milyon TL zarara (yalnız arama özeti).
-  - Golda Gıda (GOLDA): 24,6 milyon TL kârdan 76,3 milyon TL zarara (yalnız arama özeti).
-  - Net Global Endüstriyel: kâr %91 düştü (yalnız arama özeti).
-  - 9 Ekim kapanışına göre 36 payın 13'ü arz fiyatının üstünde, 23'ü altında (başka bir Endeks24 başlığında 35 hisseden 22'si; çelişkili).
-  - BIST Halka Arz endeksi 15 Eylül-12 Ekim 2026 arasında %57,62 düştü (yalnız arama özeti).
-  - Endeks24: 2026 halka arz gelirinin %75'i şirketlere gitti; 3 Eylül'den beri yeni SPK onayı yok (başlıklar).
-- Kimsenin anlatmadığı taraf: Halka arz endeksi fon krizinin başladığı 15 Eylül'den sonraki bir ayda yarıdan fazla değer kaybetti; bilançolar da şimdi kâr tarafının zayıfladığını gösteriyor.
-- Kim kazanıyor / kim kaybediyor: Arzda payını satan eski ortaklar ve paranın %75'ini alan şirketler; kaybeden arzdan hisse alıp tutan küçük yatırımcı.
-- İzleyicinin sorusu: Halka arzdan hisse alanlar neden zararda?
-- Kaynaklar: https://www.endeks24.com/2026-halka-arzlarinda-16-sirketin-9-aylik-sonucu-geriledi-6si-zarar-yazdi · https://www.endeks24.com/halka-arz-endeksi-15-eylulden-bu-yana-yuzde-57-geriledi · https://www.endeks24.com/2026-halka-arzlarinda-35-hisseden-22si-arz-fiyati-altinda
+  - ÜFE rakamları çok kaynaklı arama özeti (AA, cnbce, foreks, ekoturk)
+  - Gün ortası: ons ~3.895 dolar, gram ~6.333 TL, dolar ~50,37 TL, BIST 100 11.855 (+%0,38) (Foreks; yalnız arama özeti)
+  - Sabah bülteni: dolar endeksi 19 ayın zirvesi, altın 4 Kasım'dan beri en düşük (gram 6.287 TL'ye kadar)
+  - Aralıkta Fed faiz artırımı olasılığı %81 (İstanbul Ticaret Gazetesi, ÜFE öncesi; 11 Kasım arşivinde %91 yazıyordu) — yalnız arama özeti
+  - Brent 13 Kasım sabahı 95-96 dolar; 12 Kasım'da İran-ABD anlaşma iyimserliğinin azalmasıyla %3,3 yükselmişti (arama özeti)
+- Kimsenin anlatmadığı taraf: Altını baskılayan ana etken Fed'in artırım beklentisiyle güçlenen dolar; ÜFE'nin beklenti altı gelmesi bu baskıyı hafifletebilecek ilk veri (yorum; açı 0 bu yüzden).
+- İzleyicinin sorusu: Fed faiz artırırsa altın ve dolar ne olur?
+- Kaynaklar: https://www.aa.com.tr/tr/ekonomi/abdde-uretici-fiyat-endeksi-yuzde-6-5-ile-beklentilerin-altinda-artti/4124176 · https://www.cnbce.com/haberler/abdde-uretici-enflasyonu-beklentilerin-altinda-artti-h41769
 
-## Altın 4 Kasım'dan beri en düşükte
-- Kategori: küçük detay (dünya / emtia)
-- Puan: 9/13 (isim 3, cep 3, tazelik 2, boşluk 1, açı 0)
-- Tarih / yer: 12-13 Kasım 2026
-- Ne oldu: Spot ons 12 Kasım'da 3.894-3.925 dolara kadar indi (4 Kasım'dan beri en düşük); gram altın 6.287 TL'ye kadar geriledi. 13 Kasım sabahı gram ~6.324-6.350 TL, ons ~3.913-3.920 dolar.
-- Detaylar ve rakamlar: Dolar endeksi 19 ayın zirvesi (103,08, önceki bülten); aralık Fed artırım ihtimali %87-91 (yalnız arama özeti); dolar/TL sabah ~50,34-50,37. Çeyrek ~10.400-10.465 TL.
-- Kimsenin anlatmadığı taraf: 11 Kasım bülteninde işlendi (yüzde 3 düşüş); yeni açı yok, yalnız seviye güncellemesi.
-- İzleyicinin sorusu: Fed faiz artırırsa altına ne olur?
-- Kaynaklar: https://www.timeturk.com/12-kasim-altin-sert-dustu-ons-4000-dolarin-gram-6500-tlnin-altinda · https://www.yenicaggazetesi.com/13-kasim-2026-dolar-5034-tl-gram-altin-6-bin-324-tl-ile-gune-basladi-1090567h.htm
-
-## Türkiye Sigorta: prim yüzde 28 arttı, kâr yüzde 44 düştü
-- Kategori: küçük detay
-- Puan: 7/13 (isim 2, cep 1, tazelik 1, boşluk 2, açı 1)
-- Tarih / yer: 5 Kasım bilançosu; 13 Kasım Endeks24 sigortacı derlemesi
-- Ne oldu: Türkiye Sigorta 9 ayda 134,6 milyar TL prim üretti (+%28) ama net kâr ~7,9-8,1 milyar TL'ye düştü (-%44; geçen yıl ~14,3 milyar). 3. çeyrekte 5,42 milyar TL net zarar (beklenti 6,55 milyar kâr).
-- Detaylar: Yatırım giderleri %32 artışla 28,05 milyar TL; özkaynak kârlılığı %51'den %21'e. Borsadaki 7 sigortacının 9 aylık toplam kârı 43,22'den 41,18 milyar TL'ye, 4'ünde kâr geriledi (Endeks24, 13 Kasım). Fon krizi bağlantısı: 2 Kasım'da şirketin %100 karşılık (10,942 milyar TL) ayırdığı yazılmıştı.
-- Kimsenin anlatmadığı taraf: Primler artarken kârın düşmesi fon krizi karşılığından geliyor (bağlantı arşiv kaydına dayanıyor).
-- İzleyicinin sorusu: Sigorta şirketi neden zarar etti?
-- Kaynaklar: https://bankadunyasi.com/turkiye-sigorta-net-kar-2026-dokuz-ay/ · https://www.endeks24.com/borsadaki-7-sigortacinin-4unde-9-aylik-kar-geriledi-prim-yuzde-19-artti
-
-## Türkiye'de bu yıl 12,5 milyon akıllı telefon satışı bekleniyor (yalnız arşiv)
-- Kategori: küçük detay
-- Puan: 7/13 (isim 3, cep 1, tazelik 2, boşluk 0, açı 1)
-- Ne oldu: BloombergHT'ye göre Türkiye pazarı yılı 12,5 milyon adetle (+~%7) kapatacak; dünyada satışlar ~1 milyar adede daralıyor; tablet pazarı +%10 (yalnız arama özeti). 2025: ~12 milyon (Samsung Türkiye verisi).
-- Kaynak: https://www.bloomberght.com/turkiye-de-12-5-milyon-adet-akilli-telefon-satisi-bekleniyor-3794501
+## Cari fazla sürdü ama Merkez Bankası rezervi eylülde 10 milyar dolar eridi
+- Kategori: ana konu
+- Puan: 8/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 13 Kasım 2026 10.00, TCMB ödemeler dengesi (eylül)
+- Ne oldu: Eylülde 2,72 milyar dolar cari fazla (beklenti ~2,39; ağustos 4,05). Yıllık cari açık ~39,2 milyar dolara indi.
+- Detaylar ve rakamlar (çok kaynaklı arama özeti: cnbce, endeks24, istanbulticaretgazetesi, hibya):
+  - Altın ve enerji hariç fazla 7,342 milyar dolar
+  - Dış ticaret açığı (ödemeler dengesi tanımlı) 3,642 milyar dolar
+  - Hizmetler net girişi 9,014 milyar dolar; doğrudan yatırım net girişi 859 milyon dolar
+  - Resmî rezervlerde eylülde 10,013 milyar dolar net azalış
+  - Kripto varlık işlemleri ilk kez (MKK verisiyle) ödemeler dengesine dahil edildi
+- Kimsenin anlatmadığı taraf: Turizm fazlası rekor dönemde bile rezerv eriyor; eylül fon krizinin başladığı ay (15 Eylül) ve rezerv kaybı onunla aynı aya denk geliyor (bağlantı yorum, nedensellik doğrulanmadı).
+- İzleyicinin sorusu: Cari fazla verirken Merkez Bankası'nın dövizi neden azalıyor?
+- Kaynaklar: https://www.cnbce.com/veriler/merkez-bankasi-acikladi-eylulde-272-milyar-dolar-cari-fazla-verildi-h41723 · https://www.endeks24.com/cari-islemler-eylulde-fazla-verdi-yillik-acik-39-milyar-dolara-geriledi
 
 ## Süren hikâye gelişmeleri (bugün)
-- **Tasfiye edilen fonlar** – 12/13 (2/3/3/2/2): 13 Kasım ödeme günü; şirketlerin fonlardaki kendi paylarını geri alması (1,64 milyar TL). Ayrıntı yukarıda.
-- **Akaryakıtta kademeli ÖTV** – 12/13 (3/3/3/1/2): motorine 14 Kasım ~4 TL indirim beklentisi; Brent 12 Kasım'da Trump'ın İran sözleriyle sıçradı; 1 Aralık ÖTV adımı ~3,60 TL (hesap).
-- **Fon soruşturması** – 8/13 (2/2/2/1/1): Fatih Erbakan 12 Kasım Beykoz'da mağdurlarla buluştu, "1 trilyonun 400 milyarı yurt dışına çıkarıldı" iddiası (doğrulanmamış); X'te #FatihErbakanAnaParaAlacak (355, 9 saat), #SucluSPKOmerGonulHapse (665, 14 saat). Karahan 12 Kasım'da fonlardan çıkan paranın büyük ölçüde mevduata geçtiğini söyledi. Kaynak: https://www.beykozolay.com/2026/11/12/fatih-erbakan-beykozda-fon-magdurlariyla-bulustu-vurgunun-bedeli-millete-odetilemez/
+- **Tasfiye edilen fonlar** – 12/13 (2/3/3/2/2): 10. Fon Koordinasyon Kurulu; 161 milyar TL, 444.893 yatırımcı, 333.493 tamamını aldı. Ayrıntı yukarıda. X: #TumFonlaraTamOdemeYAP (skor 348), #PPFdeBenimHayatımVar (getdaytrends'te 1. sıra), #BoraErdinFonOdemeleriSohbeti (337), #FonzedeyiDinleYoksaOyYok (485), #PPFyiOyalamaTamOde (325).
+- **Akaryakıtta kademeli ÖTV**: yeni resmî gelişme yok; motorine 14 Kasım gece yarısı ~4 TL indirim hâlâ sektör kaynaklı beklenti (İstanbul ~91 TL tahmini, tek kaynak). Brent 95-96 dolar. Puan verilmedi (sabahla aynı).
+- **Fon soruşturması**: X'te #imamAltinbasVarligiTMSFye ve #SucluSPKOmerGonulHapse (423); 13 Kasım'da Emir Sarıgül ifadesindeki Kıbrıs arazi satışı iddiası haberi (abcgazetesi, doğrulanmadı). Yeni tutuklama bulunamadı.
+- Ayrıca (hikâye dışı, para dışı): HABAŞ Aliağa fabrikasında patlama sonrası (18-19 ölü; tutarsız) işçiler telefon yasağını protesto etti, gözaltılar var; X'te "HABAŞ" trend. Kanal konusu değil.
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. **"Motorin ucuzluyor mu, iki hafta sonra yine mi pahalanıyor?"** (12/13) — İlk cümle: "Motorine yarın litrede 4 lira indirim bekleniyor; ama 1 Aralık'ta vergisi 3 lira artıyor." Neden bugün: indirim yarın, ÖTV 18 gün sonra. Takip değeri: çok yüksek — pompa fiyatının ürün fiyatı + kur + ÖTV + KDV'den nasıl oluştuğunu öğretir.
-2. **"Fon paranız bugün yatacak mı?"** (12/13) — İlk cümle: "Şimdiye kadar 420 bin kişiye 130 milyar lira ödendi; bugün yeni ödeme günü." Açı: şirketlerin kendi hisselerini fonlardan 1,64 milyar liraya geri alması. Takip değeri: yüksek — ödeme sırasını (küçükten büyüğe), 1 milyon sınırını ve paranın nereden geldiğini öğretir; tutar açıklanmazsa belirsiz kalır, öğlen kontrol et.
-3. Dünya: **"Nvidia patronunu kaybetti, şimdi ne olacak?"** (10/13) — İlk cümle: "Dünyanın en değerli şirketlerinden biri 33 yıllık kurucusunu kaybetti; hisse açılışta yüzde 14 düştü." Neden bugün: istifa dün duyuruldu, bilanço 18 Kasım. Takip değeri: orta — Apple-Jobs 1985 karşılaştırmasıyla "kurucu riski"ni öğretir; Türkiye köprüsü zayıf.
-4. **"Halka arzdan hisse alanlar neden zararda?"** (10/13) — İlk cümle: "Bu yıl borsaya giren 36 şirketin 23'ü arz fiyatının altına indi." Takip değeri: yüksek — halka arzda paranın kime gittiğini (%75 şirkete) ve bilanço okumayı öğretir.
-5. Yedek (haber şart değil): **"Getir neden bu kadar küçüldü?"** — konular.csv'de geçmiyor; kanal RSS'i erişilemediği için son 30 gün yine kontrol edilemedi.
+1. **"Fon paranızın tamamını kimler alamadı?"** (12/13) — İlk cümle: "Fon mağdurlarına ödenen para 161 milyar liraya çıktı; ama 111 bin kişi hâlâ parasının tamamını almadı." Neden bugün: 10. Kurul toplantısı bugün, kasım ortası hedefi. Takip değeri: yüksek — ödeme sırasını, 1 milyon sınırını, "fahiş kazanç" istisnasını öğretir.
+2. **"Motorin ucuzluyor mu, iki hafta sonra yine mi pahalanıyor?"** (sabahtan, 12/13) — İlk cümle: "Motorine bu gece litrede 4 lira indirim bekleniyor; ama 1 Aralık'ta vergisi 3 lira artıyor." Neden bugün: indirim gece yarısı. Takip değeri: çok yüksek — pompa fiyatının nasıl oluştuğunu öğretir.
+3. **"Emekli zammı daha cebe girmeden eriyecek mi?"** (11/13) — İlk cümle: "Piyasa ilk kez yıl sonu enflasyonunu yüzde 30'un üstünde görüyor; emeklinin ocak zammı yüzde 10,4 hesaplanıyor, ocak ayı tek başına yüzde 3,6 bekleniyor." Neden bugün: anket bugün. Takip değeri: yüksek — 6 aylık enflasyonla zam hesabını öğretir.
+4. Dünya: **"Altın neden düşüyor: suçlu Fed mi?"** (9/13) — İlk cümle: "Gram altın 4 Kasım'dan beri en düşük bölgede, 6.333 lira; dolar 19 ayın zirvesinde." Takip değeri: orta-yüksek — faiz, dolar ve altın ilişkisini öğretir. (Nvidia/Huang 10/13 sabahtan; bugün yeni gelişme sınırlı: hisse 12 Kasım %4,3 düşüşle 166,19 dolar kapattı, 13 Kasım açılış öncesi +%1,7.)
+5. Yedek (haber şart değil): **"Getir neden bu kadar küçüldü?"** — sabahki yedek korunuyor; kanal RSS'i erişilemediği için son 30 gün kontrol edilemedi.
 
 ## Rakip radarı
 Veri alınamadı: YouTube RSS bu oturumda da 403 (proxy, www.youtube.com). Bizim kanalın son videoları da kontrol edilemedi.
 
-## Takvim
-- 13 Kas Cum 10.00 – TCMB eylül ödemeler dengesi. Açıklanınca bakılacak rakamlar: beklenti ~2,394 milyar dolar fazla (AA Finans, 14 ekonomist; aralık 1,9-2,9); Bizim Menkul 2,9 milyar; ağustos 4,053 milyar dolar fazla; yıl sonu beklentisi 45,3 milyar dolar açık (AA) / 48,5 (Bizim Menkul). TCMB Piyasa Katılımcıları Anketi (kasım) – yıl sonu enflasyon ve 2027 beklentisi (bağlı: memur/emekli zammı tartışması). Fon ara ödemesi günü.
-- 14 Kas Cmt – Motorine ~4 TL indirim beklentisi (resmî değil).
-- 15 Kas Paz – Memur maaşı yasal ödeme günü (13 Kasım'a çekildiği yazılıyor, doğrulanmadı).
-- 16 Kas Pzt 11.00 – HMB ekim bütçe dengesi; TÜİK eylül ücretli çalışan, ekim motorlu kara taşıtları.
-- 17 Kas Sal – TÜİK ekim konut satışları (eylül: 142.390, -%9,3; 9 ay 1.092.919, -%7,2); SSK emekli aylıkları 17-26 Kasım (Bağ-Kur 25-28 Kasım).
-- 18 Kas Çar – TÜİK 3. çeyrek işgücü; Nvidia 3. çeyrek bilançosu (TSİ gece; tarih önceki bültenden).
-- 20 Kas Cum – TÜİK kasım tüketici güveni (ekim 84,8).
-- 7 günün dışında: 27 Kasım – bütçe görüşmeleri bitiyor, emekli refah payı düzenlemesinin ardından Meclis'e gelmesi bekleniyor; 30 Kasım – MSCI değişiklikleri yürürlükte; 1 Aralık – motorin ÖTV 12 TL. (Asgari Ücret Tespit Komisyonu aralık başında toplanacak; Türk-İş ekim açlık sınırı 38.024 TL, net asgari ücret 28.075 TL — yalnız arama özeti.)
-
-## Piyasa notu (12 Kasım kapanış)
-BIST 100 %1,24 artışla 11.811,19 (15 Ekim'den beri en yüksek kapanış; 52 haftalık zirvenin ~%22 altında); BIST 30 14.815,37; 80 hisse yükseldi, 18 düştü; hacim ~136 milyar TL; dolar ~50,25 (çok kaynaklı arama özeti). 13 Kasım sabah: Nikkei +%1,72, Kospi +%2,05, Hang Seng -%0,69 (yalnız arama özeti). Kaynaklar: https://www.bloomberght.com/piyasa-ozeti-12-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3794461 · https://aposto.com/piyasalar/kapanis/2026-11-12
+## Bu akşam
+- Gece yarısı – Motorine litrede yaklaşık 4 TL indirim bekleniyor (resmî değil)
+- (Takvim) 16 Kas Pzt 11.00 HMB ekim bütçesi; 17 Kas TÜİK konut satışları; Nvidia bilançosu: bir kaynak "gelecek salı" (17 Kas), arşiv 18 Kas diyor — doğrulanmalı.

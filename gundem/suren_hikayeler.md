@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-13 08:55 TSİ)
+(Güncelleme: 2026-11-13 16:55 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -27,6 +27,7 @@
   - 12 Kasım 2026 – Kasım ortası hedefi yaklaşırken yeni ödeme duyurusu yok; bazı mağdurlar anaparayı eksik aldığını söylüyor; X'te #HirsizListesiVerilmezseOyYok 770 (16 saat), #OnceTamOdeSonraTutukla 575, #PPFdeAlınTerimiGeriVer 549 (12 saat), #FonzedeYarınAYMde 341 – https://www.cumhuriyet.com.tr/turkiye/fon-krizinde-milyarlar-odendi-ama-magduriyet-bitmedi-magdurlar-borc-bataginda-2554063
   - 12 Kasım 2026 öğleden sonra – Yeni resmî açıklama yok; X'te #PPFdeAlınTerimiGeriVer 24 saatin 1 numarası (skor 655, 15 saat), gün içinde #PPFyiOyalamaTamOde, #SucluSPKOmerGonulHapse, #AltinbasODEyoksaTMSF, "Para Piyasası Fonu" – https://getdaytrends.com/turkey/
   - 13 Kasım 2026 – Bugün yeni ödeme günü: Cevdet Yılmaz 6 Kasım'da (NTV) 13 Kasım'da "önemli miktarda" ödeme yapılacağını, küçükten büyüğe gidileceğini, sürecin kasım sonunda tamamlanmasının beklendiğini söylemişti (tutar açıklanmadı). 11-12 Kasım'da Blume (14,6 milyon TL), Şa-Ra Enerji (409,3 milyon TL), Çitlekçi (~1,13 milyar TL) ve Gıpta (~80 milyon TL) Tera fonlarındaki kendi paylarını borsa dışında kapanış fiyatından geri aldı, toplam ~1,64 milyar TL; X'te #FonzedeyiDinleYoksaOyYok 737 (15 saat), #PPFyiOyalamaTamOde 510 – https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-cevdet-yilmazdan-ntvye-ozel-aciklamalar-1749713 · https://www.borsamatik.com.tr/borsada-uc-sirketten-16-milyar-tllik-tera-fonu-hamlesi-haber-181796
+  - 13 Kasım 2026 öğleden sonra – 10. Fon Koordinasyon Kurulu: 119 fonda 444.893 yatırımcıya toplam ~161 milyar TL (ayni+nakdi) ödendi, 333.493 kişi net yatırımının tamamını aldı (5 Kasım'da 179.449); ~111 bin kişi tamamını almadı (hesap); fahiş kazanç tespit edilenler ara ödeme dışında; X'te #TumFonlaraTamOdemeYAP (348), #PPFdeBenimHayatımVar (1. sıra) – https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/fon-koordinasyon-kurulu-10-kez-toplandi-161-milyar-tl-odeme-yapildi-1829128
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
