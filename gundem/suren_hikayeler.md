@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-14 08:55 TSİ)
+(Güncelleme: 2026-11-14 16:30 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -94,6 +94,7 @@
   - 12 Kasım 2026 – Benzine 00.01'de 3,40-3,54 TL indirim (kaynaklara göre); İstanbul Avrupa 71,20, Anadolu 71,00, Ankara ~72,20, İzmir 72,40; motorin 95,20 (İzmir 96,60), LPG 50,70 değişmedi; motorine 14 Kasım ~4 TL indirim beklentisi (resmî değil); Brent 91,45 (ABD-İran diplomasi beklentisi) – https://www.gzt.com/ekonomi/benzine-340-tl-indirim-geldi-12-kasim-istanbul-ankara-izmir-akaryakit-fiyatlari-4277757
   - 13 Kasım 2026 – Motorine 14 Kasım'da ~4 TL indirim beklentisi sürüyor (resmî değil; 50 litrede ~200 TL). Brent 12 Kasım'da Trump'ın "İran'la anlaşmaya ihtiyacımız yok" sözleriyle gün içi dipten ~3 dolar sıçradı (kapanış kaynaklara göre 94,24-95,82, çelişkili). 1 Aralık ÖTV adımı (9→12 TL) KDV'li ~3,60 TL (hesap) – https://www.dunya.com/enerji/petrolde-3-dolarlik-sicramanin-ardindan-sert-fren-haberi-847469 · https://paratic.com/trumpin-iran-restiyle-birlikte-brent-petrol-92-dolari-asti/
   - 14 Kasım 2026 – Beklenen ~4 TL motorin indirimi gelmedi; sektör kaynaklarına göre motorinin ton fiyatı bir günde 53 dolar arttı, hafta ortasına kadar değişiklik beklenmiyor. İstanbul Avrupa motorin 95,20 TL. Brent 13 Kasım ~96,08 dolar, haftalık ~-%2,3 – https://abcgazetesi.com.tr/ekonomi/motorine-4-tl-indirim-bekleyenlere-kotu-haber-sektor-kaynaklari-son-noktayi-koydu-877086
+  - 14 Kasım 2026 öğleden sonra – Sektör kaynakları motorinde 18 Kasım Çarşamba'ya kadar indirim ya da zam beklemiyor; Ankara 96,30-96,40, İzmir 96,60 TL – https://www.timeturk.com/motorin-indirimi-neden-gelmedi-istanbulda-fiyat-9520-tlde-kaldi
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
