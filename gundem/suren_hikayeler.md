@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-15 09:30 TSİ)
+(Güncelleme: 2026-11-15 13:55 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -30,6 +30,7 @@
   - 13 Kasım 2026 öğleden sonra – 10. Fon Koordinasyon Kurulu: 119 fonda 444.893 yatırımcıya toplam ~161 milyar TL (ayni+nakdi) ödendi, 333.493 kişi net yatırımının tamamını aldı (5 Kasım'da 179.449); ~111 bin kişi tamamını almadı (hesap); fahiş kazanç tespit edilenler ara ödeme dışında; X'te #TumFonlaraTamOdemeYAP (348), #PPFdeBenimHayatımVar (1. sıra) – https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/fon-koordinasyon-kurulu-10-kez-toplandi-161-milyar-tl-odeme-yapildi-1829128
   - 14 Kasım 2026 – Türkiye Sigorta 13 Kasım 20.00'de KAP'a fonlardan elde ettiği kazançtan enflasyonu düşerek 1.599.887.908 TL'yi gönüllü olarak TMSF'ye yatırdığını bildirdi (aynı şirket Tera'dan alamadığı DİBS için toplam 16,34 milyar TL karşılık ayırmıştı). ~111 bin kişi için kalan ödeme tarihi açıklanmadı; X'te #PPFdeBenimHayatımVar 619, #TumFonlaraTamOdemeYAP 588, #FondaAraOdemeYALANI 560 (13 saat) – https://haber.sol.org.tr/haber/turkiye-sigorta-da-fon-kazancini-tmsfye-iade-etti-16-milyar-liralik-odeme-416109
   - 15 Kasım 2026 – Bulls Yatırım 13 Kasım 16.43'te KAP'a 982 milyon TL'lik finansman bonosunun (TRFBLLYK2610, ihraç 22 Mayıs, vade 13 Kasım, yıllık basit %42,75) anapara ve kuponunu ödeyemediğini bildirdi; gerekçe SPK'nın 21 Ekim'den geçerli faaliyet durdurma kararı. SPK 5,4 milyar TL'lik yeni ihraç tavanı başvurusunu işlemden kaldırdı. ~111 bin kişi için ödeme tarihi hâlâ yok; X'te #FondaAnaParaOdenmedi 24 saatte skor 298 (6 saat), #TamAnaParaYoksaistifa 239 (yalnız arama özeti) – https://www.cnbce.com/haberler/bulls-yatirim-982-milyon-liralik-bono-odemesini-gerceklestiremedi-h41775
+  - 15 Kasım 2026 öğleden sonra – Şimşek (Kanal 7): 444.987 kişiye 161 milyar TL ödendi (olağan 94/97 fonda 55.821 kişiye 68 milyar, olağanüstü 25 fonda 415.955 kişiye 93 milyar); ~456 bin yatırımcının 371.021'i tamamını aldı; 401 milyar TL çıkış iddiasının 306 milyarı iç transfer, ~95 milyar savcılıkta; yurt dışına çıkış 8,3 milyar TL; kripto platformlarının toplam aktifi 4 milyar dolar. X'te #FondaAnaParaOdenmedi 340 (7 saat) – https://www.borsagundem.com.tr/simsek-acikladi-fon-tasfiyesinde-161-milyar-lira-odeme-yapildi
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
@@ -71,11 +72,12 @@
   - 12-13 Kasım 2026 – Fatih Erbakan (YRP) Beykoz'da fon mağdurlarıyla buluştu: kaybın Hazine'den değil sorumlulardan ödenmesini, isimlerin açıklanmasını istedi; "1 trilyonun 400 milyarı yurt dışına çıkarıldı" iddiası (doğrulanmamış). Karahan 12 Kasım'da fonlardan çıkan paranın büyük ölçüde mevduata geçtiğini söyledi. X'te #SucluSPKOmerGonulHapse 665 (14 saat), #FatihErbakanAnaParaAlacak 355 (9 saat) – https://www.beykozolay.com/2026/11/12/fatih-erbakan-beykozda-fon-magdurlariyla-bulustu-vurgunun-bedeli-millete-odetilemez/
   - 14 Kasım 2026 – Yeni gözaltı/tutuklama bulunamadı; BDDK'ya atama hâlâ yok. SPK 2026/80 bülteni (13 Kasım): EDATA, KARCL, GRTHO'da 65 kişi ve 6 kuruma suç duyurusu ve 2 yıl işlem yasağı; GRTHO dosyasında Tera Portföy Yönetimi de var – https://www.ekonomim.com/ekonomi/spkdan-3-hissede-islem-yasagi-65-kisi-hakkinda-suc-duyurusu-haberi-931158
   - 15 Kasım 2026 – Yeni gözaltı/tutuklama ya da BDDK ataması bulunamadı; X'te #ErisahAricaniKimKoruyor skor 288 (6 saat); Arıcan hakkındaki iddialar kulis düzeyinde – https://getdaytrends.com/turkey/
+  - 15 Kasım 2026 öğleden sonra – Şimşek: MASAK verisine göre 401 milyar TL'nin ~95 milyarı savcılık ve kurumların incelemesinde; fon manipülasyonu örgütlü suç kapsamına alınacak, cezalar artacak (yalnız arama özeti) – https://www.borsagundem.com.tr/simsek-acikladi-fon-tasfiyesinde-161-milyar-lira-odeme-yapildi
 - Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
-- Başlangıç: 13 Ağustos 2026 · Son gelişme: 14 Kasım 2026
+- Başlangıç: 13 Ağustos 2026 · Son gelişme: 15 Kasım 2026
 - Özet: 11606 sayılı Cumhurbaşkanı Kararı ile motorinin ÖTV'si 13 Ağustos'ta sıfırlandı ve her ay 3 TL artırılarak 1 Ocak 2027'de 13,9006 TL'ye dönecek şekilde takvime bağlandı; benzinde ÖTV 1 Kasım'da 7,90 TL'den 11,36 TL'ye çıkıyor. Dünyadaki dizel sıkışıklığı nedeniyle motorin benzinden ~20 TL pahalı; İstanbul'da 31 Ekim'de motorin 96,90, benzin 76,30 TL.
 - Zaman çizelgesi:
   - 4 Mart 2026 – 10995 sayılı CK (önceki motorin ÖTV düzenlemesi; 11606 ile bu iki motorin türü için uygulanmaz oldu) – https://www.yenisafak.com/galeri/ozgun/motorin-otv-duzenlemesi-2026-ay-ay-uygulanacak-yeni-tutarlar-belli-oldu-eylulden-sonra-fiyatlar-nasil-degisecek-4847647
@@ -98,6 +100,7 @@
   - 14 Kasım 2026 – Beklenen ~4 TL motorin indirimi gelmedi; sektör kaynaklarına göre motorinin ton fiyatı bir günde 53 dolar arttı, hafta ortasına kadar değişiklik beklenmiyor. İstanbul Avrupa motorin 95,20 TL. Brent 13 Kasım ~96,08 dolar, haftalık ~-%2,3 – https://abcgazetesi.com.tr/ekonomi/motorine-4-tl-indirim-bekleyenlere-kotu-haber-sektor-kaynaklari-son-noktayi-koydu-877086
   - 14 Kasım 2026 öğleden sonra – Sektör kaynakları motorinde 18 Kasım Çarşamba'ya kadar indirim ya da zam beklemiyor; Ankara 96,30-96,40, İzmir 96,60 TL – https://www.timeturk.com/motorin-indirimi-neden-gelmedi-istanbulda-fiyat-9520-tlde-kaldi
   - 15 Kasım 2026 – Değişiklik yok: İstanbul Avrupa benzin 71,20, motorin 95,20, LPG 50,70; Ankara motorin 96,40, İzmir 96,60 (yalnız arama özeti) – https://www.ekonomim.com/foto-galeri/ekonomi/akaryakit-fiyatlarinda-son-durum-iste-15-kasim-2026-guncel-benzin-motorin-ve-lpg-fiyatlari-galeri-931339
+  - 15 Kasım 2026 – Pompada değişiklik yok (İstanbul motorin 95,20); Şimşek: bu yıl uygulanan eşel mobil 2027'de sürdürülmeyecek – https://www.turkiyegazetesi.com.tr/ekonomi/emekli-maasinda-adil-duzenleme-bakan-simsek-zam-orani-icin-aralik-ayini-isaret-etti-1829452
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
