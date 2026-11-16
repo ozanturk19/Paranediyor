@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-16 08:45 TSİ)
+(Güncelleme: 2026-11-16 16:30 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -75,6 +75,7 @@
   - 15 Kasım 2026 – Yeni gözaltı/tutuklama ya da BDDK ataması bulunamadı; X'te #ErisahAricaniKimKoruyor skor 288 (6 saat); Arıcan hakkındaki iddialar kulis düzeyinde – https://getdaytrends.com/turkey/
   - 15 Kasım 2026 öğleden sonra – Şimşek: MASAK verisine göre 401 milyar TL'nin ~95 milyarı savcılık ve kurumların incelemesinde; fon manipülasyonu örgütlü suç kapsamına alınacak, cezalar artacak (yalnız arama özeti) – https://www.borsagundem.com.tr/simsek-acikladi-fon-tasfiyesinde-161-milyar-lira-odeme-yapildi
   - 16 Kasım 2026 – Yeni gözaltı / BDDK ataması yok; X'te #YerlilMilliEmreciErisahistifa (331, 7 saat) – Arıcan istifa iddiası resmî değil; Bloomberg HT: Erdoğan 'fon konusunda taviz yok' – https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-kasim-2026-3794685
+  - 16 Kasım 2026 (09:52) – Tutuklu Tera Portföy Başkanı Erdin Özel'in ek ifadesine göre Tera Holding Başkanı Emre Tezmen'in MKK yönetimine aday gösterilmesini Erişah Arıcan sağladı (iddia); Türkiye Sigorta ve Türkiye Hayat Emeklilik bağlantılı tahvillerin Tera Bank kredisine teminat gösterildiği iddiası. Arıcan için resmi istifa / işlem yok. #TERAciErisahAricanistifa gün boyu X'te ilk 5'te – https://www.cumhuriyet.com.tr/siyaset/herkes-birbirini-mi-satiyor-fon-vurgununda-cozulme-iddiasi-ifadeler-ankara-yi-da-karistirdi-2556487
 - Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
