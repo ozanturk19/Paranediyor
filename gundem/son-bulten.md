@@ -1,95 +1,153 @@
-# Para Ne Diyor? – 15 Kasım 2026 Öğleden Sonra Bülteni
-Hazırlanma: 15 Kasım 2026 13:55 TSİ
+# Para Ne Diyor? – 16 Kasım 2026 Sabah Bülteni
+Hazırlanma: 16 Kasım 2026 08:45 TSİ (pazartesi; piyasalar açık, son kapanış 13 Kasım cuma)
 
-> Not: Pazar günü; piyasalar kapalı, son işlem günü 13 Kasım cuma. Bu oturumda cumhuriyet.com.tr, endeks24.com, gazeteoksijen.com, aydinlik.com.tr, haber7.com ağ politikası nedeniyle açılamadı; dunya.com 403 verdi. YouTube RSS bu kez çalıştı.
-
-## Booking ve Airbnb yasası salı günü Meclis Genel Kurulu'nda
+## Memur ve öğretmenin kasım maaşı neden düştü?
 - Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 2, açı 1)
-- Tarih / yer: 15 Kasım 2026 haberleri (TBMM haftalık gündemi); Genel Kurul görüşmesi 17 Kasım 2026 Salı, Ankara
-- Ne oldu: Yabancı Dijital Konaklama Platformları Kanunu Teklifi, TBMM Genel Kurulu'nda 17 Kasım salı, Türk Kızılay Kanunu Teklifi'nin ardından görüşülecek. Booking.com, Airbnb, Agoda gibi yurt dışında yerleşik platformlar Kültür ve Turizm Bakanlığı'ndan izin belgesi almak zorunda kalacak; izinsiz çalışana erişim engeli gelecek.
+- Puan: 12/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 1)
+- Tarih / yer: 15-16 Kasım 2026, Türkiye (Kasım e-bordroları e-Devlet'te açıldı)
+- Ne oldu: Kasım 2026 e-bordroları açıldı; brüt maaş değişmediği halde birçok memur ve öğretmenin net maaşı düştü. Neden: yıl başından beri biriken gelir vergisi matrahı ücretlilerde 400.000 TL'yi geçince vergi oranı yüzde 20'den yüzde 27'ye çıkıyor.
 - Detaylar ve rakamlar:
-  - İzin belgesi ücreti 5 milyon TL, her yıl yeniden değerleme oranında artar; belge 2 yıl geçerli, devredilemez (doğrulandı: memurlar.net 15 Kasım, ntv.com.tr 8 Kasım).
-  - Platformlar Türkiye Turizm Tanıtım ve Geliştirme Ajansı'na binde 7,5 pay ödeyecek; matrah dijital hizmet vergisi matrahı (doğrulandı).
-  - Bakanlığın istediği donanım/yazılımı kullanmayana 500 bin TL idari para cezası (doğrulandı).
-  - İzinsiz faaliyet, iptal ya da süresi dolan belge → erişim engeli (doğrulandı). Uyuşmazlıklarda Türk hukuku ve Türk mahkemeleri yetkili (doğrulandı, memurlar.net).
-  - Komisyondan geçen metinde yurt içinden yurt içine satışlarda otel/ev sahibinden alınan komisyon satış bedelinin yüzde 17'sini geçemeyecek (yalnız arama özeti: endeks24, gazeteoksijen).
-  - Mevcut platformlar yürürlükten itibaren 3 ay içinde başvurmak zorunda; temsilci atamayana belge verilmeyecek (yalnız arama özeti).
-  - Teklif 11 Ağustos 2026'da (bazı haberlerde 10 Ağustos) TBMM'ye sunuldu, Bayındırlık, İmar, Ulaştırma ve Turizm Komisyonu'nda kabul edildi (yalnız arama özeti). Ntv 8 Kasım'da 10 Kasım haftasında görüşüleceğini yazmıştı; görüşme bir hafta kaydı.
-  - Booking'e Türkiye'den ~9 yıldır erişim yok (ntv, doğrulandı "9 yıl"); engel Mart 2017'de TÜRSAB'ın açtığı haksız rekabet davasında İstanbul'daki mahkemenin kararıyla gelmişti (genel bilgi, bu oturumda kaynakla doğrulanmadı).
-- Kimsenin anlatmadığı taraf: Yasa "yasak" gibi sunuluyor ama asıl etkisi tersine olabilir: 2017'den beri kapalı olan Booking'in izinle yeniden açılmasının yasal yolu açılıyor ve komisyon tavanı (yüzde 17) otel/ev sahibinin maliyetine sınır koyuyor.
-- Kim kazanıyor / kim kaybediyor: Yerli acenteler ve devlet (izin ücreti, turizm payı) kazanıyor; izin almayan platformu kullanan tatilci ve ev sahibi erişim kaybı riskiyle karşılaşıyor.
-- İzleyicinin sorusu: Booking ve Airbnb yasası tatil fiyatlarını ucuzlatır mı, pahalandırır mı?
-- Kaynaklar: https://www.memurlar.net/haber/1184188/tbmm-de-yogun-hafta-iste-gundemdeki-konular.html · https://www.ntv.com.tr/ntvpara/booking-duzenlemesi-meclise-geliyor-9-yillik-erisim-engeli-bitecek-mi-1749950 · https://www.endeks24.com/booking-ve-airbnbye-izin-sarti-komisyona-yuzde-17-siniri
+  - 2026 ücret dilimleri: 190.000 TL'ye kadar %15, 190.000-400.000 TL %20, 400.000-1.500.000 TL %27 (ücret dışı gelirlerde %27 sınırı 1.000.000 TL) (yalnız arama özeti, birden fazla vergi rehberi aynı rakamı veriyor).
+  - Dilim sınırları 2026'da yüzde 25,49 yeniden değerleme oranıyla artırıldı, oranlar değişmedi (yalnız arama özeti).
+  - Ek ders ve fazla mesai alanların matrahı daha hızlı yükseliyor; aynı kadroda kesintiler farklılaşabiliyor (Sözcü, 15 Kasım 08:28; doğrulandı – haber rakam vermiyor).
+  - (hesap) Sınırı aşan her 10.000 TL matrahta vergi 2.000 TL yerine 2.700 TL: 700 TL fark. Aylık matrahı 40.000 TL olan biri tüm ayı %27'de geçirdiğinde %20'ye göre ayda 40.000 × 0,07 = 2.800 TL daha az net alır. Asgari ücret vergi istisnası ve kişisel kesintiler hesaba katılmadı; kabaca bir gösterge.
+  - Kasımda %27'ye geçen memurun kabaca aylık matrahı 40.000 TL civarı (400.000 / 10 ay) (hesap).
+- Kimsenin anlatmadığı taraf: Bu her yıl olan bir "gizli vergi artışı": sınırlar yeniden değerleme oranıyla artırılıyor, maaşlar ise yıl içinde iki kez enflasyon farkıyla artıyor; matrah yükseldikçe dilime daha erken giriliyor. Ocak'ta dilim sıfırlanınca net maaş yeniden yükselir.
+- Kim kazanıyor / kim kaybediyor: Hazine yıl sonu vergi gelirini artırıyor; yüksek ek ders / fazla mesai alan memur daha erken ve daha çok kaybediyor.
+- İzleyicinin sorusu: Zam almadığım halde maaşım neden düştü, ocakta ne olacak?
+- Kaynaklar: https://www.sozcu.com.tr/memur-ve-ogretmenler-maas-bordosunda-soke-olabilir-dusus-varsa-sasirmayin-p381424 · https://www.guncelegitim.com/haber/memur-maaslarinda-kasim-ayi-soku-yuzde-27-vergi-dilimi-bordrolara-yansidi-29937.html · https://www.memurpostasi.com/haber/28328542/maasinizdan-ne-kadar-kesinti-yapiliyor-2026-gelir-vergisi-dilimleri-netlesti
 
-## Şimşek: Emekli düzenlemesi aralıkta netleşecek, "bazılarına daha fazla"
+## Altın 13 ayın dibinde: ons zirvesinden yüzde 30 aşağıda
 - Kategori: ana konu
 - Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 15 Kasım 2026 (Kanal 7, Başkent Kulisi; haberler 13:37-13:42), Ankara
-- Ne oldu: Hazine ve Maliye Bakanı Mehmet Şimşek, emeklilere yönelik iyileştirmenin teknik çalışmalarının "büyük ihtimalle aralık içinde" tamamlanacağını, "bütün emeklilere dokunulacağını, bazılarına daha fazla destek sağlanacağını, daha fazla pozitif ayrımcılık yapılacağını" söyledi. Oran vermedi.
+- Tarih / yer: 16 Kasım 2026 sabahı, küresel piyasa + Kapalıçarşı
+- Ne oldu: Ons altın 12 Kasım'da 3.853 dolara inerek Ekim 2025'ten beri en düşük seviyeyi gördü; geçen hafta yaklaşık %4,5-4,7 kaybetti. Bu sabah ons ~3.878 dolar, gram ~6.277 TL.
 - Detaylar ve rakamlar:
-  - Birebir sözler türkiyegazetesi.com.tr'de (doğrulandı, 15 Kasım 13:40). Artışın yaş ve prim gün sayısına göre farklılaşacağı, seyyanen zamda da bu kriterlerin gözetileceği haberin özetinde (aktarım, birebir söz değil).
-  - Cumhurbaşkanı talimatıyla bütçede mali alan açıldı (doğrulandı). Haberlere göre düzenleme bütçe görüşmelerinden sonra Meclis'e gelecek (yalnız arama özeti).
-  - Ocak yasal zammı ayrı: SSK/Bağ-Kur için 4 aylık enflasyon farkı yüzde 8,29; TCMB yıl sonu tahminiyle (yüzde 29,5) ~yüzde 9,97 (yalnız arama özeti; 12 Kasım öğlen arşivi ile uyumlu). Kasım enflasyonu 3 Aralık'ta açıklanacak.
-  - En düşük emekli aylığı 23.552 TL (yalnız arama özeti).
-  - Aynı programda: bu yıl uygulanan akaryakıt eşel mobili gelecek yıl sürdürülmeyecek; deprem harcamalarında 2027-2028 sonrası azalma bekleniyor (doğrulandı, türkiyegazetesi).
-  - Bağlam: 6 Kasım'da da "tüm emeklileri kapsayacak, yaş ve prim günü" demişti (konular.csv 2026-11-06 oglen). Yeni olan: aralık takvimi ve "bazılarına daha fazla" vurgusu.
-- Kimsenin anlatmadığı taraf: Ocak zammı iki parçalı olacak: herkese aynı oranlı yasal enflasyon farkı (~yüzde 10) + yaşa ve prim gününe göre değişen ek kısım; yani aynı aylığı alan iki emeklinin ocakta farklı artış alması mümkün.
-- Kim kazanıyor / kim kaybediyor: Yaşı ileri ve prim günü yüksek emekliler daha çok kazanabilir; EYT ile genç yaşta emekli olanlar daha az pay alabilir (yorum, kriter ayrıntısı açıklanmadı).
-- İzleyicinin sorusu: Emekliye ek zam herkese aynı mı olacak, kim daha fazla alacak?
-- Kaynaklar: https://www.turkiyegazetesi.com.tr/ekonomi/emekli-maasinda-adil-duzenleme-bakan-simsek-zam-orani-icin-aralik-ayini-isaret-etti-1829452 · https://finans.mynet.com/haber/detay/ekonomi/bakan-simsek-emekli-duzenlemesi-icin-aralik-ayini-isaret-etti-bazilarina-daha-fazla-dokunacak/584083/
+  - 16 Kasım 07.11: ons vadeli 3.878,10 dolar; 52 haftalık dip 3.856,70 (yalnız %0,55 yukarıda), 52 haftalık zirve 5.586,20 dolar, zirvenin %30,58 altında (doğrulandı, Endeks24).
+  - Dolar endeksi 103,44 ile 52 haftalık zirvede (en düşük 95,55); dolar/TL 50,37 (doğrulandı, Endeks24).
+  - Haftalık kayıp kaynağa göre %4,5-4,7; Mart / Haziran'dan beri en kötü hafta (yalnız arama özeti, çelişkili karşılaştırma).
+  - Nedenler: güçlü dolar, yükselen ABD tahvil faizi, Fed'in aralıkta faiz artırma ihtimali (~%86, 11 Kasım fiyatlaması) (yalnız arama özeti). Fed'den Collins: enflasyon çok yüksek ve yayılıyor, faiz biraz daha artırılabilir (doğrulandı, Bloomberg HT gündem sayfası).
+  - Gram fiyatı kaynağa göre 6.270-6.358 TL (Kapalıçarşı 6.358) (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Ons zirvesinden %30 düştü ama dolar/TL 50'nin üstüne çıktığı için gram altındaki kayıp daha sınırlı; Türk tasarrufçusunu kurtaran şey liranın değer kaybı.
+- Kim kazanıyor / kim kaybediyor: Zirvede alan kaybediyor; dolar varlığı tutanlar ve düğün / ziynet alacaklar kazanıyor.
+- İzleyicinin sorusu: Altın neden bu kadar düştü ve en son ne zaman böyle olmuştu?
+- Kaynaklar: https://www.endeks24.com/abd-vadelileri-ekside-dolar-endeksi-52-haftalik-zirve-duzeyinde · https://timeturk.com/altin-dususle-basladi-16-kasim-pazartesi-gram-fiyati-6277-tl-oldu · https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-kasim-2026-3794685
 
-## Fonlardan çıkan 401 milyar lira nereye gitti? Şimşek açıkladı (süren hikâye)
-- Kategori: süren hikâye (10 ve üstü olduğu için ana bölümde)
-- Puan: 11/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 2)
-- Tarih / yer: 15 Kasım 2026 (Kanal 7), Ankara
-- Ne oldu: Şimşek, 440 kişinin fonlardan 401 milyar lira çıkardığı iddiasına MASAK verisiyle yanıt verdi: 306 milyar lira fon içi hareket, grup içi işlem ve portföy yönetim şirketleri arası transfer; kalan ~95 milyar lira savcılıklar ve kurumlarca inceleniyor. Tasfiyede 444.987 kişiye toplam 161 milyar lira ödendi.
-- Detaylar ve rakamlar (hepsi doğrulandı: borsagundem.com.tr, 15 Kasım 13:37):
-  - Olağan tasfiye: 97 fonun 94'ünde 55.821 kişiye 68 milyar lira, yüzde 99,9 tamam.
-  - Olağanüstü tasfiye: 25 fonda 415.955 kişiye 93 milyar lira.
-  - Türkiye'de ~2.900 fon var; 17 Eylül'de 7 portföy şirketinin 131 fonu tasfiyeye alındı, 119'unda ödeme yapıldı.
-  - ~456.000 tekil yatırımcının 371.021'i net yatırımının tamamını aldı (13 Kasım'da açıklanan 333.493'ten artış).
-  - MASAK: 131 fondan yurt dışına çıkış toplam 8,3 milyar lira.
-  - Kripto: 8 milyar dolarlık iddiaya karşı Türkiye'deki tüm kripto varlık hizmet sağlayıcılarının toplam aktifi 4 milyar dolar.
-  - (hesap) 95 / 401 = ~yüzde 24: iddia edilen çıkışın yaklaşık dörtte biri inceleme altında.
-  - Şimşek fon manipülasyonunun örgütlü suç kapsamına alınıp cezaların artırılacağını da söyledi (yalnız arama özeti, birden çok site).
-- Kimsenin anlatmadığı taraf: Konuşulan rakamların büyük kısmı gerçek çıkış değil; yurt dışına çıkan 8,3 milyar lira ve kripto platformlarının toplam varlığı (4 milyar dolar) iddiaların çok altında.
-- Kim kazanıyor / kim kaybediyor: Tamamını alan 371 bin kişi rahatladı; kalan ~85 bin kişi (hesap: 456.000 − 371.021) hâlâ tarih bekliyor.
-- İzleyicinin sorusu: Fonlardan kaçırıldığı söylenen 401 milyar lira gerçekten kayıp mı?
-- Kaynaklar: https://www.borsagundem.com.tr/simsek-acikladi-fon-tasfiyesinde-161-milyar-lira-odeme-yapildi · https://www.turkiyegazetesi.com.tr/ekonomi/emekli-maasinda-adil-duzenleme-bakan-simsek-zam-orani-icin-aralik-ayini-isaret-etti-1829452
+## Bitcoin zirvesinin yarısına indi
+- Kategori: dünya
+- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 2, açı 1)
+- Tarih / yer: 13-16 Kasım 2026, küresel kripto piyasası
+- Ne oldu: Bitcoin bir haftada ~%15 düştü; 15 Kasım'da 62.199 dolara kadar indi (CoinGecko), sonra 65 bin doların üzerine döndü. 6 Ekim 2025'teki 126.080 dolarlık zirvenin yaklaşık yarısında.
+- Detaylar ve rakamlar:
+  - 15 Kasım günlük mum 65.315,35 dolardan kapandı; 13 Kasım kapanışı 68.236,54 → 15 Kasım 65.315,35 (-%4,28). Ethereum 1.834,54 dolar. 14 Kasım mumu BTC -%6,03, ETH -%8,28 (doğrulandı, Endeks24 / Coinbase).
+  - Zirve 126.080 dolar, 6 Ekim 2025; 62.199 dolar zirvenin %50,7 altı (yalnız arama özeti; hesap birden fazla kaynakta aynı).
+  - 24 saatte ~2 milyar dolarlık pozisyon tasfiyesi, çoğu uzun pozisyon (yalnız arama özeti).
+  - En büyük dokuz kriptonun hepsi yılbaşından eksi; Cardano -%56 (Endeks24 başlığı, doğrulandı).
+  - Nedenler: Fed faiz artırımı beklentisi, ETF çıkışları, kaldıraç tasfiyesi (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Düşüşü hızlandıran şey satış değil, borçla (kaldıraçla) alınan pozisyonların otomatik kapatılması; zincirleme tasfiye.
+- Kim kazanıyor / kim kaybediyor: Kaldıraçlı alım yapanlar ve zirvede girenler kaybediyor; düşüşe oynayanlar ve borsalar (komisyon) kazanıyor.
+- İzleyicinin sorusu: Bitcoin neden yarı yarıya düştü, Türkiye'deki kripto yatırımcısı için ne anlama geliyor?
+- Türkiye köprüsü: Türkiye kripto sahipliğinde dünyanın önde gelen ülkelerinden; lira bazında kayıp kurdan dolayı daha az görünüyor.
+- Kaynaklar: https://www.endeks24.com/bitcoin-15-kasim-mumunu-artida-kapatti-hafta-sonunda-yuzde-4-dustu · https://www.kucoin.com/news/flash/bitcoin-price-falls-to-62-199-amid-fed-hike-fears-and-etf-outflows · https://www.kriptofoni.com/bitcoin-65-bin-dolar-james-check-derin-deger-bolgesi/
+
+## Türkiye'de otomobil üretimi yüzde 17 düştü
+- Kategori: ana konu
+- Puan: 10/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 1)
+- Tarih / yer: 16 Kasım 2026, OSD ocak-ekim verileri
+- Ne oldu: OSD'ye göre ilk 10 ayda toplam otomotiv üretimi %6 azalarak 1.092.519'a, otomobil üretimi %17 azalarak 592.163'e indi. İhracat adet bazında %9, otomobil ihracatı %25 düştü.
+- Detaylar ve rakamlar (doğrulandı, Habertürk + memurlar.net):
+  - Ticari araç üretimi %12, hafif ticari %13, ağır ticari %5 arttı.
+  - Kapasite kullanımı genel %61, hafif araç %63, traktör %28.
+  - İhracat 779.557 adet (-%9); TİM'e göre değer +%3 ile 35,2 milyar dolar; otomobil ihracat değeri -%6 ile 8,9 milyar dolar (UİB).
+  - İç pazar -%15 ile 916.149; otomobil satışı -%17 ile 692.916. İthal otomobil satışı -%23, yerli üretim otomobil +%1; pazar payı ithal %65, yerli %35.
+  - Ekim ayında üretim yıllık -%8 ile 121.360 (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Otomobil çökerken kamyonet / ticari araç üretimi artıyor; iç pazarda daralmanın faturası ithal otomobillere çıkıyor, yerli üretim satışı hafif artıyor. (Rakip Melda: "Egea gitti, Fiat'ın satışları sert düştü" 112 bin izlenme – aynı damar.)
+- Kim kazanıyor / kim kaybediyor: Ticari araç üreticileri (Ford Otosan) görece iyi; otomobil üreticileri ve ithalatçılar kaybediyor.
+- İzleyicinin sorusu: Türkiye neden daha az otomobil üretiyor, araba fiyatları ne olacak?
+- Kaynaklar: https://www.haberturk.com/ekonomi/otomobil-uretimi-yuzde-17-dustu-ithal-satislar-geriledi-yerli-araclar-artti-3927549 · https://www.memurlar.net/haber/1184260/otomotiv-uretimi-ocak-ekimde-yuzde-6-azaldi.html
+
+## Nvidia yarın bilanço açıklıyor, Huang dönmek istiyor
+- Kategori: dünya
+- Puan: 10/13 (isim 3, cep 1, tazelik 3, boşluk 2, açı 1)
+- Tarih / yer: 16-17 Kasım 2026, ABD
+- Ne oldu: FT'ye dayanan habere göre görevden uzaklaştırılan CEO Jensen Huang şirkete dönmeyi değerlendiriyor, destekçileri "savaş odası" kurdu. Nvidia 17 Kasım'da piyasa kapanışından sonra 3. çeyrek bilançosunu açıklayacak (geçici CEO Colette Kress yönetiminde ilk).
+- Detaylar ve rakamlar:
+  - ABD Hazine Bakanı Scott Bessent "kapsamlı değişim" ve dışarıdan yeni lider istedi; Çin'e çip aktaran paravan şirket uyarılarının görmezden gelinip gelinmediğine 10 gün içinde yanıt bekliyor; Huang Temsilciler Meclisi'nde kapalı oturumda ifade vermeyi kabul etti (doğrulandı, Bloomberg HT / FT).
+  - Altimeter Capital ve Atreides yönetim kuruluna "yavaş ve dikkatli" olma çağrısı yaptı (doğrulandı).
+  - Beklenti: gelir ~108,8-109 milyar dolar, şirket rehberi 108 milyar ±%2, hisse başı kâr ~2,47-2,48 dolar; opsiyonlar ±%10,8 hareket fiyatlıyor (yalnız arama özeti).
+  - Piyasa değeri ~5,8 trilyon dolardan ~3,9 trilyon dolara geriledi (yalnız arama özeti, tek kaynak).
+  - Not: 13 Kasım arşivinde "istifa etti" yazılmıştı; Bloomberg HT bugün "görevden uzaklaştırıldı" diyor – metin yazarı ayrılış biçimini "ayrıldı" diye nötr anlatmalı.
+- Kimsenin anlatmadığı taraf: Dünyanın en değerli şirketlerinden birinin CEO'su hakkında ABD Hazine Bakanı açıkça "dışarıdan lider" istiyor; yapay zekâ çipleri artık bir ulusal güvenlik meselesi.
+- Kim kazanıyor / kim kaybediyor: Belirsizlik sürdükçe Nvidia hissedarları ve yapay zekâ fonları kaybediyor; rakip çipçiler (AMD, TSMC'nin diğer müşterileri) fırsat görüyor.
+- İzleyicinin sorusu: Bir CEO'nun gidişi dünyanın en büyük şirketlerinden birini nasıl sarstı, yarın ne olacak?
+- Türkiye köprüsü: Yurt dışı hisse / ABD teknoloji fonu tutan Türk yatırımcı, BIST'teki yapay zekâ temalı fonlar; S&P 500 ve Nasdaq'ın yönü.
+- Kaynaklar: https://bloomberght.com/ft-huang-nvidiaya-donusu-degerlendiriyor-3794690 · https://www.forex.com/ie/news-and-analysis/nvidia-earnings-preview-nvda-s-first-test-of-the-post-jenson-huang-era/ · https://www.oanda.com/uk-en/skills-and-insights/education/trading-asset-classes/shares/nvidia-q3-earnings-preview-nov-2026/
+
+## Ford Otosan 10,77 milyar TL kâr payı (Telegram'a sığmadığı için yalnız arşivde)
+- Kategori: küçük detay
+- Puan: 6/13 (isim 2, cep 1, tazelik 1, boşluk 1, açı 1)
+- Tarih / yer: 27 Ekim KAP; genel kurul 24 Kasım 13.00, ödeme 30 Kasım
+- Ne oldu: Ford Otosan yönetimi toplam 10,77 milyar TL nakit kâr payı önerdi; A grubu için hisse başı brüt 3,07 TL, net 2,6095 TL (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Otomobil üretimi %17 düşerken ticari araç üreticisi Ford Otosan temettü dağıtıyor; ticari araç üretimi %12 arttı (doğrulandı, OSD/Habertürk).
+- İzleyicinin sorusu: Otomotiv küçülürken Ford Otosan nasıl kâr dağıtıyor?
+- Kaynaklar: https://www.endeks24.com/ford-otosan-froto-temettu-teklifi-genel-kurula-sunuldu
 
 ## Süren hikâye gelişmeleri (bugün)
-- **Tasfiye edilen fonlar** – 11/13: yukarıda ana bölümde (401 milyar açıklaması, 371.021 kişi tamamını aldı). X: #FondaAnaParaOdenmedi skor 340 (7 saat), #FondaAraOdemeYALANI 234 (5 saat), #TamAnaParaYoksaistifa 188, #HalkCevdetYilmaziReddetti 148 (3 saat; nedeni haberlerde yok), #AnaParaGelmezseAKPGidecek 145. Kaynak: https://getdaytrends.com/turkey/
-- **Fon soruşturması** – 7/13 (isim 2, cep 1, tazelik 2, boşluk 1, açı 1): yeni resmî gelişme yok; #ErisahAricaniKimKoruyor skor 188 (4 saat). Şimşek: ~95 milyar lira savcılık incelemesinde.
-- **Akaryakıt ÖTV**: 15 Kasım'da pompada değişiklik yok (İstanbul Avrupa benzin 71,20, motorin 95,20; Ankara 72,20 / 96,40; İzmir 72,40 / 96,60 – yalnız arama özeti, Habertürk/Yeni Şafak). Şimşek: eşel mobil 2027'de sürdürülmeyecek (doğrulandı, türkiyegazetesi). Telegram'a girmedi.
-- Hurda araç: valilik talimatıyla sokakta terk edilen hurda araca 9.441 TL idari para cezası (memurlar.net 15 Kasım, doğrulandı; puan 7, zayıf). https://www.memurlar.net/haber/1184170/hurda-araclar-icin-yeni-karar-kaldirmayana-para-cezasi.html
+### Fonlar ve Tera – hisselerin şirketlere geri satışı
+- Puan: 10/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 1)
+- Gelişme: SPK 15 Kasım'da, olağanüstü tasfiyedeki fonların portföyündeki hisselerin Borsa İstanbul'daki son kapanış fiyatından ilgili şirketlere geri alım yoluyla devredilebildiğini, amacın borsada satış baskısını önlemek olduğunu açıkladı; basındaki "eksik / hatalı yorumlar"a tepki gösterdi (yalnız arama özeti, çok kaynak). Savur GYO 11 Kasım KAP: İş Bankası'nın tasfiyesini yürüttüğü fonlardaki 132.499.703 payı pay başı 2,37 TL'den 314.024.296 TL'ye aldı; geri alım bütçesi 150 milyondan 349,8 milyon TL'ye çıktı; geri alınan paylar sermayenin %13,65'i (doğrulandı, Endeks24). Tera Portföy'ün ağustosta ~99,9 milyon Savur payını ortalama 16,52 TL'den (~1,65 milyar TL) aldığı iddiası (yalnız arama özeti, tek site) – doğruysa fon yatırımcısının parası %85'ten fazla erimiş.
+- Kaynaklar: https://www.endeks24.com/savur-gyo-svgyo-geri-alim-butcesini-artirdi-314-milyon-liraya-pay-alacak · https://ankahaber.net/haber/spk-den-tasfiye-edilen-yatirim-fonlarindaki-pay-satislarina-iliskin-aciklama-258014a5
+
+### Fon ara ödemeleri
+- Puan: 9/13 (isim 2, cep 3, tazelik 2, boşluk 1, açı 1)
+- Gelişme: Cevdet Yılmaz: 444.987 yatırımcıya ara ödeme; gönüllü iade 33,4 milyar TL; olağan tasfiyedeki 97 fonun 94'ünde ödeme tamam; Tera, Pusula, Atlas fonlarında sürüyor; son ara ödeme 1-2 hafta içinde; bütçeden tek lira kullanılmadı; net yatırımı sıfır olanlara ödeme yok (yalnız arama özeti; Bloomberg HT gündem sayfasında "1-2 hafta" doğrulandı). Bir haberde 84.737 yatırımcının beklediği yazıyor (yalnız arama özeti, diğer rakamlarla çelişkili). X'te #AnaParaGelmezseAKPGidecek (776, 16 saat), #HalkCevdetYilmaziReddetti (720, 15 saat), #FondaAlgıYapmaOdemeYAP (478), #sadakavermePPFtamöde (430).
+- Kaynaklar: https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-kasim-2026-3794685 · https://www.milliyet.com.tr/gundem/cumhurbaskani-yardimcisi-cevdet-yilmazdan-onemli-aciklamalar-7700824
+
+### Fon soruşturması
+- Puan: 7/13 (isim 2, cep 1, tazelik 2, boşluk 1, açı 1)
+- Gelişme: Yeni gözaltı / atama bulunamadı. X'te #YerlilMilliEmreciErisahistifa (331, 7 saat): Erdoğan'ın Borsa İstanbul YK Başkanı Erişah Arıcan'ın istifasını istediği, Arıcan'ın direndiği iddiası (İsmail Saymaz kaynaklı, 13 Kasım; resmî doğrulama yok). Bloomberg HT gündem: "Erdoğan: fon konusunda taviz yok".
+- Kaynaklar: https://www.elipshaber.com/iddia-erdogan-borsa-istanbul-yonetim-kurulu-baskani-aricanin-istifasini-istedi · https://getdaytrends.com/turkey/
+
+### Akaryakıt
+- Puan: 8/13 (isim 3, cep 3, tazelik 1, boşluk 1, açı 0)
+- Gelişme: 16 Kasım'da değişiklik yok: İstanbul Avrupa motorin 95,20, Anadolu 95,10, Ankara 96,30-96,40, İzmir 96,60 TL. Brent vadeli ~95,2-95,7 dolar. Sektör indirim beklentisi en erken 18 Kasım (yalnız arama özeti).
+- Kaynaklar: https://www.birgun.net/haber/16-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-746644
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Booking ve Airbnb yasası (11/13)
-   - Başlık taslağı: "Booking 9 yıl sonra Türkiye'ye dönüyor mu?"
-   - İlk cümle: "5 milyon lira: Booking ve Airbnb'nin Türkiye'de çalışabilmesi için ödeyeceği izin bedeli; yasa salı günü Meclis'te."
-   - Neden bugün: 17 Kasım salı Genel Kurul görüşmesi; tatil yapan herkesin kullandığı uygulamalar.
-   - Takip değeri: Öğretici — Booking'in neden kapandığını, komisyon tavanının fiyata etkisini ve ev sahibinin yükümlülüğünü anlatır; yalnız merak değil.
-2. Emekliye iki parçalı ocak zammı (11/13)
-   - Başlık taslağı: "Emekliye ek zam: Kim daha fazla alacak?"
-   - İlk cümle: "Yüzde 8,29: emeklinin ocak zammı şimdiden cepte; Şimşek ise bugün 'bazılarına daha fazla' dedi."
-   - Neden bugün: Şimşek'in bugünkü açıklaması; aralık takvimi.
-   - Takip değeri: Yüksek — yasal zam ile ek düzenleme farkını öğretir; 12 milyon emekliye ve ailelerine işe yarar. (Sabahki "çalışan emekliler" adayıyla birleştirilebilir.)
-3. Fonlardan çıkan 401 milyar (süren hikâye, 11/13)
-   - Başlık taslağı: "401 milyar lira gerçekten kaçırıldı mı?"
-   - İlk cümle: "401 milyar liranın 306 milyarı hiç fondan çıkmamış: Şimşek MASAK verisini açıkladı."
-   - Neden bugün: Bugünkü açıklama; X'te fon etiketleri ilk sıralarda.
-   - Takip değeri: Orta-yüksek — iddia ile veri arasındaki farkı öğretir; ancak kanal son 30 günde fonu çok işledi (4, 6, 11 Kasım videoları), tekrar riski var.
-- Dünya adayı (sabahtan, 9/13): "Fed faiz artırırsa altın ve dolar ne olur?" — gram altın ~6.280 TL, ons ~3.878 dolar (yalnız arama özeti); 18 Kasım Fed tutanakları ve 18 Kasım Anthropic fiyatlaması haftanın dünya kancaları. Takip değeri: öğretici (faiz-dolar-altın ilişkisi).
-- Yedek (haber şart değil): "Türk Hava Yolları biletleri neden bayramda iki katına çıkıyor?" (bizim kanalın son 15 videosunda THY / bilet fiyatı yok; rakiplerde de yok). Takip değeri: dinamik fiyatlama mantığını öğretir.
+1. **Memur maaşı neden düştü? (12/13)**
+   - Başlık taslağı: "Zam yok, maaş neden düştü?" / "Memurun kasım maaşı neden azaldı?"
+   - İlk cümle: "Brüt maaşınız aynı, ama kasımda elinize 2.800 lira daha az geçebilir."
+   - Neden bugün: Bordrolar hafta sonu açıldı, maaşlar 15 Kasım'da yattı; herkes bordrosuna bakıyor.
+   - Takip değeri: Yüksek – izleyiciye vergi diliminin nasıl çalıştığını ve ocakta ne olacağını öğretiyor (işe yarar bilgi).
+2. **Altın zirvesinden %30 düştü (11/13)**
+   - Başlık taslağı: "Altın neden zirvesinden yüzde 30 düştü?"
+   - İlk cümle: "Ons altın birkaç ayda 5.586 dolardan 3.878 dolara indi."
+   - Neden bugün: 13 ayın dibi, Fed tutanakları 18 Kasım'da.
+   - Takip değeri: Orta-yüksek – doların ve Fed'in altını nasıl etkilediğini öğretir; gram ile ons farkı (kur etkisi) işe yarar bir ders. Dikkat: kanal 11 ve 13 Kasım'da altını işledi; açı "ons vs gram" olmalı.
+3. **Bitcoin zirvesinin yarısına indi (dünya, 11/13)**
+   - Başlık taslağı: "Bitcoin neden yarı yarıya düştü?"
+   - İlk cümle: "Bir yıl önce 126 bin dolar olan Bitcoin, cumartesi 62 bin dolara indi."
+   - Neden bugün: Hafta sonu çöküşü, haftalık -%15.
+   - Takip değeri: Orta – kaldıraçlı işlemin nasıl zincirleme tasfiye yarattığını öğretir.
+- (Dünya alternatifi) Nvidia bilançosu (10/13): yarın akşamki sonuca göre çarşamba sabahı daha güçlü olur.
+- Yedek: haber şart değil – "Ford Otosan otomobil üretmeden nasıl Türkiye'nin en büyük ihracatçılarından oldu?" (tanıdık marka, ticari araç +%12 verisiyle bugüne bağlanabilir; son 30 günde bizde işlenmedi).
 
 ## Rakip radarı
-(RSS saatleri TSİ'ye çevrildi; bugün 15 Kasım'da üç rakipten de yeni video yok.)
-- Yatırım 101: 14 Kas 21:39 "Yapay Zeka Devi Halka Arz Oluyor!" – 9.728 (Anthropic); 13 Kas "Nvidia'yı Bekleyen 3 Senaryo" – 46.363; 11 Kas "1,6 Milyon Hesap 1 Günde Sıfırlandı" – 140.782.
-- Melda Yücel Kocaalp: 14 Kas 19:55 "ALTIN DÜŞER Mİ? 1,5 AYDA NE/NE KADAR KAZANDIRIR? ..." – 41.230; 12 Kas "DEVALÜASYON RİSKİ?! ..." – 118.925; 12 Kas Ülker zararı – 15.739.
-- Abdulkadir Genç: son video 12 Kas (reklam, 32.688 + 21.199, x2 yükleme); 8 Kas "Elindeki parayla yıl sonuna kadar ne yapabilirsin?" – 256.210 (x2 yükleme, diğeri 133.030); 30 Eki "BİM neden İslami banka açıyor?" – 1.789.087.
-- BİZ: 15 Kas 12:00 "100.000 liraya 'Bir günde milyoner ol' rehberi aldı..." – 147; 14 Kas "Aynı sokakta 9 kahveci" – 1.027; 13 Kas "Devalüasyon olmaz, çünkü faturası çok ağır" – 16.535; 7 Kas "Ali Ağaoğlu ekranlardan kayboldu" – 276.015.
-- Boş bırakılan açı: Rakipler altın ve Anthropic'e odaklı; Booking/Airbnb yasası, emeklinin iki parçalı zammı ve 401 milyar açıklamasını kimse işlemedi. Bizim zamansız/soyut videolar (kahveci, rehber) 1.000'in altında kaldı; haber + tanıdık isim videoları (devalüasyon 16,5 bin) belirgin biçimde önde.
+(YouTube RSS bugün 404 döndü; kanal Shorts sayfaları çekildi, ancak tarih içermiyor. Tarihler 15 Kasım öğle arşivinden.)
+- Yatırım 101: 14 Kas 21:39 "Yapay Zeka Devi Halka Arz Oluyor!" – 13 bin (15 Kasım'da 9.728). Shorts sayfasında daha yeni video yok.
+- Melda Yücel Kocaalp: Shorts listesinin en üstünde "Tüpraş 4 Büyük Bankayı Geçti! 68,7 Milyar TL Kârın Sırrı Ne?" – 2,6 bin; "BİM 10,4 Milyar TL Kâr Açıkladı! 4,2 Milyar TL Fonlardan Geldi!" – 5,2 bin; "Nvidia CEO Jensen Huang istifa etti" – 2,3 bin (tarihler doğrulanamadı). Ayrıca "Egea gitti, Fiat'ın satışları sert düştü" – 112 bin (eski).
+- Abdulkadir Genç: Yeni video yok (son: reklam 34 bin / 23 bin; "Elindeki parayla yıl sonuna kadar ne yapabilirsin?" 264 bin).
+- BİZ: Son video 15 Kas "100.000 liraya 'Bir günde milyoner ol' rehberi aldı..."; "Devalüasyon olmaz, çünkü faturası çok ağır" 58 bin (13 Kas'ta 16,5 bin idi – yükseliyor); "Ali Ağaoğlu ekranlardan kayboldu" 288 bin.
+- Boş bırakılan açı: Hiçbir rakip memur bordrosu, otomobil üretimi çöküşü ve Bitcoin'in yarıya inmesini işlemedi. Melda'nın Egea videosunun 112 bini otomotiv konusunun bu kitlede tuttuğunu gösteriyor.
 
-## Bu akşam
-Bu akşam açıklanacak önemli veri/karar yok (pazar). Yarın: 16 Kasım TBMM Plan ve Bütçe Komisyonu (Sağlık Bakanlığı bütçesi); hafta içinde 17 Kas Booking/Airbnb yasası Genel Kurul, 17 Kas ABD perakende satışlar, 18 Kas Fed tutanakları ve Anthropic halka arz fiyatlaması, 19 Kas Anthropic Nasdaq'ta.
+## Takvim
+- 16 Kas 10.00 – TÜİK eylül ücretli çalışan, ekim motorlu kara taşıtları; TCMB 3. çeyrek ticari gayrimenkul fiyat endeksi; 11.00 ekim merkezi yönetim bütçe dengesi (eylül: 532,2 milyar TL açık, faiz dışı 269,2 milyar TL açık); 11.00 TBMM Plan ve Bütçe – Sağlık Bakanlığı bütçesi; BFREN ek süresi doluyor; MEGAP işleme açıldı.
+- 17 Kas 10.00 – TCMB ekim Konut Fiyat Endeksi, TÜİK Tarım-ÜFE; ABD perakende satışlar; Nvidia 3. çeyrek bilançosu (ABD kapanış sonrası, TSİ gece); Booking/Airbnb yasası ve GSS borç silme teklifi Genel Kurul'da bekleniyor.
+- 18 Kas – Fed (FOMC) tutanakları (TSİ 22.00); Anthropic halka arz fiyatı; motorin indirimi en erken bu gün (beklenti, resmî değil).
+- 19 Kas – Anthropic Nasdaq'ta "ANT" koduyla işleme başlıyor (fiyat aralığı 70-78 dolar, yalnız arama özeti); Trump-Putin-Şi buluşması (Bloomberg HT).
+- 20 Kas 10.00 – TÜİK kasım tüketici güveni (ekim 84,8), TCMB kapasite kullanımı (ekim %74,3), reel kesim güveni (ekim 101,1), 3. çeyrek dış borç (2. çeyrek 539,0 milyar dolar).
+- 7 günün dışında: 24 Kas Ford Otosan olağanüstü genel kurulu (temettü 30 Kas); 3 Aralık kasım enflasyonu; 10 Aralık PPK (piyasa beklentisi %35).
+- Açıklanınca bakılacak rakamlar – Konut Fiyat Endeksi (17 Kas): yıllık nominal ve reel değişim, İstanbul/Ankara/İzmir; konut kredisi faizleriyle karşılaştırma.
+- Açıklanınca bakılacak rakamlar – Ekim bütçe (bugün): bütçe dengesi, faiz giderleri, vergi gelirleri; fon ara ödemelerinde "bütçeden tek lira kullanılmadı" sözüyle karşılaştırma.
+
+Ulaşılamayan: YouTube RSS (404); WebFetch'te foreks.com, borsatek.com, trtv.net, eniyihaberler.com, istanbulticaretgazetesi.com erişilemedi (aynı bilgiler başka sitelerden doğrulandı ya da "yalnız arama özeti" yazıldı).
