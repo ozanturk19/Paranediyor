@@ -1,9 +1,9 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-16 16:30 TSİ)
+(Güncelleme: 2026-11-17 08:50 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
-- Başlangıç: 15 Eylül 2026 · Son gelişme: 16 Kasım 2026
+- Başlangıç: 15 Eylül 2026 · Son gelişme: 17 Kasım 2026
 - Özet: Pusula Portföy'ün 15 Eylül'de bazı fonlarda katılma payı iadesinde temerrüt açıklamasıyla başlayan krizde SPK fonları tasfiyeye aldı. Olağanüstü tasfiyedeki 7 fonun (Atlas, Pusula, Tera Portföy kurucu) 235.705 yatırımcısına 29,3 milyar TL'lik ilk ara ödeme 30 Ekim'de başladı; 1 milyon TL'ye kadar ödeme beklenirken hesaplara en fazla 250 bin TL yattı. Ayrıca Tera Yatırım Menkul Değerler'in izinleri 27 Ekim'de iptal edildi, yatırımcı tazmini Yatırımcı Tazmin Merkezi'ne (YTM) geçti.
 - Zaman çizelgesi:
   - 15 Eylül 2026 – Pusula Portföy KAP'ta kurucusu olduğu bazı fonların katılma payı iade ödemelerinde temerrüt oluştuğunu duyurdu (sonraki haberlere göre iki para piyasası fonu) – https://www.ekonomim.com/ekonomi/pusula-portfoy-fonlari-temerrude-dustu-haberi-918387
@@ -32,11 +32,12 @@
   - 15 Kasım 2026 – Bulls Yatırım 13 Kasım 16.43'te KAP'a 982 milyon TL'lik finansman bonosunun (TRFBLLYK2610, ihraç 22 Mayıs, vade 13 Kasım, yıllık basit %42,75) anapara ve kuponunu ödeyemediğini bildirdi; gerekçe SPK'nın 21 Ekim'den geçerli faaliyet durdurma kararı. SPK 5,4 milyar TL'lik yeni ihraç tavanı başvurusunu işlemden kaldırdı. ~111 bin kişi için ödeme tarihi hâlâ yok; X'te #FondaAnaParaOdenmedi 24 saatte skor 298 (6 saat), #TamAnaParaYoksaistifa 239 (yalnız arama özeti) – https://www.cnbce.com/haberler/bulls-yatirim-982-milyon-liralik-bono-odemesini-gerceklestiremedi-h41775
   - 15 Kasım 2026 öğleden sonra – Şimşek (Kanal 7): 444.987 kişiye 161 milyar TL ödendi (olağan 94/97 fonda 55.821 kişiye 68 milyar, olağanüstü 25 fonda 415.955 kişiye 93 milyar); ~456 bin yatırımcının 371.021'i tamamını aldı; 401 milyar TL çıkış iddiasının 306 milyarı iç transfer, ~95 milyar savcılıkta; yurt dışına çıkış 8,3 milyar TL; kripto platformlarının toplam aktifi 4 milyar dolar. X'te #FondaAnaParaOdenmedi 340 (7 saat) – https://www.borsagundem.com.tr/simsek-acikladi-fon-tasfiyesinde-161-milyar-lira-odeme-yapildi
   - 16 Kasım 2026 – SPK (15 Kasım) tasfiyedeki fonların hisselerinin son kapanış fiyatından şirketlere geri alımla devredilebildiğini, amacın satış baskısını önlemek olduğunu açıkladı. Savur GYO fonlardaki 132.499.703 payı 2,37 TL'den 314 milyon TL'ye aldı (doğrulandı); Tera'nın ağustosta ortalama 16,52 TL'den aldığı iddiası (yalnız arama özeti). Cevdet Yılmaz: 444.987 yatırımcıya ödeme, 97 olağan fonun 94'ünde tamam, son ara ödeme 1-2 hafta içinde – https://www.endeks24.com/savur-gyo-svgyo-geri-alim-butcesini-artirdi-314-milyon-liraya-pay-alacak
+  - 17 Kasım 2026 – Cevdet Yılmaz (16 Kasım akşamı TRT): olağanüstü tasfiyede 92,9 milyar TL, toplam 119 fonda 161 milyar TL (16 milyarı ayni) ödendi; 371.021 kişi tamamını aldı, 84.737 kişi almadı (bir kısmına 1-2 hafta içinde "son taksit"), 10.771 kişi hiç ödeme almadı (NYT sıfır/eksi, kapalı fonlar, manipülasyon yapanlar); gönüllü iade 33 milyar TL'yi aştı. 12 Kasım ikinci dalgada birçok fonda (TLY) ~250 bin TL yattı (dekontlardan). Mağdurlar 19 Kasım 10:00'da Ankara'da SPK önünde buluşacak (tek kaynak). X'te #PPFdeAlınTerimeKimÇöktü 496, #TumFonMagdurlariAnkarada 483. TCMB eylül verisi: yabancı sıcak para 6,87 milyar dolar çıktı (5,81 milyarı fonlardan), yerli 7,58 milyar dolar; rezerv ~10 milyar dolar azaldı – https://www.memurlar.net/haber/1184154/fon-odemelerinde-84-bin-kisi-3-ara-odemeyi-bekliyor.html · https://www.memurlar.net/haber/1184366/fon-krizi-odemeler-dengesini-de-vurdu.html
 - Açık sorular: 250 bin TL sınırı nereden çıktı, kalan para ne zaman ve hangi oranda ödenecek? Ara ödeme alanların katılma payları ne olacak? Tera Yatırım için alacaklılar cetveli ne zaman ilan edilecek?
 
 ## Fon soruşturması
 - Durum: aktif
-- Başlangıç: 18 Eylül 2026 (ilk tutuklamalar) · Son gelişme: 16 Kasım 2026
+- Başlangıç: 18 Eylül 2026 (ilk tutuklamalar) · Son gelişme: 17 Kasım 2026
 - Özet: İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmasında tutuklu sayısı 27 Ekim'de 120'ye ulaştı; aralarında Pusula Holding'den Serdar Turhan, Tera Yatırım Holding'den Emre Tezmen, eski Türkiye Sigorta Genel Müdürü Taha Çakmak ve İnan Altınbaş var. 31 Ekim akşamı Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun "örgüt üyeliği" ve "rüşvet" iddiasıyla gözaltına alındı. Soruşturma düzenleyicilere de uzanıyor: BDDK Başkanı Kavcıoğlu hakkındaki iddiaları BDDK yalanladı.
 - Zaman çizelgesi:
   - 18-22 Eylül 2026 – Serdar Turhan (Pusula Holding) ve Emre Tezmen (Tera Yatırım Holding) tutuklandı – https://www.ekonomim.com/ekonomi/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-928288
@@ -76,11 +77,12 @@
   - 15 Kasım 2026 öğleden sonra – Şimşek: MASAK verisine göre 401 milyar TL'nin ~95 milyarı savcılık ve kurumların incelemesinde; fon manipülasyonu örgütlü suç kapsamına alınacak, cezalar artacak (yalnız arama özeti) – https://www.borsagundem.com.tr/simsek-acikladi-fon-tasfiyesinde-161-milyar-lira-odeme-yapildi
   - 16 Kasım 2026 – Yeni gözaltı / BDDK ataması yok; X'te #YerlilMilliEmreciErisahistifa (331, 7 saat) – Arıcan istifa iddiası resmî değil; Bloomberg HT: Erdoğan 'fon konusunda taviz yok' – https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-kasim-2026-3794685
   - 16 Kasım 2026 (09:52) – Tutuklu Tera Portföy Başkanı Erdin Özel'in ek ifadesine göre Tera Holding Başkanı Emre Tezmen'in MKK yönetimine aday gösterilmesini Erişah Arıcan sağladı (iddia); Türkiye Sigorta ve Türkiye Hayat Emeklilik bağlantılı tahvillerin Tera Bank kredisine teminat gösterildiği iddiası. Arıcan için resmi istifa / işlem yok. #TERAciErisahAricanistifa gün boyu X'te ilk 5'te – https://www.cumhuriyet.com.tr/siyaset/herkes-birbirini-mi-satiyor-fon-vurgununda-cozulme-iddiasi-ifadeler-ankara-yi-da-karistirdi-2556487
+  - 17 Kasım 2026 – Başsavcılık MASAK raporuna dayanarak Ali Emre Ballı (Finansal Kurumlar Birliği YK Başkanı olarak tanımlanıyor; 6 Ekim'de Çekmeköy'de aracında ölü bulunmuştu, yalnız arama özeti) ve İlkay Ballı'nın tüm mal varlığına el koydu, 21 şirkete (Online Teknoloji, Fair Finansman, Fair Finansal Kiralama, Online Filo, Sentez Araç Kiralama vb.; 6'sı tasfiye halinde) TMSF yönetim kayyumu atadı; iddia: usulsüz kredi, ters repo ile risk açığını büyütme, aklama. 16 Kasım gecesi: 26 gözaltıdan 7'si tutuklama, 19'u adli kontrol talebiyle sevk edildi. Arıcan için resmî gelişme yok; #TERAciErisahAricanistifa 293 – https://www.memurlar.net/haber/1184359/tmsf-21-sirketin-yonetimine-kayyum-olarak-atandi.html · https://www.memurlar.net/haber/1184350/fon-sorusturmasinda-7-supheliye-tutuklama-talebi.html
 - Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
-- Başlangıç: 13 Ağustos 2026 · Son gelişme: 16 Kasım 2026
+- Başlangıç: 13 Ağustos 2026 · Son gelişme: 17 Kasım 2026
 - Özet: 11606 sayılı Cumhurbaşkanı Kararı ile motorinin ÖTV'si 13 Ağustos'ta sıfırlandı ve her ay 3 TL artırılarak 1 Ocak 2027'de 13,9006 TL'ye dönecek şekilde takvime bağlandı; benzinde ÖTV 1 Kasım'da 7,90 TL'den 11,36 TL'ye çıkıyor. Dünyadaki dizel sıkışıklığı nedeniyle motorin benzinden ~20 TL pahalı; İstanbul'da 31 Ekim'de motorin 96,90, benzin 76,30 TL.
 - Zaman çizelgesi:
   - 4 Mart 2026 – 10995 sayılı CK (önceki motorin ÖTV düzenlemesi; 11606 ile bu iki motorin türü için uygulanmaz oldu) – https://www.yenisafak.com/galeri/ozgun/motorin-otv-duzenlemesi-2026-ay-ay-uygulanacak-yeni-tutarlar-belli-oldu-eylulden-sonra-fiyatlar-nasil-degisecek-4847647
@@ -105,6 +107,7 @@
   - 15 Kasım 2026 – Değişiklik yok: İstanbul Avrupa benzin 71,20, motorin 95,20, LPG 50,70; Ankara motorin 96,40, İzmir 96,60 (yalnız arama özeti) – https://www.ekonomim.com/foto-galeri/ekonomi/akaryakit-fiyatlarinda-son-durum-iste-15-kasim-2026-guncel-benzin-motorin-ve-lpg-fiyatlari-galeri-931339
   - 15 Kasım 2026 – Pompada değişiklik yok (İstanbul motorin 95,20); Şimşek: bu yıl uygulanan eşel mobil 2027'de sürdürülmeyecek – https://www.turkiyegazetesi.com.tr/ekonomi/emekli-maasinda-adil-duzenleme-bakan-simsek-zam-orani-icin-aralik-ayini-isaret-etti-1829452
   - 16 Kasım 2026 – Değişiklik yok: İstanbul Avrupa motorin 95,20, Anadolu 95,10, İzmir 96,60 TL; Brent ~95,2-95,7 dolar; indirim en erken 18 Kasım (yalnız arama özeti) – https://www.birgun.net/haber/16-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-746644
+  - 17 Kasım 2026 – Değişiklik yok: İstanbul Avrupa benzin 71,20, motorin 95,20, LPG 50,70 TL. Brent 16 Kasım'da 94 doların altına (Bloomberg HT kapanış özeti 93,14), WTI 88 altı; UEA bu çeyrek ~2 milyon varil/gün arz fazlası öngörüyor; motorin indirimi beklentisi resmî değil – https://www.memurlar.net/haber/1184276/akaryakitta-indirim-ihtimali-gundemde.html
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
