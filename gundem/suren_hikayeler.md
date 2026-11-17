@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-17 08:50 TSİ)
+(Güncelleme: 2026-11-17 16:15 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -78,6 +78,7 @@
   - 16 Kasım 2026 – Yeni gözaltı / BDDK ataması yok; X'te #YerlilMilliEmreciErisahistifa (331, 7 saat) – Arıcan istifa iddiası resmî değil; Bloomberg HT: Erdoğan 'fon konusunda taviz yok' – https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-kasim-2026-3794685
   - 16 Kasım 2026 (09:52) – Tutuklu Tera Portföy Başkanı Erdin Özel'in ek ifadesine göre Tera Holding Başkanı Emre Tezmen'in MKK yönetimine aday gösterilmesini Erişah Arıcan sağladı (iddia); Türkiye Sigorta ve Türkiye Hayat Emeklilik bağlantılı tahvillerin Tera Bank kredisine teminat gösterildiği iddiası. Arıcan için resmi istifa / işlem yok. #TERAciErisahAricanistifa gün boyu X'te ilk 5'te – https://www.cumhuriyet.com.tr/siyaset/herkes-birbirini-mi-satiyor-fon-vurgununda-cozulme-iddiasi-ifadeler-ankara-yi-da-karistirdi-2556487
   - 17 Kasım 2026 – Başsavcılık MASAK raporuna dayanarak Ali Emre Ballı (Finansal Kurumlar Birliği YK Başkanı olarak tanımlanıyor; 6 Ekim'de Çekmeköy'de aracında ölü bulunmuştu, yalnız arama özeti) ve İlkay Ballı'nın tüm mal varlığına el koydu, 21 şirkete (Online Teknoloji, Fair Finansman, Fair Finansal Kiralama, Online Filo, Sentez Araç Kiralama vb.; 6'sı tasfiye halinde) TMSF yönetim kayyumu atadı; iddia: usulsüz kredi, ters repo ile risk açığını büyütme, aklama. 16 Kasım gecesi: 26 gözaltıdan 7'si tutuklama, 19'u adli kontrol talebiyle sevk edildi. Arıcan için resmî gelişme yok; #TERAciErisahAricanistifa 293 – https://www.memurlar.net/haber/1184359/tmsf-21-sirketin-yonetimine-kayyum-olarak-atandi.html · https://www.memurlar.net/haber/1184350/fon-sorusturmasinda-7-supheliye-tutuklama-talebi.html
+  - 17 Kasım 2026 öğleden sonra – 26 şüpheliden 7'si tutuklandı (Ali Kıvanç Mızrakoğlu, Didem Muradoğlu, İlkay Öztürk, İsa Yasin Sevinç, İsmail Erdem, Kazım Erdur, Hilmi Serhan Çapan), 19'u adli kontrol (doğrulandı) – https://www.bloomberght.com/fon-sorusturmasinda-yedi-tutuklama-3794817 ; YENİ Parti milletvekili Ümit Özlale iddiası: POLSAN varlıkları VakıfBank'ta saklanırken Tera'ya işlem vekâleti verildi, POLSAN 20 Ekim'de ELZ fonundan 1.251.377 pay daha aldı, 11 Kasım'da ~6,32 milyon payın tamamını zararına sattı, aracı kurumlardaki yatırımları 2025'te ~8 kat arttı (toplam menkul yatırım 2025 sonu 15,27 milyar TL); POLSAN/İçişleri'nden resmî yanıt bulunamadı (yalnız arama özeti, iddia) – https://kisadalga.net/haber/gundem/yeni-partiden-fon-krizine-iliskin-ikinci-dosya-teraya-polsan-adina-islem-yapma-yetkisi-verildi-141685
 - Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı?
 
 ## Akaryakıtta kademeli ÖTV
@@ -108,6 +109,7 @@
   - 15 Kasım 2026 – Pompada değişiklik yok (İstanbul motorin 95,20); Şimşek: bu yıl uygulanan eşel mobil 2027'de sürdürülmeyecek – https://www.turkiyegazetesi.com.tr/ekonomi/emekli-maasinda-adil-duzenleme-bakan-simsek-zam-orani-icin-aralik-ayini-isaret-etti-1829452
   - 16 Kasım 2026 – Değişiklik yok: İstanbul Avrupa motorin 95,20, Anadolu 95,10, İzmir 96,60 TL; Brent ~95,2-95,7 dolar; indirim en erken 18 Kasım (yalnız arama özeti) – https://www.birgun.net/haber/16-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-746644
   - 17 Kasım 2026 – Değişiklik yok: İstanbul Avrupa benzin 71,20, motorin 95,20, LPG 50,70 TL. Brent 16 Kasım'da 94 doların altına (Bloomberg HT kapanış özeti 93,14), WTI 88 altı; UEA bu çeyrek ~2 milyon varil/gün arz fazlası öngörüyor; motorin indirimi beklentisi resmî değil – https://www.memurlar.net/haber/1184276/akaryakitta-indirim-ihtimali-gundemde.html
+  - 17 Kasım 2026 öğleden sonra – Pompada değişiklik yok (İstanbul Avrupa motorin 95,20, Ankara 96,40, İzmir 96,60); sektör kaynaklarına göre motorin indirimi 19 ya da 20 Kasım'a kaydı, tutar 4-4,50 TL arası (kesin değil, yalnız arama özeti) – https://www.samsungazetesi.com/motorine-indirim-geliyor-19-ve-20-kasim-detayi
 - Açık sorular: Aralık'taki 12 TL'lik ÖTV adımı pompaya ne kadar yansıyacak? Benzinde başka adım var mı? LPG'ye zam gelecek mi (3 Kasım iddiası doğrulanmadı)?
 
 ## Enerji faturalarında destek eşikleri
