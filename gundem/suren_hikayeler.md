@@ -1,5 +1,5 @@
 # Süren hikâyeler
-(Güncelleme: 2026-11-18 09:05 TSİ)
+(Güncelleme: 2026-11-18 16:45 TSİ)
 
 ## Tasfiye edilen fonlar, ara ödemeler ve Tera
 - Durum: aktif
@@ -82,7 +82,9 @@
   - 17 Kasım 2026 öğleden sonra – 26 şüpheliden 7'si tutuklandı (Ali Kıvanç Mızrakoğlu, Didem Muradoğlu, İlkay Öztürk, İsa Yasin Sevinç, İsmail Erdem, Kazım Erdur, Hilmi Serhan Çapan), 19'u adli kontrol (doğrulandı) – https://www.bloomberght.com/fon-sorusturmasinda-yedi-tutuklama-3794817 ; YENİ Parti milletvekili Ümit Özlale iddiası: POLSAN varlıkları VakıfBank'ta saklanırken Tera'ya işlem vekâleti verildi, POLSAN 20 Ekim'de ELZ fonundan 1.251.377 pay daha aldı, 11 Kasım'da ~6,32 milyon payın tamamını zararına sattı, aracı kurumlardaki yatırımları 2025'te ~8 kat arttı (toplam menkul yatırım 2025 sonu 15,27 milyar TL); POLSAN/İçişleri'nden resmî yanıt bulunamadı (yalnız arama özeti, iddia) – https://kisadalga.net/haber/gundem/yeni-partiden-fon-krizine-iliskin-ikinci-dosya-teraya-polsan-adina-islem-yapma-yetkisi-verildi-141685
   - 17 Kasım 2026 – İstanbul Cumhuriyet Başsavcılığı 9 şirkete TMSF kayyum atadı: Adil Katılım Bankası, Adil Varlık Yönetim, Adil Tasarruf Finansman, Dünya Varlık Yönetim (CMK 133/1; sermayenin gerçek ticari karşılığı olmayan kredi ve VDMK ihraçlarıyla sağlanıp Tera Portföy fonlarında kullanıldığı iddiası) ile Altınbaş Holding, Altınbaş Kuyumculuk, Alnus Yatırım Menkul Değerler, Altınhas Holding, Altınhas Yatırım Holding – https://www.cnbce.com/haberler/fon-sorusturmasinda-adil-katilim-bankasi-dahil-9-sirkete-kayyum-karari-h42032
   - 18 Kasım 2026 – BDDK'nın 17.11.2026 tarihli 11601 sayılı kararı Resmi Gazete'de: Adil Katılım Bankası'nın temettü hariç ortaklık hakları, yönetim ve denetimi 5411 s. Kanun md. 71/1 (a),(c),(d) ile TMSF'ye devredildi – https://www.bloomberght.com/resmi-gazete-de-bugun-18112026-3794936
-- Açık sorular: BDDK'ya kim atanacak, Kavcıoğlu hakkında soruşturma açılacak mı? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı? Adil Katılım Bankası tasfiye mi edilecek, satılacak mı; mevduat sahipleri ne yaşayacak?
+  - 18 Kasım 2026 öğleden sonra – İstanbul Cumhuriyet Başsavcılığı eski BDDK ve TCMB Başkanı Şahap Kavcıoğlu için Hazine ve Maliye Bakanlığı'ndan soruşturma izni istedi; Şimşek ön inceleme için Teftiş Başkanlığı'nı görevlendirdi. İddiaların ayrıntısı açıklanmadı – https://www.bloomberght.com/sahap-kavcioglu-icin-sorusturma-izni-talebi-3794972
+  - 18 Kasım 2026 öğleden sonra – Adalet Bakanı Gürlek: gönüllü iade ve geri kazanımla 75 kişiden 40,4 milyar TL tahsil edildi (9 Kasım'da 31,5 milyar); 498 şüpheli, 129 tutuklu, 289 adli kontrol, 54 yakalama kararı; 417 gerçek ve 149 tüzel kişinin mal varlığına el konuldu/donduruldu. 75 kişinin isimlerinin açıklanıp açıklanmayacağı net değil – https://www.cumhuriyet.com.tr/turkiye/adalet-bakani-akin-gurlek-ten-fon-sorusturmasi-aciklamasi-75-kisi-aciklanacak-mi-2557191
+- Açık sorular: BDDK'ya kim atanacak? Bakanlık Kavcıoğlu için soruşturma izni verecek mi, iddialar ne? Erişah Arıcan görevde kalacak mı? Tedbir konulan mal varlıkları mağdurlara ödemede kullanılacak mı? Adil Katılım Bankası tasfiye mi edilecek, satılacak mı; mevduat sahipleri ne yaşayacak?
 
 ## Akaryakıtta kademeli ÖTV
 - Durum: aktif
