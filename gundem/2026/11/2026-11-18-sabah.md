@@ -98,7 +98,7 @@ Hazırlanma: 18 Kasım 2026 08:50 TSİ (çarşamba; piyasalar açık)
    - İlk cümle: "Nvidia üç ayda 115,8 milyar dolar gelir yazdı; altın aynı hafta 13 ayın dibini gördü."
    - Neden bugün: Bilanço bu gece geldi, akşam Fed tutanakları var.
    - Takip değeri: Orta-yüksek – altın birikimcisine "güvenli liman neden satılır" mantığını öğretiyor. Not: bizde 17 Kas gümüş, 16 Kas'ta altın dibi işlendi; açı Nvidia bağlantısı olmalı.
-- Yedek (haber şart değil): "Koton neden her yerde ucuz kampanya yapıyor?" yerine daha güçlü: "Pegasus nasıl 99 liraya bilet satıp kâr ediyor?" – herkesin bildiği marka, açık "nasıl / neden" sorusu; son 30 günde bizde işlenmedi. Rakamlar metin yazarınca güncel kaynakla doğrulanmalı.
+- Yedek (haber şart değil): "Pegasus nasıl 99 liraya bilet satıp kâr ediyor?" – herkesin bildiği marka, açık "nasıl / neden" sorusu; son 30 günde bizde işlenmedi. Rakamlar metin yazarınca güncel kaynakla doğrulanmalı.
 
 ## Rakip radarı
 Son 48 saat (16 Kas 08:45 TSİ sonrası):
