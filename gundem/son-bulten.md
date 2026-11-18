@@ -1,78 +1,122 @@
-# Para Ne Diyor? – 17 Kasım 2026 Öğleden Sonra Bülteni
-Hazırlanma: 17 Kasım 2026 16:04 TSİ (salı; piyasalar açık)
+# Para Ne Diyor? – 18 Kasım 2026 Sabah Bülteni
+Hazırlanma: 18 Kasım 2026 08:50 TSİ (çarşamba; piyasalar açık)
 
-## GÜNCELLEME: Konut satışları ekimde yüzde 23 çakıldı, İstanbul'da yeni kiracı kirası düştü
-- Kategori: güncelleme
-- Puan: 12/13 (isim 3, cep 2, tazelik 3, boşluk 2, açı 2)
-- Tarih / yer: 17 Kasım 2026 10:00, Türkiye geneli (TÜİK konut satış istatistikleri + TCMB Konut Fiyat Endeksi ve Yeni Kiracı Kira Endeksi)
-- Ne oldu: Sabah bülteninde "bugün 10.00'da açıklanıyor" denen veri geldi: ekimde 131.072 konut satıldı, Ekim 2025'e (170.955) göre %23,3 düşüş. İkinci el satış %28,5 düşüşle 80.967'ye indi. TCMB'ye göre konut fiyatları yıllık %21,1 arttı ama enflasyondan arındırınca %6,6 değer kaybetti.
+## Adil Katılım Bankası TMSF'ye geçti, Altınbaş Kuyumculuk'a kayyum (süren hikâye: fon soruşturması)
+- Kategori: ana konu (süren hikâye gelişmesi)
+- Puan: 11/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 2)
+- Tarih / yer: 17 Kasım 2026 akşamı İstanbul Cumhuriyet Başsavcılığı kararı; 18 Kasım 2026 Resmi Gazete (BDDK kararı), İstanbul / Ankara
+- Ne oldu: Fon soruşturmasında savcılık 9 şirketin yönetimine TMSF'yi kayyum atadı. Bunlardan biri bir mevduat (katılım) bankası: Adil Katılım Bankası. BDDK aynı gün bankanın yönetim ve denetimini TMSF'ye devretti, karar bugün Resmi Gazete'de.
 - Detaylar ve rakamlar:
-  - Toplam 131.072 (−%23,3); ilk el 50.105 (−%13,1, pay %38,2); ikinci el 80.967 (−%28,5, pay %61,8) (doğrulandı, AA)
-  - İpotekli (kredili) satış 23.286 (−%5,7, pay %17,8); diğer (peşin vb.) satış 107.786 (−%26,3) (doğrulandı, AA)
-  - Takvim etkisinden arındırılmış yıllık: ilk el −%7,4, ikinci el −%24; mevsim-takvim arındırılmış aylık: ilk el −%4,8, ikinci el −%1,4 (doğrulandı, AA)
-  - Yabancıya satış 2.259 (+%0,9, pay %1,7); ilk üç: Rusya 477, İran 193, Irak 159 (doğrulandı, AA)
-  - Ocak-ekim: 1.223.991 (−%9,2); ilk el 410.018 (−%2,4); ikinci el 813.973 (−%12,3); ipotekli 235.496 (+%20,8); diğer satış 988.495 (−%14,3); yabancıya 17.567 (−%3,6) (doğrulandı, AA)
-  - TCMB KFE ekim: aylık +%0,7, endeks 240,9, yıllık nominal +%21,1, reel −%6,6. Yıllık nominal: İstanbul +%24,8, Ankara +%22,7, İzmir +%17,9; aylık: İstanbul +%1,1, Ankara +%1,6, İzmir −%0,6 (doğrulandı, CNBC-e)
-  - TCMB Yeni Kiracı Kira Endeksi ekim: aylık +%0,1, yıllık nominal +%24,5, reel −%4,1. Aylık: İstanbul −%0,5, Ankara +%1,3, İzmir −%1,3; yıllık: İstanbul +%31, Ankara +%26,6, İzmir +%20 (doğrulandı, CNBC-e)
-  - Karşılaştırma: Eylül 2026 satış 142.390 (yıllık −%9,3, sabah arşivi). Ekimde düşüş eylülün 2,5 katına çıktı. Önceki yılların ekim rakamları bu taramada doğrulanamadı; metin yazarı TÜİK serisinden bakmalı.
-- Kimsenin anlatmadığı taraf: İstanbul'da yeni kiracı kirası ekimde bir önceki aya göre %0,5, İzmir'de %1,3 düştü (TCMB). 10 ayda kredili satış %20,8 artarken peşin/diğer satış %14,3 azaldı; yani alıcıyı kaybeden kredisiz (peşin) alım ve ikinci el pazarı.
-- Kim kazanıyor / kim kaybediyor: Kiracı ve nakit tutan alıcı pazarlık gücü kazanıyor; evini satıp yenisine geçmek isteyen ikinci el satıcı ve emlakçı kaybediyor.
-- İzleyicinin sorusu: Evler satılmıyor ama fiyatlar neden hâlâ düşmüyor?
-- Kaynaklar: https://www.aa.com.tr/tr/ekonomi/turkiye-genelinde-satilan-konut-sayisi-ekimde-gecen-yilin-ayni-ayina-gore-yuzde-23-3-azaldi/4127309 · https://www.cnbce.com/veriler/konut-fiyatlari-ekimde-reel-bazda-yuzde-66-geriledi-h41983
+  - Kayyum atanan 9 şirket: Adil Katılım Bankası AŞ, Adil Varlık Yönetim AŞ, Adil Tasarruf Finansman AŞ, Dünya Varlık Yönetim AŞ; ayrı kararla Altınbaş Holding, Altınbaş Kuyumculuk, Alnus Yatırım Menkul Değerler AŞ, Altınhas Holding, Altınhas Yatırım Holding (doğrulandı, CNBC-e / AA)
+  - Dayanak CMK 133/1, "kuvvetli şüphe". Savcılık iddiası: gerçek ticari faaliyete dayanmayan krediler ve varlığa dayalı menkul kıymet ihraçlarıyla toplanan kaynak bankanın kuruluş sermayesine aktarıldı; bu sermaye Tera Portföy'ün kontrolündeki fonlara yatırılıp manipülasyonla yüksek kâr elde edildi; banka kaynakları grup şirketlerine kredi olarak kullandırıldı (doğrulandı, CNBC-e). Haberde adı geçen: "müteveffa şüpheli" Ali Emre Ballı (doğrulandı, CNBC-e).
+  - BDDK'nın 17.11.2026 tarihli 11601 sayılı kararı 18 Kasım Resmi Gazete'de (doğrulandı, Bloomberg HT RG listesi). İçerik: temettü hariç ortaklık hakları, yönetim ve denetim 5411 sayılı Bankacılık Kanunu md. 71/1 (a),(c),(d) ile TMSF'ye (yalnız arama özeti, çok sayıda site tutarlı)
+  - Banka geçmişi: BDDK kuruluş izni 23 Mayıs 2024 (karar 10914), 3 milyar TL sermaye; şubesiz dijital katılım bankası; faaliyet izni Eylül 2025 (11 Eylül karar / 20 Eylül RG, kaynaklar farklı). Kurucu ortaklar: Ali Emre Ballı, Murat Yönaç, Özberk Çetinkaya, Ali Paslı, Fahri Akcan (yalnız arama özeti). Genel müdür Murat Yönaç 9 Kasım'da tutuklanmıştı (arşivde 9 Kasım öğlen kaydı ile tutarlı).
+  - TMSF mevduat/katılım fonu sigorta limiti 2026: tek bankada kişi başı 1.200.000 TL (2023: 400 bin, 2024: 650 bin, 2025: 950 bin) (yalnız arama özeti; AA ve birçok site tutarlı)
+  - Mevduatın akıbeti, müşterilerin para çekip çekemeyeceği ve bankanın mevduat büyüklüğü hakkında resmi açıklama bulunamadı. Bir haber TMSF'nin tasfiye / birleşme / satış için rapor hazırlayacağını yazıyor (tek kaynak).
+  - Altınbaş: holding başkanı İnan Altınbaş fon soruşturmasında tutuklu; 2 Kasım'da avukatı aracılığıyla 680 milyon TL "gönüllü iade" yaptı; o tarihte 37 kişinin toplam 18 milyar TL'yi aşan iadesi (doğrulandı, Sözcü 2 Kasım). Alpet ve Altınbaş Üniversitesi listede yok (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Soruşturma ilk kez bir mevduat bankasına uzandı ve savcılığa göre bu bankanın kendi sermayesi fon vurgununun parasıyla kuruldu. Banka faaliyete geçeli yaklaşık 14 ay oldu. Bankada parası olan için güvence kişi başı 1,2 milyon TL; bunun üstü sigortalı değil.
+- Kim kazanıyor / kim kaybediyor: Kaybeden ortaklar (yönetim haklarını kaybettiler); 1,2 milyon TL üstü parası olan müşteri belirsizlikte. Altınbaş Kuyumculuk müşterileri için mağaza işleyişi hakkında bilgi yok.
+- İzleyicinin sorusu: Bankana kayyum atanırsa paran ne olur?
+- Kaynaklar: https://www.cnbce.com/haberler/fon-sorusturmasinda-adil-katilim-bankasi-dahil-9-sirkete-kayyum-karari-h42032 · https://www.bloomberght.com/resmi-gazete-de-bugun-18112026-3794936 · https://www.aa.com.tr/tr/ekonomi/tmsf-sigortaya-tabi-mevduat-ve-katilim-fon-tutarini-yukseltti/3770056
 
-## JPMorgan Türk borsası için görüşünü yükseltti: "fon meselesi bitti"
-- Kategori: ana konu (dünya köprülü)
-- Puan: 9/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 17 Kasım 2026, New York merkezli JPMorgan raporu ("2027'ye Dair İlk Düşünceler", David Aserkoff ve Inga Q. Galeni)
-- Ne oldu: JPMorgan MSCI Türkiye için tavsiyesini "nötr"den "ağırlığı artır"a yükseltti. Gerekçe: fon meselesinin sona ermesi, enflasyon düşüşüyle faiz indirim döngüsü ve beklenen borsa toparlanması.
-- Detaylar ve rakamlar (hepsi doğrulandı, AA):
-  - Tasfiye edilen 7 fonun büyüklüğü 23 milyar dolar = toplam fon evreninin (264 milyar dolar) ~%8,7'si; rapor "sistemik kriz değil" diyor
-  - Eylülde tasfiye edilmeyen fonlardan ~14 milyar dolar çıkış; aynı dönemde TL mevduat 15 milyar dolar arttı
-  - MSCI Gelişmekte Olan Piyasalar'dan çıkarılma riski %10 ya da altı
-  - TCMB'den yıl içinde kalan toplantıda 100 baz puan indirim beklentisi; 2027 sonu politika faizi tahmini %30, enflasyon %27
-  - Risk: süren enflasyon ve TL'nin reel değerlenmesi orta teknolojili ihracatı zorlayabilir
-  - Aynı raporda BAE "ağırlığı artır"a çıkarıldı, Yunanistan "nötr"e indirildi
-  - Gün içi: BIST 100 öğlene doğru %0,85 düşüşle 11.741 (yalnız arama özeti; tarih net değil)
-- Kimsenin anlatmadığı taraf: Yabancı banka "fon meselesi bitti" derken 84.737 yatırımcı anaparasını hâlâ tam almadı (Cevdet Yılmaz, 16 Kasım) ve mağdurlar 19 Kasım'da SPK önünde buluşma çağrısı yapıyor. JPMorgan'ın kendi rakamı: fonlardan çıkan 14 milyar dolara karşılık TL mevduat 15 milyar dolar arttı.
-- Kim kazanıyor / kim kaybediyor: Raporun lehine olanlar düşük değerlemeden çıkış bekleyen banka hisseleri; fon mağdurları için ise "kriz bitti" anlatısı henüz geçerli değil.
-- İzleyicinin sorusu: Fon krizi bizim için bitmedi, yabancı banka neden "bitti" diyor?
-- Kaynaklar: https://www.aa.com.tr/tr/ekonomi/jp-morgan-msci-turkiye-endeksi-icin-tavsiyesini-agirlik-artira-yukseltti/4127690 · https://www.bloomberght.com/jpmorgan-msci-turkiye-endeksi-icin-tavsiyesini-yukseltti-3794848
-- Not: Telegram'da yatırım tavsiyesi gibi okunmaması için yalnız bankanın görüşü aktarıldı.
+## HGS cezası: Bakan Uraloğlu bugün işletmecilerle toplanıyor
+- Kategori: ana konu
+- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 17 Kasım 2026 açıklama, 18 Kasım 2026 toplantı, Ankara
+- Ne oldu: Ulaştırma Bakanı Abdulkadir Uraloğlu, HGS ihlalli geçiş cezaları ve ödeme süreçlerinin yeniden değerlendirileceğini söyledi; köprü-otoyol işletmecilerini bugün topluyor: "Avukata gitmeden, 4 kat cezaya gitmeden daha ne yapabiliriz?"
+- Detaylar ve rakamlar (yalnız arama özeti; haberler.com ve sondakika erişilemedi, çok sayıda yerel site tutarlı):
+  - İhlalli geçişte 15 gün içinde kayıtlı telefona SMS; bu sürede eksik bakiye tamamlanır ya da HGS açılıp ücret ödenirse ceza yok
+  - 15-45. gün: 1 kat ceza; 45. günden sonra geçiş ücretinin 4 katı ceza (toplam 5 kat), tebligat ve avukat takibi (6001 s. Kanun md. 30/7; gün sınırları kaynaklarda 15/16 diye farklı)
+  - Eskiyen etiket, kirli/deforme plaka yanlış tespite yol açabiliyor; hatalı işlem bildirilirse geriye dönük iptal
+  - KVKK kararından sonra herhangi bir plakanın geçiş bilgisi sorgulanamıyor; yalnız ilgili kişi sorgulayabiliyor. Bakan e-Devlet'te telefon numarasının güncellenmesini istedi.
+  - Yıllık ihlal sayısı ve toplam ceza tutarı bulunamadı.
+- Kimsenin anlatmadığı taraf: Uyarı SMS'i yalnız sistemde kayıtlı telefona gidiyor; numarası eski olan, araç kiralayan ya da ikinci el araç alan kişi uyarıyı görmeden 45 günü geçirip 5 kat ödemeye düşebiliyor (Bakanın kendi açıklamasındaki işleyişten).
+- Kim kazanıyor / kim kaybediyor: 4 kat cezadan ve avukatlık ücretinden işletmeci ve takip eden hukuk büroları gelir elde ediyor; sürücü kaybediyor.
+- İzleyicinin sorusu: Bir köprü geçişi neden 5 katına çıkıyor ve bundan nasıl kurtulurum?
+- Kaynaklar: https://finans.mynet.com/haber/detay/ekonomi/bakan-uraloglu-ndan-hgs-aciklamasi-yeni-duzenleme-icin-toplanti-yapilacak/584426/ · https://memurlar.net/haber/1184424/bakan-uraloglu-ndan-hgs-aciklamasi-isletmelerle-toplanti-yarin.html
+
+## Nvidia rekor kâr açıkladı, altın bir yılın dibinde
+- Kategori: dünya
+- Puan: 10/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 2)
+- Tarih / yer: 17 Kasım 2026 ABD kapanışı sonrası (TSİ ~00:20), Santa Clara; altın küresel piyasa
+- Ne oldu: Nvidia, Jensen Huang'ın istifasından sonraki ilk bilançosunda beklentileri aştı. Aynı hafta ons altın 2 Ekim 2025'ten beri en düşük seviyeyi gördü.
+- Detaylar ve rakamlar:
+  - Nvidia gelir 115,8 milyar dolar (yıllık +%103; beklenti 108,85); veri merkezi 107,6 milyar dolar; net kâr 65,3 milyar dolar (geçen yıl 31,91); düzeltilmiş hisse başı kâr 2,68 dolar (beklenti 2,48); 4. çeyrek gelir tahmini 130 milyar dolar ±%3 (beklenti 125,2); brüt marj tahmini ~%75'ten %71-72'ye; hissedara 28,1 milyar dolar geri alım + temettü; seans sonrası hisse %1,3-4 arası yükseldi (bir kaynakta TSİ 00:37'de %2,64 artışla 159,57 dolar). Sunumu geçici CEO Colette Kress yaptı (yalnız arama özeti; foreks, investing, shiftdelete, oksijen tutarlı; sitelere doğrudan erişilemedi)
+  - Altın: ons 16 Kasım'da 3.830,74 dolar = 2 Ekim 2025'ten beri en düşük; rekor Ocak 2026'da 5.594,82 dolar, zirveden ~%31,5 düşüş; 2015'ten beri en kötü yıla gidiyor; piyasa Fed'in aralıkta 25 baz puan artırmasını bekliyor; 3.800 dolar psikolojik eşik (doğrulandı, Bloomberg HT 17 Kas)
+  - Bloomberg HT'ye göre Nvidia'nın piyasa değeri ekim başından beri 1,9 trilyon dolar azaldı ve Nvidia'daki sert düşüş yatırımcıların nakit ihtiyacı için altın satmasına yol açtı (doğrulandı)
+  - Merkez bankaları ocak-eylülde 675 ton altın aldı; 3. çeyrekte altın ETF'lerine 211 ton giriş, külçe-sikke talebi sert düştü (doğrulandı, Bloomberg HT)
+  - 18 Kasım sabahı: ons ~3.796 dolar (%1,4 düşüş), gram altın ~6.151-6.253 TL, dolar 50,43-50,44 TL (yalnız arama özeti; kaynaklar arası fark var)
+- Kimsenin anlatmadığı taraf: Teknoloji hissesindeki kayıp altını da aşağı çekti: nakit arayan yatırımcı "güvenli liman"ı satıyor. Nvidia kârını ikiye katlarken hisse ekim başından beri 1,9 trilyon dolar değer kaybetti.
+- Kim kazanıyor / kim kaybediyor: Altını zirvede alan Türk birikimci kaybediyor; ucuzlayan altını bekleyen alıcı kazanıyor. Nvidia'da kâr büyüyor ama marj düşüyor.
+- İzleyicinin sorusu: Nvidia rekor kâr ediyor, altın neden düşüyor?
+- Kaynaklar: https://www.bloomberght.com/altin-bir-yilin-en-dusuk-seviyesine-geriledi-3794814 · https://shiftdelete.net/nvidia-ucuncu-ceyrek-115-8-milyar-dolar-gelir · https://tr.investing.com/news/general-news/103-buyume-huangsz-ilk-bilancoda-nvidia-gelirini-ikiye-katlad-ama-marj-dusuy-4162400
+
+## Yabancıya 200 bin dolara 5 yıl oturma izni bugün yürürlükte
+- Kategori: ana konu
+- Puan: 7/13 (isim 1, cep 1, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 18 Kasım 2026 Resmi Gazete, Cumhurbaşkanı Kararı No. 11994
+- Ne oldu: "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar" yayımlandı ve yürürlüğe girdi.
+- Detaylar ve rakamlar (doğrulandı, Habertürk):
+  - En az 150 bin dolar (veya karşılığı döviz) = 3 yıl; en az 200 bin dolar = 5 yıl ikamet izni; eş ve ergin olmayan / bağımlı çocuklar da yararlanır
+  - Uygun yatırımlar: Türk bankalarında mevduat, devlet iç borçlanma senetleri, gayrimenkul yatırım fonu ve girişim sermayesi fonu payları, BES; her biri izin süresinin yarısı kadar tutulmalı (BDDK, Hazine, SPK, SEDDK denetler)
+  - Doğrudan konut alımı ve hisse listede yok; vatandaşlık getirmiyor (Vatandaşlık Kanunu md. 12 kapsamında değerlendirilmez)
+  - Bağlam: Ekimde yabancıya konut satışı 2.259 (yıllık +%0,9), ocak-ekim 17.567 (−%3,6) (17 Kasım öğlen arşivi, AA)
+- Kimsenin anlatmadığı taraf: İzin için ev almak değil bankaya döviz koymak yetiyor; yani devlet yabancıdan konut değil döviz istiyor.
+- Kim kazanıyor / kim kaybediyor: Bankalar ve TCMB rezervleri (döviz girişi) kazanabilir; tabela dışında konut sektörüne doğrudan katkı yok.
+- İzleyicinin sorusu: Devlet yabancıya neden "ev al" değil "bankaya para koy" diyor?
+- Kaynaklar: https://www.haberturk.com/ekonomi/yabanci-yatirimciya-200-bin-dolara-5-yil-ikamet-izni-3928108 · https://www.bloomberght.com/resmi-gazete-de-bugun-18112026-3794936
+
+## Borsa düştü, 34 şirket kendi hissesini topladı
+- Kategori: küçük detay
+- Puan: 7/13 (isim 2, cep 1, tazelik 3, boşluk 0, açı 1)
+- Tarih / yer: 17 Kasım 2026, Borsa İstanbul
+- Ne oldu: BIST 100 %1,53 (180,8 puan) düşüşle 11.661,00'den kapandı; işlem hacmi 102,6 milyar TL; bankacılık −%1,16, holding −%1,02; en çok kazandıran finansal kiralama-faktoring (+%3,37), en çok kaybettiren kimya-petrol-plastik (−%2,41) (doğrulandı, AA). Teknoloji endeksi −%2,98 (yalnız arama özeti). Neden: küresel teknoloji satışları (AA).
+- Detaylar ve rakamlar: KAP'ta 34 şirket toplam 426,8 milyon TL pay geri alımı bildirdi; en büyük Garanti BBVA 296,2 milyon TL (yalnız arama özeti, Endeks24). Aynı gün Aselsan 1,2 milyar euroluk iş, EKGYO TOKİ'den Didim'de 120.655 m2 arsa için 2,1 milyar TL protokol (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Endeks düşerken geri alımın yaklaşık %70'i tek bankadan geldi.
+- İzleyicinin sorusu: Şirketler kendi hissesini neden geri alır?
+- Kaynaklar: https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4128092 · https://www.endeks24.com/kap-ta-34-sirket-427-milyon-liralik-geri-alim-bildirdi-garanti-onde
 
 ## Süren hikâye gelişmeleri (bugün)
-- Fon soruşturması – 9/13 (isim 2, cep 2, tazelik 3, boşluk 1, açı 1): 26 şüpheliden 7'si tutuklandı (Ali Kıvanç Mızrakoğlu, Didem Muradoğlu, İlkay Öztürk, İsa Yasin Sevinç, İsmail Erdem, Kazım Erdur, Hilmi Serhan Çapan), 19'u adli kontrolle bırakıldı (doğrulandı, Bloomberg HT). YENİ Parti milletvekili Ümit Özlale'nin iddiası: polis yardımlaşma sandığı POLSAN'ın varlıkları VakıfBank'ta saklanırken Tera'ya işlem vekâleti verildi; POLSAN 20 Ekim'de ELZ fonundan 1.251.377 pay daha aldı, 11 Kasım'da ~6,32 milyon payın tamamını zararına sattı; aracı kurumlardaki yatırımları 2025'te ~8 kat arttı (toplam 15,27 milyar TL). Resmî yanıt bulunamadı (yalnız arama özeti, iddia). X'te POLSAN ilk 10'da. Kaynaklar: https://www.bloomberght.com/fon-sorusturmasinda-yedi-tutuklama-3794817 · https://kisadalga.net/haber/gundem/yeni-partiden-fon-krizine-iliskin-ikinci-dosya-teraya-polsan-adina-islem-yapma-yetkisi-verildi-141685
-- Akaryakıt – 7/13 (isim 3, cep 2, tazelik 1, boşluk 1, açı 0): pompada değişiklik yok (İstanbul Avrupa motorin 95,20); motorin indirimi beklentisi 19-20 Kasım'a kaydı, tutar 4-4,50 TL arası, kesin değil (yalnız arama özeti). Telegram'a konmadı. Kaynak: https://www.samsungazetesi.com/motorine-indirim-geliyor-19-ve-20-kasim-detayi
-- Fon mağdurları (X): 24 saatin en çok tweetlenenleri #ReisSoyuldukOdemeDüzmece (627, 13 saat), #TumFonMagdurlariAnkarada (483, 11 saat), #PPFdeAlınTerimeKimÇöktü (468, 10 saat); 19 Kasım 10:00 SPK önü buluşması çağrısı (getdaytrends).
+- Fon soruşturması – 11/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 2): Adil Katılım Bankası dahil 9 şirkete kayyum; bankanın yönetimi TMSF'ye (yukarıda ana konu olarak). Not: aynı gün Sözcü TV'nin bağlı olduğu Mega Ajans'a da TMSF kayyum atandı (Burak Akbay hakkındaki FETÖ finansmanı soruşturması; fon soruşturmasından ayrı dosya); X'te "Sözcü TV'ye", "Kayyum", "Halk TV" trendde. Siyasi/medya konusu olduğu için Telegram'a konmadı. Kaynak: https://medyascope.tv/2026/11/17/sozcu-tvye-kayyim-atandi-iste-yasananlar-canli-blog/
+- Tasfiye edilen fonlar / ödemeler – 8/13 (isim 2, cep 2, tazelik 2, boşluk 1, açı 1): Kalan ödemeler için yeni resmi tarih yok; 19 Kasım 10.00 Ankara SPK önü buluşma çağrısı. X: #FonzedeVeBasinSUSTURULAMAZ 744 (15 saat), #PPFdeGüveninKarşılığıBuMu 690 (16 saat), #TumMuhalefet19KasimSPKya 661 (14 saat), #FonzedeVeBasinaDOKUNMA 635 (13 saat), #TumMagdurlarAnkarada 605 (13 saat). Kaynak: https://getdaytrends.com/turkey/
+- Akaryakıt – 7/13 (isim 3, cep 2, tazelik 1, boşluk 1, açı 0): Değişiklik yok, İstanbul Avrupa motorin 95,20 TL (bazı listelerde 95,30); indirim beklentisi 19-20 Kasım, tutar kesin değil (yalnız arama özeti). Kaynak: https://www.timeturk.com/motorin-indirimi-neden-gelmedi-istanbulda-fiyat-9520-tlde-kaldi
+- Enerji faturalarında destek eşikleri: 10 gündür yeni gelişme yok, "kapandı"ya taşındı.
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Konut satılmıyor, fiyat neden düşmüyor? (12/13)
-   - Başlık: "Evler satılmıyor, fiyatlar neden düşmüyor?"
-   - İlk cümle: "Ekimde Türkiye'de 131 bin ev satıldı; geçen yıl aynı ay 171 bindi."
-   - Neden bugün: TÜİK ve TCMB verisi bugün geldi; İstanbul'da yeni kiracı kirası ilk kez aylık düştü (ekim −%0,5).
-   - Takip değeri: Yüksek – ev alacak ya da kiracı olan izleyiciye "reel fiyat" ve pazarlık gücünü öğretiyor.
-2. Kimliğinin süresi doluyor mu? (12/13, sabahtan)
-   - Başlık: "Kimlik ve ehliyetin süresi doluyor: kaç para?"
-   - İlk cümle: "Önümüzdeki 5 yılda 58,8 milyon kimlik ve ehliyetin süresi doluyor."
-   - Neden bugün: AA 16 Kasım akşamı yıl yıl takvimi yayımladı; ocakta ücretler yeniden değerleme ile artacak.
-   - Takip değeri: Yüksek – kendi belgesini nasıl kontrol edeceğini ve ne ödeyeceğini öğretiyor.
-3. Dünya: Nvidia Huang'sız ilk bilançoda ne söyleyecek? (9/13, sabahtan; bu gece sonuç)
-   - Başlık: "Nvidia rekor kâr açıklayacak, hisse neden düşüyor?"
-   - İlk cümle: "Nvidia'dan bu çeyrek yaklaşık 109 milyar dolar gelir bekleniyor."
-   - Neden bugün: Bilanço 18 Kasım ~00:20 TSİ; sabah gerçek rakamlarla güncellenmeli. Hisse ekim zirvesinden %30'un üzerinde aşağıda (yalnız arama özeti).
-   - Takip değeri: Orta – hisse fiyatı ile kâr farkını öğretiyor; Türkiye köprüsü zayıf.
-- (Alternatif) JPMorgan "fon meselesi bitti" dedi, mağdurlar neden bitmedi diyor? (9/13) – takip değeri orta: fon-mevduat-sıcak para bağlantısını öğretiyor.
-- Yedek (haber şart değil): "LC Waikiki neden her AVM'de var?" – herkesin bildiği marka, açık "neden" sorusu (mağaza sayısı, yurt dışı büyüme, kimin şirketi); son 30 günde bizde işlenmedi. Rakamlar metin yazarınca güncel kaynakla doğrulanmalı.
+1. Bankana kayyum gelirse paran ne olur? (11/13)
+   - Başlık: "Bankaya kayyum atandı: içerideki para ne olacak?"
+   - İlk cümle: "Dün bir Türk bankasının yönetimi devlete geçti; içerideki paranın 1,2 milyon liraya kadarı güvencede."
+   - Neden bugün: BDDK kararı bugün Resmi Gazete'de; fon soruşturması ilk kez bir mevduat bankasına uzandı.
+   - Takip değeri: Yüksek – herkesin bankadaki parası için mevduat sigortası sınırını ve kayyum sürecini öğretiyor.
+2. HGS cezası neden 5 katına çıkıyor? (11/13)
+   - Başlık: "Köprüden geçtin, ceza 5 katına çıktı: neden?"
+   - İlk cümle: "İlk 15 gün ceza yok, 45. günden sonra ödeyeceğin para 5 katına çıkıyor."
+   - Neden bugün: Bakan bugün işletmecilerle toplanıyor; karar çıkarsa video güncellenir.
+   - Takip değeri: Yüksek – sorgulama, 15/45 gün kuralı ve e-Devlet telefon güncellemesi gibi hemen işe yarar bilgi veriyor.
+3. Dünya: Nvidia rekor kâr açıkladı, altın neden düşüyor? (10/13)
+   - Başlık: "Nvidia rekor kâr etti, altın neden düşüyor?"
+   - İlk cümle: "Nvidia üç ayda 115,8 milyar dolar gelir yazdı; altın aynı hafta 13 ayın dibini gördü."
+   - Neden bugün: Bilanço bu gece geldi, akşam Fed tutanakları var.
+   - Takip değeri: Orta-yüksek – altın birikimcisine "güvenli liman neden satılır" mantığını öğretiyor. Not: bizde 17 Kas gümüş, 16 Kas'ta altın dibi işlendi; açı Nvidia bağlantısı olmalı.
+- Yedek (haber şart değil): "Koton neden her yerde ucuz kampanya yapıyor?" yerine daha güçlü: "Pegasus nasıl 99 liraya bilet satıp kâr ediyor?" – herkesin bildiği marka, açık "nasıl / neden" sorusu; son 30 günde bizde işlenmedi. Rakamlar metin yazarınca güncel kaynakla doğrulanmalı.
 
 ## Rakip radarı
-- Yatırım 101: 17 Kas 13:39 TSİ "Bir Kahve Neden 150 Lira?" – 6.042 (bugün, sabah bülteninden sonra). Önceki: 14 Kas "Yapay Zeka Devi Halka Arz Oluyor!" – 14.780; 13 Kas "Nvidia'yı Bekleyen 3 Senaryo" – 57.242.
-- Melda Yücel Kocaalp: bugün yok. 16 Kas 21:58 TSİ "Oto almalı mı beklemeli mi?" – 9.016 (sabah 5.708); 16 Kas 16:59 "Resesyon mu? Reklam dijitale mi kaydı yoksa?" – 2.907.
-- Abdulkadir Genç: bugün yok (son: 12 Kas reklam videosu 37.194, x2 yükleme; 8 Kas "Elindeki parayla yıl sonuna kadar ne yapabilirsin?" 269.841, x2 yükleme).
-- BİZ: 16 Kas 17:15 "Faiz %8,5'ten %50'ye: Erdoğan 'nas'tan vazgeçti mi?" – 1.711; 15 Kas "100.000 liraya 'Bir günde milyoner ol' rehberi…" – 1.192; 13 Kas "Devalüasyon olmaz, çünkü faturası çok ağır" – 67.681.
-- Boş açı: Yatırım 101 kahve fiyatını işledi (bizde 14 Kas "Aynı sokakta 9 kahveci" var, tekrar etme). Konut satışlarındaki çöküş, İstanbul'da kiranın aylık düşüşü ve JPMorgan raporu hiçbir rakipte yok.
+Son 48 saat (16 Kas 08:45 TSİ sonrası):
+- Yatırım 101: 17 Kas 13:39 TSİ "Bir Kahve Neden 150 Lira?" – 92.847
+- Melda Yücel Kocaalp: 17 Kas 18:56 TSİ "MEVDUATTAN KONUTA GEÇMELİ Mİ? 2.ELDE %30'LUK DÜŞÜŞ! FİYAT DA DÜŞER Mİ? KİRALAR?" – 53.140; 16 Kas 21:58 "Oto almalı mı beklemeli mi?" – 14.802; 16 Kas 16:59 "Resesyon mu? Reklam dijitale mi kaydı yoksa?" – 3.319
+- Abdulkadir Genç: yeni video yok (son: 12 Kas reklam videosu 38.316, x2 yükleme)
+- BİZ: 17 Kas 17:15 "Gümüş %60 düştü, o her ay alıyor: uzun vade kaç yıl?" – 6.350; 16 Kas 17:15 "Faiz %8,5'ten %50'ye…" – 1.988
+- Boş açı: Melda konut satış verisini "mevduattan konuta geçilir mi" açısıyla işledi (konut adayımız artık rakipte var). Adil Katılım Bankası kayyumu, HGS cezası ve Nvidia-altın bağlantısı hiçbir rakipte yok. Yatırım 101'in kahve videosu 1 günde 92 bin: fiyatın parçalarına ayrıldığı "neden X lira?" formatı tutuyor.
 
-## Bu akşam
-- 18 Kas ~00:20 TSİ – Nvidia üçüncü çeyrek bilançosu (beklenti gelir ~109 milyar dolar, hisse başı ~2,47 dolar; Huang'sız ilk bilanço, geçici CEO Colette Kress).
-- Akşam – TBMM Genel Kurulu: Kızılay teklifinin ardından Yabancı Dijital Konaklama Platformları (Booking/Airbnb) teklifi sırada (kabul edilip edilmediği bu taramada görülmedi).
-- İleri tarih: 18 Kas akşamı Fed tutanakları; 18 Kas akşamı (ABD) Anthropic halka arz fiyatı (aralık 70-78 dolar, talep ~6-7 kat), 19 Kas Nasdaq'ta işlem; 19 Kas 10:00 fon mağdurları SPK önünde.
+## Takvim
+- 18 Kas 10:00 – TÜİK 3. çeyrek (temmuz-eylül) işgücü istatistikleri. Bakılacak: işsizlik oranı (2025 3. çeyrek %8,5), geniş tanımlı işsizlik (2025 3. çeyrek %29,4), istihdam (32,558 milyon)
+- 18 Kas gün içi – Uraloğlu'nun HGS cezası toplantısı (işletmecilerle)
+- 18 Kas 22:00 – Fed ekim (27-28 Ekim) toplantı tutanakları; aralık artırım beklentisi
+- 18 Kas akşam (ABD) – Anthropic halka arz fiyatı (aralık 70-78 dolar, 825 milyon hisse); 19 Kas Nasdaq'ta "ANT" koduyla işlem
+- 19 Kas 10:00 – Fon mağdurları Ankara SPK önü buluşması; 14:30 TCMB haftalık verileri
+- 19-20 Kas – Motorin indirimi beklentisi (kesin değil)
+- 20 Kas 10:00 – TÜİK kasım tüketici güveni (önceki 84,8), TCMB kapasite kullanım (74,5) ve reel kesim güveni (99,8)
+- 24 Kas – TÜİK hizmet, perakende, inşaat güven endeksleri; 3. çeyrek yapı izin istatistikleri
+- 7 günün dışında: 27 Kas TCMB Finansal İstikrar Raporu; 1 Ara akaryakıt ÖTV adımı; 10 Ara 14:00 yılın son PPK kararı
 
-Ulaşılamayan (WebFetch, ağ izni yok): sabah.com.tr, forbes.com.tr, rayhaber.com, yeniankara.com.tr, bianet.org; aydinlik.com.tr 403. getdaytrends trend detay sayfaları 520 hatası verdi (POLSAN ve MSCI Türkiye skorları alınamadı). Doğrulama AA, CNBC-e ve Bloomberg HT üzerinden yapıldı.
+Ulaşılamayan (WebFetch/curl): dunya.com ve gazeteoksijen 403; foreks.com, milligazete.com.tr, haberler.com, yenicaggazetesi.com alan adı izni yok; investing.com ve birgun.net proxy 403. Doğrulama AA, Bloomberg HT, CNBC-e, Habertürk, Sözcü üzerinden yapıldı.
