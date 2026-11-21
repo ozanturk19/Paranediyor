@@ -1,172 +1,129 @@
-# Para Ne Diyor? – 21 Kasım 2026 Cumartesi Sabah Bülteni
-Hazırlanma: 21 Kasım 2026 09.15 TSİ
+# Para Ne Diyor? – 21 Kasım 2026 Cumartesi Öğleden Sonra Bülteni
+Hazırlanma: 21 Kasım 2026 16.40 TSİ
 
-Not: Hafta sonu; piyasa rakamları 20 Kasım Cuma kapanışına aittir. Bu oturumda birçok site ağ ayarı nedeniyle açılamadı (enerjigunlugu.net, tr.euronews.com, finansgundem.com.tr, borsaningundemi.com, ekonomipolitikasi.com.tr, aa.com.tr, kayserihaber.com, fiyatinedir.net, yirmidort.tv, bigpara.hurriyet.com.tr). Doğrulamalar memurlar.net (çoğu AA kaynaklı), cumhuriyet.com.tr, sozcu.com.tr ve haberturk.com sayfaları açılarak yapıldı. Açılamayan sitelere dayanan rakamlar "(yalnız arama özeti)" diye işaretlendi.
+Not: Hafta sonu; piyasa rakamları 20 Kasım Cuma kapanışına aittir. Bu oturumda açılamayan siteler (ağ ayarı): trthaber.com, dunya.com, haberler.com, sondakika.com, birgun.net, turkgun.com, apara.com.tr, capital.com.tr, ekonomist.com.tr. Doğrulamalar memurlar.net (AA / İHA kaynaklı) ve bloomberght.com sayfaları açılarak yapıldı; açılamayan sitelere dayanan rakamlar "(yalnız arama özeti)" diye işaretlendi.
 
-## Kredi kartında asgari ödeme üç kademeye çıktı
-- Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: Karar 19 Kasım 2026 (BDDK Kurul kararı, sayı 11605), duyuru 20 Kasım 2026 15.43, Ankara
-- Ne oldu: BDDK kredi kartlarında asgari ödeme oranlarını kart limitine göre üç kademeye ayırdı. Aynı gün konut kredisindeki "evi olana daha az kredi" kısıtını da yalnız iki ve daha fazla evi olanlara indirdi. Bu, dünkü öğlen bültenindeki "kart borcuna yapılandırma" iddiasından ayrı ve resmî bir karardır.
-- Detaylar ve rakamlar:
-  - Yeni oranlar: limiti 100 bin TL ve altı kartta dönem borcunun yüzde 20'si; 100 bin TL üstü - 200 bin TL (dahil) arası yüzde 30'u; 200 bin TL üstü yüzde 40'ı (doğrulandı: Cumhuriyet, Sözcü, memurlar.net).
-  - Önceki durum: yalnız yüzde 20 ve yüzde 40 kademeleri vardı; yüzde 30 yeni eklendi (doğrulandı, memurlar.net). Eski eşik: 1 Ekim 2026 tarihli 11581 sayılı kararla 50 bin TL'den 100 bin TL'ye çıkarılmıştı, yani dün itibarıyla 100 bin TL üstü kartlarda oran yüzde 40'tı (yalnız arama özeti, Milli Gazete; metin yazarı doğrulamalı).
-  - (hesap) Limiti 150 bin TL, dönem borcu 60 bin TL olan kart: eski kuralla asgari ödeme 60.000 x 0,40 = 24.000 TL, yeni kuralla 60.000 x 0,30 = 18.000 TL; fark 6.000 TL. Eski oran yukarıdaki doğrulanmamış eşiğe dayanıyor.
-  - Yürürlük tarihi haberlerde yok; karar kuruluş birliklerine bildirilecek ve BDDK sitesinde yayımlanacak (doğrulandı, Cumhuriyet, Sözcü).
-  - Konut kredisi: Ağustos 2023'ten beri kişinin, eşinin ya da 18 yaş altı çocuğunun bir konutu varsa kredi/değer oranı yüzde 75 azaltılarak uygulanıyordu; yeni kararla bu kısıt en az iki konutu olanlara uygulanacak. Yüzde 50 ve daha az hisseli tapu sayılmayacak (ikiden fazla konutta hissesi olanlar hariç); riskli yapı nedeniyle yıkılan / yıkım kararı olan bir konut sayılmayacak (doğrulandı, memurlar.net).
-  - Bağlam: bireysel kredi kartı borcu 13 Kasım haftasında 70,678 milyar TL artışla 3 trilyon 537,7 milyar TL; kart + tüketici kredisi toplamı 7 trilyon 131,1 milyar TL, haftalık artış 105,6 milyar TL (doğrulandı, memurlar.net).
-  - "48-60 ay yapılandırma" hâlâ iddia; resmî karar yok (doğrulandı, memurlar.net 20 Kasım).
-- Kimsenin anlatmadığı taraf: Haberler "oranlar değişti" diyor; yön söylenmiyor. Karar bir gevşetme: 100-200 bin TL limitli kartta asgari ödeme düşüyor. Asgari ödeme düştükçe ertesi aya devreden ve faiz işleyen borç büyür (genel bilgi).
-- Kim kazanıyor / kim kaybediyor: Kısa vadede orta limitli kart sahibi nefes alıyor; devreden borç büyüdüğü için faiz geliri bankada kalıyor.
-- İzleyicinin sorusu: Asgari ödemem düşecek mi, düşerse bu benim için iyi mi?
-- Kaynaklar: https://www.cumhuriyet.com.tr/ekonomi/bddk-den-kredi-karti-karari-asgari-odeme-oranlari-degisti-2557882 · https://www.memurlar.net/haber/1184712/kredi-kartlarinda-asgari-odeme-tutari-degisti.html · https://www.memurlar.net/haber/1184713/bddk-dan-konut-kredisi-karari-tek-evi-olana-kisitlama-kalkti.html
-
-## Benzin 70 liranın altına indi (süren hikâye)
-- Kategori: ana konu (süren hikâye: Akaryakıtta kademeli ÖTV)
+## GÜNCELLEME: Benzin indirimi 1,86 değil 2,95 lira çıktı (süren hikâye)
+- Kategori: güncelleme
 - Puan: 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1)
 - Tarih / yer: 21 Kasım 2026 00.01, Türkiye geneli
-- Ne oldu: Motorine 20 Kasım'da gelen 6,58 TL'lik indirimin ardından benzine 21 Kasım'dan itibaren indirim geldi. Tutar konusunda kaynaklar çelişiyor.
+- Ne oldu: Sabah bülteninde tutarı çelişkili görünen benzin indirimi netleşti: indirim 2,95 TL oldu, önceden beklenen 1,86 TL değil. Benzin üç büyük ilde 70 liranın altına indi.
 - Detaylar ve rakamlar:
-  - Beklenen / açıklanan tutar 1,86 TL: İstanbul 69,44, Ankara 70,44, İzmir 70,64, doğu illeri 72,14 TL (doğrulandı, memurlar.net 20 Kasım; Habertürk 20 Kasım "sektör kaynakları"). Habertürk'ün 21 Kasım haberinde "1,86 TL indirim geldi" deniyor (yalnız arama özeti).
-  - Çelişki: Enerji Günlüğü indirimi 2,95 TL ve İstanbul fiyatını 68,35 TL; fiyatinedir.net 2,93 TL ve İstanbul Avrupa 71,24 → 68,31, Anadolu 68,16 TL yazıyor; Habertürk'ün bir tablosunda 68,40 TL geçiyor (hepsi yalnız arama özeti; siteler açılamadı). Metin yazarı pompa fiyatını dağıtıcı sitesinden doğrulamalı.
-  - 20 Kasım fiyatları: İstanbul Avrupa benzin 71,30, motorin 88,80, LPG 50,70; Ankara 72,30 / 89,90 / 50,79; İzmir 72,50 / 90,20 / 50,70 TL. Brent 20 Kasım 07.15'te 92,22 dolar (doğrulandı, Habertürk).
-  - Neden: petrol fiyatındaki gerileme, stok artışı, Hürmüz Boğazı'ndan sevkiyatın artması (doğrulandı, memurlar.net).
-  - (hesap) Benzin 1 Kasım'da ÖTV zammıyla İstanbul'da ~80,50 TL'ydi (arşiv). 69,44 TL ile üç haftada 11,06 TL (yüzde 13,7) ucuzladı; 68,31 doğruysa 12,19 TL (yüzde 15,1).
-  - (hesap) 50 litrelik depo: 1 Kasım'da 4.025 TL, bugün 3.472 TL (69,44 ile); fark 553 TL.
-  - 1 Aralık: motorinde ÖTV 9 → 12 TL/lt (KDV'yle ~3,60 TL) (arşiv).
-- Kimsenin anlatmadığı taraf: Haberler günlük indirimi yazıyor; üç haftalık toplamı (en az 11 TL) ve 1 Kasım'daki vergi zammının tamamen geri alındığını yazan yok (hesap; 1 Kasım benzin ÖTV zammı +4,15 TL'ydi, arşiv).
-- Kim kazanıyor / kim kaybediyor: Benzinli araç sahibi kazanıyor; motorin kullanıcısı için 1 Aralık'ta verginin bir kısmı geri geliyor.
-- İzleyicinin sorusu: Benzin üç haftada 11 lira ucuzladı; neden, ve bu fiyat kalır mı?
-- Kaynaklar: https://www.memurlar.net/haber/1184671/akaryakitta-indirim-benzin-de-ucuzluyor.html · https://www.haberturk.com/ekonomi/son-dakika-motorine-dev-indirim-geldi-iste-guncel-20-kasim-2026-motorin-benzin-ve-lpg-fiyatlari-3928661 · https://www.enerjigunlugu.net/benzine-beklenen-indirim-geldi-70662h.htm
+  - İndirim 2,95 TL/lt; İstanbul 68,35, Ankara 69,25, İzmir 69,55 TL (doğrulandı, memurlar.net 09.41 güncellemesi; NTV de aynı rakamları veriyor – yalnız arama özeti).
+  - Habertürk: indirim 2,90 TL, İstanbul Avrupa 68,40 TL; bazı dağıtım şirketlerinde 2,95 TL (yalnız arama özeti). Yani fark dağıtım şirketine göre 5 kuruş.
+  - memurlar.net haberinin alt kısmında eski "1,86 TL / İstanbul 69,44" beklenti paragrafı hâlâ duruyor; güncel olan başlıktaki 2,95 TL'dir.
+  - Motorin 20 Kasım'da 6,58 TL ucuzlamıştı; İstanbul Avrupa 88,72-88,90 TL. LPG değişmedi, İstanbul 50,70 TL (yalnız arama özeti, Habertürk).
+  - (hesap) Benzin 1 Kasım'da ~80,50 TL idi (arşiv); 80,50 − 68,35 = 12,15 TL: üç haftada ~12 TL ucuzladı. 50 litrelik depo: 12,15 × 50 = ~607 TL fark.
+  - (hesap) Motorin − benzin farkı: 88,72 − 68,35 = ~20,4 TL.
+  - 1 Aralık'ta motorinde ÖTV 9 → 12 TL/lt (KDV'yle ~3,60 TL) artacak; benzinde takvimde yeni bir adım yok (arşiv).
+  - EPDK benzinin fiyat formülündeki yoğunluk değerini 0,775'ten 0,755'e indirmişti (20 Kasım öğleden sonra bülteni); indirimin beklenenden büyük çıkmasında bunun payı olup olmadığı haberlerde açıklanmıyor.
+- Kimsenin anlatmadığı taraf: Benzin üç haftada ~12 TL ucuzladı (hesap), ama haberler yalnız günlük tabelayı veriyor; 1 Kasım'daki ÖTV zammının (7,90 → 11,36 TL) üstüne gelen bu düşüşün kaynağı petrol ve ürün fiyatı. Motorinde ise 1 Aralık vergisi indirimin yarısından fazlasını geri alacak, benzinde böyle bir takvim yok.
+- Kim kazanıyor / kim kaybediyor: Benzinli araç sahibi kazanıyor; motorin kullanan (nakliye, çiftçi) 1 Aralık'ta kazancının bir kısmını geri veriyor.
+- İzleyicinin sorusu: Benzin üç haftada neden 12 lira ucuzladı, bu fiyat kalıcı mı?
+- Kaynaklar: https://www.memurlar.net/haber/1184671/akaryakitta-indirim-benzin-70-liranin-altina-indi.html · https://www.ntv.com.tr/turkiye/benzine-indirim-70-liranin-altina-indi-1751848 · https://www.haberturk.com/ekonomi/tabelalar-yine-degisti-benzine-dev-indirim-geldi-benzin-ve-motorin-kac-tl-oldu-iste-21-kasim-2026-guncel-fiyatlar-3928954
 
-## Nasdaq 2020'den beri en kötü haftasını yaşadı
-- Kategori: dünya
-- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 20 Kasım 2026 Cuma kapanışı, New York
-- Ne oldu: Anthropic'in halka arzından sonraki düşüş ve yapay zekâ yatırımlarının karşılığını verip vermeyeceği endişesiyle ABD borsaları haftanın son gününü sert düşüşle kapattı. Aynı hafta altın, gümüş, Bitcoin ve Borsa İstanbul da düştü.
+## İBB: İstanbul'da öğrenciye biniş 1 lira olacak
+- Kategori: ana konu
+- Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 20-21 Kasım 2026, İstanbul (İBB Meclisi, 2027 bütçe görüşmeleri)
+- Ne oldu: İBB Meclisi'ni yöneten Başkan Vekili Nuri Aslan, abonmanı olan öğrencilerin toplu taşımada her binişte 1 TL ödemesi için aralık meclisine teklif sunulacağını açıkladı. Teklif kabul edilirse yeni tarife 1 Ocak 2027'de başlayacak ve aylık öğrenci abonmanı 200 TL'ye inecek.
 - Detaylar ve rakamlar:
-  - Cuma: Nasdaq yüzde 5,28 (yaklaşık 1.000 puan), Dow Jones yüzde 1,93 (900 puan), S&P 500 yüzde 3,7 düşüşle 6.910,39. Dow ve S&P 500 rekor kapanışlarının yüzde 10 altına inerek düzeltme bölgesine girdi (doğrulandı, memurlar.net / AA).
-  - Hisseler: Nvidia ~yüzde 14, Micron yüzde 13,9, AMD yüzde 13,3 (doğrulandı). Nvidia kapanış 125,53 dolar; Anthropic yüzde 8,5-9,1 düşüş; Nasdaq kapanış 22.617,73; Dow 48.147,33 (yalnız arama özeti).
-  - Haftalık: Nasdaq Bileşik ~yüzde 10 (2020'den beri en büyük haftalık düşüş), S&P 500 ~yüzde 8,6, Dow ~yüzde 8; Nasdaq zirvesinin ~yüzde 18 altında (yalnız arama özeti: YatırımX, MarketScreener; "2020'den beri en kötü hafta" başlığı birden çok kaynakta).
-  - Altın: ons 20 Kasım 22.20'de 3.516 dolar (günlük yüzde -3,2), Eylül 2025'ten beri en düşük; haftalık ~yüzde 9 ile marttan beri en sert haftalık düşüş; önceki hafta yüzde -4,62; yılbaşındaki ~5.600 dolarlık zirveden yüzde 37'den fazla aşağıda. Gümüş yüzde 4'ü aşan kayıpla 41 dolar; platin yüzde -4, paladyum yüzde -2,5 (doğrulandı, memurlar.net / AA).
-  - Neden: Fed üyesi Christopher Waller aralıkta 25 yerine 50 baz puanlık artırımı gündeme getirdi; ABD 10 yıllık tahvil faizi yüzde 5'e yerleşti; şubat sonunda başlayan ABD-İran savaşı enerji maliyetini ve enflasyonu yükseltti (doğrulandı; Waller cümlesi sayfada yarım kesildi).
-  - Bitcoin: 58.018 dolara kadar indi (temmuz başından beri en düşük), 22.00'de 58.277; haftalık kayıp ~yüzde 16; Ekim 2025'teki ~126 bin dolarlık zirvenin ~yüzde 54 altında; yıl içi kayıp yüzde 34; tarihindeki dördüncü kayıp yılına gidiyor. Ethereum 1.610 dolar (24 saatte yüzde -10, haftalık yüzde -17). Kripto piyasası toplam 2,01 trilyon dolar (doğrulandı, memurlar.net / AA).
-  - Türkiye: BIST 100 cuma yüzde 2,36 düşüşle 11.131,32 (268,7 puan), hacim 84,4 milyar TL; bankacılık yüzde -1,94, holding yüzde -2,52; en çok kaybeden madencilik yüzde -3,91; destek 11.000 / 10.900 (doğrulandı, memurlar.net / AA). (hesap) Önceki hafta kapanışı 11.843 (14 Kasım bülteni) → 11.131,32: haftalık yüzde -6,01; aynı rakam bir haber sitesinde de var.
-  - Dolar haftayı serbest piyasada 50,5790 TL'den kapattı (perşembe 50,4680); euro 55,6580 TL (doğrulandı, memurlar.net).
-  - CDS 250 baz puanın üstünde (dünkü bülten).
-- Kimsenin anlatmadığı taraf: Bu hafta "güvenli liman" çalışmadı: hisse, altın, gümüş, Bitcoin ve BIST aynı hafta düştü. Ortak neden faiz: ABD 10 yıllık tahvili yüzde 5 getiri verirken faiz getirmeyen altın ve riskli hisse birlikte satılıyor (doğrulandı, AA metni).
-- Kim kazanıyor / kim kaybediyor: Kazanan dolar ve tahvil tutan; kaybeden ABD teknoloji fonu, altın ve kripto tutan Türk küçük yatırımcı (yabancı hisse fonlarındaki kayıp rakamı bulunamadı).
-- İzleyicinin sorusu: Altın, borsa ve Bitcoin aynı anda düşüyorsa para nereye gidiyor?
-- Kaynaklar: https://www.memurlar.net/haber/1184766/yapay-zeka-hisselerindeki-sert-kayiplar-kuresel-piyasalari-sarsti.html · https://www.memurlar.net/haber/1184750/kripto-piyasasinda-sert-dusus-bitcoin-58-bin-dolar-seviyesini-gordu.html · https://www.memurlar.net/haber/1184684/bist-100-endeksinde-sert-dusus-gunu-11-131-puandan-kapatti.html
+  - Bu bir teklif; aralık ayı İBB Meclisi'nde oylanacak, henüz yürürlükte değil (doğrulandı, memurlar.net).
+  - Mevcut tarife (Temmuz 2026): öğrenci aylık abonmanı 653 TL (önce 593), öğrenci bileti 22,55 TL (önce 20,50), tam elektronik bilet 46,20 TL (önce 42) (doğrulandı).
+  - Teklif: aylık öğrenci abonmanı 200 TL (doğrulandı). Abonman ayda 200 biniş hakkı veriyor (yalnız arama özeti); 200 biniş × 1 TL = 200 TL.
+  - Eylüldeki 1 TL'lik abonman kampanyasından 1 milyon 225 bin öğrenci yararlandı (doğrulandı; Aslan'ın verdiği rakam).
+  - (hesap) Abonmanlı öğrencinin aylık kazancı 653 − 200 = 453 TL; 12 ayda 5.436 TL.
+  - (hesap) Bugün abonmanla biniş başına maliyet 653 / 200 = ~3,27 TL (200 binişin tamamı kullanılırsa).
+  - (hesap, üst sınır) 1.225.000 öğrencinin hepsi her ay abonman alırsa İBB'nin vazgeçtiği gelir 1.225.000 × 453 = ~555 milyon TL/ay, yılda ~6,7 milyar TL; İBB'nin 2027 bütçesi 565 milyar TL (yalnız arama özeti), yani en fazla yüzde ~1,2'si.
+  - Uygulamanın maliyeti ve başlangıç ayrıntıları İBB tarafından açıklanmadı; bazı haberler başlangıç tarihinin kesin olmadığını yazıyor (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: İndirim yalnız abonman alan öğrenciye; abonmansız öğrencinin tek binişi 22,55 TL olarak kalıyor. Yani "biniş 1 lira" aslında "aylık abonman 653'ten 200 liraya" demek (doğrulandı, memurlar.net).
+- Kim kazanıyor / kim kaybediyor: Abonmanlı öğrenci ayda 453 TL kazanıyor; fark İBB bütçesinden, yani toplu taşıma sübvansiyonundan karşılanacak.
+- İzleyicinin sorusu: İstanbul'da öğrenciye biniş 1 lira olursa parasını kim ödeyecek?
+- Kaynaklar: https://www.memurlar.net/haber/1184783/ibb-den-ogrencilere-1-tl-lik-binis-mujdesi.html · https://www.karar.com/sehir-haberleri/istanbulda-ogrencilere-ulasim-mujdesi-her-binis-1-tl-olacak-2085432
 
-## Altınbaş ailesinden Serdar Altınbaş Prag'da yakalandı (süren hikâye)
+## Tera'nın Londra şirketi: 4,1 milyar lira yurt dışında kaldı (süren hikâye)
 - Kategori: ana konu (süren hikâye: Fon soruşturması)
-- Puan: 10/13 (isim 3, cep 1, tazelik 3, boşluk 2, açı 1)
-- Tarih / yer: 20 Kasım 2026 (akşam duyuru), Prag / Ankara
-- Ne oldu: İçişleri Bakanlığı, "Sermaye Piyasası Kanunu'na muhalefet" ve "suçtan kaynaklanan mal varlığı değerlerini aklama" suçlarından uluslararası düzeyde aranan Serdar Altınbaş'ın Çekya'da yakalandığını, iade işlemlerinin başlatıldığını duyurdu.
-- Detaylar ve rakamlar:
-  - Altınbaş, Prag Vaclav Havel Havalimanı'nın transit bölgesinde tespit edildi; 20 Kasım 2026'da difüzyon mesajı yayımlandı, ardından Çekya makamlarınca yakalandı (doğrulandı, memurlar.net / AA; Bakanlık açıklaması).
-  - Aranma kaydı İstanbul 8. Sulh Ceza Hâkimliği'nden; İstanbul Cumhuriyet Başsavcılığı'nın yurt dışı çıkış yasağı kararı da vardı (doğrulandı).
-  - Serdar Altınbaş, Altınbaş Holding yönetim kurulu üyesi. Kurulda İnan Altınbaş başkan, Hüseyin ve Nusret Altınbaş başkan vekili, Sofu ve Serdar Altınbaş üye (doğrulandı).
-  - Aile Gaziantep kökenli; Antep fıstığı ticaretiyle başladı, 1979'da Lefkoşa'da, 1985'te İstanbul'da kuyumculuğa girdi; holding 1996'da kuruldu; kuyumculuk, finans, eğitim (Altınbaş Üniversitesi) ve denizcilikte (doğrulandı).
-  - Arka plan: Altınbaş ailesine ait Atlas Portföy fonlarından soruşturma başlamadan önce 16 milyar TL'lik şüpheli çıkış; Nusret Altınbaş tutuklu; ailenin mal varlıkları donduruldu (yalnız arama özeti). Arşiv: İnan Altınbaş tutuklular arasında; 18 Kasım'da Altınbaş Kuyumculuk dahil 9 şirkete kayyum.
-  - Emir Sarıgül'ün ifadesinde babasının mülkleri Ali ve Serdar Altınbaş üzerine kaydettirdiği iddiası (yalnız arama özeti; iddia).
-- Kimsenin anlatmadığı taraf: Haberler yakalanmayı yazıyor; izleyicinin tanıdığı "Altınbaş" vitrininin arkasındaki holdingin fıstık ticaretinden finansa uzanan hikâyesi ve aynı ailenin yönetim kurulundaki beş isimden kaçının soruşturmada olduğu derli toplu anlatılmıyor (doğrulanan: İnan tutuklu - arşiv; Serdar yakalandı; Nusret tutuklu - yalnız arama özeti).
-- Kim kazanıyor / kim kaybediyor: Bilinmiyor; mal varlıklarının mağdur ödemelerinde kullanılıp kullanılmayacağı açık soru.
-- İzleyicinin sorusu: Kuyumcu olarak bildiğimiz Altınbaş ailesi fon soruşturmasına nasıl girdi?
-- Kaynaklar: https://www.memurlar.net/haber/1184751/fon-sorusturmasinda-aranan-serdar-altinbas-yakalandi.html · https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824
+- Puan: 10/13 (isim 2, cep 1, tazelik 3, boşluk 2, açı 2)
+- Tarih / yer: 21 Kasım 2026 13.13 (AA), İstanbul Cumhuriyet Başsavcılığı
+- Ne oldu: Fon soruşturmasında MASAK, Londra'da kayıtlı Gildencrest Capital hakkındaki raporunu savcılığa gönderdi; Başsavcılık bunu doğruladı. Rapora göre şirket kâğıt üzerinde yabancı ama İstanbul'dan, Tera'nın kendi çalışanlarıyla yönetiliyordu.
+- Detaylar ve rakamlar (tümü doğrulandı, memurlar.net / AA; iddia düzeyinde, MASAK raporuna dayanıyor):
+  - Şirket 2011'de Londra'da "Tera Europe" adıyla kuruldu; yüzde 49'u Emre Tezmen'in, yüzde 40'ı Oğuz Tezmen'in. Adı 2024'te Gildencrest Capital oldu.
+  - Rapora göre fiilen İstanbul'dan Tera çalışanlarınca yönetiliyordu; bağlantılı şirketlerde Tera'nın eski ofis çalışanları paravan olarak kullanıldı.
+  - Türkiye'deki banka hesaplarından 9 yılda ~21 milyar TL geçti; ~11,9 milyar TL Tera Yatırım'dan geldi, ~6,3 milyar TL'yi Mehmed Nureddin Çevik'in başını çektiği 19 kişi yatırdı.
+  - İşlemler İsviçre üzerinden ve Borsa İstanbul'da "yabancı yatırımcı" adıyla yapıldı; ~7,8 milyar TL kazanç yurt dışında birikti.
+  - İsviçre ve Londra hesaplarına ~6,3 milyar TL gönderildi; 2,2 milyar TL geri döndü, 4,1 milyar TL yurt dışında kaldı; bunun 3,4 milyar TL'si Tera Yatırım'a ait.
+  - 2026 başında Enver Çevik'in İsviçre hesabına 4,5 milyar TL, Muhammed Yarız'ın İsviçre hesabına 0,5 milyar TL gitti; Burhan Tunç Özkan'a 1 milyar TL ödendi.
+  - Kasımda 504 milyon TL'lik hisse Bahamalar'daki bir banka hesabına aktarıldı; 1,95 milyar TL'lik hisse aktarımını MASAK son anda durdurdu.
+  - Savcılık, bloke edilen tutarın TMSF gönüllü iade hesabına yatırılmasını istedi; yurt dışına çıkarılan varlıkların iadesi için adli yardım talep edildi.
+  - Arama özetlerinde İsviçre yerine "Çekya" yazan haberler var (Diken); açılan AA metni İsviçre diyor.
+  - Aynı gün: AK Parti Genel Başkan Yardımcısı Mustafa Şen (Kahramanmaraş): "yüzlercesinin mal varlığına devlet el koydu"; bugün itibarıyla 139 tutuklu, ~285 kişi adli kontrolde (doğrulandı, memurlar.net / AA 15.42). Menderes Türel, Ümit Özlale hakkında suç duyurusunda bulundu (başlık düzeyinde, memurlar.net 15.41). Ömer Bolat, Özlale'nin iddialarını 20 Kasım akşamı yazılı açıklamayla reddetti (yalnız arama özeti).
+- Kimsenin anlatmadığı taraf: Borsada "yabancı alıyor" diye izlenen işlemlerin bir kısmı, rapora göre İstanbul'dan yönetilen bir Londra şirketine aitti; yani yabancı görünen para yerliydi (doğrulandı, AA metni; iddia MASAK raporuna ait).
+- Kim kazanıyor / kim kaybediyor: Geri getirilebilen her lira TMSF gönüllü iade hesabına, oradan mağdur ödemelerine gidebilir; yurt dışında kalan 4,1 milyar TL'nin 3,4 milyarı Tera Yatırım'ın, yani müşterilerinin alacağıyla ilgili.
+- İzleyicinin sorusu: Yurt dışına çıkan 4,1 milyar lira geri getirilebilecek mi?
+- Kaynaklar: https://www.memurlar.net/haber/1184798/masak-tan-gildencrest-capital-raporu.html · https://www.diken.com.tr/masak-gildencrest-capitalin-kazancinin-41-milyar-lirasi-yurt-disinda/ · https://www.memurlar.net/haber/1184810/
 
-## Dünya GTA 6 oynuyor, Türkiye izliyor
-- Kategori: dünya
-- Puan: 10/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 19-21 Kasım 2026, dünya / Türkiye (dünkü "GTA 6 çıktı" maddesinin yeni gelişmesi)
-- Ne oldu: GTA 6'nın ilk iki günde yaklaşık 2,36 milyar dolar gelir getirdiği tahmin ediliyor. Türkiye'de oyun 4 bin TL, en ucuz konsol 26 bin TL; Nefes gazetesine göre gençler oyunu yayıncılardan izliyor.
+## GÜNCELLEME: Gelişen ülke borsaları ayı piyasasına girdi
+- Kategori: dünya (sabahki "Nasdaq 2020'den beri en kötü hafta" konusunun güncellemesi)
+- Puan: 9/13 (isim 2, cep 2, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 20 Kasım 2026 Cuma kapanışı; haber 21 Kasım 12.52 (Bloomberg HT)
+- Ne oldu: Wall Street'teki yapay zekâ satışı Asya'ya yayıldı: MSCI Gelişen Piyasalar Endeksi cuma günü yüzde 3,1 düştü, üst üste yedinci gün geriledi ve haziran zirvesinin yüzde 21 altına inerek ayı piyasasına girdi.
 - Detaylar ve rakamlar:
-  - Sensor Tower tahmini: 24,5 milyonun üzerinde satış, ~2,36 milyar dolar gelir; Rockstar resmî rakam vermedi, talebi "eşi benzeri görülmemiş" diye niteledi (doğrulandı, memurlar.net / Nefes; tahmindir).
-  - Streams Charts: Twitch, YouTube, Kick'teki GTA 6 yayınları toplam 7,91 milyon eş zamanlı izleyiciye ulaştı; Türkiye yayın izleyen ülkeler arasında zirvede (doğrulandı, tek kaynak).
-  - Fiyat karşılaştırması: 2013'te GTA 5 180 TL, konsolla birlikte toplam 779 TL; bugün GTA 6 4 bin TL, en ucuz konsol 26 bin TL, toplam 30 bin TL (doğrulandı, tek kaynak: Nefes).
-  - (hesap) Bugünkü net asgari ücret 28.075,50 TL; 30.000 TL bunun 1,07 katı. 2013'ün ikinci yarısında net asgari ücret 803,68 TL'ydi (genel bilgi, metin yazarı doğrulamalı); 779 TL bunun 0,97 katı. Yani asgari ücrete oranı 0,97'den 1,07'ye çıkmış; fark başlıktaki kadar büyük değil, metin yazarı bunu dürüst vermeli.
-  - Hepsiburada: 9-18 Kasım'da konsol satışı yüzde 67, PS5 yüzde 88 arttı (doğrulandı, dünkü bülten).
-- Kimsenin anlatmadığı taraf: Türkiye, oyunu en çok "izleyen" ülke: satın alma gücü ile ilgi arasındaki makas yayın izlenmesinde görülüyor (doğrulandı, tek kaynak).
-- Kim kazanıyor / kim kaybediyor: Kazanan Take-Two / Rockstar, Sony ve yayıncılar; Türkiye'de oyunu alamayan genç izleyici olarak yayıncıya gelir getiriyor.
-- İzleyicinin sorusu: Bir oyun için neden bir asgari ücret gerekiyor?
-- Kaynaklar: https://www.memurlar.net/haber/1184773/dunya-gta-6-oynuyor-turkler-izliyor.html · https://www.memurlar.net/haber/1184763/gta-6-heyecani-satislara-yansidi-yuzde-88-artti.html
-
-## HGS borçlarında icra takipleri durduruldu
-- Kategori: küçük detay
-- Puan: 9/13 (isim 3, cep 2, tazelik 2, boşluk 1, açı 1)
-- Tarih / yer: 20 Kasım 2026, Ankara (18-19 Kasım bültenlerindeki HGS konusunun devamı)
-- Ne oldu: Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS şikâyetlerine ilişkin incelemenin tamamlandığını, özel otoyol şirketlerinin yürüttüğü avukatlık ve icra uygulamalarının derhal durdurulduğunu açıkladı.
-- Detaylar ve rakamlar:
-  - İcra takipleri toplam geçişlerin yüzde 0,43'ü (doğrulandı, memurlar.net).
-  - Mevzuat çalışması bitene kadar vatandaşa icra takibi yapılmayacak; uygulama yeniden düzenlenecek (doğrulandı).
-  - HGS hesabını kredi kartına bağlayıp otomatik ödeme talimatı vermek teşvik edilecek; hatalı geçişlerde ek bildirim kanalları; ödeme kanalları çeşitlendirilecek (doğrulandı).
-- Kimsenin anlatmadığı taraf: Yüzde 0,43 küçük görünüyor ama oranın kaç geçişe ve kaç kişiye denk geldiği açıklanmadı.
-- Kim kazanıyor / kim kaybediyor: Borcu icraya düşen sürücü kazanıyor; özel otoyol işletmecileri ve tahsilat avukatları kaybediyor.
-- İzleyicinin sorusu: HGS borcum icradaysa ne olacak?
-- Kaynaklar: https://www.memurlar.net/haber/1184723/uraloglu-acikladi-hgs-cezalarinda-icra-takipleri-durduruldu.html
-
-## "Fiyat hatası" diye sipariş iptal eden e-ticaret şirketine 1,08 milyon TL ceza
-- Kategori: küçük detay
-- Puan: 8/13 (isim 2, cep 2, tazelik 2, boşluk 1, açı 1)
-- Tarih / yer: 20 Kasım 2026, Ankara (Ticaret Bakanlığı Reklam Kurulu)
-- Ne oldu: Reklam Kurulu, bir e-ticaret platformunda satın alınan Nutella ve Perwoll siparişlerini "fiyat hatası" gerekçesiyle iptal eden şirkete 1.083.706 TL idari para cezası kesti, reklamları durdurdu.
-- Detaylar ve rakamlar:
-  - Ürünler: Nutella Kakaolu Fındık Kreması ve Perwoll Sıvı Çamaşır Deterjanı (doğrulandı, memurlar.net; açıklama Bakanlık Basın Müşaviri Bekir Kaplan'ın).
-  - Şirket ürünlerin teslim edildiğini beyan etti; bu beyan tüketicinin sunduğu belgelerle örtüşmedi (doğrulandı).
-  - Şirketin ve platformun adı açıklanmadı.
-- Kimsenin anlatmadığı taraf: Efsane Cuma haftasından hemen önce gelen karar, "fiyat hatası" savunmasının cezayı önlemediğini gösteriyor.
-- Kim kazanıyor / kim kaybediyor: Siparişi iptal edilen tüketici emsal kazanıyor.
-- İzleyicinin sorusu: Ucuza aldığım ürünün siparişi "fiyat hatası" diye iptal edilirse ne yapabilirim?
-- Kaynaklar: https://www.memurlar.net/haber/1184745/e-ticarette-fiyat-hatasi-bahanesi-pahaliya-patladi-1-milyon-tl-ceza.html
+  - MSCI Gelişen Piyasalar: cuma yüzde −3,1; yedi günlük düşüş serisi (2024'ten beri en uzun); Mart 2020'den beri en büyük haftalık düşüş; haziran zirvesinden yüzde −21 (doğrulandı, bloomberght.com).
+  - Tayvan (Taiex): cuma yüzde 6'dan fazla, haftalık yüzde −18; 1991'den beri en kötü hafta. Güney Kore (Kospi): cuma yüzde 5'ten fazla düştü. MSCI Asya Pasifik yedi gündür düşüyor (doğrulandı).
+  - Nvidia, ABD'li düzenleyicilerin muhasebe uygulamalarını incelediği haberinden sonra yüzde 14 düştü; Anthropic yüzde 9,1 düştü; S&P 500 cuma yüzde 3,7 ile yedinci gün üst üste geriledi (doğrulandı, bloomberght.com).
+  - Nvidia haftalık yüzde −22,9; küresel borsalarda bir haftada ~6 trilyon dolar kayıp (yalnız arama özeti, TRT Haber / AA; 6 trilyonun hesap yöntemi belirsiz). Haftalık: S&P 500 yüzde −8,61, Dow yüzde −8,02, Nasdaq yüzde −10,02; VIX 35,89 ile Nisan 2025'ten beri en yüksek (yalnız arama özeti).
+  - Bloomberg HT metninde "Nasdaq 100 altı yılın en kötü haftası, yüzde −5,6" ifadesi var; bu, sabah arşivindeki haftalık ~yüzde 10 ile çelişiyor (yüzde 5,6 büyük olasılıkla günlük ya da farklı endeks). Çekimden önce netleştirilmeli.
+  - Türkiye: BIST 100 haftalık yüzde −6,01, kapanış 11.131,32; yatırım fonları haftalık yüzde −1,03, BES fonları yüzde −1,44; gram altın (24 ayar satış) haftalık yüzde −7,60 ile 5.812 TL; dolar yüzde +0,42 ile 50,5790 TL; euro yüzde −0,10 ile 55,6580 TL; çeyrek altın 10.015 TL (önceki hafta 10.406) (doğrulandı, memurlar.net).
+  - Haberde Türkiye'den söz edilmiyor; Türkiye de MSCI gelişen piyasa endeksinde (genel bilgi).
+- Kimsenin anlatmadığı taraf: Düşüşün merkezi çip üreten Asya: Tayvan bir haftada yüzde 18 ile 1991'den beri en kötü haftasını yaşadı. BIST aynı hafta yüzde 6 düştü; yani bu hafta Türkiye'deki düşüş yerel bir hikâyeden çok küresel "gelişen ülke" satışının parçasıydı (doğrulandı: rakamlar; bağlantı yorumdur, haberlerde ayrıca kanıtlanmıyor).
+- Kim kazanıyor / kim kaybediyor: Haftanın kazananı dolar tutan (yüzde +0,42); kaybeden gram altın (yüzde −7,6), BIST (yüzde −6) ve BES fonu tutan (yüzde −1,44).
+- İzleyicinin sorusu: Tayvan'daki çip düşüşü benim BES'ime ve borsadaki hisseme neden dokunuyor?
+- Kaynaklar: https://www.bloomberght.com/gelisen-piyasa-hisseleri-ayi-piyasasina-girdi-3795369 · https://www.memurlar.net/haber/1184776/dolar-bu-hafta-kazandirdi-altin-yatirimcisini-uzdu.html · https://www.trthaber.com/haber/ekonomi/kuresel-borsalarda-bir-haftada-6-trilyon-dolarlilik-kayip-964042.html
 
 ## Süren hikâye gelişmeleri (bugün)
-- Fon soruşturması – 10/13 (isim 3, cep 1, tazelik 3, boşluk 2, açı 1): Serdar Altınbaş Prag'da yakalandı (ayrıntı yukarıda). Ayrıca: İstanbul 4. Sulh Ceza Hâkimliği'nin 19 Kasım kararıyla TMSF, Destek Holding AŞ'ye kayyum atandı; TMSF Fon Kurulu 20 Kasım'da yeni yönetim kurulunu belirledi (Destek Finans Faktoring'in KAP açıklaması; doğrulandı). OYAK, 20 Kasım'da üyelerine gönderdiği mektupla "fonlara para aktarılarak içinin boşaltıldığı" ve "bankacılık sektörünü ayakta tutmak için kaynak aktarıldığı" iddialarını "dezenformasyon, spekülasyon ve iftira" diyerek yalanladı; imza Yönetim Kurulu Başkanı Zekai Aksakallı ve Genel Müdür Murat Yalçıntaş (doğrulandı). Ali Babacan: 200 ve 50 liralık banknotlarda imzası olan dört isim (Kavcıoğlu, Kilimci, Şener, Çakmak) tutuklu, adli kontrolde ya da soruşturma altında; "imzalı paralar toplanmalı" (doğrulandı; Kilimci fon değil BKM ihale soruşturmasında). Bolat ve Albayrak Grubu Özlale'ye "hukuki yola başvuracağız" yanıtı verdi (başlık düzeyinde). Sarıgül fezlekesi Bakanlığa gönderildi (başlık düzeyinde). Eski SPK Başkanı İbrahim Ömer Gönül için soruşturma izni verildiği ve 187 milyar TL haksız kazanç açıklandığı yazıldı (yalnız arama özeti, Diken); X'te #ibrahimOmerGonulHapse (skor 607, 13 saat). Kaynaklar: https://www.memurlar.net/haber/1184742/tmsf-kayyum-atandigi-destek-holding-e-yeni-yonetim-kurulu-atadi.html · https://www.memurlar.net/haber/1184746/oyak-fonlara-para-aktarildigi-iddialarini-yalanladi.html · https://www.memurlar.net/haber/1184718/babacan-dan-tcmb-ye-cagri-bu-paralari-piyasadan-toplayin.html
-- Akaryakıtta kademeli ÖTV – 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1): Benzine 21 Kasım'da indirim geldi; tutar 1,86 TL (doğrulanan beklenti) ile 2,93-2,95 TL (yalnız arama özeti) arasında çelişkili. Ayrıntı yukarıda.
-- Tasfiye edilen fonlar, ara ödemeler ve Tera – 8/13 (isim 2, cep 2, tazelik 3, boşluk 1, açı 0): Kalan ödemeler için yeni resmî tarih yok. Moody's (Alexander Perjessy): fon gelişmeleri sistemik risk oluşturmuyor, kredi notunu etkilemesi beklenmiyor; ancak sermaye piyasası denetimi ve yatırımcı korumasındaki boşlukları gösterdi (doğrulandı). X'te #AnaParalarOdenmediAlgiVar (skor 734, 15 saat; 25 bin gönderi), #RTErdoganaYanlisBilgiVerildi (579, 12 saat), #FondaYüzde81Yalanı (398, 10 saat), #AnaParaYokAlgiVar (339, 7 saat), #FonVeBorsaVurgunuYapanKim (332, 7 saat), #PPFdeBelirsizligiBitirin (260): mağdurlar "yatırımcıların yüzde 81'i anaparasının tamamını aldı" bilgisine itiraz ediyor; çoğunun anaparasının yüzde 10'una ulaşabildiğini savunuyor (iddia; yalnız arama özeti). SPK 20 Kasım bülteni: Meka Global'e halka arz gelirini izahnameye aykırı kullanmaktan 3,33 milyon TL, toplam 7,26 milyon TL ceza; BR Madencilik'e Batıçim (BTCIM) işlemleri nedeniyle 6 ay geçici işlem yasağı (ikincisi doğrulandı, memurlar.net). Kaynaklar: https://www.memurlar.net/haber/1184771/moody-s-fon-krizi-sistemik-risk-olusturmuyor.html · https://getdaytrends.com/turkey/
+- Akaryakıtta kademeli ÖTV – 11/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 1): Benzin indiriminin tutarı netleşti: 2,95 TL (İstanbul 68,35, Ankara 69,25, İzmir 69,55 TL). Ayrıntı yukarıda. Yeni zam / indirim beklentisi yok; sıradaki tarih 1 Aralık (motorin ÖTV'si).
+- Fon soruşturması – 10/13 (isim 2, cep 1, tazelik 3, boşluk 2, açı 2): MASAK'ın Gildencrest Capital raporu (ayrıntı yukarıda). Mustafa Şen: 139 tutuklu, ~285 adli kontrol. Menderes Türel'den Özlale hakkında suç duyurusu.
+- Tasfiye edilen fonlar, ara ödemeler ve Tera – 7/13 (isim 2, cep 2, tazelik 2, boşluk 1, açı 0): Kalan ödemeler için yeni resmî tarih yok. X'te gün boyu ilk sıralar fon etiketlerinde: #AnaParalarOdenmediAlgiVar (skor 632, 13 saat), #RTErdoganaYanlisBilgiVerildi (528, 11 saat), #FondaYüzde81Yalanı (398, 10 saat), #AnaParaYokAlgiVar (339, 7 saat), #FonVeBorsaVurgunuYapanKim (332, 7 saat); 15.00 TSİ'de #PPFdeAlgıyıBırakHemenOde 1., #AlgiVarAnaParaYok 2. (14,9 bin gönderi). Savcılığın Gildencrest dosyasında bloke edilen tutarın TMSF gönüllü iade hesabına yatırılmasını istemesi ödemeler açısından not edilmeli. https://getdaytrends.com/turkey/
 
 ## Gün içinde not edilen diğer başlıklar (Telegram'a girmedi)
-- İkinci el otomobil: VavaCars'tan Serdıl Gözelekli'ye göre ikinci el fiyatları 2026'nın ilk 10 ayında ~yüzde 7 arttı, aynı dönemde enflasyon yüzde 27,5; dolar ve euro ~yüzde 14 yükseldi. Ekimde sıfır satış yıllık ~yüzde 30, ikinci el ~yüzde 10 düştü; 10 ayda sıfır yüzde 17, ikinci el yüzde 4,5 azaldı; bir sıfıra karşılık 8,1 ikinci el satılıyor (geçen yıl 7). Türkiye'de 5 kişiye, Avrupa'da 2 kişiye bir otomobil (doğrulandı, memurlar.net; kaynak satıcı tarafı). Puan tahmini 9/13; "ikinci el araba gerçekte ucuzladı mı?" adayı olabilir. https://www.memurlar.net/haber/1184730/ikinci-el-otomobil-almak-icin-dogru-zaman-mi-uzmani-acikladi.html
-- YouTube, öğrencilerde bağımlılık davalarında ABD'deki okul bölgelerine ~3 milyar dolar ödemek için prensipte anlaştı (Bloomberg'e dayanan iddia; doğrulandı, memurlar.net). Türkiye köprüsü zayıf. https://www.memurlar.net/haber/1184757/bagimlilik-davalari-youtube-a-pahaliya-patladi-3-milyar-dolar-odeyecek.html
-- X'te #KademeHakkınıYedirmez (skor 454, 11 saat): 9 Eylül 1999 sonrası sigortalılar kademeli emeklilik istiyor; TBMM'de 26 Ekim tarihli 2/3988 sayılı teklif ve bir soru önergesi var, yasa yok (yalnız arama özeti). #EmekliyeZamdaAyrımaHAYIR (7 saat) sürüyor.
-- Emekli zammı / asgari ücret: yeni resmî açıklama yok. Asgari Ücret Tespit Komisyonu aralıkta toplanacak, tarih açıklanmadı (yalnız arama özeti).
-- İBB'nin 2027 bütçesi kabul edildi; Türkiye Pakistan'da altın arayacak (Bayraktar); kamu sektörü dış borcu 203,8 milyar dolar (başlık düzeyinde, memurlar.net).
-- Resmî Gazete 21 Kasım (33437): atamalar ve uluslararası anlaşmalar; ekonomiyi doğrudan ilgilendiren karar yok (yalnız arama özeti).
+- Halkbank esnaf kredisi (puan tahmini 9/13; rakamlar yalnız arama özeti, açılamadı): Ticaret Bakanı Ömer Bolat, Antalya Belek'teki TESKOMB toplantısında Halkbank Genel Müdürü ile görüştüğünü, yıl sonuna kadar bekleyen 20-25 milyar TL'lik esnaf kredi dosyasının sonuçlandırılacağını, ekspertiz gibi masrafların azaltılması / kaldırılması için görüşüldüğünü söyledi; Hazine destekli esnaf kredisinde faiz yüzde 25'ten yüzde 20'ye inmişti. DİKKAT: arama özetlerinde aynı toplantının Kasım 2025 haberleri de karışıyor ("ilk 10 ayda 187.673 kullandırım, 168 milyar TL" rakamının yılı net değil). Çekimden önce doğrulanmalı. https://www.dunya.com/ekonomi/esnafa-25-milyar-liralik-kredi-mujdesi-bakan-bolat-duyurdu-haberi-848399
+- BDDK konut kredisi ayrıntısı (sabahki konunun açıklaması; doğrulandı, memurlar.net / AA 11.30): Kredi tutarını yüzde 75 azaltan kısıt artık yalnız en az iki konutu olanlara uygulanacak (önce: en az bir konutu olan; kişi, eşi ve 18 yaş altı çocuğu birlikte sayılıyor). Yüzde 50 ve altı hisseli tapu sayılmıyor (ikiden fazla hisseli tapusu olan hariç); riskli / yıkım kararlı bir konut sayılmıyor. Prof. Dr. Ali Hepşen: faizler yüksekken talep sınırlı kalabilir. https://www.memurlar.net/haber/1184788/ikinci-konut-alimlarinda-kredi-sinirlamasi-degisti.html
+- Yargıtay 9. Hukuk Dairesi (puan tahmini 8/13; doğrulandı, memurlar.net / İHA 15.12): 19 yıllık işçi, 90 günlük ücretsiz izinden sonra ikinci izin talebi reddedilince işe dönmedi, 10 gün devamsız sayıldı ve tazminatsız çıkarıldı. İş mahkemesi ve bölge adliye mahkemesi kıdem ve ihbar tazminatına hükmetmişti; Yargıtay oy birliğiyle bozdu: izin vermek işverenin yönetim hakkı, işçi kendi kendine izne çıkamaz. Karar tarihi haberde yok. https://www.memurlar.net/haber/1184777/10-gun-ise-gelmeyen-isciye-kidem-ve-ihbar-tazminati-yok.html
+- İçi boş çekirdek "ayıplı mal" (doğrulandı, memurlar.net / İHA 15.58): Çekmeköy Tüketici Hakem Heyeti, zincir marketten alınan iki paket (17,50 TL'den 35 TL) ay çekirdeğinin çoğu boş çıkınca ürünü ayıplı mal saydı ve iadeye hükmetti; başvuran T-KONFED Başkanı Aydın Ağaoğlu. "Türkiye'de ilk" iddiası derneğe ait. Küçük ama "35 lira için hakem heyetine gidilir mi?" açısı var. https://www.memurlar.net/haber/1184813/
+- Emekli zammı (yalnız arama özeti, kulis): aylığı 40 bin TL'nin altındaki ~12,24 milyon emekliye enflasyon farkına ek 5 bin TL'ye kadar kademeli iyileştirme; prim gününe göre 6 kademe seçeneği; aralıkta Meclis'e. Resmî açıklama yok; 20 Kasım sabah bültenindeki "beş formül" haberinin devamı.
+- Asgari ücret: Bakan Işıkhan, komisyonun aralığın ilk haftasında çalışmaya başlamasını bekliyor; yüzde 30 zamla net 36.498,15 TL hesabı dolaşıyor (yalnız arama özeti, uzman hesabı).
+- Şimşek (20 Kasım): 2026 cari açık / milli gelir yüzde 2'nin biraz üzerinde (uzun dönem ort. yüzde 3,2) (yalnız arama özeti).
+- Efsane Cuma 27 Kasım; indirim öncesi fiyat için "son 10 günün en düşük fiyatı" kuralı 1 Ağustos 2026'dan beri yürürlükte, ceza üst sınırı 39,9 milyon TL (yalnız arama özeti, tek kaynak) – gelecek hafta için aday.
+- Resmî Gazete 21 Kasım: IPARD III değişikliği (AB katkısı 430 milyon avro), Pakistan hidrokarbon anlaşması, atamalar; cebe doğrudan dokunan karar yok (yalnız arama özeti).
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Kredi kartı: "Asgari ödemen düştü: bu iyi haber mi?" (11/13)
+Gün boyunca (sabah + öğleden sonra) en iyi üç konu:
+1. Kredi kartı (11/13, sabahtan; hâlâ en iyi "öğreten" konu)
    - Başlık: "Kredi kartında asgari ödeme neden düşürüldü?"
    - İlk cümle: "Kredi kartı borcumuz bir haftada 70 milyar lira arttı; aynı hafta devlet asgari ödemeyi düşürdü."
-   - Neden bugün: Karar dün açıklandı; kart borcu 3,54 trilyon TL, takipteki alacak 1 trilyon TL'nin üstünde; yapılandırma iddiasıyla aynı güne denk geldi. Üç rakipte de yok.
-   - Takip değeri: Yüksek – "asgari ödeme düşünce faiz işleyen borç büyür" hesabını bir örnekle öğretir; borçlu izleyiciye doğrudan iş görür. Eski eşik (100 bin TL üstü yüzde 40) çekimden önce BDDK sitesinden doğrulanmalı.
-2. Dünya / piyasa: "Altın, borsa, Bitcoin aynı anda düştü: para nereye gitti?" (11/13)
-   - Başlık: "Altın da borsa da düşüyor: para nerede?"
-   - İlk cümle: "Bu hafta Nasdaq yüzde 10, altın yüzde 9, Bitcoin yüzde 16 düştü; yükselen tek şey Amerikan tahvilinin faizi oldu."
-   - Neden bugün: Nasdaq 2020'den beri en kötü haftasını yaşadı; BIST haftalık yüzde 6 düştü; hafta sonu boyunca konuşulacak. Bizim 20 Kasım akşamı yüklenen "Altın eridi" videomuzla çakışmaması için altın değil "her şey aynı anda" açısı seçilmeli.
-   - Takip değeri: Yüksek – "faiz yükselince faiz getirmeyen her şey satılır" zincirini öğretir; kalıcı bir ders.
-3. Benzin: "Benzin 3 haftada 11 lira ucuzladı: neden?" (11/13)
-   - Başlık: "Benzin 3 haftada 11 lira ucuzladı: neden?"
-   - İlk cümle: "Benzin 1 Kasım'da 80 lira 50 kuruştu; bugün 70 liranın altında."
-   - Neden bugün: İndirim bu gece yürürlüğe girdi; 1 Aralık'ta motorinde vergi artıyor. Pompa fiyatı çekimden önce doğrulanmalı (1,86 mı 2,93 mü).
+   - Neden bugün: Karar 20 Kasım'da açıklandı, hafta sonu boyunca konuşuluyor; üç rakipte de yok. Bugün eklenen: BDDK konut kredisi kısıtını da gevşetti (iki evi olana kadar kısıt yok).
+   - Takip değeri: Yüksek – asgari ödeyince kalan borca faiz işlediğini bir örnekle öğretir; borçlu izleyicinin doğrudan işine yarar.
+2. Benzin (11/13, güncellendi)
+   - Başlık: "Benzin 3 haftada 12 lira ucuzladı: neden?"
+   - İlk cümle: "Benzin 1 Kasım'da 80 lira 50 kuruştu; bugün İstanbul'da 68 lira 35 kuruş."
+   - Neden bugün: Tutar netleşti (2,95 TL); motorinde 1 Aralık'ta vergi geri geliyor, yani pencere 10 gün.
    - Takip değeri: Orta-yüksek – pompa fiyatının üç parçasını (petrol, kur, vergi) öğretir; ömrü kısa.
-- Ek (10/13, kişi hikâyesi): "Altınbaş: fıstıkçıdan kuyumcuya, Prag havalimanına" – Kavcıoğlu videomuz 16,6 bin izlendi, kişi hikâyesi tutuyor. Takip değeri: Orta – daha çok merak; "bir aile şirketi nasıl holding olur, fon işine neden girer" bağlanırsa öğretici. Suçlamalar iddia düzeyinde, dil dikkatli olmalı.
-- Ek (10/13, dünya): "GTA 6: 2013'te bir asgari ücret yetiyordu" – Takip değeri: Orta; asgari ücrete oran hesabı (0,97'den 1,07'ye) başlıktaki kadar çarpıcı değil, dürüst verilmeli.
-- Yedek (haber şart değil): "A101 neden borsada değil?" – hâlâ kullanılmadı. İkinci yedek: "İkinci el araba gerçekte ucuzladı mı?" (fiyat 10 ayda yüzde 7, enflasyon yüzde 27,5).
+3. Dünya (11/13 sabah + bugünkü güncelleme 9/13)
+   - Başlık: "Tayvan çöktü, senin BES'in neden düştü?"
+   - İlk cümle: "Tayvan borsası bir haftada yüzde 18 düştü; 1991'den beri en kötü haftası."
+   - Neden bugün: Gelişen ülke borsaları ayı piyasasına girdi; BIST haftada yüzde 6, BES fonları yüzde 1,44 düştü; pazartesi açılışından önce yayımlanmalı. "Altın eridi" videomuzla (20 Kasım) çakışmaması için altın değil "çip → Asya → gelişen ülkeler → BIST / BES" zinciri.
+   - Takip değeri: Yüksek – "Nvidia düşünce neden Türk hissesi de satılır" zincirini (yabancı fonlar gelişen ülkeleri sepet olarak satar) öğretir; kalıcı bir ders. Nasdaq haftalık rakamı (yüzde 10 mu 5,6 mı) çekimden önce netleşmeli.
+- Ek (10/13): "İstanbul'da öğrenciye biniş 1 lira: parayı kim ödüyor?" – İlk cümle: "İstanbul'da öğrenci abonmanı 653 liradan 200 liraya iniyor; 1 milyon 225 bin öğrenci var." Takip değeri: Orta – toplu taşımada biletin maliyetin ne kadarını karşıladığını (sübvansiyon) öğretebilir; ama henüz teklif, kitle (25-44 yaş erkek) için dolaylı.
+- Ek (10/13): "Borsadaki 'yabancı' aslında kimdi?" (MASAK / Gildencrest) – İlk cümle: "Londra'da kayıtlı bir şirketten 9 yılda 21 milyar lira geçti; rapora göre İstanbul'dan yönetiliyordu." Takip değeri: Orta-yüksek – "yabancı takası" verisinin neden yanıltabileceğini öğretir; iddia dili korunmalı, isimler savcılık / MASAK'a atfedilmeli.
+- Yedek (haber şart değil): "A101 neden borsada değil?" – hâlâ kullanılmadı; bizim kanalda son 30 günde işlenmedi. İkinci yedek: "İkinci el araba gerçekte ucuzladı mı?" (fiyat 10 ayda yüzde 7, enflasyon yüzde 27,5).
 
 ## Rakip radarı
-İzlenmeler 21 Kasım 08.50 TSİ itibarıyla. Son 48 saatte (19 Kasım 08.45'ten beri) üç rakip de video yüklemedi.
-- Abdulkadir Genç: yeni video yok. Son: 18 Kas 22.04 / 22.10 – "Emeklilikte ne kadar paranız olmalı? %12,5 kuralı…" – 270.838 (x2 yükleme; diğeri 163.850) · 18 Kas 22.14 – "BES mantıksız mı?…" – 121.651
-- Yatırım 101: yeni video yok. Son: 18 Kas 21.26 – "TÜRKİYE TERS YÖNE GİDİYOR! Bedelini Kim Ödeyecek?" – 172.643 · 17 Kas 13.39 – "Bir Kahve Neden 150 Lira?" – 136.147
-- Melda Yücel Kocaalp: yeni video yok. Son: 17 Kas 18.56 – "MEVDUATTAN KONUTA GEÇMELİ Mİ?…" – 166.781
-- BİZ: 20 Kas 22.39 – "Altın eridi: Dip neresi, ne zaman toparlanır?" – 35 (yeni) · 20 Kas 07.30 – "Merkez Bankası'nı da BDDK'yı da yönetti: Şahap Kavcıoğlu kimdir?" – 16.642 · 19 Kas 17.15 – "İkinci çocuğa ayda 1.500 lira veren devlet…" – 1.170 · 19 Kas 12.00 – "Fonda paran yoktu ama sen de harcamayı kıstın…" – 1.659
-Rakipler üç gündür sessiz; kart asgari ödemesi, benzin indirimi, Wall Street çöküşü, Altınbaş ve GTA 6 hepsinde boş. Bizde Kavcıoğlu kişi videosu bir günde 16,6 bine çıktı (haftanın en iyi ikinci sonucu).
+İzlenmeler 21 Kasım 16.05 TSİ itibarıyla. Üç rakip de 18 Kasım akşamından beri (yaklaşık 66 saat) video yüklemedi; bugün yeni video yok.
+- Abdulkadir Genç: yeni yok. 18 Kas 22.04 / 22.10 – "Emeklilikte ne kadar paranız olmalı? %12,5 kuralı…" – 278.878 (x2 yükleme; diğeri 177.848; sabah 270.838) · 18 Kas 22.14 – "BES mantıksız mı?…" – 123.884 (sabah 121.651)
+- Yatırım 101: yeni yok. 18 Kas 21.26 – "TÜRKİYE TERS YÖNE GİDİYOR! Bedelini Kim Ödeyecek?" – 181.392 (sabah 172.643) · 17 Kas 13.39 – "Bir Kahve Neden 150 Lira?" – 137.106
+- Melda Yücel Kocaalp: yeni yok. 17 Kas 18.56 – "MEVDUATTAN KONUTA GEÇMELİ Mİ?…" – 170.621 (sabah 166.781)
+- BİZ: bugün yeni yok. 20 Kas 22.39 – "Altın eridi: Dip neresi, ne zaman toparlanır?" – 47 (sabah 35) · 20 Kas 07.30 – "Şahap Kavcıoğlu kimdir?" – 17.698 (sabah 16.642) · 19 Kas 17.15 – "İkinci çocuğa ayda 1.500 lira…" – 1.209 · 19 Kas 12.00 – "Fonda paran yoktu ama…" – 1.879
+Rakipler üç gündür sessiz ve son videoları zamansız (emeklilik birikimi, BES). Kart asgari ödemesi, benzin, Wall Street / Asya düşüşü, MASAK raporu ve İBB teklifi hepsinde boş. Bizim "Altın eridi" videosu 17 saatte 47 izlenmede kaldı; aynı konuyu tekrar etmek yerine farklı bir giriş (BES / Tayvan) denenebilir.
 
-## Takvim
-- 23 Kasım Pazartesi – TCMB kasım sektörel enflasyon beklentileri; TÜİK işgücü girdi endeksleri (yalnız arama özeti)
-- 24 Kasım Salı 10.00 – Hizmet, perakende ticaret ve inşaat güven endeksleri (yalnız arama özeti, dünkü bülten)
-- 26 Kasım Perşembe – TCMB haftalık rezerv ve mevduat verileri (13-20 Kasım haftası); ABD'de Şükran Günü, piyasalar kapalı (genel bilgi)
-- 27 Kasım Cuma 10.00 – Ekonomik güven endeksi; TCMB Finansal İstikrar Raporu (doğrulandı, AA: "gelecek hafta"; gün yalnız arama özeti); Efsane Cuma (kampanyalar 23-29 Kasım haftasına yayılıyor)
-- Gelecek hafta – ABD büyüme, çekirdek kişisel tüketim harcamaları (PCE) ve dünya genelinde imalat PMI verileri (doğrulandı, AA)
-- 1 Aralık Salı – Motorinde ÖTV 9 → 12 TL/lt (KDV'yle ~3,60 TL)
-- 7 günün dışında: 3 Aralık 10.00 – kasım enflasyonu (TÜİK) · 8-9 Aralık – Fed toplantısı (Waller 50 baz puanı gündeme getirdi) · 10 Aralık 14.00 – TCMB faiz kararı (politika faizi yüzde 36; anket beklentisi yüzde 35)
-- Açıklanınca bakılacak rakamlar (kasım enflasyonu, 3 Aralık): ekim aylık yüzde 2,58; temmuz-ekim 4 aylık birikim yüzde 8,28; TCMB yıl sonu tahmini yüzde 29,5; piyasa beklentisi yüzde 30,04; bağlı ödemeler: memur ve emekli ocak zammı (TCMB tahminiyle SSK-Bağ-Kur yüzde 9,97, memur yüzde 7,91), aralık kira artış tavanı, 2027 asgari ücret pazarlığı (mevcut net 28.075,50 TL).
+## Bu akşam
+Hafta sonu; bu akşam beklenen karar, veri ya da bilanço yok. Sıradaki: 23 Kasım Pazartesi piyasa açılışı (Asya ve BIST'in cuma günkü ABD düşüşüne tepkisi), TCMB sektörel enflasyon beklentileri; 1 Aralık motorin ÖTV'si.
