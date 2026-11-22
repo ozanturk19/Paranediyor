@@ -1,181 +1,126 @@
-# Para Ne Diyor? – 22 Kasım 2026 Pazar Sabah Bülteni
-Hazırlanma: 22 Kasım 2026 08.53 TSİ
+# Para Ne Diyor? – 22 Kasım 2026 Pazar Öğleden Sonra Bülteni
+Hazırlanma: 22 Kasım 2026 16.10 TSİ
 
-Not: Hafta sonu; piyasa rakamları 20 Kasım Cuma kapanışına aittir. Bu oturumda açılamayan siteler (ağ ayarı): yenisafak.com, milligazete.com.tr, aksam.com.tr, emlakmanset.com, aa.com.tr. Doğrulamalar memurlar.net (AA / İHA / gazete kaynaklı), bloomberght.com ve endeks24.com sayfaları açılarak yapıldı; açılamayan sitelere dayanan rakamlar "(yalnız arama özeti)" diye işaretlendi. Sakin bir pazar: yeni resmî karar yok; bugünün konuları ağırlıkla dün akşam ve bu sabah yayımlanan haber / analizlerden.
+Not: Hafta sonu; piyasa rakamları 20 Kasım Cuma kapanışına aittir. Bu oturumda açılamayan siteler (ağ ayarı): artigercek.com, birgun.net, karar.com, haberler.com, ensonhaber.com, internethaber.com, zhaber.com.tr, n24.com.tr, samsungazetesi.com, canligaste.com (yenisafak.com sabah da açılamamıştı). Doğrulamalar memurlar.net (AA / NTV / Sabah kaynaklı), haberturk.com, sozcu.com.tr, bloomberght.com ve endeks24.com sayfaları açılarak yapıldı. Telegram'a 16.10'da tek sefer gönderildi (2.769 karakter).
 
-## Kaçak sigara "TEKEL 3000": dört bakanlık devrede
+## Emekli maaşı: Kabine yarın refah payını görüşüyor
 - Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 22 Kasım 2026 (Yeni Şafak, Merve Safa Akıntürk'ün haberi; memurlar.net 08.07), Türkiye geneli
-- Ne oldu: Ticaret, Hazine ve Maliye, İçişleri ile Tarım ve Orman bakanlıkları kaçak sigaraya karşı ortak mücadele hazırlıyor. Irak ve Gürcistan üzerinden sokulan, bir dönemin "TEKEL 2000" sigarasını taklit eden "TEKEL 3000" markalı ürünün sahte bandrolle (Darphane bandrolü taklidi) yaygınlaştığı tespit edildi.
+- Puan: 12/13 (isim 3, cep 3, tazelik 3, boşluk 2, açı 1)
+- Tarih / yer: 22 Kasım 2026 (haber 13.50), Ankara; toplantı 23 Kasım 2026 Pazartesi, Beştepe
+- Ne oldu: Cumhurbaşkanlığı Kabinesi yarın Erdoğan başkanlığında toplanıyor. NTV'ye göre ana başlık 17 milyon emekliyi ilgilendiren refah payı ve en düşük emekli aylığına artış; fon soruşturması da adli ve idari boyutuyla ele alınacak. Resmî oran ya da tutar yok.
 - Detaylar ve rakamlar:
-  - "TEKEL 3000"in Doğu ve Güneydoğu Anadolu'daki aylık satış hacmi Ocak 2026'da ~34 milyon adetten Haziran 2026'da ~45 milyon adede çıktı (doğrulandı, memurlar.net; kaynak sektör verisi. "Adet"in paket mi tek sigara mı olduğu haberde açık değil – çekimden önce netleştirilmeli).
-  - 2026'nın ikinci çeyreğinde "TEKEL 3000", yurt dışı menşeli (kaçak) sigara paketlerinin yüzde 68,2'sini oluşturdu (doğrulandı).
-  - İstanbul'da tüketilen her 10 paketten yaklaşık biri kaçak; Türkiye genelinde lisanslı satış noktalarının yüzde 8'inde yasa dışı ürün satışı tespit edildi (doğrulandı).
-  - Boş paket araştırmasında yurt dışı menşeli paket oranı en yüksek iller: Şanlıurfa yüzde 13,5, Manisa yüzde 12,7, Kahramanmaraş yüzde 11,3 (yalnız arama özeti, gzt.com / Türkiye gazetesi).
-  - Kaçak sigara pazarına bağlı finansal kayıp 2022'de 24 milyar TL olarak hesaplandı; 2027'de 137 milyar TL'ye ulaşabileceği öngörülüyor (doğrulandı; "paylaşılan sektör verileri", yani resmî değil sektör tahmini).
-  - (hesap) 24 → 137 milyar TL: beş yılda ~5,7 kat. Bu artışın ne kadarının fiyat / vergi artışından, ne kadarının kaçak hacminden geldiği haberde yok.
-  - Denetimler transit ticarete, sınır geçişlerine ve yolcu beraberinde getirilen küçük miktarlı girişlere yoğunlaşacak; birden fazla güzergâh kullanıldığı değerlendiriliyor (doğrulandı).
-  - Aynı dönemde Sağlık Bakanlığı'nın 18 yaş altına tütün satışını önlemeye yönelik kanun taslağı çalışması sürüyor (doğrulandı).
-  - Tek ana kaynak: Yeni Şafak haberi; diğer siteler (Sabah, Türkiye, Haber7) aynı haberi aktarıyor.
-- Kimsenin anlatmadığı taraf: Haberlerdeki bütün rakamlar (her 10 paketten 1'i, 137 milyar TL) devletin değil, tütün sektörünün atılan boş paketleri sayarak yaptığı araştırmaya dayanıyor (doğrulandı, memurlar.net metni: "tütün sektörünün … boş paket araştırması", "paylaşılan sektör verileri"). Yani kaybı hesaplayan, pazarı kaçağa kaptıran şirketlerin kendisi.
-- Kim kazanıyor / kim kaybediyor: Kaçakçı ve ucuz sigara arayan içici kazanıyor; vergi geliri kaybeden Hazine, yasal üretici ve bayi kaybediyor.
-- İzleyicinin sorusu: Kaçak sigara neden bu kadar yayıldı, yasal paketin fiyatının ne kadarı vergi?
-- Kaynaklar: https://www.memurlar.net/haber/1184864/kacak-sigarada-tekel-3000-alarmi-4-bakanlik-devrede.html · https://www.yenisafak.com/gundem/kacak-sigaraya-siki-takip-4875338 · https://www.turkiyegazetesi.com.tr/gundem/dort-bakanlik-tekel-3000e-savas-acti-kacak-sigaranin-yuku-137-milyar-tl-1830892
+  - Kapsam: 17 milyon emekli (doğrulandı, memurlar.net / NTV). Toplantı saati haberde yok.
+  - Düzenlemede refah payı ve en düşük aylığa artış bekleniyor; kanun teklifinin bütçe çalışmalarından sonra Meclis'e gelmesi bekleniyor; Erdoğan düzenlemenin yeni yıldan önce yürürlüğe gireceğini söylemişti (doğrulandı, memurlar.net / NTV).
+  - Basına yansıyan son formül (Yeni Şafak kaynaklı; yalnız arama özeti, site açılamadı): aylığı 40 bin TL'nin altındaki 12 milyon 240 binden fazla emekliye 5 bin TL'ye kadar ilave artış; emeklilerin yaklaşık yüzde 80'i 40 bin TL ve altında, yüzde 90'ı 50 bin TL ve altında aylık alıyor.
+  - Başka haberlerde enflasyon farkına ek yüzde 10-15 refah payı (yalnız arama özeti); Sözcü (16 Kasım, doğrulandı): yüzde 5-15 arası refah payı konuşuluyor; herkese 10-15 bin TL seyyanen zam, yıl içinde ek bütçe olmadan karşılanamayacağı için rafa kalktı (Ankara kulisi, isimsiz kaynak).
+  - Cevdet Yılmaz (canlı yayın; Sözcü üzerinden doğrulandı): otomatik enflasyon farkının üzerindeki her artış için kanun gerekiyor; "Nihai karar Meclisimizde."
+  - En düşük emekli aylığı 23.552 TL (arşiv). (hesap) Enflasyon farkı yüzde 10 varsayılırsa 25.907 TL; üzerine 5.000 TL eklenirse 30.907 TL (23.552 × 1,10 + 5.000; 20 Kasım sabah arşivindeki hesap). Açlık sınırı 38 bin TL'nin üzerinde (Sözcü, doğrulandı; kurum adı belirtilmedi).
+  - Memur tarafı (Sözcü): 2 puanlık ek zam ihtimali; temmuz zammı yüzde 13,52, 6 aylık enflasyon yüzde 17,76, fark 4,24 puan.
+- Kimsenin anlatmadığı taraf: Emekli zammının iki ayrı parçası var: enflasyon farkı kanunen otomatik geliyor, refah payı ise ayrı bir kanun gerektiriyor; herkese eşit 10-15 bin TL formülünün ek bütçe gerektirdiği için elendiği yazıldı (Sözcü, 16 Kasım – kulis, resmî değil).
+- Kim kazanıyor / kim kaybediyor: 40 bin TL eşiği doğruysa düşük aylıklı ~12,2 milyon kişi kazanır; eşiğin üstünde kalan ~yüzde 20 yalnız enflasyon farkıyla kalır (kulis rakamı).
+- İzleyicinin sorusu: Emekliye ne kadar zam gelecek, herkes aynı parayı mı alacak?
+- Kaynaklar: https://www.memurlar.net/haber/1184899/kabine-yarin-toplaniyor-gundem-emekliye-refah-payi-ve-fon-sorusturmasi.html · https://www.sozcu.com.tr/emekliyi-yikan-kulis-refah-payi-surprizi-p382011 · https://www.haberler.com/ekonomi/erdoganin-mujdesi-sonrasi-emekli-zamminda-yeni-20447782-haberi/ (açılamadı)
 
-## Kakao yarı yarıya ucuzladı, çikolata ucuzlamadı
-- Kategori: dünya (emtia: kakao; köprü: Türkiye'de çikolata fiyatı)
-- Puan: 11/13 (isim 3, cep 2, tazelik 2, boşluk 2, açı 2)
-- Tarih / yer: 21 Kasım 2026 20.34 (Endeks24 Araştırma analizi; veri TÜİK Ekim 2026 TÜFE'si ve Dünya Bankası aylık kakao fiyatı)
-- Ne oldu: TÜİK'in "çikolata, kakao ve kakao bazlı gıda ürünleri" kalemi Ekim 2026'da yıllık yüzde 8,83 arttı; bu, Mayıs 2018'deki yüzde 7,97'den beri en düşük yıllık artış. Aynı ay genel TÜFE yüzde 29,77. Dünyada kakao ise Ocak 2025 rekorunun yaklaşık yarısında.
-- Detaylar ve rakamlar (tümü doğrulandı, endeks24.com; tek kaynaklı analiz, ham veriler TÜİK / Dünya Bankası / TCMB):
-  - Kakao (Dünya Bankası aylık ortalama): Ocak 2025'te 10,75 dolar/kg (Ocak 1960'ta başlayan serinin rekoru) → Mart 2026'da 3,24 dolar (tepeden yüzde −69,86) → Ekim 2026'da 5,75 dolar (marttan beri yüzde +77,47; tepenin yüzde 46,51 altında).
-  - Çikolata kalemi yıllık artışı: Eylül 2024'te yüzde 94,72 (zirve), Ekim 2025'te yüzde 65,81, Ekim 2026'da yüzde 8,83.
-  - Çikolata Mayıs-Ekim 2026 arasında 6 aydır genel TÜFE'nin altında; öncesindeki 24 ay (Mayıs 2024-Nisan 2026) üstündeydi. Ekimde fark −20,94 puan: 2006'dan beri 250 ayın en geniş eksi farkı.
-  - 2026'nın ilk 10 ayının 5'inde çikolata kalemi bir önceki aya göre geriledi; Aralık 2025-Ekim 2026: çikolata yüzde +6,83, genel TÜFE yüzde +27,52.
-  - Aralık 2023-Aralık 2024: kakaonun lira fiyatı yüzde +194,80; çikolata yüzde +89,21; genel TÜFE yüzde +44,38.
-  - Aralık 2024-Aralık 2025: kakaonun lira fiyatı yüzde −31,66; çikolata yüzde +45,50.
-  - Lirayla kakao Ekim 2026'da 283,54 TL/kg; 11 ay yıllık ekside kaldıktan sonra ekimde yıllık yüzde +14,19 ile yeniden artıya geçti (dolar fiyatı yıllık yüzde −3,36, kur yıllık yüzde +18,17).
-- Kimsenin anlatmadığı taraf: 2025'te kakaonun lira fiyatı yüzde 31,66 düşerken çikolata yüzde 45,50 zamlandı; ucuzlama rafa ancak 2026'da "zam yapmama" olarak yansıdı. Şimdi lirayla kakao 11 ay sonra yeniden yıllık artıda (doğrulandı, endeks24.com).
-- Kim kazanıyor / kim kaybediyor: 2025'te ucuz kakao + zamlı çikolata döneminde üretici marjı kazandı (çıkarım; haberde şirket marjı verisi yok – Ülker'in 3. çeyrek zararı arşivde, 7 Kasım); 2026'da tüketici ilk kez enflasyonun altında zam gördü.
-- İzleyicinin sorusu: Kakao yarı yarıya ucuzladıysa çikolata neden ucuzlamadı?
-- Kaynaklar: https://www.endeks24.com/cikolatada-yillik-fiyat-artisi-yuzde-9-ile-mayis-2018-den-beri-en-dusukte
+## Özel hastane: aynı tahlil 14.200 lira, belediyede 1.670 lira
+- Kategori: ana konu
+- Puan: 11/13 (isim 2, cep 3, tazelik 3, boşluk 1, açı 2)
+- Tarih / yer: 22 Kasım 2026 (Sabah gazetesi, Betül Alakent; memurlar.net 08.50), İstanbul
+- Ne oldu: Sabah'ın haberine göre özel hastanelerde aynı tetkik için birbirinin katı fiyatlar isteniyor. Muayenesi sigortadan karşılanan bir hastaya doktorun istediği tahliller için bir hastane 14.200 TL, iki-üç başka özel hastane 18.000 ve 9.300 TL fiyat verdi; aynı tahliller İstanbul'da bir ilçe belediyesinin polikliniğinde 1.670 TL tuttu.
+- Detaylar ve rakamlar (hepsi doğrulandı, memurlar.net / Sabah; tek kaynak, hastane adları verilmiyor):
+  - 3 yaşındaki çocuğa sürüntü testi: bir özel hastanede 2.500 TL, aynı gün başka bir hastanede 500 TL (Şubat 2026 örneği) – 5 kat.
+  - Tahlil paketi: 14.200 / 18.000 / 9.300 TL; belediye polikliniğinde 1.670 TL. (hesap) En pahalı teklif belediyenin 10,8 katı (18.000 / 1.670), ilk hastane 8,5 katı (14.200 / 1.670).
+  - Poliklinik yetkilileri: bir testin özel laboratuvar maliyeti ~400 TL, bazı hastaneler 3.000-4.000 TL fatura ediyor.
+  - EKG: bir özel hastanede 8.200 TL, diğerinde 4.560 TL. MR'da üç hastane üç ayrı fiyat (tutar yok).
+  - TÜİK 2025 Yaşam Memnuniyeti Araştırması: özel hastanelerde muayene ve tahlil ücretini sorun görenlerin oranı yüzde 66,6; üniversite hastanelerinde 41,8, devlet hastanelerinde 40,8.
+  - SGK, 10 Aralık 2025 SUT değişikliğiyle hastanelere ödemeleri yüzde 10-55 artırdı (yoğun bakım +55, ayakta muayene +30); toplam iyileştirme 110 milyar TL.
+  - Tüketici Konfederasyonu Başkanı Aydın Ağaoğlu (haberde yazım bozuk, teyit edin) görüş verdi.
+- Kimsenin anlatmadığı taraf: Tüketicinin Korunması Hakkında Kanun'un 54. maddesi mal ve hizmetin son fiyatının gösterilmesini zorunlu kılıyor; yani hasta tetkiki yaptırmadan fiyatı sorabilir, yazılı isteyebilir ve başka kurumla karşılaştırabilir (haberde anılan dayanak; madde metni bu oturumda ayrıca açılmadı).
+- Kim kazanıyor / kim kaybediyor: Fiyat sormadan tetkik yaptıran ve özel sigortası tetkiki karşılamayan hasta kaybediyor.
+- İzleyicinin sorusu: Aynı tahlil neden bir yerde 1.670, başka yerde 14.200 lira?
+- Kaynaklar: https://www.memurlar.net/haber/1184869/ozel-hastanede-ayni-test-10-kat-farkli-fiyata-hastalar-isyan-etti.html
 
-## Bir evi olana ikinci ev kredisi açıldı
-- Kategori: ana konu (21 Kasım sabahındaki kredi kartı / BDDK konusunun konut ayağı; ilk kez ayrı madde)
-- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: BDDK kararı 19-20 Kasım 2026; 21-22 Kasım'da haber ve yorumlar sürüyor; bankalar 23 Kasım Pazartesi açılıyor
-- Ne oldu: BDDK, konut kredisinde kredi tutarını yüzde 75 azaltan kısıtı artık yalnız en az iki konutu olanlara uyguluyor. Önceden kendisinin, eşinin ya da 18 yaş altı çocuğunun adına tek konut bulunan da bu kısıta takılıyordu.
-- Detaylar ve rakamlar:
-  - Yeni kural: kişinin, eşinin veya 18 yaş altı çocuklarının en az iki konutu varsa azami kredi, konut değerine göre belirlenen oran üzerinden yüzde 75 azaltılır (doğrulandı, memurlar.net / AA).
-  - Yüzde 50 ve altı hisseli tapu sayılmıyor (ikiden fazla konutta hissesi olan hariç); riskli yapı nedeniyle yıkılan / yıkım kararı alınan konutlardan biri sayılmıyor (doğrulandı).
-  - Örnek: ekspertiz değeri 5 milyon TL olan A ya da B enerji sınıfı ikinci eve, tek evi olan kişi 4,5 milyon TL'ye kadar kredi alabilecek; eski kuralda sınır ~1 milyon TL civarına düşüyordu (yalnız arama özeti, Milli Gazete / Aydınlık).
-  - Yürürlük: kaynaklar "yürürlükte" ya da "pazartesi itibarıyla" diyor (yalnız arama özeti; çelişkili). Karar faiz oranlarını değiştirmiyor.
-  - Konut kredisi faizi: 20 Kasım itibarıyla kampanyalarda aylık yüzde 2,88-3,10; en düşük ilan yüzde 2,87; 1 milyon TL, 120 ay için taksit ~29.700-29.880 TL (yalnız arama özeti, emlakmanset / hesapkurdu / hangikredi).
-  - (hesap) Aylık yüzde 2,88, 120 ay: 1 milyon TL'nin taksiti = 1.000.000 × 0,0288 / (1 − 1,0288^−120) ≈ 29.790 TL. 4,5 milyon TL için ≈ 134.000 TL/ay; 120 ayda toplam ≈ 16,1 milyon TL geri ödeme. Net asgari ücret 28.075,50 TL (yalnız arama özeti) → taksit ≈ 4,8 asgari ücret.
-  - Prof. Dr. Ali Hepşen (İÜ): "Kredi limitinin artması, hanehalkının aynı ölçüde borçlanabileceği anlamına gelmiyor; mevcut faizde taksitlerin gelir üzerindeki yükü yüksek." Ayrıca ikinci konut alımlarının bir kısmı yatırım amaçlı; arzın sınırlı olduğu yerlerde fiyatları yukarı itebilir; ilk kez ev alacaklar için ayrı destek gerekli (doğrulandı, memurlar.net / AA).
-  - GYODER Başkanı: düzenleme konuta erişimi kolaylaştırır, talebi destekleyebilir (yalnız arama özeti, Akşam).
-  - Bağlam: Ekimde konut satışları yıllık yüzde 23,3 düşüşle 131.072; ikinci el yüzde 28,5 düştü (doğrulandı, bloomberght.com; arşiv 17 Kasım).
-- Kimsenin anlatmadığı taraf: Haberler "müjde" diyor ama değişen yalnız limit; aylık yüzde 2,88 faizle 4,5 milyon TL'lik kredinin taksiti ~134 bin TL (hesap). Düzenleme, satışların yüzde 23 düştüğü bir ayın hemen ardından geldi ve ilk evini alacak olana değil, zaten evi olana alan açıyor (doğrulandı: Hepşen'in değerlendirmesi ve TÜİK verisi).
-- Kim kazanıyor / kim kaybediyor: Bir evi olup geliri yüksek olan alıcı, müteahhit ve bankalar kazanıyor; ilk evini almaya çalışan kişi için değişen bir şey yok, fiyat baskısı ihtimali var.
-- İzleyicinin sorusu: İkinci eve kredi açıldı ama o taksiti kim ödeyebilir, ev fiyatları artar mı?
-- Kaynaklar: https://www.memurlar.net/haber/1184788/ikinci-konut-alimlarinda-kredi-sinirlamasi-degisti.html · https://www.cnnturk.com/ekonomi/bddkdan-konut-kredisi-karari-iki-ve-uzeri-konutu-olanlara-yuzde-75-siniri-3495887 · https://www.bloomberght.com/gayrimenkulun-likidite-sinavi-3795368
-
-## "Hep Ucuz" diyen zincir markete 1 milyon lira ceza
+## Emlakçı ev gösterme parası isteyemez
 - Kategori: ana konu
 - Puan: 10/13 (isim 2, cep 2, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 21 Kasım 2026 22.03 (Ticaret Bakanlığı Basın Müşaviri Bekir Kaplan'ın paylaşımı), Türkiye geneli
-- Ne oldu: Reklam Kurulu, "Hep Ucuz" sloganıyla reklam yapan bir zincir markete 1.083.706 TL idari para cezası kesti ve reklamları durdurdu. Marketin adı açıklamada yok; adını tahminle yazmayın.
-- Detaylar ve rakamlar (tümü doğrulandı, memurlar.net):
-  - Kurul'a göre "Hep Ucuz" ifadesi, marketteki bütün ürünlerin her zaman ucuz olduğu algısını oluşturuyor; şirket bunu doğrulayacak yeterli bilgi ve belge sunamadı.
-  - Bakanlık 7 zincir markette fiyat karşılaştırdı: süt, çay, un, pirinç, ayçiçek yağı, yumurta, tavuk, bebek maması, bebek bezi, deterjan. Marketin bütün ürünlerinin sürekli ucuz olduğunu gösteren bulguya ulaşılmadı.
-  - Şirket sonradan ~500 temel ürün ve 10 zincir marketi kapsayan kendi karşılaştırmasını sundu; bu da iddiayı doğrulamadı.
-  - Daha önce durdurma kararı verilmesine rağmen reklamlar şirketin sosyal medya hesabında yayımlanmayı sürdürdü.
-  - Ceza tutarı 1.083.706 TL: 21 Kasım'da duyurulan "Nutella / Perwoll siparişini fiyat hatası diye iptal eden e-ticaret şirketi" cezasıyla kuruşu kuruşuna aynı (arşiv, 21 Kasım sabah). Yani bu, mecraya göre belirlenen maktu bir tutar; şirketin cirosuna göre değişmiyor (çıkarım; iki cezanın aynı olması doğrulandı).
-  - Bağlam: 12 Kasım'daki 375. Reklam Kurulu toplantısında 141 dosyanın 119'unda ihlal, toplam 35.866.446 TL ceza; yanıltıcı indirim için bir firmaya 5 milyon TL (yalnız arama özeti). Cezalar 99.339 TL ile 39.916.524 TL arasında (yalnız arama özeti). Efsane Cuma 27 Kasım.
-- Kimsenin anlatmadığı taraf: Bakanlık, 10 temel üründe 7 zinciri tek tek karşılaştırdı ve "hep ucuz" iddiasını doğrulayamadı; şirketin kendi 500 ürünlük karşılaştırması da yetmedi. Ceza ise dünkü e-ticaret cezasıyla aynı sabit tutar: 1.083.706 TL (doğrulandı, memurlar.net).
-- Kim kazanıyor / kim kaybediyor: Slogan durduruluyor; zincir için 1 milyon TL küçük bir tutar, asıl kayıp pazarlama mesajı. Tüketici için kazanç: "en ucuz" iddiası artık belge istiyor.
-- İzleyicinin sorusu: "Hep ucuz" diyen market gerçekten ucuz değilse, hangi market gerçekten ucuz?
-- Kaynaklar: https://www.memurlar.net/haber/1184851/hep-ucuz-ifadeli-yaniltici-reklama-1-milyon-83-bin-lira-ceza.html · https://www.turkgun.com/gundem/ticaret-bakanligindan-zincir-markete-1-milyon-liralik-ceza-hep-ucuz-reklamlari-mercek-altina-alindi/418655
+- Tarih / yer: 22 Kasım 2026 (AA; Habertürk 11.34, memurlar.net 14.05), Türkiye geneli
+- Ne oldu: Bazı emlak işletmelerinin satılık ve kiralık konutları göstermek için 2.000-5.000 TL istediği şikâyetleri üzerine sektör ve tüketici dernekleri AA'ya konuştu: ev göstermek için ücret istemek mevzuata aykırı.
+- Detaylar ve rakamlar (doğrulandı, haberturk.com ve memurlar.net / AA):
+  - İstenen ücret: 2.000-5.000 TL ("yer gösterme" / "ev gezdirme" adıyla).
+  - Dayanak: Taşınmaz Ticareti Hakkında Yönetmelik madde 19, fıkra 4: "Taşınmazı gösterme hizmeti karşılığında herhangi bir bedel talep edilemez." (TÜGEM Genel Başkanı Hakan Akdoğan'ın aktarımı; yönetmelik metni ayrıca açılmadı.)
+  - Taşınmaz gösterme belgesi yalnız hangi evin kime, ne zaman gösterildiğini kayda geçirir; imzalamak tek başına ödeme borcu doğurmaz (Akdoğan).
+  - GAPAS Başkanı Mustafa Kemal Şahin: "Sadece taşınmazın gösterilmiş olması ücret talep etmek için yeterli değildir." Öneri: ödeme yapma, işletmenin taşınmaz ticareti yetki belgesini kontrol et, yazışma ve ilanı sakla.
+  - TÜDER Genel Başkanı Levent Küçük: komisyon yalnız satış ya da kiralama gerçekleşirse alınabilir; bazı emlakçılar satılmış / kiralanmış evleri ilanda tutuyor, asansör ve kentsel dönüşüm bilgisini eksik veriyor.
+  - Şikâyet yolları: Ticaret İl Müdürlüğü, Ticaret Bakanlığı, CİMER, meslek odası, (kayıtlıysa) İTO.
+  - Komisyon tavanı (yalnız arama özeti, hukuk bürosu yazıları): kiralamada KDV hariç bir aylık kira; satışta toplam yüzde 4 (uygulamada yüzde 2 alıcı + yüzde 2 satıcı), artı KDV. Ceza tutarı haberlerde yok.
+- Kimsenin anlatmadığı taraf: Gösterme belgesine atılan imza borç doğurmuyor; emlakçının parayı hak etmesi için satışın ya da kiralamanın gerçekleşmesi gerekiyor (AA'ya konuşan üç dernek başkanı).
+- Kim kazanıyor / kim kaybediyor: Ev arayan kiracı ve alıcı kazanıyor; "gezdirme ücreti"ni gelir kalemi yapan işletmeler kaybediyor.
+- İzleyicinin sorusu: Emlakçı ev gösterdi diye para isteyebilir mi?
+- Kaynaklar: https://www.haberturk.com/ekonomi/emlakcilar-konut-gosterimi-icin-ucret-talep-edemez-uyarisi-3929172 · https://www.memurlar.net/haber/1184889/emlakcilar-ev-gostermek-icin-para-isteyebilir-mi-uzmanlari-yanitladi.html
 
-## Bitcoin 55 bin dolara düşüp 60 binin üstüne döndü
+## Nvidia haftada yüzde 23 düştü, Asya devletleri borsaya müdahaleye hazırlanıyor
 - Kategori: dünya
-- Puan: 9/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 1) – zayıf: 16 Kasım'da "Bitcoin zirvesinin yarısına indi" işlendi; bu yalnızca yeni dip ve tepki.
-- Tarih / yer: 20-21 Kasım 2026; AA haberi 22 Kasım 07.20
-- Ne oldu: Bitcoin cuma günü 55.130 dolarla temmuz başından beri en düşük seviyeyi gördü, ardından tepki alımlarıyla 60 bin doların üstüne döndü; 21 Kasım 23.00'te 60.279 dolar.
-- Detaylar ve rakamlar (tümü doğrulandı, memurlar.net / AA):
-  - Haftalık kayıp yüzde 8,2'ye geriledi. Ekim 2025'teki ~126 bin dolarlık rekorun ~yüzde 52 altında.
-  - CoinGlass: düşüşte 24 saatte 2,4 milyar dolarlık vadeli işlem pozisyonu zorunlu kapatıldı; 1 milyar dolardan fazlası Bitcoin, 545 milyon doları Ethereum.
-  - Bitcoin piyasa değeri 1,21 trilyon dolar; toplam kripto piyasası 2,06 trilyon dolar (24 saatte yüzde +2,84). Ethereum 1.684 dolar (yüzde +5,07).
-  - 2025'i yüzde 6 düşüşle kapatmıştı; bu yılki kayıp ~yüzde 32. Son 10 yılda ~yüzde 8.150 artış.
-  - Wintermute: koşullar düzelmezse 50 bin dolar aralığı (yalnız arama özeti).
-- Kimsenin anlatmadığı taraf: Bitcoin üst üste iki yılı ekside kapatma yolunda (2025: yüzde −6, 2026: şimdilik yüzde −32); cuma günkü düşüşü büyüten, satıştan çok 2,4 milyar dolarlık kaldıraçlı pozisyonun zorla kapatılmasıydı (doğrulandı, AA).
-- Kim kazanıyor / kim kaybediyor: Kaldıraçla (borçla) alan kaybetti; nakitte bekleyen dipten alabildi.
-- İzleyicinin sorusu: Bitcoin neden bir gecede 5 bin dolar düşüp geri çıkıyor?
-- Kaynaklar: https://www.memurlar.net/haber/1184750/bitcoin-yeniden-60-bin-dolarin-uzerine-cikti.html · https://www.aa.com.tr/tr/ekonomi/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti/4133256
-
-## Mirası reddetti, 20 yıl sonra 60 bin liralık vergi borcu geldi
-- Kategori: küçük detay
-- Puan: 8/13 (isim 1, cep 2, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 22 Kasım 2026 (Türkiye gazetesi, Gamze Erdoğan; memurlar.net 07.43), Ankara
-- Ne oldu: Ankara'da yaşayan Cemal Beşer, 2006'da ölen babası adına kayıtlı 1988 model araç nedeniyle 60 bin TL'lik vergi borcu tebligatı aldı. Dört kardeş olarak mirası reddettiklerini söylüyor; mahkemeye başvuracak.
-- Detaylar ve rakamlar (doğrulandı, memurlar.net):
-  - Hukukçu Sabri Canbolat: mirasçılık belgesinden çıkarılmak, mirasın devlete kalması için gerekli işlemleri yaptırmak ve durumu alacaklılara bildirmek gerekiyor.
-  - Ödeme emrine 7 gün içinde itiraz edilmezse takip kesinleşebilir; adres güncel değilse tebligat ulaşmıyor ve hak kaybı doğuyor.
-  - Haberde vergi türü (MTV) ve reddin mahkemede tescil edilip edilmediği yazmıyor.
-- Kimsenin anlatmadığı taraf: Mirası reddetmek tek başına yetmiyor; ret tescil edilmez ve alacaklıya bildirilmezse borç yıllar sonra yine mirasçının kapısına geliyor ve 7 günlük itiraz süresi işliyor (doğrulandı: hukukçu görüşü).
-- Kim kazanıyor / kim kaybediyor: Tebligatı önemsemeyen mirasçı kaybediyor.
-- İzleyicinin sorusu: Mirası reddettiysem borç bana neden geliyor?
-- Kaynaklar: https://www.memurlar.net/haber/1184861/mirasi-reddetti-20-yil-sonra-60-bin-liralik-arac-vergisi-borcu-geldi.html
-
-## Türk matematikçi Riemann hipotezini Claude ile çözdüğünü açıkladı
-- Kategori: küçük detay (dünya / teknoloji; köprü: Türk isim)
-- Puan: 8/13 (isim 2, cep 0, tazelik 3, boşluk 2, açı 1) – para bağlantısı zayıf; kişi hikâyesi olarak değerli.
-- Tarih / yer: 20-21 Kasım 2026 (Bloomberg HT 21 Kasım 18.05, Hande Berktan)
-- Ne oldu: Anthropic'te yapay zekâ araştırmacısı olarak çalışan matematikçi Levent Alpöge, 1859'dan beri çözülemeyen Riemann hipotezinin kanıtını Claude yardımıyla bulduğunu açıkladı. Kanıtı yalnız Lean adlı, bilgisayarın adım adım denetleyebildiği dilde paylaştı.
-- Detaylar ve rakamlar:
-  - Riemann hipotezi 167 yıllık; "Milenyum Problemleri"nden biri (doğrulandı, bloomberght.com).
-  - Alpöge, pazar gecesi Anthropic CEO'su Dario Amodei'ye mesaj atıp bunu nasıl duyurabileceğini sorduğunu yazdı (doğrulandı).
-  - MIT'den Andrew Sutherland dâhil bazı araştırmacılar kodun başarıyla derlendiğini doğruladıklarını söylüyor; Brian Conrey (AFP'ye): "İnsanlık tarihinde çok büyük bir an" (doğrulandı, bloomberght.com). Yine de matematik camiasının kanıtı tam kavraması zaman alacak; bağımsız, resmî bir onay yok.
-  - Not 20 Kasım'da kişisel sitesinde yayımlandı, 4 sayfa; insan okuyabileceği bir sürüm yok; Anthropic resmî açıklama yapmadı (yalnız arama özeti).
-  - Clay Matematik Enstitüsü'nün Milenyum ödülü 1 milyon dolar (yalnız arama özeti); ödül koşulları (hakemli yayın, bekleme süresi) bu oturumda doğrulanmadı.
-  - Anthropic 19 Kasım'da Nasdaq'ta işlem görmeye başladı (arşiv); haberin hisseye etkisi pazartesi görülecek, şu an veri yok.
-- Kimsenin anlatmadığı taraf: Kanıtın insanların okuyabileceği bir sürümü yok; yalnız bilgisayarın denetlediği kod var. Yani ilk kez "doğru ama henüz kimsenin baştan sona okumadığı" bir kanıt tartışılıyor (doğrulandı: yalnız Lean sürümü paylaşıldı).
-- Kim kazanıyor / kim kaybediyor: Doğrulanırsa Anthropic için halka arzdan iki gün sonra gelen büyük bir itibar kazancı.
-- İzleyicinin sorusu: 167 yıllık soruyu yapay zekâ çözdüyse 1 milyon dolarlık ödül kime gidecek?
-- Kaynaklar: https://www.bloomberght.com/turk-matematikci-167-yillik-riemann-hipotezini-claudela-cozdugunu-acikladi-3795371 · https://tech.yahoo.com/ai/claude/articles/claude-helps-anthropic-mathematician-solve-184211093.html
+- Puan: 10/13 (isim 3, cep 1, tazelik 3, boşluk 1, açı 2)
+- Tarih / yer: 20 Kasım 2026 kapanışları; 22 Kasım 2026 Seul, Şanghay, Shenzhen, Pekin kararları
+- Ne oldu: Nvidia 20 Kasım'ı 125,53 dolardan kapattı; haftalık kayıp yüzde 22,9 (13 Kasım: 162,85 dolar), cuma günü tek başına ~yüzde 14. S&P 500 ve Dow rekorlarının yüzde 10'dan fazla altına inerek düzeltme bölgesine girdi. Bugün Güney Kore acil piyasa toplantısında borsa istikrar fonu hazırlığını başlattı; Çin'in üç borsası marjinli (borçla) hisse alımında asgari teminatı yüzde 100'den 80'e indirdi.
+- Detaylar ve rakamlar (doğrulandı, endeks24.com; yüzdeler Endeks24 hesabı):
+  - Haftalık: Micron −23,6 (778,31 → 594,51 dolar), Marvell −22,0, AMD −20,5, Arm −20,1.
+  - S&P 500: 6.910,39; haftalık −8,6; 6 Ekim rekorunun (7.818,93) yüzde 11,6 altında. Dow: 48.147,33; haftalık −8,0; 5 Ağustos rekorunun (54.349,12) yüzde 11,4 altında.
+  - Nvidia: SEC'in muhasebe uygulamalarını incelediği bildirildi (basın haberleri; SEC yorum yapmadı, inceleme erken aşamada); CEO Jensen Huang 12 Kasım'da istifa etti, Colette Kress geçici CEO; Kaliforniya Başsavcısı 19 Kasım'da celp gönderdi; 3. çeyrek 10-Q raporu "önümüzdeki haftalarda".
+  - Güney Kore: Kospi 20 Kasım'da yüzde 5,22 düşüşle 4.869,96. Önlemler: istikrar fonu hazırlığı, şirketlerin günlük hisse geri alım sınırının 24 Kasım'dan itibaren üç ay gevşetilmesi (23 Kasım'da onay bekleniyor), yasa dışı açığa satışa üç ay özel izleme; açığa satış yasaklanmadı.
+  - Fonun geçmişi: 2008'de 515 milyar won kullanıldı; 2020'de 10,76 trilyon won taahhütle kuruldu ama piyasadan alım yapılmadı. Bugün için tutar açıklanmadı, sermaye çağrısı yok.
+  - Çin: asgari teminat yüzde 100 → 80 (30 Kasım'dan itibaren); 1 milyon yuan teminatla 1,25 milyon yuanlık alım. Oran 14 Ocak 2026'da yüzde 80'den 100'e çıkarılmıştı; Eylül 2023'te yine 100'den 80'e inmişti. Şanghay Bileşik haftalık −2,77, Shenzhen Bileşen −6,49. Teorik ek fon ~400 milyar yuan.
+  - Türkiye köprüsü: BIST 100 cuma günü 11.131,32 (günlük −2,36); 23 Kasım'da bu tabloyla açılıyor. Gram altın 5.731,95 TL, Brent 92,57 dolar (bloomberght.com ana sayfa).
+- Kimsenin anlatmadığı taraf: Güney Kore aynı fonu 2020'de 10,76 trilyon wonluk taahhütle kurmuş, piyasa kendiliğinden toparlanınca tek hisse almamıştı; yani "fon hazırlığı" çoğu zaman alımdan çok güven mesajı (Endeks24, Kore Maliye Bakanlığı açıklaması). Çin ise ocakta borsayı soğutmak için sıkılaştırdığı kuralı 10 ay sonra geri aldı.
+- Kim kazanıyor / kim kaybediyor: Borçla hisse almış yatırımcı kaybediyor (teminat tamamlama çağrıları); devlet müdahalesi kısa vadede satıcıların karşısına alıcı koyuyor.
+- İzleyicinin sorusu: Amerika'da yapay zekâ hisseleri düşünce Borsa İstanbul'a ne olur?
+- Kaynaklar: https://www.endeks24.com/sec-in-muhasebesini-inceledigi-bildirilen-nvidia-haftada-yuzde-22-9-dustu · https://www.endeks24.com/guney-kore-borsa-istikrar-fonunu-hazirlayip-geri-alim-sinirini-gevsetecek · https://www.endeks24.com/cin-borsalari-marjinli-islemde-teminat-oranini-yuzde-80-e-dusurdu
 
 ## Süren hikâye gelişmeleri (bugün)
-- Tasfiye edilen fonlar, ara ödemeler ve Tera – 7/13 (isim 2, cep 2, tazelik 2, boşluk 1, açı 0): Kalan ödemeler için yeni resmî tarih yok. X'te 22 Kasım sabahı: #AnaParaYatmadiAlgiVar (skor 617, 14 saat; 16,7 bin gönderi), #AlgiVarAnaParaYok (485, 10 saat; 21,7 bin), #FonHirsizlarinaMuebbetHapis (339, 9 saat), #BorsaVeFonVurgunuYapanKim (338, 7 saat), #PPFdeAlgıyıBırakHemenOde (234), #FinansinSusurluguHesapVerecek (213); "FonYatirimcisiParasiniAlamadi" 19,8 bin gönderi. Kaynak: getdaytrends / trends24.
-- Fon soruşturması – 7/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 0): AK Parti Genel Başkan Yardımcısı Hüseyin Yayman (A Haber, 21 Kasım akşamı): süreç "üç aşamalı eylem planı"yla ilerliyor – (1) araştırma / soruşturma (DDK görevli, Cevdet Yılmaz başkanlığında komisyon), (2) mağdurların zararının tazmini, (3) maliye, borsa ve bankacılık sisteminin güçlendirilmesi, "daha güçlü bir SPK". Ödemelerin Hazine'den ya da vergilerden değil, "fona karışanlardan tahsil edilen" paradan yapıldığını söyledi (doğrulandı, memurlar.net 20.11). Başsavcılığın 108 kişinin mal varlığı işlemleri için kurumlardan bildirim istediği haberi 21 Kasım 00.32'de yeniden geçti (19 Kasım'da arşivde). Yeni gözaltı / tutuklama haberi yok. Kaynaklar: https://www.memurlar.net/haber/1184838/fon-sorusturmasinda-uc-asamali-eylem-plani.html · https://www.bloomberght.com/fon-sorusturmasinda-108-kisinin-mal-varligi-islemleri-icin-bildirim-talebi-3795364
-- Akaryakıtta kademeli ÖTV – 8/13 (isim 3, cep 3, tazelik 1, boşluk 1, açı 0): Tabelada değişiklik yok: İstanbul Avrupa benzin 68,35-68,40, motorin 88,72-88,80 TL (yalnız arama özeti); LPG'ye indirim gelmedi. Brent 20 Kasım'da yüzde 0,9 artışla 92,77 dolar; haftalık yüzde −3,5 ile üst üste üçüncü haftalık düşüş; Bloomberg'e göre kasımda ~yüzde 20 değer kaybetti (doğrulandı, bloomberght.com). Hürmüz'de haftalık geçiş 308'den 263'e indi, savaş öncesinin ~yüzde 65 altında; haftada tankerlere 6 saldırı (doğrulandı, endeks24.com / UKMTO). 29 Kasım'da OPEC+ toplantısı (doğrulandı, bloomberght.com). Sıradaki tarih: 1 Aralık motorin ÖTV'si 9 → 12 TL/lt. Kaynaklar: https://www.bloomberght.com/petrolde-dusus-beklentisi-3795217 · https://www.endeks24.com/hurmuz-de-haftalik-gecis-263-e-indi-tankerlere-alti-saldiri-bildirildi
+- Fon soruşturması – 9/13 (isim 2, cep 1, tazelik 3, boşluk 2, açı 1): Başsavcılığın 18 Kasım tarihli yazısıyla mal varlığı izlemeye alınan, kazancı 100 milyon TL'yi aşan 108 kişinin listesi TİP İstanbul Milletvekili Ahmet Şık'ın paylaşımıyla basına yansıdı (Karar, BirGün, Artı Gerçek, ParaAnaliz vb.; yalnız arama özeti – bu sitelerin hiçbiri açılamadı). Haberlerde siyaset, bürokrasi ve iş dünyasından isimler sayılıyor; savcılıktan doğrulama ve adı geçenlerden açıklama bulunamadı. Çekimde isim kullanılacaksa önce birincil kaynak ve ilgili kişinin yanıtı teyit edilmeli. Kabine 23 Kasım'da soruşturmayı adli ve idari boyutuyla görüşecek (doğrulandı, memurlar.net / NTV). Bloomberg HT (21 Kasım 00.32, doğrulandı): başsavcılık, 108 kişinin mal varlığında işlem yapılmak istenirse kurumların bildirimde bulunmasını istedi; haberde isim ve tutar yok. Kaynaklar: https://www.karar.com/guncel-haberler/fon-vurgununda-108-kisilik-tedbir-listesi-ahmet-sik-siyaset-ve-is-2085511 (açılamadı) · https://www.bloomberght.com/fon-sorusturmasinda-108-kisinin-mal-varligi-islemleri-icin-bildirim-talebi-3795364 · https://www.memurlar.net/haber/1184899/kabine-yarin-toplaniyor-gundem-emekliye-refah-payi-ve-fon-sorusturmasi.html
+- Tasfiye edilen fonlar, ara ödemeler ve Tera – 7/13 (isim 2, cep 2, tazelik 2, boşluk 1, açı 0): Kalan ödemeler için yeni resmî tarih yok. X'te 22 Kasım öğleden sonra ilk beş sıranın dördü fon etiketi: #108kisidenAlinAnaParayiVerin (1. sıra; skor 197, ~5 saat; 12,3 bin gönderi), #AnaParaVermedenVerdiAlgisi (2.; skor 195, 4 saat), #PPFyiTamOdeGuveniSagla (4.; 10,7 bin gönderi), #StopajiVermedenBuisBitmez (5.); "ListeyiAçıklayın" 10. sırada. 24 saatlik tabloda #AnaParaYatmadiAlgiVar (skor 755, 17 saat), #FonHirsizlarinaMuebbetHapis (339, 9 saat), #AlgiVarAnaParaYok (280, 6 saat). Talep: listedeki 108 kişinin kazancının mağdurlara ödenmesi ve stopaj iadesi. Borsa İstanbul (20 Kasım 22.31, doğrulandı, bloomberght.com): Peker GYO (Kotasyon Yönergesi 35/1-d) ve Gündoğdu Gıda (35/1-c) payları Yakın İzleme Pazarı'na alındı; 23 Kasım'da sıralar kapalı, 24 Kasım'da YİP'te açılacak. Kaynaklar: https://getdaytrends.com/turkey/ · https://trends24.in/turkey/ · https://www.bloomberght.com/peker-gyo-ve-gundogdu-gida-paylari-yakin-izleme-pazari-na-alindi-3795355
+- Akaryakıtta kademeli ÖTV: yeni gelişme yok (22 Kasım Pazar için değişiklik duyurulmadı; İstanbul benzin ~68,40, motorin ~88,90 TL – yalnız arama özeti). Brent 92,57 dolar (bloomberght.com ana sayfa). Trump'ın İran'a yeni saldırı seçeneklerini değerlendirdiği haberleri sürüyor (NYT / Axios; karar yok); Goldman'ın aralık Brent tahminini 90'dan 105 dolara çıkardığı yazıldı (yalnız arama özeti).
 
 ## Gün içinde not edilen diğer başlıklar (Telegram'a girmedi)
-- Halkbank esnaf kredisi (9/13 tahmini; doğrulandı, endeks24.com): Bakan Bolat (21 Kasım, Belek): Halkbank bekleyen 20-25 milyar TL'lik dosya için limit açtı; yıl sonuna kadar en az 25 milyar TL eklenecek; ekspertiz gibi kesintilerin kalkacağına dair söz alındı. 2026'nın ilk 10 ayında 187.673 kredi, 168,1 milyar TL; 2025'te 257 bin kredi, 176 milyar TL. Faiz 1 Ocak 2026'da yüzde 25'ten yüzde 20'ye indi. Açı (hesap): politika faizi yüzde 36, yıllık enflasyon yüzde 29,77 iken yüzde 20 faiz enflasyonun altında; farkı Hazine karşılıyor. https://www.endeks24.com/bolat-esnaf-kredisine-yil-sonuna-kadar-en-az-25-milyar-lira-eklenecek
-- Oracle / Larry Ellison (dünya; doğrulandı, endeks24.com): Oracle 20 Kasım'da yüzde 8,5 düşüşle 101,19 dolar (Aralık 2023'ten beri en düşük); Ellison Forbes listesinde 9.'dan 12.'ye indi, serveti yıllık yüzde 47,7 azaldı (Bloomberg: 139 milyar dolar). Aynı gün Nvidia yüzde −14,0, Micron −13,9, AMD −13,2, Broadcom −12,2. https://www.endeks24.com/oracle-hissesi-101-dolara-geriledi-larry-ellison-ilk-10-dan-cikti
-- M12 metrosu (İstanbul; doğrulandı, endeks24.com): Ümraniye-Ataşehir-Göztepe hattı 19 Aralık Cumartesi açılacak; 13 km, 11 istasyon, sürücüsüz, Ümraniye-Göztepe 21 dakika; Finans Merkezi istasyonu var. https://www.endeks24.com/umraniye-den-goztepe-ye-21-dakika-m12-metrosu-19-aralik-ta-acilacak
-- Türkiye'nin dış borcu (doğrulandı, bloomberght.com, 20 Kasım): 3. çeyrekte brüt dış borç 549,2 milyar dolarla rekor (çeyreklik yüzde +1,4); kısa vadeli 173,1, kamu 203,8, özel sektör 322,2 milyar dolar. 10 yıllık tahvil faizi 19 Kasım'da gün içi yüzde 36,97 ile rekor (doğrulandı).
-- Fed / Lisa Cook (20 Kasım; doğrulandı, bloomberght.com): "Faizler acilen artırılmalı; gecikme daha sert artış gerektirebilir." Fed'in bu döngüdeki tek artışı eylüldeki 25 baz puan; Cook ekimde sabit tutma kararına karşı oy verdi.
-- GTA 6 (doğrulandı, bloomberght.com): Take-Two'ya göre perşembe itibarıyla 3,79 milyar dolar gelir, ön satışta 32,5 milyon kopya; standart sürüm 80 dolar. (21 Kasım sabah arşivindeki "iki günde 2,36 milyar dolar" rakamının güncellemesi.)
-- Hatay'da 70 yaşındaki seyyar satıcı, içinde 31 çeyrek altın, 1.400 dolar ve ziynet (~1 milyon TL) bulunan çantasını otobüs durağında unuttu (doğrulandı, memurlar.net / İHA). Açı: birikimi evde / çantada taşımanın riski.
-- Balat'ın en çok fotoğraflanan köşe binası 30 milyon TL'ye satışta; ~245 m2 (doğrulandı, memurlar.net).
-- X'te "Alışverişte Gazze'yi Unutma" ilk 50'de; Efsane Cuma haftası öncesi boykot çağrısı olduğu tahmin ediliyor ama neden trend olduğu doğrulanamadı – Telegram'a konmadı.
-- Emekli zammı ve asgari ücret: yeni resmî açıklama yok. Asgari Ücret Tespit Komisyonu aralıkta toplanacak; sendikaların ve TİSK'in sitelerinde sayısal talep yok (yalnız arama özeti, endeks24).
-- Resmî Gazete 22 Kasım (sayı 33438): cebe dokunan karar yok; TPAO'nun Trakya ruhsatına 10.744 hektar ekleme başvurusu, iki üniversite yönetmeliği (yalnız arama özeti).
+- Altın ve gümüşte 34 haftanın en sert haftalık kaybı (AA 11.28; doğrulandı, memurlar.net): ons altın 3.502 dolar, haftalık −8,9; ons gümüş 40,8 dolar, haftalık −15,4; paladyum −11, platin −13; ikisi de Eylül 2025'ten beri en düşük; dolar endeksi 103,97 ile Nisan 2025'ten beri en yüksek. Haftalık altın anketinde 15 uzmanın 9'u düşüşün süreceğini bekliyor; teknik seviyeler 3.782 direnç, 3.384 destek (yalnız arama özeti). Gram altın 5.731,95 TL (bloomberght.com). Puan tahmini 10/13; altın son 10 günde 6 kez işlendiği için Telegram'a konmadı, gümüş açısı (haftada yüzde 15) video adayı olarak aşağıda. https://www.memurlar.net/haber/1184887/altin-ve-gumuste-34-haftanin-en-sert-kaybi.html
+- Meclis haftası (AA 11.20; doğrulandı, memurlar.net): Genel Kurul 24 Kasım Salı açılıyor; önce Yabancı Dijital Konaklama Platformları teklifi (izin belgesi 5 milyon TL, 2 yıl geçerli, on binde 7,5 turizm payı, izinsize erişim engeli, 500 bin TL ceza), ardından 2017 öncesi GSS prim borçlarını (gecikme zammı dahil) silen maddeyi içeren Yenilenebilir Enerji teklifi; istihdam teşvikleri 31 Aralık 2028'e uzuyor. 2027 bütçesi komisyonda 27 Kasım Cuma'ya kadar (son gün Cumhurbaşkanlığı ve gelir bütçesi). İkisi de arşivde (12 ve 15 Kasım); yasalaşınca güncelleme olur. https://www.memurlar.net/haber/1184885/meclis-te-yogun-hafta-gss-borclarina-af-ve-2027-butce-maratonu.html
+- Bitcoin yeniden 60 bin doların üzerinde (memurlar.net 14.57 başlığı; sabah bülteninde işlendi, yeni rakam yok).
+- Honda ve Toyota Takata hava yastığı riskiyle ~1,6 milyon aracı geri çağırdı (doğrulandı, endeks24.com): Honda / Acura 810.592 (yalnız ABD), Toyota / Lexus dünya genelinde ~790 bin (ABD 314.029; 2003-2008 Corolla dahil). Türkiye bilgisi yok – köprü kurulamadı, konmadı. https://www.endeks24.com/honda-ve-toyota-hava-yastigi-riskiyle-1-6-milyon-araci-geri-cagirdi
+- Diğer endeks24 başlıkları (açılmadı): JPMorgan 910 milyar dolarla en değerli banka; Fed'in aralık kararı 9 Aralık Çarşamba 22.00 TSİ; Ford, Honda, Stellantis ve VW'den New Jersey'e dava.
+- Öğretmen ataması: atama bekleyen öğretmenler 2026 AGS için en az 50 bin kontenjan istiyor; 22 Kasım 13.00'te İstanbul Bakırköy'de buluşma çağrısı; MEB bütçesinde 50 bin ilave atama için ek ödenek önergesi komisyonda reddedildi (hepsi yalnız arama özeti: Cumhuriyet, BirGün). X'te #Adil50BinIstanbulda 37,5 bin, "50 BİN ATAMA" 28,9 bin, "2026 AGS" 39,8 bin gönderi.
+- TÜED'den 2000 sonrası emekliler için intibak talebi (memurlar.net 12.48 başlığı; açılmadı).
+- Antalya Kepez Belediyesi'ne operasyon: eski başkan dahil 20 gözaltı (memurlar.net 12.28 başlığı; parti / yerel siyaset, konmadı).
+- Resmî Gazete 22 Kasım: cebe dokunan yeni karar yok (sabah arşiviyle aynı).
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Çikolata / kakao (11/13, dünya-emtia)
+Gün boyu (sabah + öğleden sonra) en iyi üç konu:
+1. Emekli refah payı (12/13)
+   - Başlık: "Emekliye zam: herkes aynı parayı alacak mı?"
+   - İlk cümle: "17 milyon emeklinin zammı yarın Kabine masasında; konuşulan formülde 40 bin liranın altında aylık alana 5 bin lira ek var."
+   - Neden bugün: Kabine yarın toplanıyor; toplantı sonrası açıklama gelirse video aynı akşam güncel kalır. Rakiplerde bugün yok. Dikkat: 40 bin / 5 bin formülü kulis (Yeni Şafak, açılamadı) – "konuşulan formül" diye verin; toplantıdan çıkan resmî rakamla değiştirin.
+   - Takip değeri: Yüksek – "enflasyon farkı otomatik, refah payı kanunla" ayrımını ve kendi aylığına göre hesabı (23.552 → 30.907 TL örneği, hesap) öğretiyor.
+2. Özel hastane fiyat farkı (11/13)
+   - Başlık: "Aynı tahlil: özel hastanede 14.200, belediyede 1.670"
+   - İlk cümle: "Doktor aynı tahlilleri istedi; bir hastane 14 bin 200 lira dedi, belediye polikliniği 1.670 lira."
+   - Neden bugün: Haber bu sabah çıktı, üç rakipte de yok; kış ayları hastane trafiğinin en yoğun dönemi.
+   - Takip değeri: Yüksek – "tetkikten önce fiyat sor, yazılı iste, karşılaştır; fiyat göstermek kanuni zorunluluk" bilgisi doğrudan işe yarıyor. Tek kaynak (Sabah), hastane adı yok; isim vermeden anlatın.
+3. Çikolata / kakao (11/13, dünya-emtia; sabah adayı, değişiklik yok)
    - Başlık: "Kakao yarı yarıya ucuzladı, çikolata neden ucuzlamadı?"
-   - İlk cümle: "Kakaonun kilosu 10 dolar 75 sentten 5 dolar 75 sente indi; çikolatanın fiyatı ise bir kez bile düşmedi."
-   - Neden bugün: Analiz dün akşam yayımlandı, üç rakipte de yok; Efsane Cuma ve yılbaşı alışverişi haftasına giriyoruz; lirayla kakao 11 ay sonra yeniden yıllık artıda, yani "ucuz çikolata" penceresi kapanıyor olabilir.
-   - Takip değeri: Yüksek – "ham madde ucuzlayınca raf fiyatı neden düşmez" (fiyat yukarı hızlı, aşağı yavaş gider; kur etkisi) kalıcı bir ders ve benzin, un, yağ için de geçerli. Dikkat: "üretici kazandı" yorumunu şirket verisi olmadan kesin dille söylemeyin; ilk cümledeki "bir kez bile düşmedi" ifadesi aylık bazda doğru değil (2026'da 5 ay aylık düşüş var) – "yıllık bazda hiç eksiye geçmedi" diye düzeltin.
-2. İkinci ev kredisi (11/13)
-   - Başlık: "İkinci eve kredi açıldı: taksiti kim ödeyecek?"
-   - İlk cümle: "5 milyon liralık eve artık 4,5 milyon lira kredi çıkıyor; taksiti ayda 134 bin lira."
-   - Neden bugün: Bankalar yarın yeni kuralla açılıyor; Melda Yücel Kocaalp bu sabah kısa video yükledi (henüz 15 izlenme), yani konu sıcak ama "taksit hesabı" açısı boş.
-   - Takip değeri: Yüksek – izleyici kendi durumuna uyarlayabileceği bir hesap (1 milyona ~29.800 TL taksit) öğreniyor. 5 milyon / 4,5 milyon örneği ve yüzde 2,88 faiz yalnız arama özetinden; çekimden önce bir bankanın hesaplama sayfasıyla teyit edin.
-3. TEKEL 3000 (11/13)
-   - Başlık: "TEKEL 3000: İstanbul'da 10 sigaradan biri kaçak"
-   - İlk cümle: "Adı TEKEL 3000; bandrolü sahte, aylık satışı altı ayda 34 milyondan 45 milyona çıktı."
-   - Neden bugün: Haber bu sabah çıktı, dört bakanlık devrede; "Tekel" herkesin bildiği bir isim; rakiplerde yok.
-   - Takip değeri: Orta – merak yüksek; öğretici olması için "bir paketin fiyatının ne kadarı vergi" rakamı eklenmeli (bu oturumda doğrulanmadı). Rakamların tütün sektörüne ait olduğu söylenmeli.
-- Ek (10/13): "'Hep Ucuz' diyen market gerçekten ucuz mu?" – İlk cümle: "Bakanlık 7 zincir markette 10 temel ürünün fiyatını karşılaştırdı; 'hep ucuz' diyen market sınıfta kaldı." Takip değeri: Orta-yüksek – Efsane Cuma haftasında "reklam iddiası belge ister" bilgisini öğretir; market adı açıklanmadığı için isim verilmemeli.
-- Ek (8/13, kişi hikâyesi): "Türk matematikçi 167 yıllık soruyu yapay zekâyla çözdü mü?" – para bağlantısı zayıf (1 milyon dolar ödül, Anthropic hissesi); kanıt onaylanmadığı için iddia diliyle. Takip değeri: Düşük-orta – merak uyandırır, paraya dair bir şey öğretmez.
-- Yedek (haber şart değil): "A101 neden borsada değil?" – hâlâ kullanılmadı; bizim kanalda son 30 günde işlenmedi. İkinci yedek: "Halkbank esnafa neden enflasyonun altında faizle kredi veriyor?" (yüzde 20 faiz, yüzde 29,77 enflasyon).
+   - İlk cümle: "Kakaonun kilosu 10 dolar 75 sentten 5 dolar 75 sente indi; çikolata ise yıllık bazda bir kez bile ucuzlamadı."
+   - Neden bugün: Efsane Cuma ve yılbaşı alışverişi haftası; rakiplerde hâlâ yok.
+   - Takip değeri: Yüksek – "ham madde ucuzlayınca raf fiyatı neden düşmez" kalıcı bir ders.
+- Ek dünya adayı (10/13): "Nvidia çöktü, devletler borsayı kurtarabilir mi?" – İlk cümle: "Nvidia bir haftada yüzde 23 değer kaybetti; Güney Kore bugün borsayı kurtarma fonunu raftan indirdi." Takip değeri: Orta-yüksek – "devlet borsaya nasıl müdahale eder, işe yarar mı" (2020'de fon kuruldu, tek hisse alınmadı) öğretici; Türkiye köprüsü için pazartesi BIST açılışı eklenmeli.
+- Ek (10/13): "Emlakçı ev gösterdi diye para isteyebilir mi?" – İlk cümle: "Ev gezdirmek için 2 bin ile 5 bin lira isteyen emlakçılar var; yönetmelik bunu yasaklıyor." Takip değeri: Yüksek – kısa, net, hemen kullanılabilir bilgi (ödeme yapma, yetki belgesine bak, şikâyet et); 30-40 saniyelik video için uygun.
+- Ek emtia (10/13): "Gümüş bir haftada yüzde 15 düştü" – bizim "Gümüş %60 düştü" videosu 30,7 bin izlenmişti; güncelleme videosu olabilir. Takip değeri: Orta – fiyat hareketi; "neden altından sert düşer" (sanayi metali + küçük piyasa) açıklaması eklenirse öğretici olur (bu oturumda doğrulanmadı).
+- Sabahki diğer adaylar (ikinci ev kredisi 11/13, TEKEL 3000 11/13, "Hep Ucuz" 10/13) geçerli; "Hep Ucuz" bugün X'te ilk 50'ye girdi.
+- Yedek (haber şart değil): "A101 neden borsada değil?" – hâlâ kullanılmadı; bizim kanalda son 30 günde işlenmedi.
 
 ## Rakip radarı
-İzlenmeler 22 Kasım 08.50 TSİ itibarıyla; son 48 saat = 20 Kasım 08.50'den sonrası.
-- Abdulkadir Genç: yeni yok. Son: 18 Kas 22.04 / 22.10 – "Emeklilikte ne kadar paranız olmalı? %12,5 kuralı…" – 296.188 (x2 yükleme; diğeri 215.675) · 18 Kas 22.14 – "BES mantıksız mı?…" – 128.794
-- Yatırım 101: yeni yok. Son: 18 Kas 21.26 – "TÜRKİYE TERS YÖNE GİDİYOR! Bedelini Kim Ödeyecek?" – 192.411 · 17 Kas 13.39 – "Bir Kahve Neden 150 Lira?" – 138.749
-- Melda Yücel Kocaalp: 22 Kas 08.43 – "2.eve kredi kolaylaşıyor mu? Ne değişti?" – 15 (yeni yüklendi) · 21 Kas 19.11 – "ALTINDA DİP, BU HAFTA MI? 2027'DE ALTIN? DOLAR MI MEVDUAT MI? 2.EVE KREDİ KOLAYLAŞIYOR MU?" – 43.337 · (48 saat dışı) 17 Kas 18.56 – "MEVDUATTAN KONUTA GEÇMELİ Mİ?…" – 175.751
-- BİZ: 20 Kas 22.39 – "Altın eridi: Dip neresi, ne zaman toparlanır?" – 85 · (48 saat dışı) 20 Kas 07.30 – "Şahap Kavcıoğlu kimdir?" – 18.051 · 19 Kas 17.15 – "İkinci çocuğa ayda 1.500 lira…" – 1.250 · 19 Kas 12.00 – "Fonda paran yoktu ama…" – 2.294
-Yalnız Melda yeni video yükledi: altın dibi ve ikinci eve kredi. İkinci ev kredisinde "taksit kaç lira, kim ödeyebilir" hesabı; kaçak sigara, çikolata / kakao, "Hep Ucuz" cezası ve Bitcoin üç rakipte de boş. Bizim "Altın eridi" videosu 34 saatte 85 izlenmede kaldı.
+İzlenmeler 22 Kasım 16.05 TSİ itibarıyla.
+- Abdulkadir Genç: bugün yeni yok. Son: 18 Kas 22.04 / 22.10 – "Emeklilikte ne kadar paranız olmalı? %12,5 kuralı…" – 304.068 (x2 yükleme; diğeri 229.267) · 18 Kas 22.14 – "BES mantıksız mı?…" – 131.025
+- Yatırım 101: bugün yeni yok. Son: 18 Kas 21.26 – "TÜRKİYE TERS YÖNE GİDİYOR! Bedelini Kim Ödeyecek?" – 196.505 · 17 Kas 13.39 – "Bir Kahve Neden 150 Lira?" – 139.113
+- Melda Yücel Kocaalp: 22 Kas 14.17 – "Siz nelerden tasarruf ediyorsunuz? Borsada dikkat çeken bilançolar.. @koton" – 796 (sabah bülteninden sonra) · 22 Kas 08.43 – "2.eve kredi kolaylaşıyor mu? Ne değişti?" – 3.923 (sabah 15'ti) · 21 Kas 19.11 – "ALTINDA DİP, BU HAFTA MI?…" – 50.896 (sabah 43.337)
+- BİZ: 22 Kas 12.00 – "Cehalet, açgözlülük, umut, korku: 2026'da dördünü de yaşadık" – 185 · 20 Kas 22.39 – "Altın eridi: Dip neresi, ne zaman toparlanır?" – 88 · 20 Kas 07.30 – "Şahap Kavcıoğlu kimdir?" – 18.072
+Bugün yalnız Melda yükledi: tüketicinin tasarrufu ve Koton bilançosu (Koton 3. çeyrekte ~604 milyon TL zarar, 5 Kasım; yalnız arama özeti). Emekli refah payı / Kabine, özel hastane fiyat farkı, emlakçı ücreti ve Asya'nın borsa önlemleri üç rakipte de boş. Bizim bugünkü soyut başlıklı video (dört duygu) 4 saatte 185 izlenmede; kanal verisindeki "soyut kavram düşük izlenir" bulgusuyla uyumlu.
 
-## Takvim
-- 23 Kasım Pazartesi – Piyasalar açılıyor (Asya ve BIST'in cuma günkü ABD satışına tepkisi); TCMB sektörel enflasyon beklentileri; ABD ve Euro Bölgesi kasım öncü PMI; okullar ara tatilden dönüyor.
-- 26 Kasım Perşembe 14.30 – TCMB haftalık veriler (13-20 Kasım: rezerv, mevduat, yabancı işlemleri). ABD'de Şükran Günü.
-- 27 Kasım Cuma 10.00 – TÜİK kasım ekonomik güven endeksi; TCMB Finansal İstikrar Raporu (yılın ikinci raporu; saat kaynaklarda 14.30, teyitsiz); 2027 bütçesinin komisyon aşamasının bitişi; Efsane Cuma (indirim öncesi fiyat = son 10 günün en düşük fiyatı kuralı, ceza üst sınırı 39,9 milyon TL – yalnız arama özeti).
-- 29 Kasım Pazar – OPEC+ toplantısı (doğrulandı, bloomberght.com).
-- Tarihi çelişkili: Ekim dış ticaret istatistikleri 27 Kasım (borsatek) ya da 30 Kasım (kamu1, memur365).
-- 7 günün dışında: 1 Aralık – motorinde ÖTV 9 → 12 TL/lt (KDV'yle ~3,60 TL) · 3 Aralık 10.00 – kasım enflasyonu (tarih TÜİK takviminden teyit edilmeli) · 10 Aralık 14.00 – TCMB PPK faiz kararı (politika faizi yüzde 36; Piyasa Katılımcıları Anketi beklentisi yüzde 35).
-- Kasım enflasyonu açıklanınca bakılacak rakamlar: ekim aylık yüzde 2,58, yıllık yüzde 29,77 (arşiv / endeks24); kasım aylık beklenti yüzde 1,09-1,18 (TCMB anketi; yalnız arama özeti); geçen yılın kasım ayı aylık yüzde 0,87, yıllık yüzde 31,07 (bu oturumda doğrulanmadı, açıklamadan önce TÜİK'ten teyit edin); TCMB yıl sonu tahmini yüzde 29,5, piyasa beklentisi yüzde 30,04. Bu rakama bağlı ödemeler: memur ve emeklinin ocak zammı (temmuz-aralık 6 aylık enflasyon; beş aylık birikimli rakam belli olacak), aralık kira artış tavanı (12 aylık ortalama), 2027 asgari ücret pazarlığı.
+## Bu akşam
+Bu akşam için saatli bir karar / veri yok (pazar). Yarın: 23 Kasım Pazartesi Kabine toplantısı (saat açıklanmadı; açıklama genelde akşam), Borsa İstanbul ve Asya açılışı, Güney Kore'de geri alım kararının onayı, Peker GYO ve Gündoğdu Gıda sıraları kapalı; 24 Kasım Salı Meclis Genel Kurulu (konaklama platformları, GSS affı) ve Öğretmenler Günü.
