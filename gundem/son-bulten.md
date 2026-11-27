@@ -1,181 +1,136 @@
-# Para Ne Diyor? – 27 Kasım 2026 Cuma Sabah Bülteni
-Hazırlanma: 27 Kasım 2026 08.55 TSİ
+# Para Ne Diyor? – 27 Kasım 2026 Cuma Öğleden Sonra Bülteni
+Hazırlanma: 27 Kasım 2026 16.05 TSİ
 
-Not: Bu oturumda alomaliye.com, yeniasir.com.tr, takvim.com.tr, ticaretgazetesi.com.tr, milligazete.com.tr, haberler.com ve beykozajans.com.tr açılamadı (ağ izni yok). Bu sitelerden gelen rakamlar "(yalnız arama özeti)" diye işaretlendi. Bugün 10.00'daki ekonomik güven endeksi ve 10.30'daki Finansal İstikrar Raporu bülten hazırlanırken henüz açıklanmamıştı. ABD borsaları dün Şükran Günü nedeniyle kapalıydı, bugün yarım gün açık.
+Not: Bu oturumda haber46.com.tr, ensondakika.com.tr, finans.mynet.com, forbes.com.tr ve rekabet.gov.tr açılamadı (ağ izni yok); dunya.com 403 verdi. Bu sitelerden gelen rakamlar "(yalnız arama özeti)" diye işaretlendi. Borsa İstanbul bülten hazırlanırken açıktı (kapanış 18.10); ABD borsaları bugün yarım gün (kapanış 21.00 TSİ). Beştepe'deki emekli zammı toplantısından bülten saatine kadar açıklama gelmedi.
 
-## Vergi ve ceza borcunda gecikme faizi indi: aylık yüzde 3,7'den 3,2'ye
-- Kategori: ana konu
-- Puan: 12/13 (isim 3, cep 3, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 27 Kasım 2026, Resmî Gazete (sayı 33443), Türkiye geneli; yayım günü yürürlükte
-- Ne oldu: 12028 sayılı Cumhurbaşkanı Kararı ile kamu alacaklarına (vergi, harç, idari para cezası gibi devlete olan borçlar) uygulanan gecikme zammı aylık yüzde 3,7'den yüzde 3,2'ye indi. Aynı gün yayımlanan Tahsilat Genel Tebliği (Seri: C, Sıra No: 10) ile tecil (taksitlendirme) faizi yıllık yüzde 39'dan yüzde 29'a çekildi.
-- Detaylar ve rakamlar:
-  - Gecikme zammı: aylık yüzde 3,7 → 3,2 (0,5 puan). Dayanak: 6183 sayılı Kanun madde 51/1; oran her ay için ayrı ayrı uygulanır (doğrulandı, endeks24 + bloomberght Resmî Gazete özeti).
-  - Yıllık basit karşılığı yüzde 44,4 → 38,4 (endeks24'ün hesabı, doğrulandı). (hesap) 3,2 × 12 = 38,4.
-  - Örnek: 100.000 TL borçta bir aylık gecikme zammı 3.700 → 3.200 TL (doğrulandı, endeks24). (hesap) 50.000 TL'de 1.850 → 1.600 TL.
-  - Tecil faizi: yıllık yüzde 39 → 29 (10 puan). 27 Kasım ve sonrasındaki başvurularda yüzde 29; daha önce tecil edilmiş borçlarda yayım tarihinden sonraki taksitlere yüzde 29 uygulanır (doğrulandı, endeks24).
-  - Önceki değişiklik: 13 Kasım 2025 (10556 sayılı karar): gecikme zammı yüzde 3,7'ye, tecil faizi yüzde 39'a inmişti. Yani bir yıl sonra ilk değişiklik (doğrulandı, endeks24).
-  - Politika faizi yüzde 36 (22 Ekim 2026'da 37'den indirildi; doğrulandı, memurlar.net). (hesap) Gecikme zammının yıllık basit karşılığı politika faizinin 2,4 puan üstünde; tecil faizi 7 puan altında.
-  - Kapsam: kaynaklar "kamu alacakları" diyor; tek tek kalemler (trafik cezası, MTV, SGK primi) açılan sayfalarda sayılmıyor. SGK prim borçlarında da aynı oranın kullanıldığı genel bilgidir; metin aşamasında teyit edilmeli.
-  - Emlak vergisi ikinci taksitinde son gün 30 Kasım Pazartesi (yalnız arama özeti; birden çok kaynak). Geciken taksite artık aylık yüzde 3,2 işleyecek.
-  - Aynı Resmî Gazete'de: Kaynak Kullanımını Destekleme Fonu kesintisine ilişkin 12027 sayılı karar (içeriği açılmadı), Bina Yangın Yönetmeliği, Karadağ vatandaşlarına vize muafiyetinin askıya alınması.
-- Kimsenin anlatmadığı taraf: Borcunu taksitlendirenin faizi (yüzde 29) artık politika faizinin (yüzde 36) 7 puan altında; geciktirenin ödediği oran (yıllık basit yüzde 38,4) ise hâlâ üstünde. Yani devlet "taksitlendir" diyene ucuz, "ödemeyene" pahalı fiyat koydu (kaynak: endeks24, Resmî Gazete özeti + kendi hesabımız).
-- Kim kazanıyor / kim kaybediyor: Vergi ya da ceza borcunu yapılandıran / taksitlendiren kazanıyor; faiz geliri azalan taraf Hazine.
-- İzleyicinin sorusu: Devlete borcum var; geciktirmek mi ucuz, taksitlendirmek mi, ne değişti?
-- Kaynaklar: https://www.endeks24.com/gecikme-zammi-aylik-yuzde-3-2-ye-tecil-faizi-yillik-yuzde-29-a-indi · https://www.bloomberght.com/resmi-gazete-de-bugun-27112026-3795863 · https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-21.pdf (aynı sayı; açılmadı)
-
-## Efsane Cuma bugün: etiketteki "eski fiyat" artık son 10 günün en düşüğü
-- Kategori: ana konu
-- Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 2)
-- Tarih / yer: 27 Kasım 2026 Cuma, Türkiye geneli (internet ve mağaza)
-- Ne oldu: Black Friday / Efsane Cuma bugün. Ticaret Bakanlığı indirimli satış reklamlarının bütün mecralarda izlendiğini duyurdu. 1 Ağustos 2026'da yürürlüğe giren kurala göre indirim öncesi fiyat, indirimin başladığı günden önceki 10 günün en düşük fiyatı olmak zorunda; önceki kuralda bu süre 30 gündü.
-- Detaylar ve rakamlar:
-  - 10 gün kuralı ve önceki 30 gün kuralı (yalnız arama özeti; birden çok kaynak aynı bilgiyi veriyor, 26 Kasım arşivinde de kayıtlı). Yürürlük 1 Ağustos 2026; bir blog yayım tarihini 1 Temmuz 2026 Resmî Gazete olarak veriyor (çelişki değil: yayım ve yürürlük ayrı olabilir; teyit edilmeli).
-  - İndirim yalnız yapıldığı kanaldaki son 10 günlük fiyata dayanabilir; meyve-sebze gibi çabuk bozulan ürünlerde ve hizmetlerde indirimden hemen önceki fiyat esas (yalnız arama özeti).
-  - Ceza: yanıltıcı indirim ve kampanyada 39.916.524 TL'ye kadar idari para cezası (yalnız arama özeti, tek kaynak; Telegram'a yazılmadı).
-  - Takvim: Trendyol "Efsane Günler" 2 Aralık Çarşamba'ya kadar; 30 Kasım "Cyber Monday" (yalnız arama özeti).
-  - Pazar: e-ticaret hacmi 2025'te yüzde 52,2 artışla 4,57 trilyon TL (ETBİS); 2026 beklentisi 6,3-6,5 trilyon TL. Eylül 2026'da internetten kartlı ödeme aylık 901 milyar TL, toplam kartlı harcamanın yüzde 30'u, yıllık artış yüzde 35 (BKM; yalnız arama özeti).
-  - Taksit sınırları (BDDK): genel üst sınır 12 ay, elektronik eşyada 4 ay (yalnız arama özeti).
-  - Arşiv bağlantısı: 21-22 Kasım'da Reklam Kurulu, siparişi "fiyat hatası" diye iptal eden e-ticaret şirketine ve "Hep Ucuz" sloganlı zincire 1.083.706'şar TL ceza kesmişti.
-- Kimsenin anlatmadığı taraf: Kural sıkılaşmadı, gevşedi: eskiden satıcı son 30 günün en düşük fiyatını "eski fiyat" diye yazmak zorundaydı, şimdi 10 gün yetiyor. Yani fiyatını 11 gün önce yükselten bir satıcının bugünkü "indirimi" kurala uygun sayılıyor (kaynak: Ticaret Bakanlığı düzenlemesine dayanan haberler; yorum değil, kuralın aritmetiği).
-- Kim kazanıyor / kim kaybediyor: Fiyat geçmişine bakan tüketici kazanıyor; yalnız indirim yüzdesine bakan kaybedebilir. Satıcı için "eski fiyat" penceresi 20 gün kısaldı.
-- İzleyicinin sorusu: Etikette "yüzde 40 indirim" yazıyor; o eski fiyat gerçekten eski fiyat mı?
-- Kaynaklar: https://ticaretgazetesi.com.tr/2026/09/02/ticaret-bakanligi-indirimli-satis-reklamlarina-yonelik-yeni-kurallar-getirdi/ · https://www.beykozajans.com.tr/ticaret-bakanligi-indirim-oencesinde-son-10-gunun-en-dusuk-fiyati-esas-alinacak · https://www.milliyet.com.tr/ekonomi/black-fridayde-indirim-tuzagi-7705325 (üçü de bu oturumda açılamadı)
-
-## Merkez Bankası faize dokunmadan parayı pahalılaştırdı: repo ihalelerine ara
+## Doğal gaz: Rusya ile sözleşme 3 yıl uzadı, İran'la 2032'ye kadar
 - Kategori: ana konu
 - Puan: 11/13 (isim 3, cep 2, tazelik 3, boşluk 2, açı 1)
-- Tarih / yer: 26 Kasım 2026 gece (duyurular 2026-51 ve 2026-52), Ankara
-- Ne oldu: TCMB bir hafta vadeli repo ihalelerine "geçici olarak" ara verdi; yeniden başlama tarihi yok. Ayrıca TL mevduat için tutulan zorunlu karşılıklara ödediği faizi, ağırlıklı ortalama fonlama maliyetinin yüzde 86'sından yüzde 90'ına çıkardı. Politika faizi değişmedi.
+- Tarih / yer: 27 Kasım 2026, İstanbul (Türkiye-Rusya Karma Ekonomik Komisyonu 20. dönem toplantısı)
+- Ne oldu: Rusya Başbakan Yardımcısı Aleksandr Novak, Gazprom ile BOTAŞ'ın doğal gaz sözleşmesini 3 yıl uzattığını, miktar ve tedarik koşullarının değişmediğini açıkladı. Aynı gün Bloomberg, kaynaklara dayanarak BOTAŞ ile İran Ulusal Gaz Şirketi'nin temmuzda biten sözleşmeyi 2032'ye kadar uzattığını yazdı.
 - Detaylar ve rakamlar:
-  - Politika faizi yüzde 36 (22 Ekim 2026'da yüzde 37'den indirildi); gecelik borç verme faizi yüzde 39; gecelik borçlanma faizi yüzde 34,5 (doğrulandı, memurlar.net).
-  - Haftalık repo durunca bankalar Merkez Bankası'ndan gecelik faizle borçlanır: fiili fonlama maliyeti yüzde 39'a kadar çıkabilir, politika faizinin 300 baz puan üstü (doğrulandı, memurlar.net). Hakan Kara: "fonlama maliyetinde 3 puanlık artış"; Atilla Yeşilada: "parasal sıkılaşma" (yalnız arama özeti, foreks).
-  - Bu yıl ikinci ara: ilki 1 Mart 2026'da başladı, ihaleler 23 Ağustos'ta yeniden açıldı; 17 Eylül'de (fon krizi günü) haftalık repo fonlaması artırılmıştı (doğrulandı, endeks24 + memurlar.net).
-  - TCMB, haziran ortasından beri ilk kez bankacılık sistemine net borç veren tarafa geçti: 20 Kasım'da 184 milyar TL (doğrulandı, memurlar.net).
-  - Zorunlu karşılık: oran değişmedi; bankaların TCMB'de tuttuğu TL karşılığa ödenen faiz arttı (yüzde 86 → 90). Gerekçe: "makrofinansal istikrar ve parasal aktarım mekanizması" (doğrulandı, cnbce + endeks24).
-  - Arka plan (dünkü arşiv): brüt rezerv 20 Kasım haftasında 158,95'ten 141,97 milyar dolara indi; dolar/TL 26 Kasım kapanışı 50,68 (doğrulandı, bloomberght piyasa özeti).
-  - Şimşek (26 Kasım basın toplantısı): rezerv kaybının önemli bölümü altın fiyatındaki düşüşten; rezervlerin üçte ikisinden fazlası altın; TCMB ihracatçının reeskont kredi limitini artırmayı değerlendiriyor (doğrulandı, bloomberght).
-  - Sonraki adımlar: 8-9 Aralık Fed, 10 Aralık TCMB faiz kararı (arşiv).
-- Kimsenin anlatmadığı taraf: Merkez Bankası 22 Ekim'de faizi 1 puan indirmişti; beş hafta sonra, toplantı beklemeden, bankaların maliyetini 3 puana kadar artıran bir adım attı. Aynı yöntem bu yıl 1 Mart-23 Ağustos arasında da kullanılmıştı (kaynak: memurlar.net / AA, endeks24).
-- Kim kazanıyor / kim kaybediyor: TL mevduat sahibi (banka kaynağa daha çok ihtiyaç duyar) kazanabilir; kredi kullanacak olan ve borçla hisse alan kaybedebilir. Yorum: yön bilgisi, oran tahmini değil.
-- İzleyicinin sorusu: Faiz yüzde 36'da duruyorsa kredi ve mevduat faizi neden değişsin?
-- Kaynaklar: https://www.memurlar.net/haber/1185343/merkez-bankasi-ndan-ortulu-faiz-artisi.html · https://www.cnbce.com/piyasalar/tcmbden-iki-kritik-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-faizi-artirildi-h42727 · https://www.endeks24.com/tcmb-haftalik-repoya-ara-verirken-tl-zorunlu-karsilik-odemesini-artirdi
+  - Novak: "Sözleşme 3 yıl uzatıldı"; sevkiyat miktarı ve koşullar aynı (doğrulandı, bloomberght 13.54). Haberde miktar (milyar m3), bitiş tarihi ve fiyat YOK.
+  - Novatek ile LNG (sıvılaştırılmış doğal gaz) tedarik sözleşmesi imzalandı; sevkiyat 1 Ocak 2027'de başlıyor, miktar "şimdilik düşük, artması bekleniyor" (doğrulandı).
+  - Novak: Rusya bu yıl Türkiye'ye 20 milyon tondan fazla petrol ürünü sevk etti, çoğu motorin (doğrulandı).
+  - Akkuyu: dört ünitede çalışma sürüyor; birinci ünitenin devreye alma sürecinin bu yıl aralıkta başlaması bekleniyor (doğrulandı).
+  - İran: sözleşme temmuz 2026'da bitmişti; önceki hacim yılda 10 milyar m3; yeni hacmin değişip değişmediği belli değil; giriş noktası Doğubayazıt; EPDK verisine göre İran geçen yıl Türkiye'nin dördüncü büyük gaz tedarikçisi (yalnız arama özeti; bloomberght ana sayfasında yalnız başlık doğrulandı). Resmî duyuru yok, Bloomberg'in kaynak haberi.
+  - Türkiye-Rusya 100 milyar dolarlık ticaret hedefinde mutabakat; DEİK yerel paralarla ticaret çağrısı (başlık doğrulandı, bloomberght).
+  - Bağlam: bloomberght sabah bandında "Avrupa doğalgazında kış baskısı; fiyatlar yükselişte" (memurlar.net 07.41 başlığı). Konut doğal gaz tarifesinin yıl sonuna kadar değişmeyeceği öngörüsü (yalnız arama özeti).
+  - Metin yazarına uyarı: Rusya sözleşmesinin hangi hat/hangi kontrat olduğu (Mavi Akım / TürkAkım), yıllık miktar ve Türkiye'nin gaz ithalatında Rusya'nın payı bu oturumda doğrulanmadı; metinden önce EPDK doğal gaz piyasası raporundan teyit edilmeli.
+- Kimsenin anlatmadığı taraf: İki anlaşmada da fiyat ve formül açıklanmadı; yani "faturaya etkisi" sorusunun cevabı haberlerde yok. Ayrıca İran sözleşmesi temmuzda bitmişti: Türkiye yaklaşık dört ay boyunca süresi dolmuş bir sözleşmeyle kışa girdi (arama özeti; teyit edilmeli).
+- Kim kazanıyor / kim kaybediyor: Kış öncesi arz güvencesi sağlayan BOTAŞ ve müşteri kaybetmeyen Gazprom kazanıyor; fiyat bilinmediği için hane tarafı belirsiz.
+- İzleyicinin sorusu: Rusya ve İran'la gaz anlaşmaları uzadı; doğal gaz faturam ne olacak?
+- Kaynaklar: https://www.bloomberght.com/gazprom-ve-botas-dogalgaz-sozlesmesini-3-yil-uzatti-3795954 · https://www.turkiyetoday.com/business/turkiye-reportedly-prolongs-iran-gas-import-deal-through-2032-3233326 · https://www.cnbce.com/enerji/gazprom-ile-botas-arasindaki-dogal-gaz-anlasmasinda-yeni-imza-3-yil-daha-surecek-g42785
 
-## Fon ödemeleri: 199 milyar lira dağıtıldı, 10.680 kişiye sıfır (süren hikâye)
-- Kategori: ana konu (süren hikâye: Tasfiye edilen fonlar, ara ödemeler ve Tera)
-- Puan: 11/13 (isim 2, cep 2, tazelik 3, boşluk 2, açı 2)
-- Tarih / yer: 26 Kasım 2026, 19.00, Ankara, Cumhurbaşkanlığı Külliyesi; ödemelerin son kısmı 27 Kasım
-- Ne oldu: Cevdet Yılmaz, Akın Gürlek ve Mehmet Şimşek ortak basın toplantısında ilk kez toplu tabloyu verdi: 27 Kasım itibarıyla 131 fonun 122'sinde toplam 199,25 milyar TL ödenmiş olacak. Tam anapara, enflasyon farkı ve stopaj iadesi taleplerine olumlu yanıt çıkmadı.
-- Detaylar ve rakamlar (hepsi doğrulandı, bloomberght toplantı özeti):
-  - 455.758 tekil yatırımcı; 444.987'sine (yaklaşık yüzde 98) en az bir ödeme yapıldı; 401.754'üne (yaklaşık yüzde 88) net yatırım tutarının ya da portföy değerinin tamamı ödenmiş olacak.
-  - 10.680 kişiye ödeme yok: yatırdıklarından fazlasını sistemden çektikleri için net yatırım tutarları sıfır sayıldı.
-  - Nakit olarak 1 milyon TL alacak kişi 21.723; ayni ödemelerle 40 binin üstü. "Herkese 1 milyon lira ödenmiyor; kanun 1 milyon liraya kadar ara ödeme öngörüyor."
-  - Net yatırım tutarında enflasyon farkı uygulanmadı; hesap MKK'daki net giriş-çıkışa göre.
-  - Bütçe ya da Hazine kaynağı kullanılmadı. Geri kazanım hesaplarında tahsilat 45 milyar TL'nin üstünde; MASAK'ın yurt dışına çıktığını belirlediği kaynak 12 milyar TL'yi aştı.
-  - Olağan tasfiye (A1 Capital, Bulls, Pardus, Hedef Portföy): Hedef Portföy'ün üç fonu 27 Kasım Cuma ödenince bitiyor. Olağanüstü tasfiyedeki (Atlas, Pusula, Tera) dokuz fonda ödeme sürecek; gayrimenkul satışları da sürecek.
-  - Stopaj: 131 fonun 112'si hisse yoğun olduğu için stopaj kesilmedi; 19 fonda (para piyasası ve bazı serbest fonlar) kesildi. Şimşek: kesintiler kanuna uygun, iade gerektiren hata yok.
-  - Ölçek: tasfiyedeki fonlar fon sayısının yüzde 4,6'sı, portföy değerinin yüzde 7,7'si, hanehalkı finansal varlıklarının yüzde 2,4'ü. Bankaların 131 fona doğrudan riski 1,3 milyar TL (57 trilyon TL aktifin yüz binde ikisi).
-  - Reel sektör: tasfiyedeki fonlarda reel sektörün riski 116 milyar TL; fonlardaki özel sektör tahvili 50-55 milyar TL, 99 ihraççı; 1 trilyon TL'lik tahvil piyasasında temerrüt 20 milyar TL (yüzde 2). KGF 35 milyar TL'lik kefalet paketi: firma başına en çok 500 milyon TL, kefalet oranı yüzde 80, 6 ay anapara ödemesiz, 24 ya da 48 ay vade.
-  - Yeni kurallar: nitelikli yatırımcı eşiği 10 → 50 milyon TL (26 Ekim arşivi); serbest para piyasası fonlarında en az yüzde 10 DİBS / kira sertifikası; ilişkili taraf ve serbest fon işlemlerine portföyün yüzde 20'si sınırı; KAP pay bildirimi eşiği yüzde 5 → 3 (son ikisi yalnız arama özeti); SPK'ya erken müdahale ve kalıcı geri kazanım mekanizması; VDK'dan 25 müfettiş SPK'ya.
-  - 16 Eylül-26 Kasım: 56 hisse tarandı; 21 hissede 551 kişiye suç duyurusu, 591 kişiye işlem yasağı, 319 lisans iptali.
-  - Borsa karşılaştırması (Şimşek, 17 Eylül-26 Kasım): Türkiye −yüzde 19,5; gelişen ülkeler ortalaması −yüzde 15,7; Güney Kore yaklaşık −yüzde 30; Nasdaq −yüzde 11,5. MSCI: fiili dolaşım hesabı aralıkta bitecek, gelecek hafta Londra'da görüşme.
-  - Madoff karşılaştırması (Şimşek): 65 milyar dolar, 40 binden fazla kişi, ilk ödeme 3 yıl sonra, süreç 16 yıl.
-  - Seçim sorusu: Yılmaz "seçim 2028'de, erken seçim gündemde değil".
-- Kimsenin anlatmadığı taraf: "Yüzde 88'i tamamını aldı" cümlesindeki "tamamı", yatırılan paranın bugünkü değeri değil; MKK'daki net giriş-çıkış, enflasyon farkı yok. Bu yüzden yıllar önce girip arada para çekmiş 10.680 kişinin alacağı sıfır çıktı (kaynak: Cevdet Yılmaz'ın toplantıdaki açıklaması, bloomberght).
-- Kim kazanıyor / kim kaybediyor: Fona yakın zamanda girip hiç çekmeyen parasını geri aldı; eski tarihli yatırımcı enflasyon kaybını üstleniyor; stopaj kesilen 19 fonun yatırımcısı iade alamıyor.
-- İzleyicinin sorusu: "Paranın tamamı ödendi" deniyorsa insanlar neden hâlâ "tam anapara" diye etiket açıyor?
-- Kaynaklar: https://www.bloomberght.com/cevdet-yilmaz-mehmet-simsek-ve-akin-gurlek-fon-gundemine-dair-aciklamalar-3795781 · https://www.bloomberght.com/fonlarda-ara-odemelerin-27-kasim-da-tamamlanmasi-hedefleniyor-3795589
+## Merkez Bankası raporu: fonlardan 1,2 trilyon lira çıktı, bireysel borçta takip oranı yüzde 5,5
+- Kategori: ana konu
+- Puan: 11/13 (isim 2, cep 3, tazelik 3, boşluk 1, açı 2)
+- Tarih / yer: 27 Kasım 2026 10.30, TCMB Finansal İstikrar Raporu (Kasım 2026, 43. sayı)
+- Ne oldu: Merkez Bankası yılın ikinci Finansal İstikrar Raporu'nu yayımladı. Rapora göre eylülden beri yatırım fonlarından (getiri etkisinden arındırılmış) 1,2 trilyon lira çıktı ve para ağırlıkla TL mevduata gitti; bireysel kredilerde takipteki alacak oranı uzun dönem ortalamasının üstüne çıktı.
+- Detaylar ve rakamlar (endeks24 üzerinden doğrulandı; AA metni rakamsız, niteliksel olarak aynı):
+  - Menkul kıymet fonlarından eylülden beri çıkış: 1,2 trilyon TL; 931 milyar TL'si para piyasası ve benzeri fonlardan. Çıkış ekimden itibaren yavaşladı.
+  - Para piyasası fonları: ağustos sonu 3,6 trilyon TL (zirve) → 19 Kasım 2,5 trilyon TL. (hesap) (3,6 − 2,5) / 3,6 = yaklaşık yüzde 31 küçülme.
+  - Fon portföylerindeki mevduat ve ters repo ~600 milyar TL azaldı; tasarruf ve diğer ticari mevduat toplamı ~1 trilyon TL arttı.
+  - Menkul kıymet yatırım fonları: 31 Mart 7.713 → 16 Eylül 9.421 → 19 Kasım 7.570 milyar TL. Toplam yatırım fonları: 11.069 → 13.039 → 11.152 milyar TL. Emeklilik fonları: 2.347 → 2.583 → 2.514 milyar TL.
+  - 16 Eylül'de tasfiyeye alınan fonların toplamı 1,04 trilyon TL (984 milyarı menkul kıymet fonu; menkul kıymet fonlarının ~yüzde 10'u). Endeks24 hesabı: tasfiye edilenler hariç fonlar 16 Eylül-19 Kasım arasında yüzde 10,3 küçüldü (8.437 → 7.570 milyar TL).
+  - Bireysel kredi takipteki alacak (TGA) oranı: 2025 sonu yüzde 4 → Mayıs 2026 yüzde 4,3 → Kasım 2026 yüzde 5,5; uzun dönem ortalaması yüzde 3,2. KOBİ: yüzde 3,4 → 4,3 (tarihsel ortalamada). Diğer ticari: 1,4 → 1,7. Toplam: 2,65 → 3,09.
+  - İhtiyaç kredisinde takip oranı yüzde 6,6, bireysel kredi kartında yüzde 5,9; bireysel kredi yıllık büyümesi yüzde 47'den 33'e (yalnız arama özeti, Forbes Türkiye; sayfa açılamadı).
+  - Nominal yıllık kredi büyümesi yıl başı yüzde 44 → yüzde 34; kur etkisinden arındırılmış yüzde 32 → 28. Sermaye yeterliliği yüzde 16,7 (eylül).
+  - AA: Fon ve hisse senedi yatırımcı sayısı azaldı (rakam yok); bazı özel sektör tahvillerinde temerrüt, çoğu tasfiyedeki fonlarla bağlantılı; ödeme gecikmeleri yüksek borçlu bireylerde yoğun (doğrulandı, AA).
+  - Arşiv bağlantısı: BDDK 20 Kasım haftası takipteki alacak 1.022,3 milyar TL (26 Kasım öğlen bülteninde yazıldı; bugün yeni olan oranlar ve fon çıkışının resmî dökümü).
+- Kimsenin anlatmadığı taraf: Fondan çıkan para yastık altına ya da dövize değil ağırlıkla TL mevduata döndü (mevduat ~1 trilyon TL arttı). Bireysel takip oranı yüzde 5,5 ile kendi uzun dönem ortalamasının (3,2) 2,3 puan üstünde; rapor bunu "yüksek borçlu, yüksek limitli" kesimde yoğunlaşma diye açıklıyor (endeks24, AA).
+- Kim kazanıyor / kim kaybediyor: Mevduat toplayan bankalar kazandı; para piyasası fonu yöneten portföy şirketleri üç ayda varlıklarının yaklaşık üçte birini kaybetti.
+- İzleyicinin sorusu: Fonlardan çıkan 1,2 trilyon lira nereye gitti?
+- Kaynaklar: https://www.endeks24.com/tcmb-fonlardan-cikan-1-2-trilyon-lira-agirlikla-tl-araclarina-yoneldi · https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-finansal-istikrar-raporu-yayimlandi/4140126 · https://www.forbes.com.tr/para-yatirim/tcmb-finansal-istikrar-raporu-yayimlandi-kredi-buyumesi-yavasladi-fon-cikislari-tl-mevduata-yoneldi
 
-## Gümüş bir günde yüzde 7 yükseldi, altın 3.640 dolarda
-- Kategori: dünya
+## GÜNCELLEME: JPMorgan, Merkez Bankası'ndan faiz indirimini marta erteledi
+- Kategori: güncelleme (sabahki "Merkez Bankası repo ihalelerine ara verdi" konusunun devamı)
 - Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
-- Tarih / yer: 27 Kasım 2026 sabahı, küresel piyasalar
-- Ne oldu: Ons gümüş yüzde 7'ye yakın yükselişle 19 Kasım'dan beri ilk kez 44,50 doların üstünü gördü, sonra 44,30 dolar civarına çekildi. Ons altın yüzde 2 artışla 3.640 dolara çıktı; paladyum yüzde 5'e yakın yükseldi.
+- Tarih / yer: 27 Kasım 2026 14.34 (bloomberght), Türkiye
+- Ne oldu: JPMorgan ekonomisti Fatih Akçelik, TCMB'nin bir hafta vadeli repo ihalelerine ara vermesinin ardından aralık ve ocak için öngördüğü 100'er baz puanlık indirimleri tahminlerinden çıkardı. Banka ilk indirimi martta, repo ihalelerinin yeniden başlamasını şubatta bekliyor.
 - Detaylar ve rakamlar:
-  - Gümüş: yüzde 7'ye yakın artış, gün içi 44,50 dolar üstü, sonra ~44,30 (doğrulandı, cnbce). Bloomberg HT bandı: önce "yüzde 5'ten fazla, 43,7 dolar", sonra "yüzde 7, 44,5 dolar" (doğrulandı).
-  - Altın: ons yüzde 2 artışla 3.640 dolar (doğrulandı, bloomberght bandı). 26 Kasım kapanışında ons ~3.565-3.574 dolar, gram 5.826,37 TL (doğrulandı, bloomberght piyasa özeti).
-  - Bu sabah gram altın: kaynaklarda 5.925-5.943 TL (yalnız arama özeti; çelişkili, Telegram'a yazılmadı). "Haftalık yükseliş yüzde 3'e yakın" (yalnız arama özeti).
-  - Arşiv: ons altın bu hafta 3.469 dolara kadar inmişti (Eylül 2025'ten beri en düşük); rekordan düşüş altında yaklaşık yüzde 33, gümüşte yüzde 62 (18 Kasım arşivi).
-  - Neden: Şükran Günü nedeniyle düşük işlem hacmi; teknoloji hisselerindeki satış baskısının hafiflemesi; dolar rallisinin durması (yalnız arama özeti: bigpara, fxstreet). Fed'in aralıkta faiz artırma olasılığı yüzde 99,4 (yalnız arama özeti; dünkü doğrulanmış rakam yüzde 98).
-  - Diğer piyasalar: Nikkei +yüzde 0,7 (haftalık +2,7, aylık −8,4); Güney Kore +yüzde 2; S&P 500 vadelileri +yüzde 0,8, Nasdaq vadelileri +yüzde 1; WTI petrol +yüzde 2,65 ile 85,9 dolar (doğrulandı, bloomberght). Brent 26 Kasım akşamı ~95,99 dolar (doğrulandı); bu sabah 96,29 dolar (yalnız arama özeti, AP).
-  - Türkiye köprüsü: gram altın 20 Kasım'da 6 bin liranın altına inmişti; TCMB rezervinin üçte ikisinden fazlası altın (Şimşek), yani ons fiyatı rezerv rakamını da oynatıyor.
-- Kimsenin anlatmadığı taraf: Yükseliş, ABD borsalarının kapalı olduğu ve işlemin az olduğu tatil gününde geldi; düşüşü başlatan neden (Fed'in aralıkta faiz artırma beklentisi) değişmedi (kaynak: cnbce, bloomberght, arama özetleri).
-- Kim kazanıyor / kim kaybediyor: Dipte bekleyen altın ve gümüş sahibi kâğıt üzerindeki kaybının bir kısmını geri aldı; TCMB rezervi değerleme yoluyla toparlanır.
-- İzleyicinin sorusu: Altın ve gümüş dipten döndü mü, yoksa bu yalnız tatil günü hareketi mi?
-- Kaynaklar: https://cnbce.com/gumus/gumuste-yukselis-dalgasi-kritik-seviye-yeniden-asildi-h42749 · https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-27-kasim-2026-3795862 · https://bloomberght.com/asya-borsalarinda-istikrarli-gorunum-3795871
+  - Eski tahmin: aralık ve ocakta 100'er baz puan indirim. Yeni tahmin: ikisi de yok; ilk indirim mart (doğrulandı, bloomberght).
+  - Kasım TÜFE tahmini: aylık yüzde 1,1; yıllık yüzde 29,8'den (ekim) yüzde 30,1'e (doğrulandı). Veri 3 Aralık Perşembe 10.00'da.
+  - JPMorgan: TCMB liralaşma hedeflerini sıkılaştırabilir; bu, bankaları daha yüksek TL mevduat faizi vermeye iter (doğrulandı). Somut oran yok.
+  - Politika faizi yüzde 36 (ekimde 37'den indirilmişti; yalnız arama özeti, cnbce); fiilî fonlama maliyeti dün geceden beri ~yüzde 39 (sabah arşivi); TL zorunlu karşılık faizi yüzde 86'dan 90'a (endeks24: "fonlama maliyetinin yüzde 90'ı").
+  - Piyasa (bloomberght şeridi, ~16.00): BIST 100 11.034,65 (+yüzde 2,71; önceki kapanış 10.743,11), dolar 50,7870, euro 55,7392, gram altın 5.988,31 TL (+2,98), ons altın 3.666,42 dolar (+2,79), gümüş 44,00 dolar (+5,90), Brent 96,41 dolar, 2 yıllık tahvil yüzde 42,16, 10 yıllık yüzde 37,69 (doğrulandı; kapanış değil, gün içi).
+  - Gün ortası (13.00): BIST 100 10.945,27 (+yüzde 1,88), gün içi en düşük 10.615,74, en yüksek 10.951,38 (yalnız arama özeti).
+  - bloomberght başlıkları: "TCMB rezervleri 1,5 yılın en düşük seviyesine indi", "Piyasa enflasyonun yeniden yüzde 30'un üzerine çıkmasını bekliyor", "Bloomberg: TL'ye destek için mevduat stopajında indirim gelebilir" (başlık doğrulandı). TCMB sonraki faiz kararı 10 Aralık.
+- Kimsenin anlatmadığı taraf: Faiz kâğıt üzerinde değişmedi ama yabancı bankalar indirim takvimini üç ay öteye attı; aynı gün borsa yüzde 2,7 yükseldi. JPMorgan'a göre adımın hane tarafındaki ilk yansıması mevduat faizinde olabilir (bankanın değerlendirmesi, bloomberght).
+- Kim kazanıyor / kim kaybediyor: TL mevduat sahibi kazanıyor; kredi kullanacak olan ve faiz indirimi bekleyen borçlu kaybediyor.
+- İzleyicinin sorusu: Faiz indirimi neden marta kaldı, kredi ve mevduat faizine ne olacak?
+- Kaynaklar: https://www.bloomberght.com/jpmorgan-tcmb-tahminlerini-degistirdi-3795959 · https://www.cnbce.com/faiz/jpmorgan-tcmb-faiz-tahminini-degistirdi-gozler-subat-2027de-g42797 · https://www.bloomberght.com/
 
-## Şimşek: mevduat stopajı düşürülebilir
-- Kategori: küçük detay
-- Puan: 10/13 (isim 3, cep 3, tazelik 3, boşluk 0, açı 1)
-- Tarih / yer: 26 Kasım 2026, Ankara (ortak basın toplantısı)
-- Ne oldu: Şimşek, TL tasarrufunu teşvik için mevduat stopajının gerekirse düşürülebileceğini, değerlendirmenin TCMB faiz kararlarıyla birlikte yapılacağını ve çalışmanın 2026 sonunda planlandığını söyledi. Gelecek ay mı yeni yılda mı olacağı belli değil.
+## Xiaomi ve Infinix telefonlarına Rekabet Kurumu soruşturması
+- Kategori: ana konu
+- Puan: 10/13 (isim 3, cep 2, tazelik 3, boşluk 1, açı 1)
+- Tarih / yer: 27 Kasım 2026 (memurlar.net 11.40), Ankara
+- Ne oldu: Rekabet Kurulu, ön araştırmanın ardından Xiaomi, Infinix, Güncel Dijital Teknoloji, Evofone Teknoloji ve Mieko Bilgi Teknolojileri hakkında soruşturma açtı. İki iddia inceleniyor: yeniden satıcıların satış fiyatına müdahale ve şirketlerin fiyatı birlikte belirlemesi / rekabete duyarlı bilgi paylaşımı.
 - Detaylar ve rakamlar:
-  - Mevcut stopaj: yüzde 17,5'e kadar; uzun vadelerde yüzde 15 ve 10. DİBS'te stopaj 2026 sonuna kadar sıfır (doğrulandı, bloomberght).
-  - TL'nin toplam mevduattaki payı yüzde 61,8; borsa ve fonlardan çıkan paranın neredeyse tamamı mevduata geçti (doğrulandı, bloomberght).
-  - (hesap) 1.000.000 TL, 32 gün, yıllık yüzde 41,97 mevduat faizi (23 Kasım arşivindeki ortalama): brüt faiz 1.000.000 × 0,4197 × 32 / 365 = 36.796 TL; yüzde 17,5 stopaj = 6.439 TL; net 30.357 TL. Stopaj 2,5 puan inerse (yüzde 15) kesinti 5.519 TL olur, fark 920 TL (varsayım; oran açıklanmadı).
-  - Bütçe maliyeti: "130 milyar TL'ye kadar" ve Şimşek'e atfen "birkaç puan indirim milli gelirin yüzde 0,1'i" (yalnız arama özeti).
-  - Arşiv: 23 Kasım'da TCMB Başkanı Karahan da "faiz ve stopaj adımı gelebilir" demişti; bugünkü yenilik Maliye'nin teyidi ve "yıl sonu" takvimi.
-- Kimsenin anlatmadığı taraf: Merkez Bankası'nın dün geceki sıkılaştırması ile stopaj sinyali aynı hedefe bakıyor: parayı TL mevduatta tutmak (kaynak: aynı gün yapılan iki resmî açıklama).
-- Kim kazanıyor / kim kaybediyor: TL mevduat sahibi kazanır; Hazine vergi gelirinden vazgeçer.
-- İzleyicinin sorusu: Stopaj inerse faizden elime ne kadar fazla geçer?
-- Kaynaklar: https://www.bloomberght.com/cevdet-yilmaz-mehmet-simsek-ve-akin-gurlek-fon-gundemine-dair-aciklamalar-3795781
+  - Beş şirket: Xiaomi, Infinix, Güncel Dijital Teknoloji, Evofone Teknoloji, Mieko Bilgi Teknolojileri (doğrulandı, memurlar.net ve paratic).
+  - Güncel Dijital: cep telefonu, tüketici elektroniği ve küçük ev aletleri ithalatı ve toptan satışı yapıyor (doğrulandı, paratic). Evofone ve Mieko'nun kim olduğu haberlerde yok.
+  - İddia 1: Xiaomi, Infinix ve Güncel Dijital, ürünlerini satan mağazaların tüketiciye satış fiyatına karışıyor mu? İddia 2: beş şirket fiyatı birlikte belirledi ya da hassas bilgi paylaştı mı? (doğrulandı)
+  - Kurumun sosyal medya açıklaması: soruşturma Xiaomi ve Infinix telefonlarında "daha uygun fiyatların ve indirimlerin önünü açabilir" (doğrulandı, memurlar.net). Soruşturma açılması ihlal ya da ceza anlamına gelmiyor (paratic).
+  - Karar sayısı, karar tarihi, olası ceza haberlerde yok; rekabet.gov.tr bu oturumda açılamadı.
+  - Pazar payı (çelişkili, yalnız arama özeti): IDC/Counterpoint'e dayanan haberde Xiaomi satışta yüzde 10 ile üçüncü (Samsung ve Apple'ın ardından); Statcounter 2025'te yüzde 12,39; Technopat (Temmuz 2026) kayıtlı cihazlarda ~yüzde 15'ten 6,93'e düştüğünü yazıyor. Infinix için veri bulunamadı. Metinden önce tek kaynakla netleştirilmeli.
+  - Aynı gün Efsane Cuma (sabah bülteni: indirim öncesi fiyat kuralı 30 günden 10 güne).
+- Kimsenin anlatmadığı taraf: Soruşturma "telefon pahalı" şikâyetine değil, indirimin engellenip engellenmediğine bakıyor: konu, mağazanın etiketi kendi başına düşürüp düşüremediği. Kurumun kendi açıklaması da "indirimlerin önünü açabilir" diyor (memurlar.net).
+- Kim kazanıyor / kim kaybediyor: İhlal bulunursa indirim yapmak isteyen satıcı ve alıcı kazanır; şimdilik sonuç yok.
+- İzleyicinin sorusu: Aynı telefon neden her mağazada aynı fiyata satılıyor?
+- Kaynaklar: https://www.memurlar.net/haber/1185387/cep-telefonu-fiyatlarina-yonelik-sorusturma-5-sirket-mercek-altinda.html · https://paratic.com/rekabet-kurumu-5-sirketi-mercek-altina-aldi-telefon-fiyatlari-inceleniyor/
 
 ## Süren hikâye gelişmeleri (bugün)
-- Tasfiye edilen fonlar, ara ödemeler ve Tera – 11/13: yukarıda ana konu olarak yazıldı. X'te #FonMagdurununStopajiniVER (skor 426, 9 saat), #HemenTumFonlaraTamAnaPara (390, 8 saat), #CevdetYilmazistifaHemen (286, 6 saat), #PPFdeBugunTamOdemeAcikla (284, 6 saat); trends24'te "FonMagdurlari 1AralikTBMMde" (28 bin gönderi) ve #FonSoygunuVatanHainligidir (25 bin): mağdurlar 1 Aralık'ta TBMM önünde toplanmayı duyuruyor (etiketten; ayrıntı araştırılmadı).
-- Fon soruşturması – 9/13 (isim 2, cep 1, tazelik 3, boşluk 2, açı 1): 27 Kasım Resmî Gazete ile BDDK Başkanlığına Yusuf Kenan Bağır, kurul üyeliğine Mahmut Esfa Emek atandı (doğrulandı, AA). Bağır Haziran 2021'den beri TCMB Veri Yönetişimi ve İstatistik Genel Müdürü, Mart 2024'ten beri BKM Yönetim Kurulu Başkanı; Selçuk Üniversitesi iktisat (2003), Syracuse Üniversitesi kamu yönetimi yüksek lisansı (2012) ve iktisat doktorası (2016). Atama, Kavcıoğlu'nun 11 Kasım'daki ayrılığından 16 gün sonra geldi (yalnız arama özeti). Gürlek (26 Kasım): 638 şüpheli, 138 tutuklu, 300 adli kontrol, 49 yakalama kararı; 550 gerçek ve 184 tüzel kişinin mal varlığına el kondu; yurt dışında 13 milyar TL donduruldu; "ana omurga tamamlandı, iddianame yazım aşamasında"; Kavcıoğlu için soruşturma izni henüz başsavcılığa ulaşmadı; Destek Faktoring'den Aytunç Komuva'nın yurt dışındaki 6 milyar TL'sinin bu hafta getirilmesi bekleniyor (doğrulandı, bloomberght). X'te "Yusuf Kenan" bu sabah 3. sırada.
-- Akaryakıtta kademeli ÖTV – 9/13 (isim 3, cep 3, tazelik 2, boşluk 1, açı 0): Cevdet Yılmaz, 2027 planlamasında eşel mobil uygulamasının sürdürülmeyeceğini, bu yıl uygulama için milli gelirin yaklaşık yüzde 0,5-0,6'sı kadar vergiden vazgeçildiğini söyledi (ilk kısım doğrulandı, bloomberght; oran yalnız arama özeti). Benzine 27 Kasım için beklenen 1,53-1,70 TL'lik indirim bu sabah doğrulanamadı: Yeni Asır'ın 27 Kasım listesinde İstanbul Avrupa benzin 68,40, motorin 84,60, LPG 50,70 TL, yani dünle aynı (yalnız arama özeti). Brent 26 Kasım akşamı ~95,99 dolar. 1 Aralık ÖTV artışı: benzin ~+4,16, motorin ~+3,60 TL; kesin rakamın 30 Kasım'da netleşmesi bekleniyor.
+- Fon soruşturması – 8/13 (isim 2, cep 1, tazelik 3, boşluk 1, açı 1): Üçüncü kez gözaltına alınan Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya savcılık ifadesinin ardından serbest bırakıldı; 26 Kasım'da adliyeye sevk edilen 5 şüpheliden 1'i tutuklandı, 3'üne adli kontrol uygulandı (doğrulandı, Cumhuriyet 09.24). Akkaya daha önce konutu terk etmeme ve yurt dışı yasağı altındaydı. KAP: Hun Yenilenebilir Enerji, Yönetim Kurulu Başkanı Orhun Kartal'ın mal varlığındaki tedbirlerin kaldırıldığını bildirdi (yalnız arama özeti, paratic). Şimşek: SPK'nın fon incelemelerinin kasım sonunda bitmesi bekleniyor; bankaların 131 fona doğrudan riski 1,3 milyar TL, reel sektörün 116 milyar TL (yalnız arama özeti). Kaynaklar: https://www.cumhuriyet.com.tr/siyaset/son-dakika-fon-sorusturmasinda-yeni-gelisme-3-kez-gozaltina-alinan-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-serbest-birakildi-2559819 · https://paratic.com/hun-yenilenebilir-enerji-baskani-orhun-kartal-hakkindaki-tedbirler-kaldirildi/
+- Akaryakıtta kademeli ÖTV – 9/13 (isim 3, cep 3, tazelik 2, boşluk 1, açı 0): Pompada değişiklik haberi yok. Brent 09.21'de 97,27 dolar (önceki kapanış 96,57; yalnız arama özeti), ~16.00'da 96,41 dolar (doğrulandı, bloomberght). Suudi Arabistan'da Cazan rafinerisine saldırıda bir işçi öldü, bazı faaliyetler durdu; kasım başından beri Brent yüzde 17,63 düştü (yalnız arama özeti). OPEC+ 29 Kasım Pazar toplanıyor; mevcut kotaları korumayı değerlendiriyor (başlık doğrulandı, bloomberght). 1 Aralık ÖTV beklentisi değişmedi: benzin ~+4,15, motorin ~+3,60 TL (memurlar.net 11.36 başlığı). Kaynaklar: https://www.bloomberght.com/ · https://www.yenisafak.com/ekonomi/brent-petrol-9727-dolardan-islem-goruyor-4877024
+- Tasfiye edilen fonlar, ara ödemeler ve Tera – 8/13 (isim 2, cep 2, tazelik 3, boşluk 1, açı 0): Yeni resmî açıklama yok; ara ödemelerin bugün tamamlanması hedefleniyordu. TCMB raporu: 16 Eylül'de tasfiyeye alınan fonların toplamı 1,04 trilyon TL (doğrulandı, endeks24). X'te #AsrinSoygunuVatanHainligidir (1. sıra, 18,4 bin gönderi; skor 200), #PPFGundemdenDusmeyecek (2. sıra), #DoesMSCIseeHeistVictims (4. sıra), "1Aralikta TBMMye Gidiyoruz" (24,8 bin gönderi), #PPFdeBugunTamOdemeAcikla (skor 237): mağdurlar tam anapara istiyor ve 1 Aralık'ta Meclis önüne çağrı yapıyor (etiketlerden). CHP'li Sarı: 241 kişilik liste açıklansın, Meclis komisyonu kurulsun; "yaklaşık 150 milyar, vatandaşın zaten kendi hesabındaki para" (yalnız arama özeti). Kaynak: https://getdaytrends.com/turkey/
 
 ## Gün içinde not edilen diğer başlıklar (Telegram'a girmedi)
-- Emekli refah payı: resmî rakam yok. Takvim gazetesi "kritik toplantı bugün" ve "taban aylıkta 30 bin TL formülü" yazıyor (yalnız arama özeti, sayfa açılamadı). Yılmaz: seyyanen ve refah payının birlikte mi ayrı mı olacağı teknik çalışmada. Teklifin aralığın ikinci-üçüncü haftasında Meclis'e gelmesi bekleniyor (yalnız arama özeti).
-- Asgari ücret: komisyonun ilk toplantı tarihi hâlâ açıklanmadı; mevcut net 28.075,50 TL (yalnız arama özeti).
-- BIST 100: 26 Kasım'da yüzde 0,82 artışla 10.743,11; gün içi 10.738,61 – 10.916,38, yani kapanış günün en düşüğüne yakın; en çok işlem ASELS, THYAO, YKBNK (doğrulandı, bloomberght). Dünkü öğlen bültenindeki yüzde 2,28'lik tepkinin çoğu kapanışa kadar geri verildi.
-- KAP (26 Kasım): Yapı Kredi Portföy'ün Azimut'a devrine SPK onayı; Enpara Bank'ta yeni yönetim kurulu; Sümer Varlık'a TMSF kayyum (dün yazıldı) (yalnız arama özeti).
-- Dünya başlıkları (bloomberght bandı): CrowdStrike, Zscaler'ı 43,9 milyar dolara satın alıyor; Mosaic Brezilya'daki üç gübre tesisinde üretimi süresiz durdurdu (kükürt tedariki ve maliyet); ABD, Binance'ten çalınan 1,1 milyar dolarlık kriptoyu izliyor; Fitch ABD bankacılık sektörünün 2027 görünümünü düşürdü; Trump Çin'in 250 Boeing daha almasını bekliyor. Türkiye köprüsü zayıf; gübre haberi fiyat verisiyle desteklenirse çiftçi maliyeti açısından izlenebilir.
-- Şimşek: "2027'de yüzde 3 büyüme mütevazı ama bu koşullarda iyi"; 2027 enflasyon hedefi yüzde 21; esnaf faiz sübvansiyonu bütçesi yüzde 79 artırıldı (doğrulandı, bloomberght).
-- X'te "TurkHalki Fakirlestiriliyor" (32 bin gönderi) ve #SınıfınHakkıAslanPayı (skor 278, 6 saat): nedeni araştırılmadı.
+- Emekli zammı: Bugün Beştepe'de Cevdet Yılmaz başkanlığında toplantı (saat yok). Kulis (Dünya gazetesi kaynaklı, memurlar.net ve Cumhuriyet 12.15): en düşük aylığın ~30 bin TL'ye çıkarılması, herkese refah payı, prim gün sayısına göre kademeli zam "en güçlü seçenek"; 2027 bütçesinde emekliler için 700-800 milyar TL; ~2,3 milyon çalışan emekli; çalışan / çalışmayan ayrımı rafa kalktı; bütçe Genel Kurul görüşmeleri 7-20 Aralık (doğrulandı, kulis niteliğinde). Toplantı sonucu bülten saatinde yok. memurlar.net 16.01: "yaş ve prim gün sayısı da hesaba katılabilir". X'te #EmekliDardaCüzdanBoş sabah saatlerinde listede.
+- TÜİK ekonomik güven endeksi kasımda 97,3'ten 98,4'e; tüketici güveni 86,8; inşaat 80,2 (−yüzde 3,8, tek düşen sektör); Kasım 2025'te 99,3 (yalnız arama özeti, birden çok kaynak; memurlar.net 10.30 başlığı doğrulandı).
+- Altın ve gümüş: sabahki toparlanma sürüyor; ons 3.666 dolar, gümüş 44,00 dolar, gram 5.988 TL (doğrulandı, bloomberght şeridi). ABD vadelileri: S&P 500 +yüzde 1,7, Nasdaq 100 +yüzde 2,4 (yalnız arama özeti).
+- Nersan Holding konkordato başvurusu (yalnız bloomberght başlığı; ayrıntı bulunamadı).
+- İkitelli sanayi sitesinde dükkânların yarısı boş, kiralar yüzde 30 düştü (yalnız arama özeti, ekonomigazetesi; tek bölge kaynağı).
+- Resmî Gazete: Türkiye, Pakistan ve Suudi Arabistan arasındaki "Ortak Savunma İçin Mekke Anlaşması"nın onayı (yalnız arama özeti).
+- X'te #YaKademeYaistifa (skor 227, 5 saat): nedeni bulunamadı.
 
 ## Video adayları (yalnız arşivde, Telegram'a gitmez)
-1. Gecikme zammı ve tecil faizi (12/13)
+1. Gecikme zammı ve tecil faizi (12/13, sabahtan; hâlâ günün en iyisi)
    - Başlık taslağı: Devlete borcun varsa bugün ne değişti?
    - İlk cümle taslağı: Vergi ya da ceza borcunu geciktirene işleyen faiz bu sabah aylık yüzde 3,7'den 3,2'ye, taksitlendirene uygulanan faiz yüzde 39'dan 29'a indi.
-   - Neden bugün: Karar bu sabah Resmî Gazete'de; emlak vergisinde son gün pazartesi; rakipler işlemedi.
-   - Takip değeri: Yüksek. İzleyici gecikme zammı ile tecil faizinin farkını ve hangisinin ne zaman işlediğini öğreniyor; doğrudan işe yarar bilgi.
-2. Efsane Cuma ve 10 gün kuralı (11/13)
-   - Başlık taslağı: Efsane Cuma'da "eski fiyat" gerçekten eski mi?
-   - İlk cümle taslağı: Etiketteki üstü çizili fiyat geçen yıl son 30 günün en düşüğü olmak zorundaydı; bu yıl yalnız son 10 günün.
-   - Neden bugün: İndirim günü bugün, kampanyalar hafta sonu ve 2 Aralık'a kadar sürüyor. Metinden önce kural resmî metinden (Ticaret Bakanlığı / Resmî Gazete) doğrulanmalı; bu oturumda yalnız arama özetleri var.
-   - Takip değeri: Yüksek. İzleyici etiketi nasıl okuyacağını öğreniyor; yalnız merak değil.
-3. Merkez Bankası'nın örtülü sıkılaştırması (11/13)
+   - Neden bugün: Karar bu sabah Resmî Gazete'de; emlak vergisinde son gün pazartesi; rakipler gün boyunca işlemedi.
+   - Takip değeri: Yüksek. İzleyici gecikme zammı ile tecil faizinin farkını öğreniyor; doğrudan işe yarar.
+2. Fonlardan çıkan 1,2 trilyon lira (11/13)
+   - Başlık taslağı: Fonlardan çıkan 1,2 trilyon lira nereye gitti?
+   - İlk cümle taslağı: Eylülden beri yatırım fonlarından 1,2 trilyon lira çıktı; Merkez Bankası bu sabah paranın nereye gittiğini yazdı.
+   - Neden bugün: Rapor bu sabah yayımlandı; fon hikâyesi iki aydır gündemde ama "para nereye gitti" sorusunun resmî cevabı ilk kez geldi. Kanalda 24 Kasım'da "Bankaya yatırdığın 500 bin lira kasada değilse nerede?" işlendi; bu kez olgu farklı (fondan mevduata göç).
+   - Takip değeri: Yüksek. Para piyasası fonu ile mevduat farkını ve paniğin izini rakamla öğretiyor.
+3. Faiz indirimi marta kaldı (10/13; sabahki "Merkez Bankası faizi artırmadan nasıl artırdı?" adayının güncellenmiş hâli)
    - Başlık taslağı: Merkez Bankası faizi artırmadan nasıl artırdı?
-   - İlk cümle taslağı: Faiz kâğıt üzerinde yüzde 36, ama dün geceden beri bankalar Merkez Bankası'ndan yüzde 39'la borçlanıyor.
-   - Neden bugün: Karar dün gece çıktı; rezerv ve dolar gündemi sıcak (rakip videosu 110 bin). Kanalda rezerv konusu yakın zamanda işlendi; bu kez soru "faiz koridoru nasıl çalışır".
-   - Takip değeri: Orta-yüksek. Politika faizi ile fiili fonlama maliyeti farkını öğretiyor; soyut kalmaması için kredi / mevduat örneği şart.
-- Dünya adayı – Gümüş ve altın (10/13)
-   - Başlık taslağı: Gümüş bir günde yüzde 7 arttı: dipten dönüş mü?
-   - İlk cümle taslağı: Rekorundan yüzde 62 düşen gümüş bu sabah bir günde yüzde 7 yükseldi, ama Amerika'da borsalar kapalıydı.
-   - Neden bugün: Hareket bu sabah; ABD piyasaları bugün yarım gün açılınca teyit ya da geri dönüş görülecek. Fiyat tahmini içermemeli. Dikkat: kanalda 20 ve 24 Kasım'da altın videoları var; yeni olgu gümüş ve "ince piyasa".
-   - Takip değeri: Orta. "Düşük hacimli günde fiyat hareketi" kavramını öğretiyor.
-- Fon ödemeleri (11/13): "Paranın tamamı ödendi deniyor, mağdurlar neden hâlâ sokakta?" sorusu güçlü; enflasyon farkı ve 10.680 kişi olgusu dün akşam çıktı. Takip değeri: Orta-yüksek (net yatırım tutarı kavramı).
-- Yedek: haber şart değil – "Türk Hava Yolları neden bu kadar çok ülkeye uçuyor?" (tanıdık isim; kanalda son 30 günde işlenmedi). Takip değeri: Orta; aktarma merkezi ekonomisini öğretir. Rakamlar metin aşamasında doğrulanmalı.
+   - İlk cümle taslağı: Faiz kâğıt üzerinde yüzde 36, ama bankalar iki gündür yüzde 39'la borçlanıyor ve JPMorgan indirimi marta erteledi.
+   - Neden bugün: JPMorgan notu bugün 14.34'te çıktı; 3 Aralık enflasyon ve 10 Aralık faiz kararı öncesi sıcak.
+   - Takip değeri: Orta-yüksek. Politika faizi ile fiilî fonlama maliyeti farkını öğretiyor; kredi / mevduat örneği şart.
+- Dünya / emtia adayı – Doğal gaz anlaşmaları (11/13)
+   - Başlık taslağı: Rusya'yla gaz anlaşması uzadı: fatura ne olacak?
+   - İlk cümle taslağı: Türkiye bugün Rusya'yla gaz sözleşmesini 3 yıl, İran'la 2032'ye kadar uzattı; ikisinde de fiyat açıklanmadı.
+   - Neden bugün: İki haber de bugün çıktı; kış başlıyor; rakipler işlemedi. Metinden önce yıllık miktarlar ve Rusya / İran payları EPDK raporundan doğrulanmalı.
+   - Takip değeri: Orta-yüksek. Evdeki gazın hangi ülkeden geldiğini ve faturanın neye bağlı olduğunu öğretir; fiyat bilinmediği için tahmine kaçmamalı.
+- Xiaomi / Infinix soruşturması (10/13): "Aynı telefon neden her mağazada aynı fiyat?" sorusu güçlü ama pazar payı ve ceza rakamı eksik. Takip değeri: Orta-yüksek ("yeniden satış fiyatının belirlenmesi" kavramını öğretir).
+- Yedek: haber şart değil – "Türk Hava Yolları neden bu kadar çok ülkeye uçuyor?" (sabahki yedek; kanalda son 30 günde işlenmedi). Takip değeri: Orta. Rakamlar metin aşamasında doğrulanmalı.
 
 ## Rakip radarı
-Son 48 saat (25 Kasım 08.55 TSİ sonrası; RSS saatine 3 saat eklendi):
-- Abdulkadir Genç – 26 Kasım 20.50 – Türkiye neden daha çok zeytinyağı üretip Yunanistan'dan daha az kazanıyor? – 360.735 (x2 yükleme; diğeri 16.799)
-- Melda Yücel Kocaalp – 27 Kasım 00.57 – YÜKSEK PRİME YÜKSEK ZAM VAR MI? * CANLI YAYINDA SORUN * KİM NE KADAR ZAM ALACAK? İŞTE YENİ MAAŞLAR! – 0 (sayı henüz yansımamış)
-- Melda Yücel Kocaalp – 25 Kasım 19.22 – REZERV ERİDİ! GOLDMAN UYARDI! FAİZ İNDİRİMİ HAYAL Mİ? DEV BANKADAN ALTINDA KORKUTAN TAHMİN?! – 110.497
-- Yatırım 101 – 26 Kasım 11.01 – Her Geçen Gün Fakirleşiyoruz! – 17.157
-- BİZ – 26 Kasım 17.15 – 1982'de en büyük banker bir sabah kayboldu. Yüz binlerce kişinin parası da. – 785
-- BİZ – 25 Kasım 17.15 – Kombiyi çok açmıyorsun ama faturan komşundan fazla: neden? – 2.663
-Abdulkadir Genç haber kancası olmayan tanıdık ürün sorusuyla (zeytinyağı) bir gecede 360 bin aldı; Melda Yücel Kocaalp emekli zammı ve rezerv gündeminde. Bugünkü Resmî Gazete kararı (gecikme zammı), Efsane Cuma'daki 10 gün kuralı, Merkez Bankası'nın dün geceki adımı ve dünkü fon toplantısının rakamları dört kanalda da boş. Bizim tarihî konu (1982 bankeri) 785'te kaldı: zamansız konunun düşük izlendiği verisiyle uyumlu.
+Bugün (27 Kasım; RSS saatine 3 saat eklendi) ve sabahki videoların güncel izlenmesi, 16.02 TSİ çekimi:
+- Melda Yücel Kocaalp – 27 Kasım 14.38 – YÜKSEK PRİME YÜKSEK ZAM MI? VATANDAŞLIK MAAŞI? 2027'DE KİM NE KADAR ZAM ALACAK? İŞTE YENİ MAAŞLAR! – 3.007 (sabah 00.57 saatli canlı yayın kaydıyla aynı konu; RSS'te artık tek kayıt)
+- Melda Yücel Kocaalp – 27 Kasım 12.42 – Dolar hangi ay 60 TL olabilir? Alman CommerzBank raporladı – 2.789
+- Abdulkadir Genç – 26 Kasım 20.50 – Türkiye neden daha çok zeytinyağı üretip Yunanistan'dan daha az kazanıyor? – 789.492 (x2 yükleme; diğeri 32.793). Sabah 360.735'ti: yedi saatte iki katından fazla.
+- Yatırım 101 – 26 Kasım 11.01 – Her Geçen Gün Fakirleşiyoruz! – 18.617 (sabah 17.157); bugün yeni video yok
+- Melda Yücel Kocaalp – 25 Kasım 19.22 – REZERV ERİDİ! GOLDMAN UYARDI! ... – 114.636 (sabah 110.497)
+- BİZ – 27 Kasım 12.00 – Maaş açlık sınırının altında, kafeler neden dolu? Üç gizli cüzdan – 1.025
+- BİZ – 26 Kasım 17.15 – 1982'de en büyük banker bir sabah kayboldu... – 899 (sabah 785)
+- BİZ – 25 Kasım 17.15 – Kombiyi çok açmıyorsun ama faturan komşundan fazla: neden? – 2.705
+Bugün yalnız Melda Yücel Kocaalp yükledi: emekli zammı senaryoları ve dolar tahmini. Doğal gaz anlaşmaları, Finansal İstikrar Raporu'ndaki 1,2 trilyon liralık fon çıkışı, JPMorgan'ın faiz takvimi, telefon soruşturması ve sabahki gecikme zammı kararı dört kanalda da boş. Abdulkadir Genç'in haber kancası olmayan "tanıdık ürün + neden" videosu bir günde 789 bine çıktı.
 
-## Takvim
-- Bugün 10.00 – TÜİK kasım ekonomik güven endeksi
-- Bugün 10.30 – TCMB Finansal İstikrar Raporu (yılın ikincisi)
-- Bugün 11.00 – Cevdet Yılmaz TBMM Plan ve Bütçe Komisyonu'nda 2027 bütçe sunuşu (komisyon görüşmelerinin son günü)
-- Bugün – Hedef Portföy'ün üç fonunda ödeme (olağan tasfiye ödemeleri bitiyor); 1 milyon TL'ye kadar ara ödemelerin son kısmı; Efsane Cuma; ABD borsaları yarım gün açık
-- 29 Kasım Pazar – OPEC+ toplantısı (2027 üretim politikası)
-- 30 Kasım Pazartesi – Emlak vergisi ikinci taksitinde son gün (yalnız arama özeti, birden çok kaynak); 1 Aralık ÖTV rakamlarının kesinleşmesi bekleniyor; Ford Otosan temettü ödemesi; Cevdet Yılmaz reel sektör konfederasyonlarıyla görüşecek (yalnız arama özeti)
-- 1 Aralık Salı – Akaryakıtta ÖTV artışı (benzin ~+4,16, motorin ~+3,60 TL); kredi kartı azami faizinde indirim yürürlükte (referans oran yüzde 3,11 → 2,94, arşiv); fon mağdurlarının TBMM önü çağrısı (X etiketi)
-- 2 Aralık Çarşamba – Trendyol kampanyasının son günü (yalnız arama özeti)
-- 3 Aralık Perşembe 10.00 – Kasım enflasyonu
-- 7 günün dışında: 8-9 Aralık Fed toplantısı · 10 Aralık TCMB faiz kararı (politika faizi yüzde 36) · aralık içinde Asgari Ücret Tespit Komisyonu (tarih yok)
-- Açıklanınca bakılacak rakamlar (3 Aralık, kasım enflasyonu): ekim aylık yüzde 2,58, yıllık yüzde 29,77; geçen yılın kasım ayı aylık yüzde 0,87 (baz etkisi yıllığı yukarı itebilir); beklenti aylık yüzde 1,10, yıllık yüzde 30,07 (Matriks medyanı), TCMB Piyasa Katılımcıları Anketi aylık yüzde 1,09, ForInvest yıllık yüzde 29,95; yıl sonu beklentisi yüzde 30 (hepsi yalnız arama özeti). Bu rakama bağlı ödemeler: aralık ayı kira artış tavanı (12 aylık ortalama TÜFE), memur ve emekli ocak zammının beş aylık birikimi, 2027 asgari ücret pazarlığı, 10 Aralık faiz kararı.
+## Bu akşam
+- 21.00 – ABD borsalarında yarım günlük seans kapanıyor (Şükran Günü sonrası ilk işlem günü)
+- 18.10 – Borsa İstanbul kapanışı (gün içi +yüzde 2,7; kapanış rakamı yarın sabah bültenine)
+- Saat açıklanmadı – Beştepe'deki emekli zammı toplantısının sonucu (resmî rakam yok)
+- 29 Kasım Pazar – OPEC+ toplantısı · 30 Kasım Pazartesi – emlak vergisi ikinci taksitinde son gün · 1 Aralık Salı – akaryakıtta ÖTV artışı, kredi kartı azami faizinde indirim, fon mağdurlarının TBMM çağrısı · 3 Aralık Perşembe 10.00 – kasım enflasyonu
